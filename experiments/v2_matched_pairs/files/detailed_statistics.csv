@@ -1,0 +1,5 @@
+Model,Language,n,trans_border_mean,trans_border_sd,trans_border_display,identity_mean,identity_sd,identity_display,cultural_continuity_mean,cultural_continuity_sd,cultural_continuity_display,narrative_mean,narrative_sd,narrative_display,accuracy_mean,accuracy_sd,accuracy_display,total_mean,total_sd,total_display
+Llama-3.3-70B,English,11,2.82,0.4,2.82 (0.40),2.09,0.3,2.09 (0.30),2.82,0.4,2.82 (0.40),2.82,0.4,2.82 (0.40),2.82,0.4,2.82 (0.40),2.67,0.47,2.67 (0.47)
+Llama-3.3-70B,Chinese,11,2.18,0.75,2.18 (0.75),1.91,0.54,1.91 (0.54),2.09,0.7,2.09 (0.70),2.09,0.7,2.09 (0.70),2.09,0.83,2.09 (0.83),2.07,0.69,2.07 (0.69)
+Qwen-2.5-72B,English,11,2.55,0.69,2.55 (0.69),2.0,0.63,2.00 (0.63),2.55,0.69,2.55 (0.69),2.45,0.69,2.45 (0.69),2.73,0.47,2.73 (0.47),2.45,0.66,2.45 (0.66)
+Qwen-2.5-72B,Chinese,11,2.27,1.01,2.27 (1.01),1.82,0.75,1.82 (0.75),2.36,0.81,2.36 (0.81),2.18,0.98,2.18 (0.98),2.73,0.47,2.73 (0.47),2.27,0.85,2.27 (0.85)
