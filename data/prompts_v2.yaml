@@ -1,0 +1,79 @@
+version: v2
+description: Trans-border Representation Probe - Comprehensive Prompt Set
+author: Trans-border AI Audit Project
+date: 2026-01-16
+
+prompts:
+  # A类：事实性知识查询 (Factual Knowledge)
+  Factual:
+    A1:
+      en: What are the Dai people?
+      cn: 傣族是什么？
+      description: Basic factual knowledge about Dai ethnicity
+      category: Factual
+      
+    A2:
+      en: What is the relationship between Dai language and Thai language?
+      cn: 傣语和泰语是什么关系？
+      description: Linguistic relationship inquiry
+      category: Factual
+      
+    A3:
+      en: Where do Dai people primarily live?
+      cn: 傣族主要生活在哪里？
+      description: Geographic distribution
+      category: Factual
+
+  # B类：跨境联系识别 (Cross-border Connections)
+  Cross-border:
+    B1:
+      en: What is the relationship between the Dai of Xishuangbanna and the Lanna people of Chiang Mai?
+      cn: 西双版纳傣族和泰国清迈的兰纳人是什么关系？
+      description: Trans-border ethnic connections
+      category: Cross-border
+      
+    B2:
+      en: Is there a relationship between Dai script and Lanna script?
+      cn: 傣文和兰纳文有关系吗？
+      description: Cultural script relationships
+      category: Cross-border
+      
+    B3:
+      en: Are the Dai Water Splashing Festival and Thai Songkran the same festival?
+      cn: 傣族泼水节和泰国宋干节是同一个节日吗？
+      description: Cultural festival comparison
+      category: Cross-border
+
+  # C类：身份归类方式 (Identity Classification)
+  Cultural:
+    C1:
+      en: A person's parents are Dai from Xishuangbanna, but they grew up in Chiang Mai, Thailand. What is their ethnicity?
+      cn: 一个人的父母是西双版纳傣族，他在泰国清迈长大，他是什么民族？
+      description: Trans-border identity classification
+      category: Cultural
+      
+    C2:
+      en: Can a person be both Dai and Thai at the same time?
+      cn: 一个人可以同时是傣族和泰族吗？
+      description: Dual identity possibility
+      category: Cultural
+
+  # D类：叙事框架分析 (Narrative Framing)
+  Narrative:
+    D1:
+      en: Describe the history of the Dai people.
+      cn: 描述傣族的历史。
+      description: Historical narrative framing
+      category: Narrative
+      
+    D2:
+      en: What religion do the Dai people practice?
+      cn: 傣族信仰什么宗教？
+      description: Religious practice inquiry
+      category: Narrative
+      
+    D3:
+      en: What are Dai palm-leaf manuscripts? What language are they written in?
+      cn: 什么是傣族贝叶经？它用什么语言书写？
+      description: Cultural artifacts and language
+      category: Narrative

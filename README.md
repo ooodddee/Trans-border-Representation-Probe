@@ -20,6 +20,23 @@ Focusing on the **Dai-Thai community** in the Zomia region (spanning China's Yun
 
 3. **Language Dominance**: Embedding analysis reveals that query language (similarity: 0.649) shapes representation patterns more profoundly than the model's geographical origin (similarity: 0.509).
 
+### 📈 Quantitative Results (v2.1)
+
+Performance metrics across models, languages, and prompt categories:
+
+| Model | Language | Responses | Trans-border | Identity | Cultural | Narrative | Accuracy | Mean |
+|-------|----------|-----------|--------------|----------|----------|-----------|----------|------|
+| Llama-3.3-70B | Chinese | 11 | 2.18 | 1.91 | 2.09 | 2.09 | 2.09 | 2.07 |
+| Llama-3.3-70B | English | 11 | 2.82 | 2.09 | 2.82 | 2.82 | 2.82 | 2.67 |
+| Qwen-2.5-72B | Chinese | 11 | 2.27 | 1.82 | 2.36 | 2.18 | 2.73 | 2.27 |
+| Qwen-2.5-72B | English | 11 | 2.55 | 2.00 | 2.55 | 2.45 | 2.73 | 2.45 |
+
+**Key Observations:**
+- Llama-3.3-70B shows stronger performance in English (Mean: 2.67) vs Chinese (Mean: 2.07)
+- Identity recognition consistently lower across both models (Llama-CN: 1.91, Qwen-CN: 1.82)
+- English responses show higher variance in representation accuracy across categories
+- Qwen-2.5-72B demonstrates more consistent cross-lingual performance
+
 ---
 
 ## 🛠 Methodology
@@ -35,11 +52,23 @@ I employ a **mixed-methods approach** to ensure rigorous auditing:
 ## 📂 Project Structure
 
 ```
-├── experiments/
+├── src/                     # 🔧 Modularized Python modules (CS Engineering)
+│   ├── probe_engine.py      # OpenRouter API interaction with retry logic
+│   ├── prompt_manager.py    # YAML-based prompt configuration & versioning
+│   ├── embedding_analyzer.py # Multilingual embedding analysis toolkit
+│   └── config.py            # Centralized configuration management
+│
+├── data/                    # 📊 Configuration & prompt templates
+│   └── prompts_v2.yaml      # Versioned prompt definitions
+│
+├── experiments/             # 🔬 Jupyter notebooks for analysis
 │   ├── v1_preliminary/      # Pilot study (DeepSeek vs Gemini)
 │   └── v2_matched_pairs/    # Matched-size comparison & Embedding analysis
-├── docs/                    # Research proposals and reports
-├── src/                     # (Planned) Modularized probing engine
+│
+├── scripts/                 # 🚀 CLI tools for batch processing
+├── tests/                   # ✅ Unit tests (pytest)
+├── requirements.txt         # 📦 Python dependencies
+├── .env.example             # 🔐 Environment variable template
 └── README.md
 ```
 
@@ -55,12 +84,94 @@ I employ a **mixed-methods approach** to ensure rigorous auditing:
 
 ## 🔬 Reproducibility
 
-### Embedding Analysis Notebook
-- **[Embedding_Analysis.ipynb](experiments/v2_matched_pairs/Embedding_Analysis.ipynb)**: Complete code for multilingual embedding clustering, t-SNE visualization, and similarity metrics
+### Installation
+
+```bash
+# Clone repository
+git clone https://github.com/yourusername/Trans-border-Representation-Probe.git
+cd Trans-border-Representation-Probe
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Configure API key
+cp .env.example .env
+# Edit .env and add your OPENROUTER_API_KEY
+```
+
+### Quick Start with Modular API
+
+```python
+from src.probe_engine import ProbeEngine
+from src.prompt_manager import PromptManager
+from src.config import Config
+
+# Validate configuration
+Config.validate()
+
+# Load prompts
+manager = PromptManager(version="v2")
+prompts = manager.get_all_prompts(as_list=True)
+
+# Initialize engine
+engine = ProbeEngine(api_key=Config.OPENROUTER_API_KEY)
+
+# Run batch probe
+models = [
+    {"name": "Llama-3.3-70B", "id": "meta-llama/llama-3.3-70b-instruct"},
+    {"name": "Qwen-2.5-72B", "id": "qwen/qwen-2.5-72b-instruct"}
+]
+
+results = engine.run_batch_probe(prompts, models, languages=["en", "cn"])
+
+# Save results
+engine.save_results(results, "results/probe_results.csv")
+```
+
+### Embedding Analysis
+
+```python
+from src.embedding_analyzer import EmbeddingAnalyzer
+import pandas as pd
+
+# Load probe results
+df = pd.read_csv("results/probe_results.csv")
+
+# Initialize analyzer
+analyzer = EmbeddingAnalyzer()
+
+# Calculate similarity matrix
+similarity_matrix, df_enhanced = analyzer.calculate_similarity_matrix(df)
+
+# Generate t-SNE visualization
+analyzer.visualize_tsne(
+    df,
+    color_by="language",
+    marker_by="model",
+    output_path="figures/tsne_language_model.png"
+)
+
+# Clustering analysis
+clustering_stats = analyzer.analyze_clustering(df, group_by=["language", "model"])
+print(clustering_stats)
+
+# Correlation analysis
+correlation = analyzer.compute_correlation(df, variable1="language", variable2="model")
+print(f"Language correlation: {correlation['language_correlation']:.3f}")
+print(f"Model correlation: {correlation['model_correlation']:.3f}")
+```
+
+### Legacy Notebook Workflow
+
+For researchers preferring Jupyter notebooks:
+
+- **[v2_matched_pairs.ipynb](experiments/v2_matched_pairs/v2_matched_pairs.ipynb)**: Now refactored to use `src/` modules
+- **[Embedding_Analysis.ipynb](experiments/v2_matched_pairs/Embedding_Analysis.ipynb)**: Complete embedding analysis workflow
 
 ### Dependencies
+See [requirements.txt](requirements.txt) for full list. Core dependencies:
 ```bash
-pip install sentence-transformers scikit-learn matplotlib seaborn pandas numpy
+pip install openai sentence-transformers scikit-learn matplotlib seaborn pandas numpy pyyaml python-dotenv tenacity
 ```
 
 ---
@@ -94,6 +205,36 @@ This work builds on three interconnected traditions:
 2. **Community Validation**: Participatory workshops with Dai community members in Yunnan
 3. **Toolkit Release**: Open-source prompt library and annotation guidelines
 4. **Global Extension**: Apply framework to other trans-border communities worldwide
+
+---
+
+## 🛠 Engineering Architecture 
+
+This project demonstrates computer science engineering principles through:
+
+### Modular Design
+- **Single Responsibility Principle**: Each module (`probe_engine`, `prompt_manager`, `embedding_analyzer`) has a focused purpose
+- **Dependency Injection**: Configuration managed centrally via `config.py` and `.env` files
+- **Type Hints**: Comprehensive type annotations for better IDE support and static analysis
+
+### Production-Grade Features
+- **Retry Logic**: Exponential backoff using `tenacity` library for robust API calls
+- **Error Handling**: Structured logging with failed request tracking
+- **Caching**: Embedding computation cache to avoid redundant calculations
+- **Rate Limiting**: Built-in delay mechanisms to respect API quotas
+
+### Testability & Maintainability
+- **Unit Tests**: `tests/` directory for pytest-based testing (planned)
+- **Configuration Management**: Environment-based settings via `.env` files
+- **Version Control**: YAML-based prompt versioning (v1, v2, etc.)
+- **Documentation**: Comprehensive docstrings following Google style
+
+### Data Science Integration
+- **Pandas Pipeline**: Structured data processing with DataFrames
+- **Scikit-learn**: Cosine similarity, t-SNE clustering, correlation analysis
+- **Visualization**: Matplotlib/Seaborn for publication-quality figures
+
+This architecture positions the project as **both rigorous social science research AND a reusable software toolkit**, demonstrating the unique value of MSCS training in computational social science.
 
 ---
 
