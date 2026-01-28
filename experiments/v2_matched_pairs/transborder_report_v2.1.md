@@ -29,7 +29,6 @@ Existing AI fairness research predominantly examines biases along gender, race, 
 The Dai-Thai community exemplifies this blind spot. Numbering over 20 million across China, Thailand, Myanmar, Laos, and Vietnam, they share linguistic roots, religious practices (Theravada Buddhism), and cultural traditions (e.g., the Water Splashing Festival / Songkran). Yet nation-state frameworks classify them as distinct ethnic groups: "Dai" (傣族) in China, "Thai" in Thailand, "Shan" in Myanmar.
 
 **Research Questions:**
-
 - RQ1: Do LLMs force fluid trans-border identities into fixed national categories?
 - RQ2: How does query language affect trans-border representation?
 - RQ3: Does language or model origin more strongly shape representation patterns?
@@ -68,18 +67,16 @@ Full prompt list and coding rubric available at: [github.com/ooodddee/Trans-bord
 
 **Table 1: Average Scores by Model and Language**
 
-| Model         | Language | Trans-border | Identity    | Cultural    | Narrative   | Accuracy    | **Mean** |
-| ------------- | -------- | ------------ | ----------- | ----------- | ----------- | ----------- | -------- |
-| Llama-3.3-70B | English  | 2.82 (0.40)  | 2.09 (0.30) | 2.82 (0.40) | 2.82 (0.40) | 2.82 (0.40) | **2.67** |
-| Llama-3.3-70B | Chinese  | 2.18 (0.75)  | 1.91 (0.54) | 2.09 (0.70) | 2.09 (0.70) | 2.09 (0.83) | **2.07** |
-| Qwen-2.5-72B  | English  | 2.55 (0.69)  | 2.00 (0.63) | 2.55 (0.69) | 2.45 (0.69) | 2.73 (0.47) | **2.45** |
-| Qwen-2.5-72B  | Chinese  | 2.27 (1.01)  | 1.82 (0.75) | 2.36 (0.81) | 2.18 (0.98) | 2.73 (0.47) | **2.27** |
+| Model | Language | Trans-border | Identity | Cultural | Narrative | Accuracy | **Mean** |
+|-------|----------|--------------|----------|----------|-----------|----------|----------|
+| Llama-3.3-70B | English | 2.82 (0.40) | 2.09 (0.30) | 2.82 (0.40) | 2.82 (0.40) | 2.82 (0.40) | **2.67** |
+| Llama-3.3-70B | Chinese | 2.18 (0.75) | 1.91 (0.54) | 2.09 (0.70) | 2.09 (0.70) | 2.09 (0.83) | **2.07** |
+| Qwen-2.5-72B | English | 2.55 (0.69) | 2.00 (0.63) | 2.55 (0.69) | 2.45 (0.69) | 2.73 (0.47) | **2.45** |
+| Qwen-2.5-72B | Chinese | 2.27 (1.01) | 1.82 (0.75) | 2.36 (0.81) | 2.18 (0.98) | 2.73 (0.47) | **2.27** |
 
-_Scale: 1 = Poor, 2 = Partial, 3 = Good. Standard deviations in parentheses._
+*Scale: 1 = Poor, 2 = Partial, 3 = Good. Standard deviations in parentheses.*
 
 The identity dimension shows universally low scores (range: 1.82–2.09), confirming **identity ossification** as a systematic pattern independent of model origin or query language.
-
-![Heatmap of Average Scores - Overall Performance Across Models and Languages](graph/Heatmap%20of%20Average%20Scores.png)
 
 ### 4.2 Finding: Symbolic Annihilation Across Languages
 
@@ -87,10 +84,10 @@ Beyond inconsistency, I identify **symbolic annihilation**—where trans-border 
 
 **Case Study: Qwen-2.5-72B on "Where do Dai people primarily live?"**
 
-| Language    | Response                                                                                                                                    | Score        |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| **Chinese** | "主要聚居在中国云南省...少数分布在**缅甸、老挝、泰国、柬埔寨、越南**等东南亚国家"                                                           | 3 (Complete) |
-| **English** | "primarily live in the southwestern part of China, mainly in Yunnan Province... one of the 56 officially recognized ethnic groups in China" | 1 (Erased)   |
+| Language | Response | Score |
+|----------|----------|-------|
+| **Chinese** | "主要聚居在中国云南省...少数分布在**缅甸、老挝、泰国、柬埔寨、越南**等东南亚国家" | 3 (Complete) |
+| **English** | "primarily live in the southwestern part of China, mainly in Yunnan Province... one of the 56 officially recognized ethnic groups in China" | 1 (Erased) |
 
 The same model provides complete trans-border information in Chinese but **entirely omits Southeast Asian distribution in English**. This constitutes symbolic annihilation through omission, rendering the transnational community invisible to English-language users.
 
@@ -100,10 +97,10 @@ Embedding analysis reveals that **query language clusters responses more strongl
 
 **Table 2: Embedding Similarity Analysis**
 
-| Comparison Type                | Cosine Similarity |
-| ------------------------------ | ----------------- |
-| Same Language, Different Model | **0.649**         |
-| Same Model, Different Language | 0.509             |
+| Comparison Type | Cosine Similarity |
+|-----------------|-------------------|
+| Same Language, Different Model | **0.649** |
+| Same Model, Different Language | 0.509 |
 
 Responses in the same language (regardless of model) are significantly more similar than responses from the same model across languages. This finding suggests that query language fundamentally restructures how LLMs represent trans-border communities, independent of the model's geopolitical origin.
 
@@ -117,35 +114,7 @@ Responses in the same language (regardless of model) are significantly more simi
 
 The findings reveal a systematic blind spot in LLM representation: **identity ossification**. When queried about communities with fluid, trans-border identities, models default to nation-state frameworks, forcing classification into single national categories. This pattern persists across model origins (US vs. China) and represents a form of algorithmic nationalism embedded in training data organization.
 
-![Radar Chart - Identity as Universal Blind Spot](graph/Radar%20Chart%20-%20Model%20Comparison.png)
-
-![Language Gap Analysis - Llama's Cross-Lingual Inconsistency](graph/Language%20Gap%20Analysis.png)
-
-![Grouped Bar Chart - Model Performance by Language](graph/Grouped%20Bar%20Chart%20-%20Language%20Comparison.png)
-
-These visualizations demonstrate the stark contrast: Llama-3.3-70B exhibits a substantial gap between its English performance (M=2.67) and Chinese performance (M=2.07), suggesting that English fine-tuning optimizations do not transfer to Chinese. In contrast, Qwen-2.5-72B maintains more consistency across languages (English M=2.45, Chinese M=2.27), reflecting its native-language optimization for Chinese. This interaction pattern—where model origin and query language jointly shape output quality—highlights that geopolitical design decisions embedded during training are not neutral but fundamentally alter what information different user populations receive.
-
-The radar chart above visualizes this pattern clearly: across all four model-language combinations (Llama English, Llama Chinese, Qwen English, Qwen Chinese), the "Identity" dimension consistently forms the innermost arc—systematically narrower than all other dimensions. This geometric pattern provides direct visual evidence that identity handling is not merely weaker in some contexts, but represents a universal structural limitation in how LLMs process trans-border identity.
-
 The symbolic annihilation finding is particularly concerning: users querying the same model in different languages receive fundamentally different representations of reality. English-language users are presented with a China-bounded view of the Dai community that erases its transnational distribution—information readily available in the model's Chinese responses.
-
-## Embedding-Based Clustering: Language Dominates Over Model Origin.\*\* However, the most striking computational finding emerges from embedding-space analysis: when responses from all four model-language combinations are embedded and visualized via t-SNE dimensionality reduction, they cluster primarily by language rather than by model origin.
-
-![t-SNE Visualization - Language Clusters Override Model Origin](graph/figure1_tsne_clusters.png)
-
-The t-SNE plot reveals clear color-based clustering (English responses cluster together regardless of model; Chinese responses cluster together regardless of model), with no coherent Llama vs. Qwen clustering. This spatial arrangement provides direct evidence that query language acts as a dominant structural force reshaping the representation space itself—more so than the model's geopolitical training context.
-
-To quantify this observation, I computed cosine similarity matrices for response embeddings:
-
-![Cosine Similarity Heatmap - Language Effect vs. Model Effect](graph/figure2_similarity_heatmap.png)
-
-The heatmap demonstrates numerically what the t-SNE plot shows visually: same-language pairs (regardless of model) achieve mean cosine similarity of **0.649**, while same-model pairs across languages achieve only **0.509**. This 27% increase in within-language similarity confirms that language fundamentally restructures the representation space more powerfully than model origin.
-
-**Automatic Validation via Embedding-Manual Coding Correlation.** To validate that embedding-based findings capture meaningful variation rather than surface-level linguistic similarity, I computed Pearson correlation between cosine similarity measures and differences in manual coding scores:
-
-![Validation: Embedding-Manual Coding Correlation](graph/figure4_validation.png)
-
-The correlation of r = -0.369 (p = 0.002) is statistically significant and of moderate effect size, indicating that responses more similar in embedding space tend to receive more similar manual coding scores. This convergence between computational and human judgment provides crucial triangulated validation: the embedding model is not simply flagging linguistic surface similarity, but capturing semantically meaningful variation that human coders independently identify.
 
 ### 5.2 Limitations
 

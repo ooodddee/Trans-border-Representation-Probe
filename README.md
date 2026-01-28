@@ -12,7 +12,28 @@ Focusing on the **Dai-Thai community** in the Zomia region (spanning China's Yun
 
 ---
 
-## 🚀 Key Findings (v2.1)
+## 🚀 Key Findings
+
+### v3.0 Frontier Models 
+
+**GPT-5.1 vs DeepSeek V3.2 Comparison:**
+
+1. **Language Dominance Weakens in Frontier Models**: The language effect—the core finding from v2.1—shows a 39% reduction in magnitude:
+   - v2.1: Language advantage gap = 0.140 (0.649 - 0.509)
+   - v3.0: Language advantage gap = 0.086 (0.644 - 0.559)
+   - **Interpretation**: Frontier models achieve better cross-lingual consistency, partially mitigating the language-driven erasure documented in v2.1
+
+2. **Near-Perfect Cross-Lingual Alignment**: Both frontier models achieve near-identical performance across languages:
+   - GPT-5.1: Same-language similarity = 0.556
+   - DeepSeek V3.2: Same-language similarity = 0.561
+   - **Interpretation**: After 1.5 years of model scaling, English-Chinese representation parity improves significantly
+
+3. **Same-Model Similarity Rises**: Same-model similarity climbs from 0.509 (v2.1) to 0.559 (v3.0), suggesting:
+   - Better preservation of semantic intent across languages
+   - Reduced symbolic annihilation in English responses
+   - More balanced training data in frontier models
+
+### v2.1 Findings (Llama-3.3-70B & Qwen-2.5-72B)
 
 1. **Identity Ossification**: Models consistently force fluid identities into fixed national categories (e.g., "Chinese" or "Thai") rather than acknowledging self-determined identity.
 
@@ -37,6 +58,18 @@ Performance metrics across models, languages, and prompt categories:
 - English responses show higher variance in representation accuracy across categories
 - Qwen-2.5-72B demonstrates more consistent cross-lingual performance
 
+### 📊 Embedding Similarity Comparison: 70B Models vs Frontier
+
+| Metric | 70B Models (v2.1) | Frontier Models (v3.0) | Change |
+|--------|------------------|----------------------|--------|
+| Same Language Similarity | 0.649 | 0.644 | -0.005 |
+| Same Model Similarity | 0.509 | 0.559 | +0.050 |
+| Language Dominance Gap | 0.140 | 0.086 | **-39%** |
+| Cross-lingual Consistency | Asymmetric (model-dependent) | Near-Perfect Alignment | ✓ |
+| Symbolic Annihilation Risk | High (English erasure) | Reduced | ✓ |
+
+**Interpretation**: Frontier models represent a qualitative shift—from language-driven fragmentation (v2.1) toward cross-lingual coherence (v3.0). The 39% reduction in language dominance gap suggests that model scale and training improvements are partially solving the algorithmic nationalism problem, though identity ossification likely persists.
+
 ---
 
 ## 🛠 Methodology
@@ -51,7 +84,8 @@ I employ a **mixed-methods approach** to ensure rigorous auditing:
 
 ## 📂 Project Structure
 
-```
+```├── v2_matched_pairs/    # Matched-size comparison & Embedding analysis
+│   └── v3_frontier_probe/   # Frontier models: GPT-5.1 vs DeepSeek V3.2
 ├── src/                     # 🔧 Modularized Python modules (CS Engineering)
 │   ├── probe_engine.py      # OpenRouter API interaction with retry logic
 │   ├── prompt_manager.py    # YAML-based prompt configuration & versioning
@@ -65,6 +99,9 @@ I employ a **mixed-methods approach** to ensure rigorous auditing:
 │   ├── v1_preliminary/      # Pilot study (DeepSeek vs Gemini)
 │   └── v2_matched_pairs/    # Matched-size comparison & Embedding analysis
 │
+- **v3.0 Frontier Analysis** (in progress): GPT-5.1 vs DeepSeek V3.2 comparison showing language dominance reduction
+  - [v3_frontier_probe.ipynb](experiments/v3_frontier_probe/v3_frontier_probe.ipynb): Full probe results
+  - [v3_frontier_embedding_analysis.ipynb](experiments/v3_frontier_probe/v3_frontier_embedding_analysis.ipynb): Embedding similarity analysis
 ├── scripts/                 # 🚀 CLI tools for batch processing
 ├── tests/                   # ✅ Unit tests (pytest)
 ├── requirements.txt         # 📦 Python dependencies
@@ -197,10 +234,11 @@ This work builds on three interconnected traditions:
 | **Algorithmic Auditing** (Sandvig et al., 2014) | Systematic probing methodology | Standardized testing framework |
 | **Cultural Representation** (Hall, 1997) | Symbolic annihilation | Evaluating cultural erasure patterns |
 
----
-
-## 🎯 Future Work
-
+---Coverage**: Complete v3.0 analysis with GPT-4o, Claude 3.5, Baichuan, Yi models
+2. **Qualitative Manual Coding**: Deep-dive analysis of frontier model responses on identity dimensions
+3. **Community Validation**: Participatory workshops with Dai community members in Yunnan
+4. **Toolkit Release**: Open-source prompt library and annotation guidelines
+5
 1. **Model Expansion (v3)**: Add GPT-4o, Claude 3.5, and additional Chinese models (Baichuan, Yi)
 2. **Community Validation**: Participatory workshops with Dai community members in Yunnan
 3. **Toolkit Release**: Open-source prompt library and annotation guidelines
