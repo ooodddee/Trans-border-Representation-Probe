@@ -244,37 +244,6 @@ This work builds on three interconnected traditions:
 3. **Toolkit Release**: Open-source prompt library and annotation guidelines
 4. **Global Extension**: Apply framework to other trans-border communities worldwide
 
----
-
-## 🛠 Engineering Architecture 
-
-This project demonstrates computer science engineering principles through:
-
-### Modular Design
-- **Single Responsibility Principle**: Each module (`probe_engine`, `prompt_manager`, `embedding_analyzer`) has a focused purpose
-- **Dependency Injection**: Configuration managed centrally via `config.py` and `.env` files
-- **Type Hints**: Comprehensive type annotations for better IDE support and static analysis
-
-### Production-Grade Features
-- **Retry Logic**: Exponential backoff using `tenacity` library for robust API calls
-- **Error Handling**: Structured logging with failed request tracking
-- **Caching**: Embedding computation cache to avoid redundant calculations
-- **Rate Limiting**: Built-in delay mechanisms to respect API quotas
-
-### Testability & Maintainability
-- **Unit Tests**: `tests/` directory for pytest-based testing (planned)
-- **Configuration Management**: Environment-based settings via `.env` files
-- **Version Control**: YAML-based prompt versioning (v1, v2, etc.)
-- **Documentation**: Comprehensive docstrings following Google style
-
-### Data Science Integration
-- **Pandas Pipeline**: Structured data processing with DataFrames
-- **Scikit-learn**: Cosine similarity, t-SNE clustering, correlation analysis
-- **Visualization**: Matplotlib/Seaborn for publication-quality figures
-
-This architecture positions the project as **both rigorous social science research AND a reusable software toolkit**, demonstrating the unique value of MSCS training in computational social science.
-
----
 
 
 ## 📧 Contact
