@@ -24,7 +24,7 @@ Identity ossification in its strongest form (identity score = 1 AND narrative sc
 
 ### v3.0 — Frontier Models: GPT-5.1 vs. DeepSeek-V3.2
 
-**What changed from v2.1:** We tested frontier-tier models (GPT-5.1, DeepSeek-V3.2) against the same 11-prompt bilingual protocol.
+**What changed from v2.1:** I tested frontier-tier models (GPT-5.1, DeepSeek-V3.2) against the same 11-prompt bilingual protocol.
 
 #### Embedding Analysis
 
@@ -34,7 +34,7 @@ Identity ossification in its strongest form (identity score = 1 AND narrative sc
 | Same model, different language | 0.509 | 0.559 | **+0.050** |
 | Language dominance gap | 0.140 | 0.086 | **−39%** |
 
-Cross-lingual consistency improves substantially in frontier models: GPT-5.1 achieves 0.556 and DeepSeek-V3.2 achieves 0.561 cross-lingual similarity—near-identical, suggesting frontier-scale training partially closes the language gap documented in v2.1.
+Cross-lingual consistency improves substantially in frontier models: GPT-5.1 achieves 0.556 and DeepSeek-V3.2 achieves 0.561 cross-lingual similarity—near-identical, suggesting frontier-scale training partially closes the language gap documented in v2.1. However, cross-lingual similarity (0.558 avg) remains lower than cross-model same-language similarity (0.644 avg), meaning **language effects still dominate at the semantic level**.
 
 #### Manual Coding Results (5-dimension rubric, 1–3 scale, max total = 15)
 
@@ -45,19 +45,28 @@ Cross-lingual consistency improves substantially in frontier models: GPT-5.1 ach
 | DeepSeek-V3.2 | Chinese | 2.09 | 1.64 | 2.00 | 1.64 | 2.36 | **9.73** |
 | DeepSeek-V3.2 | English | 2.45 | 1.91 | 2.27 | 2.09 | 2.82 | **11.55** |
 
-**Model origin effect dominates** in manual coding: GPT-5.1 outperforms DeepSeek-V3.2 by 4.73 points in Chinese and 2.55 points in English (Mann-Whitney U, all p < .01, effect size r = .56–.71).
+**Model origin effect dominates in manual coding**: GPT-5.1 outperforms DeepSeek-V3.2 by 4.73 points in Chinese and 2.55 points in English (Mann-Whitney U, all p < .01, effect size r = .56–.71).
 
-#### A Critical Interpretive Note
+**On the capability confound**: While GPT-5.1 and DeepSeek-V3.2 differ on standard benchmarks by 2.5–3.3 percentage points (MMLU-Pro: 87.5 vs. 85.0; GPQA Diamond: 85.7 vs. 82.4), the representational gap on identity classification items under Chinese-language prompts exceeds 30 percentage points—approximately 10× the capability difference—suggesting cultural framing effects beyond general capability.
+
+#### Finding — Two Methods Capture Different Levels of Representation
+
+Embedding similarity and manual coding reach partially different conclusions in v3, and this divergence is itself informative rather than contradictory:
+
+- **Embedding similarity** captures *semantic content*: what topics are covered, what vocabulary is used. Same-language responses cluster together more strongly than same-model responses across languages—language shapes *what gets discussed*.
+- **Manual coding** captures *representational framing*: how identity is handled, whether trans-border connections are foregrounded or peripheral. GPT-5.1 applies a trans-border framework consistently across both languages; DeepSeek-V3.2 defaults to nation-state framing, especially in Chinese—model origin shapes *how content is framed*.
+
+Both findings are real. Neither method is sufficient alone. This divergence points to the need for multi-method auditing when evaluating cultural representation in LLMs.
+
+#### On the Apparent Contradiction with v2.1
 
 The v3 manual coding result—where model origin effect (Cohen's d = 1.96) greatly exceeds language effect (d = 0.62)—**appears to contradict v2.1's "language dominates" finding**. It does not. The two experiments measure different configurations:
 
-In v2.1, model origin effects were **directionally inconsistent**: Qwen outperformed Llama in Chinese (2.27 vs. 2.07) but underperformed in English (2.45 vs. 2.67), yielding a near-zero average origin effect (+0.01). Language effects were consistent in direction across both models, so they appeared dominant.
+In v2.1, model origin effects were **directionally inconsistent**: Qwen outperformed Llama in Chinese (2.27 vs. 2.07) but underperformed in English (2.45 vs. 2.67), yielding a near-zero average origin effect. Language effects were consistent in direction across both models, so they appeared dominant.
 
-In v3, GPT-5.1 outperforms DeepSeek-V3.2 in both languages by large margins—origin effects are directionally stable and large. Additionally, overall capability differences between the two frontier models cannot be fully ruled out as a confound.
+In v3, GPT-5.1 outperforms DeepSeek-V3.2 in both languages by large margins—origin effects are directionally stable and large.
 
 **The implication:** "Model origin effect" is not a stable quantity—its magnitude and direction depend on the specific model pair compared. This is a fundamental challenge for cross-model auditing and a finding in itself.
-
-Both the embedding and manual coding methods agree *within* each experiment; the disagreement is *between* experiments, driven by which models are compared.
 
 ---
 
