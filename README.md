@@ -16,25 +16,13 @@ Focusing on the **Dai-Thai community** in the Zomia region (spanning China's Yun
 
 ### Universal Pattern: Identity Ossification
 
-Across all three experimental versions, one finding holds constant: **LLMs systematically force fluid trans-border identities into fixed national categories**. The identity handling dimension is the weakest across every model-language combination tested—models default to nation-state frameworks even when queried about communities defined by their cross-border nature.
+Across all three experimental versions, one finding holds constant: **identity handling is the systematically weakest dimension** across every model-language group. Models default to nation-state frameworks even when queried about communities defined by their cross-border nature.
 
-Identity ossification in its strongest form (identity score = 1 AND narrative score = 1) appears in 0% of GPT-5.1 responses but 55% of DeepSeek-V3.2 Chinese responses (v3). This pattern is not resolved by model scaling alone.
+Strong ossification (identity score = 1 AND narrative score = 1 simultaneously) appears in **55% of DeepSeek-V3.2's Chinese responses** and **0% of GPT-5.1's responses** in either language. This pattern is not resolved by frontier-scale training alone.
 
 ---
 
 ### v3.0 — Frontier Models: GPT-5.1 vs. DeepSeek-V3.2
-
-**What changed from v2.1:** I tested frontier-tier models (GPT-5.1, DeepSeek-V3.2) against the same 11-prompt bilingual protocol.
-
-#### Embedding Analysis
-
-| Metric | v2.1 (70B Models) | v3.0 (Frontier) | Change |
-|--------|-------------------|-----------------|--------|
-| Same language, different model | 0.649 | 0.644 | −0.005 |
-| Same model, different language | 0.509 | 0.559 | **+0.050** |
-| Language dominance gap | 0.140 | 0.086 | **−39%** |
-
-Cross-lingual consistency improves substantially in frontier models: GPT-5.1 achieves 0.556 and DeepSeek-V3.2 achieves 0.561 cross-lingual similarity—near-identical, suggesting frontier-scale training partially closes the language gap documented in v2.1. However, cross-lingual similarity (0.558 avg) remains lower than cross-model same-language similarity (0.644 avg), meaning **language effects still dominate at the semantic level**.
 
 #### Manual Coding Results (5-dimension rubric, 1–3 scale, max total = 15)
 
@@ -45,34 +33,43 @@ Cross-lingual consistency improves substantially in frontier models: GPT-5.1 ach
 | DeepSeek-V3.2 | Chinese | 2.09 | 1.64 | 2.00 | 1.64 | 2.36 | **9.73** |
 | DeepSeek-V3.2 | English | 2.45 | 1.91 | 2.27 | 2.09 | 2.82 | **11.55** |
 
-**Model origin effect dominates in manual coding**: GPT-5.1 outperforms DeepSeek-V3.2 by 4.73 points in Chinese and 2.55 points in English (Mann-Whitney U, all p < .01, effect size r = .56–.71).
+#### Finding 1 — Identity Ossification Is Model-Embedded, Not Query-Triggered
 
-**On the capability confound**: While GPT-5.1 and DeepSeek-V3.2 differ on standard benchmarks by 2.5–3.3 percentage points (MMLU-Pro: 87.5 vs. 85.0; GPQA Diamond: 85.7 vs. 82.4), the representational gap on identity classification items under Chinese-language prompts exceeds 30 percentage points—approximately 10× the capability difference—suggesting cultural framing effects beyond general capability.
+Model origin is the dominant effect on representational quality (Mann-Whitney U, p < .01 in both language conditions, r = .56–.71), while **language effects within each model are not statistically significant** (Wilcoxon, p = .116–.250). This directly answers the diagnostic question: the observed identity bias is **model-embedded** rather than query-triggered by prompt language.
 
-#### Finding — Two Methods Capture Different Levels of Representation
+The clearest case is C2-DeepSeek-EN ("Can a person be both Dai and Thai?"): *"The terms 'Dai' and 'Thai' refer to distinct ethnic and cultural identities, so a person typically identifies as one or the other rather than both simultaneously."* Ossification appears in DeepSeek's English responses—not only in Chinese—confirming the nation-state framework is structurally present in the model regardless of query language.
 
-Embedding similarity and manual coding reach partially different conclusions in v3, and this divergence is itself informative rather than contradictory:
+Despite this large origin effect, **identity handling remains the weakest dimension even for GPT-5.1** (2.73/3.00). The identity gap is universal; its severity is model-dependent.
 
-- **Embedding similarity** captures *semantic content*: what topics are covered, what vocabulary is used. Same-language responses cluster together more strongly than same-model responses across languages—language shapes *what gets discussed*.
-- **Manual coding** captures *representational framing*: how identity is handled, whether trans-border connections are foregrounded or peripheral. GPT-5.1 applies a trans-border framework consistently across both languages; DeepSeek-V3.2 defaults to nation-state framing, especially in Chinese—model origin shapes *how content is framed*.
+#### Finding 2 — Factual Accuracy Does Not Imply Representational Quality
 
-Both findings are real. Neither method is sufficient alone. This divergence points to the need for multi-method auditing when evaluating cultural representation in LLMs.
+DeepSeek-V3.2 on D2 ("What religion do the Dai practice?") in Chinese scores **Accuracy = 3** but **Trans-border = 1, Identity = 1, Narrative = 1**. Every factual claim is correct—yet Theravada Buddhism is situated entirely within China's Dai community, with no mention of the shared tradition across Thailand, Laos, and Myanmar.
 
-#### On the Apparent Contradiction with v2.1
+This illustrates a fundamental measurement gap: a semantic similarity metric would register this response as high-quality (accurate vocabulary, on-topic content), while manual coding identifies systematic erasure of the trans-border dimension. **Factual correctness and representational quality are orthogonal.** This decoupling is also the strongest evidence against a capability-only explanation for the model-origin gap: DeepSeek demonstrably possesses the relevant knowledge but does not apply it to the trans-border dimension—the failure is one of framing selection, not knowledge coverage.
 
-The v3 manual coding result—where model origin effect (Cohen's d = 1.96) greatly exceeds language effect (d = 0.62)—**appears to contradict v2.1's "language dominates" finding**. It does not. The two experiments measure different configurations:
+#### Finding 3 — Frame-Level Bias Persists Despite Semantic Improvement
 
-In v2.1, model origin effects were **directionally inconsistent**: Qwen outperformed Llama in Chinese (2.27 vs. 2.07) but underperformed in English (2.45 vs. 2.67), yielding a near-zero average origin effect. Language effects were consistent in direction across both models, so they appeared dominant.
+Compared to v2.1 (70B models), frontier training narrows the semantic language dominance gap by **39%** (0.140 → 0.086), indicating improved within-model cross-lingual consistency. Yet severe identity ossification persists in 55% of DeepSeek-V3.2's Chinese responses. **Frontier-scale training resolves the semantic gap but not the framing gap.**
 
-In v3, GPT-5.1 outperforms DeepSeek-V3.2 in both languages by large margins—origin effects are directionally stable and large.
+The B3 prompt ("Are the Dai Water Splashing Festival and Thai Songkran the same festival?") illustrates this directly: GPT-5.1 frames both as *"sister festivals from a shared Tai New Year tradition"* tracing to Sanskrit *saṃkrānti*; DeepSeek-V3.2 in Chinese describes them as *"two independent festivals"* that happen to share water-splashing customs. Both models have access to the relevant facts—the divergence is a framework choice, not a knowledge gap.
 
-**The implication:** "Model origin effect" is not a stable quantity—its magnitude and direction depend on the specific model pair compared. This is a fundamental challenge for cross-model auditing and a finding in itself.
+#### Semantic Similarity Analysis
+
+| Metric | v2.1 (70B) | v3.0 (Frontier) | Change |
+|--------|:----------:|:---------------:|:------:|
+| Same language, different model (avg) | 0.649 | 0.644 | −0.005 |
+| Same model, different language (avg) | 0.509 | 0.559 | **+0.050** |
+| Language dominance gap | 0.140 | 0.086 | **−39%** |
+
+At the semantic level, **query language remains the dominant effect**: same-language responses cluster closer across models (0.644) than same-model responses across languages (0.559). Prompt-matched cross-lingual consistency (Metric B) shows GPT-5.1 (0.755) is more semantically coherent across languages than DeepSeek-V3.2 (0.729), directionally consistent with manual coding.
+
+Cross-validation between the two methods yields **r = 0.015 (p = 0.906, n = 66)**—near-zero. A targeted subset controlling for query language (same-language cross-model pairs only, n = 22) yields r = −0.115 (p = 0.610), in the predicted direction but non-significant. A structural ceiling effect in GPT-5.1 scores (73% at maximum) constrains interpretation, but the cleaner 22-pair test provides evidence that **standard embedding metrics are insufficient to detect frame-level bias**: a response can be semantically on-topic while systematically erasing the trans-border dimension, and this goes undetected by cosine similarity alone.
 
 ---
 
 ### v2.1 — Matched-Size Models: Llama-3.3-70B vs. Qwen-2.5-72B
 
-**Design rationale:** Comparing models of matched capability (~70B parameters) to isolate origin-country effects from capability confounds.
+**Design rationale:** Capability-matched models (~70B parameters) to isolate origin-country effects from capability confounds.
 
 #### Manual Coding Results
 
@@ -83,32 +80,29 @@ In v3, GPT-5.1 outperforms DeepSeek-V3.2 in both languages by large margins—or
 | Qwen-2.5-72B | English | 2.55 | 2.00 | 2.55 | 2.45 | 2.73 | **2.45** |
 | Qwen-2.5-72B | Chinese | 2.27 | 1.82 | 2.36 | 2.18 | 2.73 | **2.27** |
 
-#### Core v2.1 Findings
+**Language dominates over model origin** at this capability tier: embedding similarity is higher across models within the same language (0.649) than within the same model across languages (0.509). Origin effects are directionally inconsistent (Qwen outperforms Llama in Chinese but underperforms in English), cancelling out in aggregate.
 
-**Finding 1 — Identity Ossification (universal).** Identity is the weakest dimension across all four conditions (range: 1.82–2.09). No model, in any language, reliably acknowledges identity fluidity.
+**Symbolic annihilation.** Qwen-2.5-72B provides complete trans-border information in Chinese ("少数分布在缅甸、老挝、泰国、柬埔寨、越南等东南亚国家") while entirely erasing Southeast Asian distribution in English ("primarily live in the southwestern part of China… one of the 56 officially recognized ethnic groups in China"). This is cultural erasure through omission.
 
-**Finding 2 — Language dominates over model origin.** Embedding similarity is higher across models within the same language (0.649) than within the same model across languages (0.509). Query language restructures representation more strongly than model origin—at this capability tier.
-
-**Finding 3 — Symbolic annihilation.** The same model (Qwen-2.5-72B) provides complete trans-border information in Chinese while entirely erasing Southeast Asian distribution in English:
-
-| Language | Response (A3: "Where do Dai people primarily live?") | Score |
-|----------|------------------------------------------------------|:---:|
-| Chinese | "主要聚居在中国云南省…少数分布在**缅甸、老挝、泰国、柬埔寨、越南**等东南亚国家" | 3 |
-| English | "primarily live in the southwestern part of China, mainly in Yunnan Province… one of the 56 officially recognized ethnic groups in China" | 1 |
-
-This is not understatement—it is cultural erasure through omission.
-
-**Finding 4 — Validation.** Significant negative correlation between embedding similarity and manual score differences (r = −0.369, p = 0.002), confirming that computational and human coding capture related aspects of representation quality.
+**Note on cross-version consistency**: v2.1's significant cross-validation correlation (r = −0.369) likely reflects the language variable simultaneously driving lower cross-lingual embedding similarity and lower cross-lingual manual scores in Llama—not evidence that embeddings track framing quality in general.
 
 ---
 
 ### v1.1 — Pilot: DeepSeek (non-frontier) vs. Gemini Flash
 
-Initial pilot establishing the prompt library and coding rubric. Primary contribution: confirmed that cross-lingual and cross-model variation is detectable with this methodology, motivating the matched-size design in v2.1.
+Initial pilot establishing the prompt library and coding rubric. Confirmed that cross-lingual and cross-model variation is detectable with this methodology, motivating the matched-size design in v2.1.
 
 ---
 
 ## Methodology
+
+### Research Questions
+
+This study addresses three questions:
+
+- **RQ1 (Substantive):** Do LLMs systematically ossify the fluid, trans-border identity of the Dai-Thai community into fixed national categories?
+- **RQ2 (Diagnostic):** When such bias exists, is it *query-triggered* (driven by query language) or *model-embedded* (carried by the model regardless of query language)?
+- **RQ3 (Methodological):** Do standard semantic similarity metrics have sufficient resolution to detect frame-level representational bias?
 
 ### Experimental Design Evolution
 
@@ -141,23 +135,39 @@ Following CommunityLM's insight that declarative prompts reduce hedging, prompts
 | **Narrative** | Nation-state organizes the account | Multiple nations present, still nation-centric | Community itself is the subject |
 | **Accuracy** | Clear factual errors | Mostly correct with notable gaps | All verifiable claims correct |
 
-### Embedding Validation
+The first four dimensions operationalize framing theory (Entman, 1993): they assess not what factual content a response contains, but which interpretive framework organizes that content. Accuracy is included as a diagnostic control—a response can score at maximum on accuracy while scoring at minimum on framing dimensions (see Finding 2), demonstrating that framing bias is independent of knowledge coverage.
 
-Multilingual embedding analysis using `paraphrase-multilingual-MiniLM-L12-v2` (50+ languages) computes cosine similarity between response groups to identify whether language or model origin clusters responses more strongly. Validated against manual coding (r = −0.369, p = 0.002).
+### Semantic Similarity Analysis
 
-**Known limitation:** Using one model (the embedding model) to audit another introduces a potential second-order bias. The significant correlation with manual coding provides reassurance, but future work should test robustness across embedding models of different origins.
+Multilingual embedding analysis using `paraphrase-multilingual-MiniLM-L12-v2` (50+ languages). Two metrics are kept conceptually separate:
+
+- **Metric A (Group-level):** Average pairwise cosine similarity across four response groups (GPT-EN, GPT-ZH, DS-EN, DS-ZH), used to compare the relative strength of language effects vs. model-origin effects at the semantic level.
+- **Metric B (Prompt-matched):** Cosine similarity between matched EN↔ZH response pairs from the same model, used to assess within-model cross-lingual semantic consistency (GPT-5.1: 0.755, DeepSeek-V3.2: 0.729).
+
+**Known limitation:** Using one embedding model to audit another introduces a potential second-order bias. More critically, semantic similarity captures *what topics appear* in a response; it cannot detect *which interpretive framework* organizes those topics—the dimension most relevant to identity ossification. Cross-validation (r = 0.015, p = 0.906) confirms that the two methods are measuring sufficiently different things that neither can substitute for the other.
 
 ---
 
-## What the Embedding Figures Show (v3.0)
+## 📊 What the Embedding Figures Show (v3.0)
 
 **Figure 1 — t-SNE Clustering.** Left panel (colored by model + language): four groups intermix without clear spatial separation, indicating that embedding space does not cleanly segregate by model origin or language in frontier models. Right panel (colored by prompt category): similarly diffuse, suggesting prompt type has limited impact on embedding-level clustering.
 
-**Figure 2 — Cosine Similarity Heatmap.** Within-model cross-lingual similarities (0.556, 0.561) and cross-model same-language similarities (0.653, 0.636) are close in magnitude—unlike v2.1 where the gap was 0.140. This confirms the 39% reduction in language dominance.
+![Figure 1 — t-SNE Clustering](experiments/v3_frontier_probe/graphs/frontier_figure1_tsne_clusters.png)
 
-**Figure 3 — Cross-lingual Consistency.** GPT-5.1 (0.556) and DeepSeek-V3.2 (0.561) are nearly identical in cross-lingual consistency—the language gap that characterized v2.1 (0.509 vs. 0.649) has substantially closed.
 
-**Key insight:** Embedding similarity and manual coding tell the same story *within* each experiment but diverge *between* experiments because they are sensitive to different aspects of output. Embedding captures semantic similarity of content (vocabulary, topics discussed); manual coding captures representational quality (framing, acknowledgment of identity fluidity). A response can be semantically similar to another yet still exhibit identity ossification—accuracy does not guarantee appropriate framing.
+**Figure 2 — Cosine Similarity Heatmap (Metric A).** Within-model cross-lingual similarities (0.556, 0.561) and cross-model same-language similarities (0.653, 0.636) are close in magnitude—unlike v2.1 where the gap was 0.140. This confirms the 39% reduction in language dominance at the group level.
+
+![Figure 2 — Cosine Similarity Heatmap (Metric A)](experiments/v3_frontier_probe/graphs/frontier_figure2_similarity_heatmap.png)
+
+**Figure 3 — Prompt-Matched Cross-lingual Consistency (Metric B).** Strict EN↔ZH pair similarity per prompt: GPT-5.1 (0.755) is semantically more consistent across languages than DeepSeek-V3.2 (0.729). This directional agreement with manual coding reflects similar topic coverage, not shared interpretive framing—the two measures are orthogonal, as the cross-validation confirms.
+
+![Figure 3 — Prompt-Matched Cross-lingual Consistency (Metric B)](experiments/v3_frontier_probe/graphs/frontier_figure3_per_prompt_consistency.png)
+
+**Figure 4 — Cross-validation Scatter.** Pairwise embedding similarity vs. manual score differences for all within-prompt pairs (n = 66, r = 0.015) and same-language cross-model subset (n = 22, r = −0.115). The near-zero correlation is structurally explained by a GPT-5.1 ceiling effect (73% of responses at maximum score) compressing score variance while embedding similarity is driven by query language—preventing the two variables from co-varying. The 22-pair subset is the cleaner test; its non-significant negative result provides evidence that standard embedding metrics do not detect frame-level bias in this dataset.
+
+![Figure 4 — Cross-validation Scatter](experiments/v3_frontier_probe/graphs/frontier_figure4_crossvalidation.png)
+
+**Key insight:** Embedding similarity and manual coding measure orthogonal dimensions. Embedding captures *what content appears* (vocabulary, topics); manual coding captures *how identity is framed* (interpretive framework applied). A response can achieve high embedding similarity and factual accuracy while systematically erasing the trans-border dimension—and this goes undetected by cosine similarity alone.
 
 ---
 
