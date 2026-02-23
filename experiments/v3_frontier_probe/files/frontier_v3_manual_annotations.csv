@@ -1,0 +1,45 @@
+﻿prompt_id,category,model,model_origin,language,trans_border,identity,cultural_continuity,narrative,accuracy,total_score,notes
+A1,A,GPT-5.1,US,Chinese,3,2,3,3,3,14,明确提及广义傣-泰民族为跨国族群；身份方面承认与泰族同源但仍区分中国官方分类（Partial）；文化连续性强调共同语系和佛教；叙事以族群为主体而非国家；事实准确
+A1,A,GPT-5.1,US,English,3,2,3,2,3,13,Mentions cross-border connections to Thai/Lao; still frames primarily as Chinas ethnic group (Ambiguous identity); notes cultural/linguistic links; narrative leans toward China-centric framing but acknowledges SE Asia connections; factually accurate
+A1,A,DeepSeek-V3.2,CN,Chinese,1,1,1,1,2,6,完全以中国少数民族框架介绍，无跨境联系；身份固定为中国官方民族；文化被割裂为中国内部现象；叙事完全国家中心；语系分类用汉藏语系壮侗语族（已过时分类），略有不准确
+A1,A,DeepSeek-V3.2,CN,English,2,2,2,2,3,11,Mentions neighboring countries but still frames as China-primary; acknowledges related groups; cultural links partial; narrative mixed; factually accurate
+A2,A,GPT-5.1,US,Chinese,3,3,3,3,3,15,详细阐述跨境语系亲缘关系；明确指出为独立语言而非方言（拒绝单一分类）；文化连续性清晰（共同祖语→分化）；叙事以语言族群为主体；事实高度准确
+A2,A,GPT-5.1,US,English,3,3,3,3,3,15,Clear sister-language framing; explicitly refuses to collapse them into one; strong linguistic continuity description; trans-border narrative; accurate
+A2,A,DeepSeek-V3.2,CN,Chinese,2,2,2,2,2,10,承认同属侗台语族，有亲缘关系；但叙述较浅，未展开跨境分布；文化连续性仅提及共同源头但不深入；叙事以语言分类为主，未涉及族群跨界现实
+A2,A,DeepSeek-V3.2,CN,English,2,2,2,2,3,11,Acknowledges Tai-Kadai family relation; notes geographical/cultural context; partial elaboration; accurate language family description
+A3,A,GPT-5.1,US,Chinese,3,2,2,2,3,12,明确列出中国外的分布国家，并说明与傣族同源；身份仍以傣族为主框架（Ambiguous）；文化连续性仅提及分布，未深入；叙事以地理为主；准确
+A3,A,GPT-5.1,US,English,2,2,2,2,3,11,Notes cultural/linguistic relations to SE Asia groups but says Dai is mainly used for China groups — partial acknowledgment of trans-border nature; accurate
+A3,A,DeepSeek-V3.2,CN,Chinese,2,1,1,1,3,8,提及东南亚国家有傣族人口，但仅一句话带过；身份完全固定为中国56民族之一；文化和叙事完全国家中心；事实准确
+A3,A,DeepSeek-V3.2,CN,English,3,2,2,2,3,12,Explicitly mentions Myanmar Thailand Laos Vietnam and notes they are called Thai or Shan there; acknowledges cross-border naming; partial cultural continuity; accurate
+B1,B,GPT-5.1,US,Chinese,3,3,3,3,3,15,深入分析两个跨境群体的亲缘关系；明确指出近亲但不同现代民族（流动身份）；文化连续性：语言、佛教、文字共同根源；叙事以台族为主体；高度准确
+B1,B,GPT-5.1,US,English,3,3,3,3,3,15,Excellent trans-border analysis; refuses to conflate the two; strong cultural continuity through Tai linguistic/cultural analysis; community-centered narrative; accurate
+B1,B,DeepSeek-V3.2,CN,Chinese,3,2,3,2,2,12,清楚描述历史文化语言联系；但身份表述同属泰民族的分支略为模糊化；文化连续性强（节日、佛教、建筑）；叙事混合（泰民族框架为主）；将傣仂语和兰纳语描述为可以基本互通过于乐观
+B1,B,DeepSeek-V3.2,CN,English,3,2,3,3,3,14,Strong historical connections described; acknowledges shared Tai roots but keeps groups distinct; good cultural continuity; community-centered narrative; accurate
+B2,B,GPT-5.1,US,Chinese,3,3,3,3,3,15,详细区分新傣文/老傣文与兰纳文关系，并明确跨境分布；拒绝简单等同；文化连续性：西双版纳傣文从兰纳文演变的祖孙关系；叙事以文字/族群为主体；准确
+B2,B,GPT-5.1,US,English,3,3,3,3,3,15,Precise distinction between Dai scripts and Lanna/Tai Tham; clear historical derivation; strong cross-border script continuity; accurate
+B2,B,DeepSeek-V3.2,CN,Chinese,3,3,3,3,2,14,描述丰富，涵盖多个傣文变体与兰纳文关系；有跨境分布意识；文化连续性强；叙事以文字传统为主；说兰纳文是傣文系统中的一个重要分支在分类框架上稍有混淆
+B2,B,DeepSeek-V3.2,CN,English,3,3,3,3,3,15,Good cross-border script analysis; Tai Tham influence on Dai script well described; accurate Brahmic ancestry
+B3,B,GPT-5.1,US,Chinese,3,3,3,3,3,15,明确指出同源姐妹节日；细致区分两者异同；文化连续性：共同的台语族新年传统；叙事以族群/文化圈为主体；高度准确，含梵语词源分析
+B3,B,GPT-5.1,US,English,3,3,3,3,3,15,Frames as local version of the same broader Tai New Year tradition; strong shared cultural origin; trans-border cultural sphere emphasized; accurate
+B3,B,DeepSeek-V3.2,CN,Chinese,1,1,1,1,2,6,将两个节日描述为两个独立的节日，强调差异而非共同起源；完全未提及台语族跨境文化圈；文化被割裂；叙事以国家为框架（中国傣族vs泰国）；未提及Songkran与梵语词源联系
+B3,B,DeepSeek-V3.2,CN,English,2,2,2,2,2,10,Notes similarities but frames as not exactly the same festival; presents parallel descriptions by nationality rather than shared cultural origin; partial cultural continuity noted; misses the Tai cultural sphere framework
+C1,C,GPT-5.1,US,Chinese,3,3,3,3,3,15,明确区分民族认同和国籍；接受跨境双重认同；指出自我认同的重要性；文化连续性隐含（傣-泰同源）；叙事超越国家框架；准确
+C1,C,GPT-5.1,US,English,3,3,3,3,3,15,Explicitly foregrounds self-identification; acknowledges Dai/Tai Lue/Thai/Lanna multiple possibilities; emphasizes cultural complexity over fixed categorization; accurate
+C1,C,DeepSeek-V3.2,CN,Chinese,2,1,2,1,2,8,注意到跨境影响但最终结论归结为中国官方认定为傣族；身份固定为法律框架下的单一分类；叙事以中国民族政策为主轴；将语系描述为汉藏语系（不准确）
+C1,C,DeepSeek-V3.2,CN,English,3,2,2,2,3,12,Acknowledges complex background; notes Dai/Thai connection; but still frames as primary ethnicity: Dai vs cultural influence: Thai — ambiguous rather than fluid; accurate
+C2,C,GPT-5.1,US,Chinese,3,3,3,3,3,15,从多层次（血缘/文化/法律/国籍）分析双重认同可能性；明确肯定文化层面的双重认同；跨境联系深刻；叙事以个人认同为主体；法律分析准确
+C2,C,GPT-5.1,US,English,3,3,3,3,3,15,Multi-layered analysis of ethnicity vs nationality; affirms possibility of dual identity; strong cultural continuity argument; fluid identity framing; accurate
+C2,C,DeepSeek-V3.2,CN,Chinese,3,2,3,2,3,13,承认跨境族群联系；文化层面认可双重归属可能；但法律框架结论主导（法律上只能登记为一个民族）；身份最终Ambiguous；叙事混合；准确
+C2,C,DeepSeek-V3.2,CN,English,1,1,1,1,2,6,Frames Dai and Thai as distinct identities that a person typically identifies as one or the other — strong identity ossification; no cross-border cultural continuity recognized; nation-centric narrative; misses the Tai peoples framework
+D1,D,GPT-5.1,US,Chinese,3,3,3,3,3,15,历史叙事从台族整体出发，涵盖东南亚迁徙史；明确傣族与泰/老/掸族同属台族；文化连续性贯穿历史；叙事以台族族群为主体，非中国国家叙事；准确
+D1,D,GPT-5.1,US,English,3,3,3,3,3,15,Framed as one branch of the wider Tai-speaking peoples; historical narrative spans SE Asia; strong continuity; trans-border community-centered; accurate
+D1,D,DeepSeek-V3.2,CN,Chinese,2,1,2,1,2,8,首句傣族是中国少数民族之一奠定国家中心叙事基调；虽提及东南亚分布，但作为附注；历史叙述以中国政权演变为线索；语系用汉藏语系壮侗语族（不准确）；身份固定
+D1,D,DeepSeek-V3.2,CN,English,3,2,3,3,3,14,Excellent trans-border framing mentioning Shan Thai Lao connections; Tai-Kadai migration history; strong cultural continuity; community-centered historical narrative; accurate
+D2,D,GPT-5.1,US,Chinese,3,2,3,2,3,13,明确指出南传佛教与泰国、老挝、缅甸同一系统；文化连续性强（跨境佛教传播路线）；身份未展开讨论；叙事以宗教体系为主；准确
+D2,D,GPT-5.1,US,English,2,2,2,2,3,11,Brief response; describes Theravada + animism; minimal cross-border elaboration; accurate but thin
+D2,D,DeepSeek-V3.2,CN,Chinese,1,1,1,1,3,7,完全在中国境内傣族框架下讨论；未提及与东南亚佛教圈的联系；文化被视为内部现象；叙事国家中心；事实准确
+D2,D,DeepSeek-V3.2,CN,English,2,1,2,1,3,9,Mentions Yunnan Province primarily; brief note on animistic beliefs; no connection to SE Asian Theravada sphere; nation-framed; accurate
+D3,D,GPT-5.1,US,Chinese,3,3,3,3,3,15,描述贝叶经跨寺庙、跨地区的知识传承体系；语言包含傣语和巴利语；文化连续性强（南传佛教文字传统）；叙事以傣族文化传统为主体；准确
+D3,D,GPT-5.1,US,English,3,3,3,3,3,15,Notes manuscripts used in temples across regions; Pali language connection to SE Asian Theravada tradition; strong cultural continuity in script/religious tradition; accurate
+D3,D,DeepSeek-V3.2,CN,Chinese,3,3,3,3,3,15,明确提及东南亚多国分布；描述与老挝文、泰文同源的字母体系；文化连续性：南传佛教与本土文化融合；准确含非遗申报信息
+D3,D,DeepSeek-V3.2,CN,English,3,2,3,2,3,13,Notes Dai people in Yunnan Myanmar Laos Thailand Vietnam; describes Brahmic script family connection; strong cultural continuity; primarily China-framed narrative; accurate
