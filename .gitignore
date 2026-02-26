@@ -83,6 +83,9 @@ secrets/
 *.json
 !data/prompts*.yaml
 !data/prompts*.json
+# Allow v3_frontier_probe analysis files (important research data)
+!experiments/v3_frontier_probe/files/*.csv
+!experiments/v3_frontier_probe/files/*.xlsx
 
 # Model cache
 .cache/
