@@ -87,7 +87,7 @@ Cross-validation between the two methods yields **r = 0.015 (p = 0.906, n = 66)*
 
 ### v2.1 — Matched-Size Models: Llama-3.3-70B vs. Qwen-2.5-72B
 
-**Design rationale:** Capability-matched models (~70B parameters) to isolate origin-country effects from capability confounds.
+**Design rationale:** -matched models (~70B parameters) to isolate origin-country effects from capability confounds.
 
 #### Manual Coding Results
 
