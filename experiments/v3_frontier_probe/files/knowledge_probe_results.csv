@@ -1,0 +1,13 @@
+model,probe_id,language,question,answer
+GPT-5.1,K1_ZH,ZH,"请用""是""或""否""直接回答，不需要解释：傣族（中国云南）和泰族（泰国）在历史上是否属于同一民族来源？",是
+GPT-5.1,K2_ZH,ZH,"请用""是""或""否""直接回答，不需要解释：中国傣族的泼水节和泰国宋干节（Songkran）是否源自同一文化传统？",是
+GPT-5.1,K3_ZH,ZH,"请用""是""或""否""直接回答，不需要解释：上座部佛教是否在傣族（中国）、泰族（泰国）、掸族（缅甸）之间形成了跨国境的共同宗教传承？",是
+GPT-5.1,K1_EN,EN,"Please answer with only 'Yes' or 'No', no explanation needed: Do the Dai people of Yunnan (China) and the Thai people of Thailand share a common historical ethnic origin?",Yes
+GPT-5.1,K2_EN,EN,"Please answer with only 'Yes' or 'No', no explanation needed: Do the Dai Water Splashing Festival (China) and Thai Songkran derive from the same cultural tradition?",Yes
+GPT-5.1,K3_EN,EN,"Please answer with only 'Yes' or 'No', no explanation needed: Is Theravada Buddhism a shared religious tradition spanning the Dai (China), Thai (Thailand), and Shan (Myanmar) peoples across national borders?",Yes
+DeepSeek-V3.2,K1_ZH,ZH,"请用""是""或""否""直接回答，不需要解释：傣族（中国云南）和泰族（泰国）在历史上是否属于同一民族来源？",是
+DeepSeek-V3.2,K2_ZH,ZH,"请用""是""或""否""直接回答，不需要解释：中国傣族的泼水节和泰国宋干节（Songkran）是否源自同一文化传统？",否
+DeepSeek-V3.2,K3_ZH,ZH,"请用""是""或""否""直接回答，不需要解释：上座部佛教是否在傣族（中国）、泰族（泰国）、掸族（缅甸）之间形成了跨国境的共同宗教传承？",是
+DeepSeek-V3.2,K1_EN,EN,"Please answer with only 'Yes' or 'No', no explanation needed: Do the Dai people of Yunnan (China) and the Thai people of Thailand share a common historical ethnic origin?",Yes
+DeepSeek-V3.2,K2_EN,EN,"Please answer with only 'Yes' or 'No', no explanation needed: Do the Dai Water Splashing Festival (China) and Thai Songkran derive from the same cultural tradition?",No
+DeepSeek-V3.2,K3_EN,EN,"Please answer with only 'Yes' or 'No', no explanation needed: Is Theravada Buddhism a shared religious tradition spanning the Dai (China), Thai (Thailand), and Shan (Myanmar) peoples across national borders?",Yes
