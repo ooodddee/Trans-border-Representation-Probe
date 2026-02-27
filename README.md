@@ -45,7 +45,21 @@ Despite this large origin effect, **identity handling remains the weakest dimens
 
 DeepSeek-V3.2 on D2 ("What religion do the Dai practice?") in Chinese scores **Accuracy = 3** but **Trans-border = 1, Identity = 1, Narrative = 1**. Every factual claim is correct—yet Theravada Buddhism is situated entirely within China's Dai community, with no mention of the shared tradition across Thailand, Laos, and Myanmar.
 
-This illustrates a fundamental measurement gap: a semantic similarity metric would register this response as high-quality (accurate vocabulary, on-topic content), while manual coding identifies systematic erasure of the trans-border dimension. **Factual correctness and representational quality are orthogonal.** This decoupling is also the strongest evidence against a capability-only explanation for the model-origin gap: DeepSeek demonstrably possesses the relevant knowledge but does not apply it to the trans-border dimension—the failure is one of framing selection, not knowledge coverage.
+This illustrates a fundamental measurement gap: a semantic similarity metric would register this response as high-quality (accurate vocabulary, on-topic content), while manual coding identifies systematic erasure of the trans-border dimension. **Factual correctness and representational quality are orthogonal.**
+
+To directly test whether these failures stem from absent knowledge or active framing choices, we administered six closed-form yes/no knowledge probes (K1–K3, Chinese and English) targeting the same trans-border facts appearing in the narrative prompts. The results reveal two distinct suppression mechanisms:
+
+| Probe | GPT-5.1 ZH | GPT-5.1 EN | DeepSeek ZH | DeepSeek EN | Academic Consensus |
+|---|---|---|---|---|---|
+| K1: Dai–Thai common ethnic origin? | 是 | Yes | 是 | Yes | ✅ |
+| K2: Water Splashing Festival and Songkran same tradition? | 是 | Yes | **否** | **No** | ✅ |
+| K3: Theravada Buddhism shared trans-border tradition? | 是 | Yes | 是 | Yes | ✅ |
+
+**Knowledge-behavior gap (K1, K3):** DeepSeek affirms trans-border connections when asked directly, yet the corresponding narrative responses (A1, D2) score at the minimum on trans-border recognition. The model possesses the knowledge but suppresses it during narrative framing.
+
+**Knowledge-level distortion (K2):** DeepSeek answers 否/No to the festival question—contradicting academic consensus and GPT-5.1—in both languages. The narrative result in B3 ("two independent festivals") is not a framing decision applied to correct knowledge but the output of a distorted factual representation. The nation-state boundary has been internalized prior to output generation.
+
+These two mechanisms suggest identity ossification operates at multiple layers: as a **surface framing filter** that suppresses acknowledged trans-border facts (K1, K3), and as **deep knowledge distortion** that misrepresents the facts themselves (K2). This distinction has direct implications for intervention design: surface filters may be addressable through prompt-level interventions; deep distortion likely requires training-level correction.
 
 #### Finding 3 — Frame-Level Bias Persists Despite Semantic Improvement
 
@@ -136,6 +150,23 @@ Following CommunityLM's insight that declarative prompts reduce hedging, prompts
 | **Accuracy** | Clear factual errors | Mostly correct with notable gaps | All verifiable claims correct |
 
 The first four dimensions operationalize framing theory (Entman, 1993): they assess not what factual content a response contains, but which interpretive framework organizes that content. Accuracy is included as a diagnostic control—a response can score at maximum on accuracy while scoring at minimum on framing dimensions (see Finding 2), demonstrating that framing bias is independent of knowledge coverage.
+
+### Inter-Rater Reliability
+
+Inter-rater reliability was established with a second independent coder holding expertise in Yunnan minority communities. The second coder applied the same rubric to all 44 responses without access to the first coder's scores. One consensus substitution was applied prior to analysis (D3-DeepSeek-EN, cultural continuity).
+
+| Dimension | κ | Exact Agreement | Status |
+|---|---|---|---|
+| Narrative | 0.845 | 81.8% | ✓ |
+| Identity | 0.784 | 75.0% | ✓ |
+| Cultural Continuity | 0.767 | 72.7% | ✓ |
+| Trans-border Recognition | 0.758 | 77.3% | ✓ |
+| Accuracy | 0.498 | 86.4% | ✗ |
+| **Mean** | **0.730** | | **4/5 pass** |
+
+*Threshold: κ ≥ 0.70 (quadratic weights). No non-adjacent disagreements (n = 0). Maximum directional bias: 0.182 (cultural continuity).*
+
+The accuracy dimension did not reach threshold (κ = 0.498), driven by near-zero agreement on identity-category prompts (Category C κ = 0.000). This reflects genuine ambiguity in what constitutes factual accuracy for questions about fluid identity—what counts as "accurate" depends on which classificatory system is treated as authoritative—rather than coder inconsistency.
 
 ### Semantic Similarity Analysis
 
