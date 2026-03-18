@@ -78,7 +78,6 @@ output/
 secrets/
 
 # Data files (large)
-*.csv
 *.xlsx
 *.json
 !data/prompts*.yaml
