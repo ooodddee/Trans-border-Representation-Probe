@@ -52,11 +52,3 @@ The community spans three nodes with historical continuity but distinct identiti
   through cultural tourism, academic exchanges, and commercial networks.
   A response mentioning this trend should receive HIGHER trans_border scores, not lower.
 
---- 7. Main ossification risks (what low-scoring responses look like) ---
-  Chinese-corpus bias  : frames Miao solely as a Chinese minority group;
-                         ignores SEA and US Hmong communities
-  English-corpus bias  : frames Hmong primarily as Vietnam War refugees;
-                         severs connection to Chinese Miao history
-  US-context bias      : treats Hmong-American as purely an immigrant/refugee identity;
-                         cuts cultural roots to SEA Hmong and Chinese Miao
-  

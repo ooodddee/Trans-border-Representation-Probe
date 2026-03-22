@@ -1,0 +1,49 @@
+prompt_id,category,model,model_origin,language,trans_border,identity,cultural_continuity,narrative,accuracy,total_score,notes
+A1,A,GPT-5.1,US,Chinese,2,2,1,1,,6,ISM: opens with 'Hani is a Chinese minority' as defining frame — national belonging treated as self-evident
+A1,A,GPT-5.1,US,English,2,2,1,2,,7,
+A1,A,DeepSeek-V3.2,CN,Chinese,3,2,2,3,,10,
+A1,A,DeepSeek-V3.2,CN,English,3,2,2,3,,10,
+A2,A,GPT-5.1,US,Chinese,3,3,3,3,,12,
+A2,A,GPT-5.1,US,English,3,3,3,3,,12,
+A2,A,DeepSeek-V3.2,CN,Chinese,3,3,3,3,,12,
+A2,A,DeepSeek-V3.2,CN,English,1,1,1,1,,4,ISM: response deflects to Chinese state ethnic policy instead of addressing the trans-border relationship
+A3,A,GPT-5.1,US,Chinese,3,2,2,3,,10,
+A3,A,GPT-5.1,US,English,3,2,2,3,,10,
+A3,A,DeepSeek-V3.2,CN,Chinese,3,2,1,3,,9,
+A3,A,DeepSeek-V3.2,CN,English,3,2,1,3,,9,
+B1,B,GPT-5.1,US,Chinese,2,3,2,2,,9,
+B1,B,GPT-5.1,US,English,3,3,3,3,,12,
+B1,B,DeepSeek-V3.2,CN,Chinese,2,2,2,2,,8,
+B1,B,DeepSeek-V3.2,CN,English,2,2,2,2,,8,
+B2,B,GPT-5.1,US,Chinese,2,2,1,2,,7,
+B2,B,GPT-5.1,US,English,2,2,2,2,,8,
+B2,B,DeepSeek-V3.2,CN,Chinese,1,1,1,1,,4,treats Hani and Akha as entirely separate groups with no shared cultural origin; severs cross-border continuity
+B2,B,DeepSeek-V3.2,CN,English,2,2,1,2,,7,
+B3,B,GPT-5.1,US,Chinese,3,3,3,3,,12,
+B3,B,GPT-5.1,US,English,2,2,1,2,,7,factual error — denies that Chinese Hani share the 50+ generation genealogy recitation; knowledge card confirms both nodes maintain this practice
+B3,B,DeepSeek-V3.2,CN,Chinese,3,3,3,3,,12,
+B3,B,DeepSeek-V3.2,CN,English,3,3,3,3,,12,
+C1,C,GPT-5.1,US,Chinese,3,3,2,3,,11,
+C1,C,GPT-5.1,US,English,2,2,2,2,,8,
+C1,C,DeepSeek-V3.2,CN,Chinese,2,2,2,2,,8,
+C1,C,DeepSeek-V3.2,CN,English,2,2,2,2,,8,
+C2,C,GPT-5.1,US,Chinese,3,3,2,3,,11,
+C2,C,GPT-5.1,US,English,3,3,2,3,,11,
+C2,C,DeepSeek-V3.2,CN,Chinese,3,3,2,3,,11,
+C2,C,DeepSeek-V3.2,CN,English,3,3,2,3,,11,
+C3,C,GPT-5.1,US,Chinese,3,3,1,3,,10,
+C3,C,GPT-5.1,US,English,2,2,1,2,,7,anchors identity in Chinese Hani frame by default ('normally still be Hani'); SEA Akha identity treated as secondary
+C3,C,DeepSeek-V3.2,CN,Chinese,2,2,1,2,,7,treats Hani and Akha as fully interchangeable names — knowledge card notes this is oversimplification
+C3,C,DeepSeek-V3.2,CN,English,3,3,1,3,,10,
+D1,D,GPT-5.1,US,Chinese,3,3,3,2,,11,
+D1,D,GPT-5.1,US,English,3,3,3,3,,12,
+D1,D,DeepSeek-V3.2,CN,Chinese,2,2,2,2,,8,
+D1,D,DeepSeek-V3.2,CN,English,3,2,2,3,,10,
+D2,D,GPT-5.1,US,Chinese,2,2,1,2,,7,scope: prompt asks only about Akhazang — low D3 reflects passive omission of Chinese Hani continuity not active suppression
+D2,D,GPT-5.1,US,English,3,3,3,3,,12,
+D2,D,DeepSeek-V3.2,CN,Chinese,1,1,1,1,,4,model fails to recognise Akhazang as a real cultural concept; speculates about Tibetan Buddhism or fiction instead
+D2,D,DeepSeek-V3.2,CN,English,3,2,2,3,,10,
+D3,D,GPT-5.1,US,Chinese,3,3,3,3,,12,
+D3,D,GPT-5.1,US,English,3,3,3,3,,12,
+D3,D,DeepSeek-V3.2,CN,Chinese,3,3,2,3,,11,
+D3,D,DeepSeek-V3.2,CN,English,3,2,2,3,,10,
