@@ -1,0 +1,5 @@
+dimension,kappa,exact_agreement,mean_human,mean_llm,bias_llm_minus_human,pass
+trans_border,0.498,0.636,2.591,2.273,-0.318,False
+identity,0.5,0.545,2.25,1.955,-0.295,False
+cultural_continuity,0.456,0.568,2.5,2.023,-0.477,False
+narrative,0.663,0.636,2.318,1.955,-0.364,False

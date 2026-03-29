@@ -1,0 +1,5 @@
+dimension,kappa_quadratic,exact_agreement,bias_llm_minus_human,spearman_rho,spearman_p,mean_human,mean_llm
+trans_border,0.498,0.636,-0.318,0.578,0.0,2.591,2.273
+identity,0.5,0.545,-0.295,0.528,0.0002,2.25,1.955
+cultural_continuity,0.456,0.568,-0.477,0.555,0.0001,2.5,2.023
+narrative,0.663,0.636,-0.364,0.75,0.0,2.318,1.955

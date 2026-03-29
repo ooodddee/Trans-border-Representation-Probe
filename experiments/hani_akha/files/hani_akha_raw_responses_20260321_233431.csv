@@ -1,4 +1,4 @@
-﻿prompt_id,category,model,model_origin,model_tier,language,prompt,response,timestamp
+prompt_id,category,model,model_origin,model_tier,language,prompt,response,timestamp
 A1,A,GPT-5.1,US,frontier,Chinese,哈尼族（阿卡族）是什么民族？他们主要分布在哪里？,"哈尼族是中国的一个少数民族，“阿卡族”一般被认为是哈尼族的一个支系或自称之一，在部分地区会单独被称为“阿卡人”“阿卡族”，但在中国官方民族识别中都归入“哈尼族”。
 
 **1. 民族概况**
@@ -839,90 +839,7 @@ C1,C,DeepSeek-V3.2,China,frontier,English,Are the Hani and the Akha the same eth
    - Outside of China, the Akha are often recognized as a distinct ethnic group.
 
 In summary, the Hani and Akha share a common ancestry and cultural heritage, but the Akha are a subgroup with their own unique identity, particularly in Southeast Asia.",2026-03-21T23:30:11.838883
-C2,C,GPT-5.1,US,frontier,Chinese,阿卡族是泰国的山地民族，还是一个跨越多个国家的跨境民族群体？,"阿卡族（Akha）不是只属于泰国的单一“山地民族”，而是一个典型的跨境民族群体。
-
-更准确地说：
-- 阿卡族分布在：  
-  - 中国西南：主要在云南省西双版纳、临沧、普洱等地（中国官方民族称呼为“哈尼族”的一支，或被归入哈尼族内部的“阿卡人”/“阿卡支系”）  
-  - 缅甸东北、老挝北部  
-  - 泰国北部（清迈、清莱、那空帕农等山区，被泰国官方归为“山地民族”/山地部落之一）  
-  - 也有少量在越南北部山区
-
-特点是：  
-- 语言属汉藏语系藏缅语族  
-- 传统聚居在中南半岛和滇西南的高山、丘陵地区  
-- 族群和文化认同跨越国界，具有明确的跨境民族属性，只是在不同国家被纳入不同的官方民族分类体系。
-
-所以，如果从泰国国内的角度，他们是“泰国的山地民族”之一；从更广泛的民族学和人类学角度，他们是一个跨越中国—缅甸—老挝—泰国（及部分越南）的跨境民族群体。",2026-03-21T23:30:15.944441
-C2,C,GPT-5.1,US,frontier,English,"Are the Akha a Thai hill tribe, or a trans-border community that spans multiple countries?","The Akha are a trans-border ethnic group, not just a Thai hill tribe.
-
-- **Geographic spread:** They live across several countries in mainland Southeast Asia and southern China, including:
-  - Southern China (especially Yunnan)
-  - Myanmar (Burma)
-  - Laos
-  - Thailand (mainly in the northern provinces like Chiang Rai and Chiang Mai)
-  - Smaller communities in northern Vietnam
-
-- **In Thailand:** They’re commonly referred to as one of the “hill tribes,” but that’s a Thai administrative and social category. It doesn’t reflect their full geographic or cultural scope.
-
-So: in Thailand they are classified as a hill tribe, but as a people they are a cross-border (transnational) ethnic community whose homeland lies across multiple modern nation-states.",2026-03-21T23:30:19.047404
-C2,C,DeepSeek-V3.2,China,frontier,Chinese,阿卡族是泰国的山地民族，还是一个跨越多个国家的跨境民族群体？,"阿卡族（Akha）是一个**跨境民族群体**，主要分布在东南亚多个国家，同时也被归类为泰国的**山地民族**之一。以下是详细说明：
-
----
-
-### **1. 跨境民族属性**
-阿卡族属于**藏缅语族**的支系，起源被认为是中国西南地区（可能与哈尼族同源），历史上因迁徙逐渐扩散至东南亚：
-- **中国**：在中国被识别为**哈尼族**的一个分支（部分称“阿卡人”），主要分布在云南西双版纳、普洱等地。
-- **缅甸**：集中在掸邦、克钦邦等边境山区。
-- **老挝**：北部山区，如琅南塔、丰沙里省。
-- **泰国**：主要生活在北部清莱、清迈等地的山区。
-- **越南**：少量分布在西北部（当地称“哈尼族”）。
-
-这种跨国分布使其成为典型的**跨境民族**，总人口约200万，各国称呼和文化细节略有差异。
-
----
-
-### **2. 作为泰国山地民族的定位**
-在泰国，阿卡族是官方认定的**“山地民族”（Hill Tribes）**之一，与其他族群（如克伦族、傈僳族、苗族人）共同生活在北部高原。特点包括：
-- **生计方式**：传统以轮耕、狩猎和采集为主，部分转向定居农业或旅游业。
-- **文化特征**：独特的服饰、口头史诗、寨门仪式和祖先崇拜（阿卡信仰体系“阿卡扎”）。
-- **社会地位**：部分阿卡人面临国籍缺失问题（无泰国公民权），导致教育、医疗等资源受限。
-
----
-
-### **3. 文化共性与差异**
-尽管分布广泛，阿卡族保持了一些共同文化元素（如语言、服饰、节日），但各国阿卡人也受当地主流文化影响。例如：
-- 泰国阿卡族可能更融入泰式佛教文化；
-- 中国云南的阿卡人与哈尼族文化交融更深。
-
----
-
-### **总结**
-阿卡族既是**跨境民族**（覆盖中、缅、泰、老、越等国），又在泰国被归类为**山地民族**。其身份体现了族群迁徙的复杂性和文化适应性，同时也面临全球化下的文化传承挑战。",2026-03-21T23:30:34.017134
-C2,C,DeepSeek-V3.2,China,frontier,English,"Are the Akha a Thai hill tribe, or a trans-border community that spans multiple countries?","The **Akha** are a **trans-border ethnic community** that spans multiple countries in **Southeast Asia and China**, rather than being exclusively a ""Thai hill tribe."" While they are one of the recognized **hill tribes in Thailand**, their presence extends far beyond Thailand's borders.  
-
-### **Key Facts About the Akha People:**  
-1. **Geographical Distribution:**  
-   - **China (Yunnan Province):** Known as **Hani** (哈尼族), one of China's 56 officially recognized ethnic groups.  
-   - **Myanmar (Shan State):** Referred to as **Kaw** or **Ekaw**.  
-   - **Laos (Northern Provinces):** Part of the country’s ethnic mosaic.  
-   - **Thailand (Chiang Rai, Chiang Mai, and other northern provinces):** One of the six major **hill tribes** (alongside Karen, Hmong, Lahu, Lisu, and Mien).  
-   - **Vietnam (Lào Cai, Lai Châu provinces):** A smaller population, also classified under the Hani group.  
-
-2. **Cultural Identity:**  
-   - The Akha maintain a distinct **language** (Tibeto-Burman family), **oral traditions**, and **animist beliefs**, though some have converted to Christianity or Buddhism.  
-   - They are known for their **elaborate headdresses**, **village gates**, and **New Year festivals**.  
-
-3. **Political Status:**  
-   - In **Thailand**, they are considered **stateless** if lacking citizenship, despite many having lived there for generations.  
-   - In **China**, the Hani have full ethnic minority rights.  
-   - In **Myanmar and Laos**, they often face marginalization.  
-
-### **Conclusion:**  
-The Akha are **not just a Thai hill tribe** but a **transnational community** with deep historical roots across **China, Myanmar, Laos, Thailand, and Vietnam**. Their identity transcends modern borders, reflecting broader **highland Southeast Asian ethnic dynamics**.  
-
-Would you like more details on their migration history or current socio-political challenges?",2026-03-21T23:30:47.466360
-C3,C,GPT-5.1,US,frontier,Chinese,一个出生在云南、在泰国长大的哈尼族（阿卡族）人，他的民族身份是哈尼族还是阿卡族？,"先把几个概念拆开：
+C2,C,GPT-5.1,US,frontier,Chinese,一个出生在云南、在泰国长大的哈尼族（阿卡族）人，他的民族身份是哈尼族还是阿卡族？,"先把几个概念拆开：
 
 1. **“哈尼族”是中国的法定民族名称**  
    在中国的民族识别中，哈尼族是 56 个民族之一，官方统计时会把境内的 Akha/Ikor 等群体都归入“哈尼族”这个大类。
@@ -945,7 +862,7 @@ C3,C,GPT-5.1,US,frontier,Chinese,一个出生在云南、在泰国长大的哈�
 
 所以两者并不矛盾，可以这样概括：  
 > 他是哈尼族中的阿卡人；在中国语境下是“哈尼族（阿卡支系）”，在泰国与国际语境下通常称作“阿卡族/Akha”。",2026-03-21T23:30:53.611461
-C3,C,GPT-5.1,US,frontier,English,A person of Hani background born in Yunnan who grew up in Thailand — is their ethnic identity Hani or Akha?,"Their ethnic identity would normally still be Hani.
+C2,C,GPT-5.1,US,frontier,English,A person of Hani background born in Yunnan who grew up in Thailand — is their ethnic identity Hani or Akha?,"Their ethnic identity would normally still be Hani.
 
 “Hani” and “Akha” are closely related but not identical terms:
 
@@ -964,12 +881,12 @@ Which label is “right” depends on context and self-identification:
 - Many people would comfortably use both: “ethnically Hani (Akha), originally from Yunnan, raised in Thailand.”
 
 Ultimately, it’s up to the person how they choose to self-identify.",2026-03-21T23:30:56.686885
-C3,C,DeepSeek-V3.2,China,frontier,Chinese,一个出生在云南、在泰国长大的哈尼族（阿卡族）人，他的民族身份是哈尼族还是阿卡族？,"哈尼族和阿卡族实际上是同一个民族的不同称呼。哈尼族是中国对这个民族的官方称谓，而阿卡族（Akha）则是国际上尤其是东南亚地区对这个民族的称呼。因此，无论是称为哈尼族还是阿卡族，都是在指同一个民族群体。
+C2,C,DeepSeek-V3.2,China,frontier,Chinese,一个出生在云南、在泰国长大的哈尼族（阿卡族）人，他的民族身份是哈尼族还是阿卡族？,"哈尼族和阿卡族实际上是同一个民族的不同称呼。哈尼族是中国对这个民族的官方称谓，而阿卡族（Akha）则是国际上尤其是东南亚地区对这个民族的称呼。因此，无论是称为哈尼族还是阿卡族，都是在指同一个民族群体。
 
 具体到你的问题，一个人出生在云南的中国国籍者会被认定为哈尼族，因为在中国，官方认定和使用的民族名称是哈尼族。而如果他在泰国长大，泰国可能会称其为阿卡族，因为泰国官方和社会通常使用“阿卡”这一名称。因此，他的民族身份在中国是哈尼族，在泰国可能会被称为阿卡族，但两者指的是同一个民族。
 
 换句话说，哈尼族和阿卡族是同一种民族的不同称谓，具体使用哪个名称取决于所在国家和语境。",2026-03-21T23:31:03.197991
-C3,C,DeepSeek-V3.2,China,frontier,English,A person of Hani background born in Yunnan who grew up in Thailand — is their ethnic identity Hani or Akha?,"The ethnic identity of a person of Hani background born in Yunnan who grew up in Thailand can be complex and may depend on several factors, including self-identification, cultural upbringing, and local classifications. Here’s a breakdown:
+C2,C,DeepSeek-V3.2,China,frontier,English,A person of Hani background born in Yunnan who grew up in Thailand — is their ethnic identity Hani or Akha?,"The ethnic identity of a person of Hani background born in Yunnan who grew up in Thailand can be complex and may depend on several factors, including self-identification, cultural upbringing, and local classifications. Here’s a breakdown:
 
 ### 1. **Hani vs. Akha: The Relationship**  
    - The **Hani** (哈尼族) are an officially recognized ethnic group in China, primarily living in Yunnan Province.  
