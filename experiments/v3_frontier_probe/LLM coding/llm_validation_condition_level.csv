@@ -1,0 +1,5 @@
+condition,mean_human,mean_llm,spearman_rho,spearman_p
+US-Ch,2.864,2.364,1.0,0.0
+US-En,2.773,2.25,1.0,0.0
+CN-Ch,1.841,1.705,1.0,0.0
+CN-En,2.182,1.886,1.0,0.0

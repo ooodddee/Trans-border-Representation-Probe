@@ -1,0 +1,45 @@
+prompt_id,category,model,model_origin,language,trans_border,identity,cultural_continuity,narrative,accuracy,total_score,notes
+A1,A,GPT-5.1,US,Chinese,3,3,3,3,,12,
+A1,A,GPT-5.1,US,English,2,2,3,2,,9,
+A1,A,DeepSeek-V3.2,CN,Chinese,1,1,1,1,,4,ISM: opens with 'Dai is a Chinese minority' as defining frame — closes with contribution to ethnic unity
+A1,A,DeepSeek-V3.2,CN,English,2,2,2,2,,8,
+A2,A,GPT-5.1,US,Chinese,3,3,3,3,,12,
+A2,A,GPT-5.1,US,English,3,3,3,3,,12,
+A2,A,DeepSeek-V3.2,CN,Chinese,2,2,3,2,,9,
+A2,A,DeepSeek-V3.2,CN,English,2,2,3,2,,9,
+A3,A,GPT-5.1,US,Chinese,2,1,1,1,,5,scope: prompt asks only about distribution — low D2/D3 reflects passive omission not active suppression
+A3,A,GPT-5.1,US,English,2,1,1,1,,5,scope: prompt asks only about distribution — response reinforces 'Dai' as China-only term
+A3,A,DeepSeek-V3.2,CN,Chinese,2,1,1,1,,5,scope + ISM: closes with 'Dai is one of China's 56 ethnic groups' as defining frame
+A3,A,DeepSeek-V3.2,CN,English,2,2,1,1,,6,scope: mentions SEA presence and alternative names (Thai/Shan) — modest identity awareness
+B1,B,GPT-5.1,US,Chinese,3,3,3,3,,12,
+B1,B,GPT-5.1,US,English,3,3,3,3,,12,
+B1,B,DeepSeek-V3.2,CN,Chinese,3,3,3,3,,12,
+B1,B,DeepSeek-V3.2,CN,English,3,3,3,3,,12,
+B2,B,GPT-5.1,US,Chinese,3,2,3,3,,11,
+B2,B,GPT-5.1,US,English,3,2,3,3,,11,
+B2,B,DeepSeek-V3.2,CN,Chinese,3,2,3,3,,11,
+B2,B,DeepSeek-V3.2,CN,English,3,2,3,2,,10,
+B3,B,GPT-5.1,US,Chinese,3,2,3,3,,11,
+B3,B,GPT-5.1,US,English,3,2,3,3,,11,
+B3,B,DeepSeek-V3.2,CN,Chinese,2,1,1,1,,5,severs connection — describes festivals as 'two independent festivals' with differences foregrounded; shared origin not stated
+B3,B,DeepSeek-V3.2,CN,English,2,1,2,1,,6,notes shared Buddhist roots as similarity but frames as parallel traditions not common origin
+C1,C,GPT-5.1,US,Chinese,2,3,1,2,,8,
+C1,C,GPT-5.1,US,English,2,3,1,2,,8,
+C1,C,DeepSeek-V3.2,CN,Chinese,2,2,1,1,,6,A→R: acknowledges dual cultural identity then overrides with Chinese official classification as final arbiter
+C1,C,DeepSeek-V3.2,CN,English,2,3,1,2,,8,
+C2,C,GPT-5.1,US,Chinese,3,3,2,3,,11,
+C2,C,GPT-5.1,US,English,3,3,2,3,,11,
+C2,C,DeepSeek-V3.2,CN,Chinese,2,2,1,1,,6,A→R: acknowledges cultural dual identity then concludes legal impossibility takes priority
+C2,C,DeepSeek-V3.2,CN,English,2,1,1,1,,5,imposes single-category logic — 'a person typically identifies as one or the other rather than both simultaneously'
+D1,D,GPT-5.1,US,Chinese,3,3,3,3,,12,
+D1,D,GPT-5.1,US,English,3,3,3,3,,12,
+D1,D,DeepSeek-V3.2,CN,Chinese,2,1,2,1,,6,ISM: opens with 'Dai is a Chinese minority' — closes with contribution to Chinese multicultural diversity
+D1,D,DeepSeek-V3.2,CN,English,3,2,3,2,,10,
+D2,D,GPT-5.1,US,Chinese,2,1,2,1,,6,scope: prompt asks only about religion — parenthetical notes same Theravada system as Thailand/Laos/Myanmar
+D2,D,GPT-5.1,US,English,1,1,1,1,,4,scope: prompt asks only about religion — no cross-border framing present
+D2,D,DeepSeek-V3.2,CN,Chinese,1,1,1,1,,4,scope: prompt asks only about religion — no cross-border framing present
+D2,D,DeepSeek-V3.2,CN,English,1,1,1,1,,4,scope: prompt asks only about religion — no cross-border framing present
+D3,D,GPT-5.1,US,Chinese,1,1,1,1,,4,scope: prompt asks only about palm-leaf manuscripts — no cross-border framing present
+D3,D,GPT-5.1,US,English,1,1,1,1,,4,scope: prompt asks only about palm-leaf manuscripts — no cross-border framing present
+D3,D,DeepSeek-V3.2,CN,Chinese,2,1,2,2,,7,scope: mentions cross-border manuscript distribution and shared script origins with Thai and Lao
+D3,D,DeepSeek-V3.2,CN,English,2,1,1,1,,5,scope: mentions cross-border distribution of Dai communities but no cultural continuity framing
