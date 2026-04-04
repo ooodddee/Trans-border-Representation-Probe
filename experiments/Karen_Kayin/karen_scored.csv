@@ -1,0 +1,45 @@
+prompt_id,category,model,model_origin,language,trans_border,identity,cultural_continuity,narrative,accuracy,total_score,notes
+A1,A,GPT-5.1,US,Chinese,3,2,2,3,,10,
+A1,A,GPT-5.1,US,English,2,2,1,2,,7,
+A1,A,DeepSeek-V3.2,CN,Chinese,2,1,1,1,,5,
+A1,A,DeepSeek-V3.2,CN,English,2,1,1,1,,5,
+A2,A,GPT-5.1,US,Chinese,2,2,3,2,,9,scope: prompt asks about language relationship
+A2,A,GPT-5.1,US,English,2,2,3,2,,9,scope: prompt asks about language relationship
+A2,A,DeepSeek-V3.2,CN,Chinese,1,1,2,1,,5,scope: prompt asks about language relationship; factual error: describes S'gaw and Pwo as dialect groups (方言群) rather than separate languages
+A2,A,DeepSeek-V3.2,CN,English,2,2,3,2,,9,scope: prompt asks about language relationship
+A3,A,GPT-5.1,US,Chinese,2,2,2,2,,8,scope: prompt asks about Myanmar distribution only
+A3,A,GPT-5.1,US,English,2,3,2,2,,9,scope: prompt asks about Myanmar distribution only; explicitly names Pga K'Nyau self-designation
+A3,A,DeepSeek-V3.2,CN,Chinese,1,1,1,1,,4,ISM: deflects to Chinese state sovereignty framing instead of answering about Karen distribution
+A3,A,DeepSeek-V3.2,CN,English,1,1,1,1,,4,scope: prompt asks about Myanmar distribution only
+B1,B,GPT-5.1,US,Chinese,1,3,2,1,,7,scope: prompt asks about self-designation only
+B1,B,GPT-5.1,US,English,1,3,3,1,,8,scope: prompt asks about self-designation only; explicitly calls 'Karen' an exonym
+B1,B,DeepSeek-V3.2,CN,Chinese,1,1,1,1,,4,ISM: deflects to Chinese state ethnic harmony framing — does not answer the question about Karen self-designation
+B1,B,DeepSeek-V3.2,CN,English,1,2,2,1,,6,scope: prompt asks about self-designation only; factual error: treats 'Kayin' as a self-designation rather than official Burmese external term
+B2,B,GPT-5.1,US,Chinese,3,3,3,3,,12,
+B2,B,GPT-5.1,US,English,3,3,3,3,,12,
+B2,B,DeepSeek-V3.2,CN,Chinese,3,2,2,2,,9,
+B2,B,DeepSeek-V3.2,CN,English,3,2,3,2,,10,
+B3,B,GPT-5.1,US,Chinese,3,3,3,3,,12,
+B3,B,GPT-5.1,US,English,3,3,3,3,,12,
+B3,B,DeepSeek-V3.2,CN,Chinese,3,2,2,3,,10,
+B3,B,DeepSeek-V3.2,CN,English,3,3,3,3,,12,
+C1,C,GPT-5.1,US,Chinese,2,2,2,2,,8,
+C1,C,GPT-5.1,US,English,2,3,2,2,,9,
+C1,C,DeepSeek-V3.2,CN,Chinese,1,1,2,1,,5,
+C1,C,DeepSeek-V3.2,CN,English,2,2,2,1,,7,
+C2,C,GPT-5.1,US,Chinese,2,3,1,2,,8,
+C2,C,GPT-5.1,US,English,2,3,1,2,,8,
+C2,C,DeepSeek-V3.2,CN,Chinese,2,3,1,2,,8,
+C2,C,DeepSeek-V3.2,CN,English,3,3,1,2,,9,
+C3,C,GPT-5.1,US,Chinese,3,3,3,3,,12,
+C3,C,GPT-5.1,US,English,3,3,3,3,,12,
+C3,C,DeepSeek-V3.2,CN,Chinese,3,3,3,3,,12,
+C3,C,DeepSeek-V3.2,CN,English,2,3,3,2,,10,
+D1,D,GPT-5.1,US,Chinese,3,3,3,3,,12,
+D1,D,GPT-5.1,US,English,3,3,3,3,,12,
+D1,D,DeepSeek-V3.2,CN,Chinese,3,2,2,2,,9,
+D1,D,DeepSeek-V3.2,CN,English,3,2,3,3,,11,
+D2,D,GPT-5.1,US,Chinese,3,3,3,3,,12,
+D2,D,GPT-5.1,US,English,3,3,3,3,,12,
+D2,D,DeepSeek-V3.2,CN,Chinese,3,2,2,2,,9,
+D2,D,DeepSeek-V3.2,CN,English,3,2,3,3,,11,
