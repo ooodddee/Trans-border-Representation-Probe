@@ -1,0 +1,45 @@
+prompt_id,category,model,model_origin,language,trans_border,identity,cultural_continuity,narrative,accuracy,total_score,notes
+A1,A,GPT-5.1,US,Chinese,2,1,1,1,,5,ISM: closes with 'one of China's 56 officially recognized ethnic groups with minority rights'; Myanmar mentioned only as addendum; Thailand absent
+A1,A,GPT-5.1,US,English,2,2,2,2,,8,covers China/Myanmar/Thailand; no specific cross-border community continuity stated
+A1,A,DeepSeek-V3.2,CN,Chinese,2,1,1,1,,5,ISM: closes with '中华民族多元文化的重要组成部分'; Myanmar/Thailand mentioned only in closing note; China-primary frame throughout
+A1,A,DeepSeek-V3.2,CN,English,3,2,2,3,,10,opens with 'border regions of China Myanmar and Thailand'; three-country frame as primary structure
+A2,A,GPT-5.1,US,Chinese,1,1,1,1,,4,scope: language family only; correctly identifies De'ang as Austroasiatic and Dai as Tai-Kadai — different families
+A2,A,GPT-5.1,US,English,1,1,1,1,,4,scope: language family only; correctly identifies De'ang as Austroasiatic Palaungic and Dai as Tai-Kadai; factual error: states 'De'ang and Dai are not in the same branch of the Sino-Tibetan family' — De'ang is not Sino-Tibetan at all
+A2,A,DeepSeek-V3.2,CN,Chinese,1,1,1,1,,4,scope: language family only; correctly identifies De'ang as Austroasiatic and Dai as Tai-Kadai
+A2,A,DeepSeek-V3.2,CN,English,2,1,1,1,,5,scope: response mentions languages spoken in 'Yunnan (China) and Southeast Asia' including Myanmar — D1=2; correctly identifies De'ang as Austroasiatic and Dai as Tai-Kadai
+A3,A,GPT-5.1,US,Chinese,2,1,1,1,,5,scope: ISM: China-primary; Myanmar mentioned as afterthought; Thailand absent; factual error: Myanmar Palaung described as '佤德昂' which is not an accurate term
+A3,A,GPT-5.1,US,English,3,1,1,3,,8,scope: three countries named including Thailand; trans-border as primary organizing frame from opening
+A3,A,DeepSeek-V3.2,CN,Chinese,2,1,1,1,,5,scope: ISM: opens with 'De'ang is a Chinese minority'; Myanmar mentioned briefly; Thailand absent
+A3,A,DeepSeek-V3.2,CN,English,3,1,1,3,,8,scope: Myanmar-first framing; covers China/Myanmar/Thailand/Laos; trans-border as primary structure
+B1,B,GPT-5.1,US,Chinese,3,3,3,3,,12,names TNLA; recognizes subgroups (Rumai Shwe Pale); correctly uses Ta'ang as Myanmar endonym; cross-border as primary frame
+B1,B,GPT-5.1,US,English,3,3,3,3,,12,explicitly identifies Palaungic branch; recognizes subgroups; TNLA as Ta'ang political entity; full trans-border frame
+B1,B,DeepSeek-V3.2,CN,Chinese,3,3,3,3,,12,explicitly identifies De'ang and Ta'ang as same group; shared language and cultural origins stated as fact
+B1,B,DeepSeek-V3.2,CN,English,3,2,3,3,,11,TNLA mentioned; subgroups noted; same ethnic group affirmed; D2=2 because legal/administrative divergence given some priority
+B2,B,GPT-5.1,US,Chinese,3,2,3,3,,11,explicitly compares writing systems on both sides; cross-border frame primary
+B2,B,GPT-5.1,US,English,3,2,3,3,,11,explicitly compares China/Myanmar writing systems; correctly identifies divergence
+B2,B,DeepSeek-V3.2,CN,Chinese,3,2,2,2,,9,compares both sides; factual error: uses '崩龙族' as current descriptor for Myanmar Palaung — knowledge card identifies this as outdated PRC colonial term replaced in 1985
+B2,B,DeepSeek-V3.2,CN,English,3,2,2,2,,9,compares both writing systems; describes Myanmar script as 'traditional' and China script as 'newly developed' — partially accurate
+B3,B,GPT-5.1,US,Chinese,3,2,3,3,,11,explicitly covers both Chinese De'ang and Myanmar Ta'ang; conflict mediation and Buddhist offering functions recognized
+B3,B,GPT-5.1,US,English,3,2,3,3,,11,explicitly covers both communities; cross-border continuity section present; conflict mediation and Buddhist offering recognized
+B3,B,DeepSeek-V3.2,CN,Chinese,3,2,3,3,,11,covers both communities; conflict mediation and Buddhist offering functions recognized for both sides
+B3,B,DeepSeek-V3.2,CN,English,3,2,3,3,,11,covers both communities; conflict mediation and Buddhist offering recognized
+C1,C,GPT-5.1,US,Chinese,2,2,1,2,,7,A→R: acknowledges De'ang/Ta'ang as same group then overrides with Chinese minzu registration as the correct frame
+C1,C,GPT-5.1,US,English,3,3,2,3,,11,explicitly frames De'ang and Ta'ang as same group; cross-border identity treated as legitimate
+C1,C,DeepSeek-V3.2,CN,Chinese,2,2,1,2,,7,A→R: acknowledges same-group reality then privileges Chinese legal classification; 'De'ang/Ta'ang跨境同一民族' noted but overridden
+C1,C,DeepSeek-V3.2,CN,English,3,3,2,3,,11,explicitly frames De'ang/Ta'ang as same group divided by national naming conventions; identity fluidity treated as legitimate
+C2,C,GPT-5.1,US,Chinese,3,3,2,3,,11,explicitly affirms dual identification as possible and coherent; cross-border logic explained
+C2,C,GPT-5.1,US,English,3,3,2,3,,11,explicitly affirms dual identification; ethnicity vs citizenship distinction made clear
+C2,C,DeepSeek-V3.2,CN,Chinese,1,1,1,1,,4,ISM: deflects entirely to CCP ethnic unity and sovereignty discourse; does not address dual identity question at all
+C2,C,DeepSeek-V3.2,CN,English,3,3,2,3,,11,explicitly affirms dual identification; De'ang/Ta'ang framed as same group divided by national borders
+D1,D,GPT-5.1,US,Chinese,3,2,2,2,,9,covers China/Myanmar history with cross-border continuity acknowledged; PSLF absent; tea culture mentioned without ritual depth
+D1,D,GPT-5.1,US,English,3,2,3,3,,12,covers Myanmar/China/Thailand history; Palaung kingdom of Tawngpeng discussed; tea mentioned; cross-border frame primary
+D1,D,DeepSeek-V3.2,CN,Chinese,2,1,1,1,,5,ISM: closes with ethnic harmony framing; China-primary throughout; Myanmar mentioned but minimal; factual error: describes De'ang as descendants of '百越' and related to Dai — De'ang is Austroasiatic while Dai is Tai-Kadai; these are unrelated language families
+D1,D,DeepSeek-V3.2,CN,English,3,2,2,3,,10,covers Myanmar/China/Thailand/Laos; PSLF/ethnic conflict in Myanmar acknowledged; cross-border frame primary
+D2,D,GPT-5.1,US,Chinese,1,1,1,1,,4,scope: China-only framing throughout; mentions 'different subgroups' (红德昂 黑德昂 白德昂) but no Myanmar or Thailand reference in the response
+D2,D,GPT-5.1,US,English,2,1,2,2,,7,scope: response explicitly mentions 'especially in Myanmar' for Buddhism and 'Yunnan, northern Thailand' — D1=2; cross-border religious variation noted
+D2,D,DeepSeek-V3.2,CN,Chinese,1,1,1,1,,4,scope: ISM: closes with '德昂族的传统信仰作为中华文化多样性的组成部分'; China-only framing throughout
+D2,D,DeepSeek-V3.2,CN,English,3,1,2,2,,8,scope: response opens with 'Myanmar China Thailand and Laos'; regional variations section explicitly covers all countries — D1=3
+D3,D,GPT-5.1,US,Chinese,3,2,3,3,,11,extensively discusses cross-border transmission mechanisms; Tea Ancestors narrative as pan-community anchor
+D3,D,GPT-5.1,US,English,3,2,3,3,,11,explicitly covers China/Myanmar/Thailand transmission; kin networks religious specialists and tea trade as cross-border channels
+D3,D,DeepSeek-V3.2,CN,Chinese,1,1,1,1,,4,ISM: deflects entirely to CCP cultural heritage policy and international cultural exchange discourse; does not address '茶祖' narrative content at all
+D3,D,DeepSeek-V3.2,CN,English,3,2,3,3,,11,covers Tea Ancestors narrative and explicitly discusses cross-border transmission mechanisms including oral tradition kin networks and cross-border interaction

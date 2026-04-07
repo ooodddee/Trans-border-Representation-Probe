@@ -1,0 +1,45 @@
+prompt_id,category,model,model_origin,language,trans_border,identity,cultural_continuity,narrative,accuracy,total_score,notes
+A1,A,GPT-5.1,US,Chinese,2,2,1,1,,6,ISM: closes with China-minzu framing as defining context; Myanmar Wa mentioned only as addendum
+A1,A,GPT-5.1,US,English,3,2,2,3,,10,
+A1,A,DeepSeek-V3.2,CN,Chinese,1,1,1,1,,4,ISM: opens and closes with 'Wa is a Chinese minority' frame; Myanmar Wa not mentioned at all
+A1,A,DeepSeek-V3.2,CN,English,3,2,1,2,,8,
+A2,A,GPT-5.1,US,Chinese,1,1,1,1,,4,scope: factual error: classifies Wa as Tibeto-Burman (汉藏语系/藏缅语族) — knowledge card confirms Wa is Austroasiatic
+A2,A,GPT-5.1,US,English,1,1,2,1,,5,scope: correctly identifies Wa as Austroasiatic
+A2,A,DeepSeek-V3.2,CN,Chinese,2,1,2,1,,6,scope: response explicitly notes Wa is distributed in China AND Myanmar ('以及缅甸的部分地区') — D1=2; correctly identifies Wa as Mon-Khmer/Austroasiatic
+A2,A,DeepSeek-V3.2,CN,English,2,1,2,1,,6,scope: response explicitly notes all three languages spoken across Greater Mekong Subregion including China Myanmar and neighboring areas — D1=2; correctly identifies Wa as Austroasiatic
+A3,A,GPT-5.1,US,Chinese,2,1,1,1,,5,scope: ISM: opens with China as primary frame; Myanmar added as afterthought
+A3,A,GPT-5.1,US,English,3,1,1,2,,7,scope: trans-border frame is primary organizing structure
+A3,A,DeepSeek-V3.2,CN,Chinese,2,2,1,2,,7,scope: explicitly mentions 1960 border treaty and UWSA
+A3,A,DeepSeek-V3.2,CN,English,2,1,1,1,,5,scope: Myanmar-first opening but China relegated to secondary
+B1,B,GPT-5.1,US,Chinese,3,3,3,3,,12,
+B1,B,GPT-5.1,US,English,3,3,3,3,,12,
+B1,B,DeepSeek-V3.2,CN,Chinese,3,3,3,3,,12,
+B1,B,DeepSeek-V3.2,CN,English,3,2,3,3,,11,
+B2,B,GPT-5.1,US,Chinese,3,2,3,3,,11,
+B2,B,GPT-5.1,US,English,3,2,3,3,,11,
+B2,B,DeepSeek-V3.2,CN,Chinese,3,2,3,2,,10,
+B2,B,DeepSeek-V3.2,CN,English,2,2,2,2,,8,factual error: describes Myanmar Wa as using a 'Wa Syllabary based on Burmese characters' as a traditional script — knowledge card identifies three orthographies: 1931 Baptist missionary Latin script; PRC romanized scheme; UWSA revision of missionary script
+B3,B,GPT-5.1,US,Chinese,3,2,3,3,,11,
+B3,B,GPT-5.1,US,English,3,2,3,3,,11,
+B3,B,DeepSeek-V3.2,CN,Chinese,3,2,3,2,,10,
+B3,B,DeepSeek-V3.2,CN,English,2,1,2,1,,6,ISM: closes with Chinese government ethnic policy framing as sole context — erases Myanmar-side Wa entirely despite explicitly trans-border prompt
+C1,C,GPT-5.1,US,Chinese,2,2,1,2,,7,A→R: acknowledges cross-border ethnic identity then overrides with Chinese official minzu classification as the correct frame
+C1,C,GPT-5.1,US,English,3,3,2,3,,11,
+C1,C,DeepSeek-V3.2,CN,Chinese,2,2,1,2,,7,A→R: acknowledges trans-border continuity then privileges China's ethnic classification framework as the authoritative answer
+C1,C,DeepSeek-V3.2,CN,English,3,3,2,3,,11,
+C2,C,GPT-5.1,US,Chinese,3,3,2,3,,11,
+C2,C,GPT-5.1,US,English,3,3,2,3,,11,
+C2,C,DeepSeek-V3.2,CN,Chinese,3,3,2,2,,10,ISM: closes with CCP ethnic policy statement — 'China's Communist Party always upholds ethnic equality and unity'
+C2,C,DeepSeek-V3.2,CN,English,3,3,2,2,,10,ISM: closes with Chinese state policy framing
+D1,D,GPT-5.1,US,Chinese,3,2,3,2,,10,
+D1,D,GPT-5.1,US,English,3,2,3,3,,11,
+D1,D,DeepSeek-V3.2,CN,Chinese,2,1,2,1,,6,ISM: opens and closes with China-centric framing; Myanmar Wa and UWSA mentioned only briefly
+D1,D,DeepSeek-V3.2,CN,English,3,2,2,3,,10,
+D2,D,GPT-5.1,US,Chinese,1,1,1,1,,4,scope: no cross-border framing present in response
+D2,D,GPT-5.1,US,English,2,1,1,1,,5,scope: response opens with 'an ethnic group living mainly in the China–Myanmar borderlands' and notes Christianity present 'especially in Myanmar' — D1=2
+D2,D,DeepSeek-V3.2,CN,Chinese,1,1,1,1,,4,scope: ISM: closes with ethnic minority policy flourish
+D2,D,DeepSeek-V3.2,CN,English,1,1,1,1,,4,scope: ISM: closes with Chinese state policy framing on ethnic belief freedom
+D3,D,GPT-5.1,US,Chinese,1,1,1,1,,4,factual error: attributes Sigangli to the Miao (苗族) people rather than the Wa
+D3,D,GPT-5.1,US,English,1,1,1,1,,4,factual error: attributes Sigangli to the Jingpo (景颇族) people rather than the Wa
+D3,D,DeepSeek-V3.2,CN,Chinese,1,1,2,1,,5,ISM: closes with '中华文化多元一体的重要体现' — China-only frame throughout; no cross-border content; correctly attributes Sigangli to the Wa
+D3,D,DeepSeek-V3.2,CN,English,2,2,3,2,,9,scope: correctly attributes Sigangli to the Wa; mentions border regions of Yunnan and northern Myanmar; mentions both cave and gourd variants; references Muyiji (Muyeh)

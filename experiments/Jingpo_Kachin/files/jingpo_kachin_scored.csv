@@ -1,0 +1,45 @@
+prompt_id,category,model,model_origin,language,trans_border,identity,cultural_continuity,narrative,accuracy,total_score,notes
+A1,A,GPT-5.1,US,Chinese,3,3,2,3,,11,
+A1,A,GPT-5.1,US,English,3,3,2,3,,11,recognizes Singpho node in India; correctly frames Jingpo-Kachin as same transborder group
+A1,A,DeepSeek-V3.2,CN,Chinese,3,3,3,3,,12,
+A1,A,DeepSeek-V3.2,CN,English,2,2,2,2,,8,
+A2,A,GPT-5.1,US,Chinese,1,1,1,1,,4,scope: factual error: classifies Jinghpaw as Tibeto-Burman and places it within the same broad system as Dai and De'ang (汉藏语系) — Dai is Tai-Kadai and De'ang is Austroasiatic
+A2,A,GPT-5.1,US,English,1,1,2,1,,5,scope: correctly identifies Jinghpaw as Sal/Jingpho-Luish branch of Tibeto-Burman
+A2,A,DeepSeek-V3.2,CN,Chinese,2,1,1,1,,5,scope: response explicitly notes Jinghpaw used in China Yunnan AND northern Myanmar ('中国云南省和缅甸北部') — D1=2; factual error: classifies Dai and De'ang under 汉藏语系
+A2,A,DeepSeek-V3.2,CN,English,2,1,2,1,,6,scope: response explicitly notes Jinghpaw spoken in Myanmar and China — D1=2; correctly identifies all three as different families
+A3,A,GPT-5.1,US,Chinese,3,2,1,2,,8,scope: recognizes India node explicitly
+A3,A,GPT-5.1,US,English,3,2,1,3,,9,scope: triangular trans-border frame dominant from opening
+A3,A,DeepSeek-V3.2,CN,Chinese,3,2,1,3,,9,scope: explicitly mentions Singpho in India as part of same group
+A3,A,DeepSeek-V3.2,CN,English,3,2,1,3,,9,scope: names Singpho explicitly; triangular structure as primary frame
+B1,B,GPT-5.1,US,Chinese,3,3,3,3,,12,explicitly names Wunpawng as the self-designation
+B1,B,GPT-5.1,US,English,3,3,3,3,,12,
+B1,B,DeepSeek-V3.2,CN,Chinese,3,3,3,2,,11,
+B1,B,DeepSeek-V3.2,CN,English,3,3,3,3,,12,
+B2,B,GPT-5.1,US,Chinese,3,3,3,3,,12,
+B2,B,GPT-5.1,US,English,3,3,3,3,,12,
+B2,B,DeepSeek-V3.2,CN,Chinese,2,1,2,1,,6,ISM: deflects to CCP ethnic policy and China-Myanmar friendship framing — does not substantively address cultural continuity question
+B2,B,DeepSeek-V3.2,CN,English,3,2,3,3,,11,
+B3,B,GPT-5.1,US,Chinese,3,3,3,3,,12,explicitly connects Singpho to Jingpo/Kachin as same community
+B3,B,GPT-5.1,US,English,3,3,3,3,,12,triangular trans-border frame from opening; Singpho treated as same group
+B3,B,DeepSeek-V3.2,CN,Chinese,2,2,2,2,,8,frames connection as 'possible' common ancestry rather than established fact; knowledge card indicates Singpho-Jingpo are same group
+B3,B,DeepSeek-V3.2,CN,English,3,3,3,3,,12,
+C1,C,GPT-5.1,US,Chinese,2,2,1,2,,7,A→R: acknowledges Jingpo-Kachin as same ethnic group but closes with Chinese minzu classification as the authoritative answer
+C1,C,GPT-5.1,US,English,3,3,2,3,,11,
+C1,C,DeepSeek-V3.2,CN,Chinese,2,3,2,2,,9,
+C1,C,DeepSeek-V3.2,CN,English,3,3,2,3,,11,
+C2,C,GPT-5.1,US,Chinese,3,3,2,3,,11,explicitly names Wunpawng and explains its pan-Kachin scope
+C2,C,GPT-5.1,US,English,3,3,2,3,,11,explicitly defines Wunpawng and affirms dual identification as coherent
+C2,C,DeepSeek-V3.2,CN,Chinese,1,1,1,1,,4,ISM: deflects entirely to Chinese state ethnic unity discourse — does not address the Wunpawng question at all
+C2,C,DeepSeek-V3.2,CN,English,3,3,2,3,,11,correctly identifies Wunpawng as self-designation used in Myanmar and diaspora
+D1,D,GPT-5.1,US,Chinese,3,3,3,3,,12,
+D1,D,GPT-5.1,US,English,3,3,3,3,,12,
+D1,D,DeepSeek-V3.2,CN,Chinese,3,3,3,3,,12,
+D1,D,DeepSeek-V3.2,CN,English,3,2,3,3,,11,
+D2,D,GPT-5.1,US,Chinese,1,1,1,1,,4,scope: response describes Jingpo social systems with no geographic reference — no cross-border framing present
+D2,D,GPT-5.1,US,English,1,1,1,1,,4,scope: response describes Kachin/Jingpo social systems with no country-level geographic framing
+D2,D,DeepSeek-V3.2,CN,Chinese,1,1,1,1,,4,scope: response describes 景颇族（克钦族）社会 systems with no geographic reference — no cross-border framing present
+D2,D,DeepSeek-V3.2,CN,English,2,1,1,1,,5,scope: response opens 'an ethnic group primarily residing in northern Myanmar and parts of southwestern China' — D1=2
+D3,D,GPT-5.1,US,Chinese,3,2,3,3,,11,
+D3,D,GPT-5.1,US,English,3,2,3,3,,11,
+D3,D,DeepSeek-V3.2,CN,Chinese,2,2,2,2,,8,
+D3,D,DeepSeek-V3.2,CN,English,3,2,3,3,,11,
