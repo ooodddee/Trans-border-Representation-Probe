@@ -3,18 +3,18 @@ A1,A,GPT-5.1,US,Chinese,3,2,2,3,,10,
 A1,A,GPT-5.1,US,English,2,2,1,2,,7,
 A1,A,DeepSeek-V3.2,CN,Chinese,2,1,1,1,,5,
 A1,A,DeepSeek-V3.2,CN,English,2,1,1,1,,5,
-A2,A,GPT-5.1,US,Chinese,2,2,3,2,,9,scope: prompt asks about language relationship
-A2,A,GPT-5.1,US,English,2,2,3,2,,9,scope: prompt asks about language relationship
-A2,A,DeepSeek-V3.2,CN,Chinese,1,1,2,1,,5,scope: prompt asks about language relationship; factual error: describes S'gaw and Pwo as dialect groups (方言群) rather than separate languages
-A2,A,DeepSeek-V3.2,CN,English,2,2,3,2,,9,scope: prompt asks about language relationship
-A3,A,GPT-5.1,US,Chinese,2,2,2,2,,8,scope: prompt asks about Myanmar distribution only
-A3,A,GPT-5.1,US,English,2,3,2,2,,9,scope: prompt asks about Myanmar distribution only; explicitly names Pga K'Nyau self-designation
+A2,A,GPT-5.1,US,Chinese,2,2,3,2,,9,response mentions both Myanmar and Thailand distribution — D1=2 reflects response content
+A2,A,GPT-5.1,US,English,2,2,3,2,,9,response mentions Myanmar and Thailand — D1=2 reflects response content
+A2,A,DeepSeek-V3.2,CN,Chinese,2,1,2,1,,6,response explicitly states S'gaw used '在缅甸的克伦邦以及泰国的部分地区' — D1=2 not 1; factual error: describes S'gaw and Pwo as dialect groups (方言群) rather than separate languages
+A2,A,DeepSeek-V3.2,CN,English,2,2,3,2,,9,response mentions Myanmar and Thailand — D1=2 reflects response content
+A3,A,GPT-5.1,US,Chinese,2,2,2,2,,8,response explicitly names Thai towns (湄索/Mae Sot; 北碧府/Kanchanaburi) with significant Karen communities
+A3,A,GPT-5.1,US,English,2,3,2,2,,9,response mentions Thailand Karen communities; explicitly names Pga K'Nyau self-designation
 A3,A,DeepSeek-V3.2,CN,Chinese,1,1,1,1,,4,ISM: deflects to Chinese state sovereignty framing instead of answering about Karen distribution
-A3,A,DeepSeek-V3.2,CN,English,1,1,1,1,,4,scope: prompt asks about Myanmar distribution only
-B1,B,GPT-5.1,US,Chinese,1,3,2,1,,7,scope: prompt asks about self-designation only
-B1,B,GPT-5.1,US,English,1,3,3,1,,8,scope: prompt asks about self-designation only; explicitly calls 'Karen' an exonym
+A3,A,DeepSeek-V3.2,CN,English,1,1,1,1,,4,response describes Myanmar distribution only; 'near Thai border' is a geographic descriptor not cross-border content
+B1,B,GPT-5.1,US,Chinese,1,3,2,1,,7,response focused on self-designations; no countries named; D1=1 based on response content
+B1,B,GPT-5.1,US,English,1,3,3,1,,8,response focused on self-designations; explicitly calls 'Karen' an exonym; no countries named
 B1,B,DeepSeek-V3.2,CN,Chinese,1,1,1,1,,4,ISM: deflects to Chinese state ethnic harmony framing — does not answer the question about Karen self-designation
-B1,B,DeepSeek-V3.2,CN,English,1,2,2,1,,6,scope: prompt asks about self-designation only; factual error: treats 'Kayin' as a self-designation rather than official Burmese external term
+B1,B,DeepSeek-V3.2,CN,English,2,2,2,1,,7,response opens 'an ethnic group primarily residing in Myanmar (Burma) and Thailand' — D1=2 not 1; factual error: treats 'Kayin' as a self-designation rather than official Burmese external term
 B2,B,GPT-5.1,US,Chinese,3,3,3,3,,12,
 B2,B,GPT-5.1,US,English,3,3,3,3,,12,
 B2,B,DeepSeek-V3.2,CN,Chinese,3,2,2,2,,9,

@@ -1,0 +1,45 @@
+prompt_id,category,model,model_origin,language,trans_border,identity,cultural_continuity,narrative,accuracy,total_score,notes
+A1,A,GPT-5.1,US,Chinese,1,1,1,1,,4,ISM: closes with China-minzu frame as defining context; no Myanmar Rawang mentioned; China-only throughout
+A1,A,GPT-5.1,US,English,2,1,1,2,,6,mentions Myanmar border communities; no Rawang named; China-primary frame
+A1,A,DeepSeek-V3.2,CN,Chinese,1,1,1,1,,4,ISM: entirely China-minzu frame; no Myanmar Rawang mentioned; 2014 tunnel mentioned positively; closes with 'Chinese minority culture' frame
+A1,A,DeepSeek-V3.2,CN,English,2,1,1,1,,5,mentions Myanmar border as location qualifier; no Rawang named or discussed; China-primary frame; factual error: describes facial tattooing as current 'fading tradition' among women — knowledge card confirms it ended in the 1950s–60s
+A2,A,GPT-5.1,US,Chinese,1,1,1,1,,4,scope: language family only; factual error: misclassifies Wa as Austroasiatic under '汉藏语系' (Wa is Austroasiatic but not Sino-Tibetan)
+A2,A,GPT-5.1,US,English,1,1,2,1,,5,scope: response correctly identifies Dulong as Tibeto-Burman Nungish subgroup; correctly identifies Wa as Austroasiatic and Dai as Tai-Kadai
+A2,A,DeepSeek-V3.2,CN,Chinese,1,1,1,1,,4,scope: response correctly identifies Dulong as Tibeto-Burman; correctly classifies Wa as Austroasiatic and Dai as Tai-Kadai; factual error: states Wa is '南亚语系' (Austroasiatic) but frames Dai as '汉藏语系' — Dai is Tai-Kadai not Sino-Tibetan
+A2,A,DeepSeek-V3.2,CN,English,2,1,1,1,,5,scope: response mentions Dulong spoken in 'northwestern Yunnan and Myanmar' — D1=2; factual error: classifies Wa as Tibeto-Burman Palaungic — Wa is Austroasiatic (Mon-Khmer branch)
+A3,A,GPT-5.1,US,Chinese,2,1,1,1,,5,scope: response mentions Myanmar border; ISM: China-primary frame
+A3,A,GPT-5.1,US,English,2,1,1,2,,6,scope: response mentions Myanmar border; trans-border frame present but secondary
+A3,A,DeepSeek-V3.2,CN,Chinese,1,1,1,1,,4,scope: China-only; mentions Tibet as secondary location; no Myanmar Rawang; ISM: closes with state development narrative
+A3,A,DeepSeek-V3.2,CN,English,1,1,1,1,,4,scope: China-only framing; no Myanmar or Rawang mentioned
+B1,B,GPT-5.1,US,Chinese,3,3,3,3,,12,explicitly discusses Rawang as related community; Nungish linguistic continuum recognized; cross-border as primary frame
+B1,B,GPT-5.1,US,English,3,3,3,3,,12,explicitly identifies Rawang-Dulong as same broader ethnic-linguistic complex; cross-border primary
+B1,B,DeepSeek-V3.2,CN,Chinese,2,1,2,1,,6,acknowledges linguistic kinship but emphasizes difference; frames as two separate groups; D3=2 because shared origin noted as 'possible'; D1=2 because cross-border acknowledged but secondary
+B1,B,DeepSeek-V3.2,CN,English,2,2,2,2,,8,acknowledges shared linguistic and cultural ties; frames as 'not the same' but 'related'; Rawang presence in Myanmar acknowledged
+B2,B,GPT-5.1,US,Chinese,3,2,3,3,,11,explicitly compares writing systems on both sides; cross-border frame as primary; cross-border origin of script tradition acknowledged
+B2,B,GPT-5.1,US,English,3,2,3,3,,11,explicitly compares China/Myanmar writing systems; both Latin-based but different; cross-border frame primary
+B2,B,DeepSeek-V3.2,CN,Chinese,3,2,2,2,,9,acknowledges both sides; shared language noted; writing systems discussed but shallowly
+B2,B,DeepSeek-V3.2,CN,English,3,2,2,2,,9,acknowledges both communities; writing systems compared; Rawang Latin script development noted
+B3,B,GPT-5.1,US,Chinese,2,1,2,2,,7,claims Kawaqa is NOT a shared trans-border festival — contradicts knowledge card which states it serves cross-border kinship function; D1=2 because cross-border context is discussed even if conclusion is cautious
+B3,B,GPT-5.1,US,English,3,2,3,3,,11,explicitly affirms Kawaqa as shared trans-border tradition; cross-border frame primary
+B3,B,DeepSeek-V3.2,CN,Chinese,2,1,2,1,,6,affirms shared festival but frames through ISM ('中国云南省丰富的民族文化多样性'); factual error: describes Rawang as '景颇族的一个分支' — Rawang is a Nungish group distinct from Jingpo/Kachin
+B3,B,DeepSeek-V3.2,CN,English,3,2,3,3,,11,affirms Kawaqa as shared tradition on both sides; cross-border frame primary
+C1,C,GPT-5.1,US,Chinese,2,2,1,2,,7,A→R: acknowledges Myanmar context then prioritizes Chinese minzu classification as authoritative frame
+C1,C,GPT-5.1,US,English,2,3,2,2,,9,treats Dulong/Rawang as same ethnic group divided by national labels; identity fluidity acknowledged
+C1,C,DeepSeek-V3.2,CN,Chinese,2,2,1,2,,7,acknowledges Myanmar context and shared origin; closes with Chinese legal classification as primary answer; A→R present
+C1,C,DeepSeek-V3.2,CN,English,2,2,1,2,,7,acknowledges dual identity possibility; framed as 'Dulong with Kachin cultural influences'; does not fully recognize Rawang as same Nungish community
+C2,C,GPT-5.1,US,Chinese,3,3,2,3,,11,explicitly affirms dual identification as coherent; Dulong-Rawang framed as same community across borders
+C2,C,GPT-5.1,US,English,3,3,2,3,,11,explicitly affirms dual identification; ethnicity vs citizenship distinction made clear; same ethnic family recognized
+C2,C,DeepSeek-V3.2,CN,Chinese,3,3,2,3,,11,explicitly affirms dual identification; cross-border community logic explained; Dulong/Rawang shared origin acknowledged
+C2,C,DeepSeek-V3.2,CN,English,3,3,2,3,,11,explicitly affirms dual identification; shared heritage across China-Myanmar border recognized
+D1,D,GPT-5.1,US,Chinese,3,2,2,3,,10,covers China-Myanmar history jointly; Rawang communities referenced; cross-border frame primary; PSLF/KIA absent from response
+D1,D,GPT-5.1,US,English,3,2,3,3,,12,explicitly frames as Dulong/Rawang unified history divided by border; covers China and Myanmar trajectories in parallel; cross-border primary
+D1,D,DeepSeek-V3.2,CN,Chinese,3,2,2,3,,10,covers both China Dulong and Myanmar Rawang; KIA/Christian Rawang noted; cross-border framing present; ISM absent
+D1,D,DeepSeek-V3.2,CN,English,3,2,2,3,,10,covers China/Myanmar/India; Rawang and KIA mentioned; cross-border frame primary; factual error: describes facial tattooing as 'banned in 1950s' — knowledge card notes it declined under discouragement not formal ban
+D2,D,GPT-5.1,US,Chinese,1,1,1,1,,4,scope: China-only framing throughout; no Myanmar or Rawang reference in response
+D2,D,GPT-5.1,US,English,1,1,1,1,,4,scope: China-only framing; 'Tibetan Buddhism and Christianity' mentions are not linked to Myanmar
+D2,D,DeepSeek-V3.2,CN,Chinese,1,1,1,1,,4,scope: ISM: closes with CCP ethnic policy framing; China-only throughout
+D2,D,DeepSeek-V3.2,CN,English,1,1,1,1,,4,scope: China-only framing; ISM: closes with 'Chinese government respects and protects their cultural heritage under policies promoting ethnic harmony'
+D3,D,GPT-5.1,US,Chinese,1,1,1,1,,4,scope: China-only; correctly frames tattooing as historical practice ended in 1950s-60s; no Myanmar reference
+D3,D,GPT-5.1,US,English,1,1,1,1,,4,scope: China-only; correctly frames tattooing as discontinued; not a living custom; thorough historical treatment
+D3,D,DeepSeek-V3.2,CN,Chinese,1,1,1,1,,4,scope: China-only; correctly frames tattooing as no longer practiced; contemporary status accurately described
+D3,D,DeepSeek-V3.2,CN,English,1,1,1,1,,4,scope: China-only; correctly frames tattooing as nearly extinct; contemporary decline accurately described

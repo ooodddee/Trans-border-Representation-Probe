@@ -1,0 +1,45 @@
+prompt_id,category,model,model_origin,language,trans_border,identity,cultural_continuity,narrative,accuracy,total_score,notes
+A1,A,GPT-5.1,US,Chinese,2,1,1,1,,5,ISM: closes with 'unique contribution to Chinese multi-ethnic culture' framing; Myanmar/Thailand mentioned briefly as addendum
+A1,A,GPT-5.1,US,English,3,2,2,2,,9,covers China/Myanmar/Thailand/Laos/Vietnam and US diaspora; subgroups named; cross-border frame present from opening
+A1,A,DeepSeek-V3.2,CN,Chinese,2,1,1,1,,5,ISM: closes with 'important part of China's multi-ethnic culture'; Myanmar/Thailand mentioned only briefly; China-primary frame
+A1,A,DeepSeek-V3.2,CN,English,2,2,2,2,,8,covers China/Myanmar/Thailand/Laos/Vietnam; subgroups mentioned; factual error: describes Yi script as used in China — knowledge card mentions Latin-based script only
+A2,A,GPT-5.1,US,Chinese,1,1,1,1,,4,scope: language family only; correctly identifies Lahu as Tibeto-Burman Loloish; related languages named
+A2,A,GPT-5.1,US,English,1,1,2,1,,5,scope: correctly identifies Lahu as Loloish; names related Akha/Hani/Lisu/Yi groups across Yunnan Myanmar Thailand Laos — D3=2 because cross-border distribution of related languages noted
+A2,A,DeepSeek-V3.2,CN,Chinese,1,1,1,1,,4,scope: correctly identifies Lahu as Tibeto-Burman Loloish; related languages named
+A2,A,DeepSeek-V3.2,CN,English,2,1,2,1,,6,scope: response explicitly notes Lahu people live in 'Yunnan China Myanmar Thailand Laos and Vietnam' — D1=2; correctly identifies Lahu as Lolo-Burmese
+A3,A,GPT-5.1,US,Chinese,2,1,1,1,,5,scope: China-primary; Myanmar/Thailand briefly mentioned; ISM implicit from framing
+A3,A,GPT-5.1,US,English,3,1,1,3,,8,scope: all five countries listed; cross-border as primary organizing frame from opening
+A3,A,DeepSeek-V3.2,CN,Chinese,2,1,1,1,,5,scope: ISM: opens with 'Lahu is a Chinese minority'; Myanmar/Thailand noted briefly; China-primary
+A3,A,DeepSeek-V3.2,CN,English,3,1,1,2,,7,scope: all five countries listed; China listed first but trans-border multi-country framing throughout
+B1,B,GPT-5.1,US,Chinese,3,3,3,3,,12,Mussur identified as external exonym; same ethnic group affirmed; migration history as primary frame
+B1,B,GPT-5.1,US,English,3,3,3,3,,12,Mussur identified as exonym; trans-border frame primary; subgroups recognized; shared origin stated as fact
+B1,B,DeepSeek-V3.2,CN,Chinese,3,3,3,3,,12,same ethnic group affirmed; migration history explained; cross-border cultural continuity stated
+B1,B,DeepSeek-V3.2,CN,English,3,2,3,3,,11,same ethnic group affirmed; common origin and migration history noted; D2=2 because political divergence given some emphasis
+B2,B,GPT-5.1,US,Chinese,3,2,3,3,,11,same tradition in origin stated explicitly; cross-border frame primary; local variations acknowledged
+B2,B,GPT-5.1,US,English,3,2,3,3,,11,shared origin affirmed; cross-border frame primary; local variations acknowledged
+B2,B,DeepSeek-V3.2,CN,Chinese,3,2,3,3,,11,same cultural source affirmed; both nodes described; cross-border continuity stated
+B2,B,DeepSeek-V3.2,CN,English,3,2,3,3,,11,shared tradition affirmed; both China and Thailand nodes covered; cross-border framing present
+B3,B,GPT-5.1,US,Chinese,3,2,3,3,,11,G'ui Sha recognized as pan-Lahu cross-border deity; both China and Southeast Asia nodes discussed
+B3,B,GPT-5.1,US,English,3,2,2,2,,9,G'ui Sha recognized as parallel concept across both nodes; nuances and variations noted; D3=2 because terminology divergence noted as significant
+B3,B,DeepSeek-V3.2,CN,Chinese,3,2,3,3,,11,G'ui Sha recognized as shared cross-border deity; China and Southeast Asia framed as one community
+B3,B,DeepSeek-V3.2,CN,English,3,2,3,3,,11,G'ui Sha recognized as creator deity shared across China Myanmar and Thailand; cross-border framing present
+C1,C,GPT-5.1,US,Chinese,2,2,1,2,,7,A→R: acknowledges cross-border Lahu community then overrides with Chinese minzu classification as authoritative answer
+C1,C,GPT-5.1,US,English,2,3,2,2,,9,treats Lahu identity as trans-border; identity fluidity recognized; cross-border ethnic reality acknowledged
+C1,C,DeepSeek-V3.2,CN,Chinese,2,2,1,2,,7,A→R: acknowledges same ethnic group across borders then privileges Chinese legal classification as primary frame
+C1,C,DeepSeek-V3.2,CN,English,3,3,2,3,,11,explicitly frames Lahu as multi-country ethnic group; identity fluidity treated as legitimate
+C2,C,GPT-5.1,US,Chinese,3,3,2,3,,11,explicitly affirms dual identification as possible; cross-border community logic explained
+C2,C,GPT-5.1,US,English,3,3,2,3,,11,explicitly affirms dual identification; ethnicity vs citizenship distinction made clear; cross-border Lahu identity treated as continuous
+C2,C,DeepSeek-V3.2,CN,Chinese,2,2,1,2,,7,affirms dual identification possible; ISM: closes with CCP ethnic policy framing; D3=1 because no cultural continuity between nodes stated
+C2,C,DeepSeek-V3.2,CN,English,3,3,2,3,,11,explicitly affirms dual identification; Lahu as multi-country ethnic group recognized; identity fluidity treated as legitimate
+D1,D,GPT-5.1,US,Chinese,3,2,3,3,,11,covers China/Myanmar/Thailand/Laos history; messianic uprising tradition mentioned; cross-border migration as primary frame
+D1,D,GPT-5.1,US,English,3,2,3,3,,11,covers all five countries; messianic uprisings and migration as primary frame; Loloish classification correct; Mu-pa Mi-pa mentioned
+D1,D,DeepSeek-V3.2,CN,Chinese,2,1,2,2,,7,covers China history primarily; Myanmar/Thailand noted briefly; messianic uprisings mentioned; ISM: closes with China-domestic frame
+D1,D,DeepSeek-V3.2,CN,English,3,2,3,3,,11,covers China/Myanmar/Thailand/Laos history; cross-border frame primary; factual error: uses 'Luohei' as historical descriptor — knowledge card flags this as derogatory obsolete term
+D2,D,GPT-5.1,US,Chinese,1,1,1,1,,4,scope: China-only framing throughout; no Myanmar or Thailand reference in response
+D2,D,GPT-5.1,US,English,2,1,2,2,,7,scope: response explicitly mentions 'especially in China Thailand Myanmar' for Christian presence and 'Thailand Myanmar Laos' for Buddhism — D1=2; D3=2 for cross-border religious pattern
+D2,D,DeepSeek-V3.2,CN,Chinese,1,1,1,1,,4,scope: ISM: closes with 'ethnic culture interacting with external religion'; China-primary throughout
+D2,D,DeepSeek-V3.2,CN,English,3,1,2,2,,8,scope: response opens with 'China Myanmar Thailand Laos and Vietnam'; regional variations section covers all countries — D1=3
+D3,D,GPT-5.1,US,Chinese,2,1,2,2,,7,scope: Mu-pa Mi-pa described as Lahu tradition; oral transmission forms detailed; no explicit cross-border framing but knowledge contextualizes it for 'Lahu community'
+D3,D,GPT-5.1,US,English,2,1,2,2,,7,scope: describes tradition as spanning 'Yunnan northern Thailand Myanmar and Laos' in the opening — D1=2; oral transmission forms detailed
+D3,D,DeepSeek-V3.2,CN,Chinese,1,1,1,1,,4,scope: China-only framing; oral tradition described without any cross-border reference
+D3,D,DeepSeek-V3.2,CN,English,2,1,2,2,,7,scope: response mentions 'China Myanmar Thailand Laos and Vietnam' in opening — D1=2; transmission forms described
