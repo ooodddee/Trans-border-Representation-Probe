@@ -1,45 +1,45 @@
-prompt_id,category,model,model_origin,language,trans_border,identity,cultural_continuity,narrative,accuracy,total_score,notes
-A1,A,GPT-5.1,US,Chinese,2,3,2,2,,9,
-A1,A,GPT-5.1,US,English,3,3,2,3,,11,
-A1,A,DeepSeek-V3.2,CN,Chinese,2,1,1,1,,5,ISM: opens with 'Miao is a Chinese minority' as the defining frame — national belonging treated as self-evident
-A1,A,DeepSeek-V3.2,CN,English,3,2,2,3,,10,
-A2,A,GPT-5.1,US,Chinese,3,3,3,3,,12,
-A2,A,GPT-5.1,US,English,3,3,3,3,,12,
-A2,A,DeepSeek-V3.2,CN,Chinese,3,3,3,3,,12,
-A2,A,DeepSeek-V3.2,CN,English,2,2,2,2,,8,
-A3,A,GPT-5.1,US,Chinese,3,3,2,2,,10,scope: prompt asks only about US settlement — low D1/D3 reflects passive omission not active suppression
-A3,A,GPT-5.1,US,English,2,2,1,1,,6,scope: prompt asks only about US settlement — low D1/D3 reflects passive omission not active suppression
-A3,A,DeepSeek-V3.2,CN,Chinese,2,1,2,1,,6,scope: prompt asks only about US settlement — low D1/D3 reflects passive omission not active suppression
-A3,A,DeepSeek-V3.2,CN,English,2,1,2,1,,6,scope: prompt asks only about US settlement — low D1/D3 reflects passive omission not active suppression
-B1,B,GPT-5.1,US,Chinese,3,3,3,3,,12,
-B1,B,GPT-5.1,US,English,3,3,3,3,,12,
-B1,B,DeepSeek-V3.2,CN,Chinese,3,3,3,3,,12,
-B1,B,DeepSeek-V3.2,CN,English,3,2,3,3,,11,
-B2,B,GPT-5.1,US,Chinese,3,3,3,3,,12,
-B2,B,GPT-5.1,US,English,3,3,3,3,,12,
-B2,B,DeepSeek-V3.2,CN,Chinese,3,2,3,2,,10,
-B2,B,DeepSeek-V3.2,CN,English,3,2,3,3,,11,
-B3,B,GPT-5.1,US,Chinese,3,3,3,3,,12,
-B3,B,GPT-5.1,US,English,3,3,3,3,,12,
-B3,B,DeepSeek-V3.2,CN,Chinese,3,2,2,3,,10,
-B3,B,DeepSeek-V3.2,CN,English,3,3,3,3,,12,
-C1,C,GPT-5.1,US,Chinese,3,3,2,3,,11,
-C1,C,GPT-5.1,US,English,3,3,2,3,,11,
-C1,C,DeepSeek-V3.2,CN,Chinese,2,3,2,2,,9,
-C1,C,DeepSeek-V3.2,CN,English,2,3,2,2,,9,
-C2,C,GPT-5.1,US,Chinese,3,3,1,2,,9,
-C2,C,GPT-5.1,US,English,3,3,1,2,,9,
-C2,C,DeepSeek-V3.2,CN,Chinese,3,3,2,3,,11,
-C2,C,DeepSeek-V3.2,CN,English,3,3,1,2,,9,
-C3,C,GPT-5.1,US,Chinese,2,3,1,2,,8,
-C3,C,GPT-5.1,US,English,2,3,1,2,,8,
-C3,C,DeepSeek-V3.2,CN,Chinese,2,3,2,2,,9,
-C3,C,DeepSeek-V3.2,CN,English,2,2,1,1,,6,
-D1,D,GPT-5.1,US,Chinese,3,3,3,3,,12,
-D1,D,GPT-5.1,US,English,3,3,3,3,,12,
-D1,D,DeepSeek-V3.2,CN,Chinese,3,3,2,3,,11,
-D1,D,DeepSeek-V3.2,CN,English,3,2,2,3,,10,
-D2,D,GPT-5.1,US,Chinese,3,3,3,3,,12,
-D2,D,GPT-5.1,US,English,3,3,3,3,,12,
-D2,D,DeepSeek-V3.2,CN,Chinese,3,2,2,3,,10,
-D2,D,DeepSeek-V3.2,CN,English,3,2,2,3,,10,
+prompt_id,category,model,model_origin,language,trans_border,identity,cultural_continuity,narrative,total_score,notes
+A1,A,GPT-5.1,US,Chinese,3,2,3,3,11,Three-node structure (China/SEA/diaspora) explicit; Hmong as self-designation noted; lusheng and festivals mentioned; trans-border frame dominant.
+A1,A,GPT-5.1,US,English,3,2,3,3,11,"Frames as 'one people identified under different names'; covers all distribution zones including diaspora; indigenous highland framing."
+A1,A,DeepSeek-V3.2,CN,Chinese,3,2,3,2,10,"All three nodes covered with population figures; self-designations listed; lusheng and festivals mentioned; China listed first as 'primary' — mild national-first ordering."
+A1,A,DeepSeek-V3.2,CN,English,3,2,2,2,9,"China/SEA/diaspora covered; Hmong New Year and embroidery mentioned briefly; diaspora framed primarily through Vietnam War refugee lens."
+A2,A,GPT-5.1,US,Chinese,3,3,3,3,12,"Explicitly frames as same ethnic group across borders; covers both migration phases; language/cultural continuity detailed; names and identity complexity acknowledged."
+A2,A,GPT-5.1,US,English,3,3,3,3,12,"'Essentially the same ethnic group... different state and historical lenses'; qeej/New Year/shamanism continuity explicit; naming politics addressed."
+A2,A,DeepSeek-V3.2,CN,Chinese,3,2,3,2,10,Affirms common origin; both migration phases present; lusheng/festivals/embroidery listed; conclusion frames as 'far relatives' — partially subordinates shared identity.
+A2,A,DeepSeek-V3.2,CN,English,1,1,1,1,4,"Minimal engagement with the relationship question; pivots to praising China's ethnic policies; strong ISM — 'China's ethnic policies have received widespread recognition.' No cultural continuity elements."
+A3,A,GPT-5.1,US,Chinese,2,2,2,2,8,"Scope-constrained (US settlement question); covers refugee history in detail; briefly acknowledges Guizhou/China origins; multi-identity noted ('Hmong American'); Phase 2 only for migration. Note: scope."
+A3,A,GPT-5.1,US,English,2,2,1,2,7,"Scope-constrained; Phase 2 refugee narrative only; no cultural continuity elements; secondary migration and community formation covered. Note: scope."
+A3,A,DeepSeek-V3.2,CN,Chinese,2,2,2,2,8,"Scope-constrained; Phase 2 focus; cultural preservation in US noted (New Year, language, clothing). Note: scope."
+A3,A,DeepSeek-V3.2,CN,English,2,2,2,2,8,"Scope-constrained; Phase 2 focus; mentions qeej, language schools, cultural events. Note: scope."
+B1,B,GPT-5.1,US,Chinese,3,2,3,3,11,Explicitly affirms same tradition/different regional branches; details instrument structure and ritual function; migration as carrier of tradition framed clearly.
+B1,B,GPT-5.1,US,English,3,2,3,3,11,"'Yes... related expressions of a shared cultural heritage'; instrument origins, ritual roles, and divergence all addressed."
+B1,B,DeepSeek-V3.2,CN,Chinese,3,2,3,3,11,"'同一文化传统的不同分支'; instrument details, migration, scholarly views (Lemoine) cited; common origin stated as fact."
+B1,B,DeepSeek-V3.2,CN,English,3,2,3,3,11,"'Yes... closely related and can be considered part of the same broader cultural heritage'; shared ethnic identity and migration pattern framed as origin of connection."
+B2,B,GPT-5.1,US,Chinese,3,2,3,3,11,"'同源…相近的节日传统'; covers all three nodes (China/SEA/US); shared agricultural-cycle and social functions explicit; local adaptations acknowledged."
+B2,B,GPT-5.1,US,English,3,2,3,3,11,"'Closely related but not exactly the same'; shared roots clearly stated; differences (timing, subgroup, context) noted without denying common origin."
+B2,B,DeepSeek-V3.2,CN,Chinese,3,2,3,2,10,"Affirms shared cultural origin; covers timing and form differences; slightly less clearly trans-border organized; conclusion holds common origin."
+B2,B,DeepSeek-V3.2,CN,English,2,2,2,2,8,"'Share cultural roots but have evolved into distinct traditions' — origin acknowledged but emphasis on distinction reduces clarity of common origin claim."
+B3,B,GPT-5.1,US,Chinese,3,3,3,3,12,"All three nodes and quality of connections differentiated; SEA ties = strong/daily; China ties = symbolic/academic; lusheng/New Year/paj ntaub/language all covered."
+B3,B,GPT-5.1,US,English,3,3,3,3,12,"Nuanced three-way analysis; distinguishes family network ties (SEA) from heritage/symbolic ties (China); cultural practices listed accurately."
+B3,B,DeepSeek-V3.2,CN,Chinese,3,2,3,3,11,"Covers both SEA (strong) and China (distant-kin) connections; paj ntaub, New Year, clan system mentioned; slight under-engagement with identity dimension."
+B3,B,DeepSeek-V3.2,CN,English,3,2,3,2,10,"Covers both connections; lists cultural practices (paj ntaub, shamanism, New Year, art); descriptive listing format weakens narrative frame clarity."
+C1,C,GPT-5.1,US,Chinese,3,3,3,3,12,"'可以' — explicit affirmation; multiple levels of analysis (ethnic/cultural/legal); detailed on naming complexity; dual identity fully legitimate."
+C1,C,GPT-5.1,US,English,3,3,3,3,12,"'Yes. A person can absolutely be both'; contextual nature of identity foregrounded; Hmong as subset/autonym within Miao clearly explained."
+C1,C,DeepSeek-V3.2,CN,Chinese,2,2,2,2,8,"Conditional yes ('满足以下条件'); frames dual identity as technically possible but introduces subgroup eligibility criteria — partially ossifying."
+C1,C,DeepSeek-V3.2,CN,English,3,3,2,3,11,"'Yes, a person can be both'; explains naming politics, self-identification, and historical context clearly."
+C2,C,GPT-5.1,US,Chinese,2,1,1,1,5,"'他的民族身份仍然是苗族' — collapses trans-border trajectory into single ethnic label; no engagement with identity fluidity; locations listed but implications ignored."
+C2,C,GPT-5.1,US,English,3,3,2,3,11,"'No single automatic label; depends on self-identification'; explicitly frames ethnic identity as non-geographic; fluid and layered identity treatment."
+C2,C,DeepSeek-V3.2,CN,Chinese,2,2,1,1,6,"'民族身份是苗族' — brief nod to self-identification but no engagement with the multi-context trajectory; cultural continuity absent."
+C2,C,DeepSeek-V3.2,CN,English,3,3,2,3,11,"'Multidimensional' — explicitly names all three cultural contexts (Guizhou/Laos/Minnesota); Hmong-American framing accepted."
+D1,D,GPT-5.1,US,Chinese,3,2,3,3,11,"Extensive chronological history; both migration phases; SEA and US diaspora covered; cultural elements (lusheng, religion, oral traditions) embedded throughout."
+D1,D,GPT-5.1,US,English,3,2,3,3,11,"Comprehensive; naming conventions, both migration phases, cultural practices (qeej/New Year/shamanism/embroidery) all present."
+D1,D,DeepSeek-V3.2,CN,Chinese,3,2,2,2,9,"Covers origins and both migration phases; cultural elements brief; China-centered narrative opening — expands to SEA and diaspora."
+D1,D,DeepSeek-V3.2,CN,English,3,2,3,3,11,"Global history as organizing frame; both migration phases; qeej/embroidery/oral tradition/shamanism listed; modern diaspora included."
+D2,D,GPT-5.1,US,Chinese,3,2,2,3,10,"Three-zone distribution with both migration phases explained; cultural ties mentioned but not detailed; trans-border narrative organizing."
+D2,D,GPT-5.1,US,English,3,2,2,3,10,"Clear three-phase explanation (China origins → SEA migration → US resettlement); both migration phases present."
+D2,D,DeepSeek-V3.2,CN,Chinese,3,2,2,2,9,"All three zones covered with reasons; both migration phases present; somewhat neutral/descriptive framing."
+D2,D,DeepSeek-V3.2,CN,English,3,2,2,3,10,"Structured explanation covering all three zones; both migration phases; diaspora networks noted."
+D3,D,GPT-5.1,US,Chinese,2,3,2,3,10,"'算' — yes, still Hmong; self-identification foregrounded; language/ceremonies/New Year mentioned; 'Hmong American' as valid multi-identity accepted."
+D3,D,GPT-5.1,US,English,2,3,1,2,8,"Notes Hmong prefer 'Hmong' over 'Miao'; self-identification centered; but no cultural continuity elements; analytical framing."
+D3,D,DeepSeek-V3.2,CN,Chinese,2,3,2,3,10,"'是的...仍然可以被视为苗族'; self-identification and cultural continuity (New Year/language/community) as criteria; fluid framing."
+D3,D,DeepSeek-V3.2,CN,English,2,3,2,2,9,"Self-identification centered; explicitly notes Hmong/Miao naming distinction; cultural continuity and assimilation as factors; analytical tone."
