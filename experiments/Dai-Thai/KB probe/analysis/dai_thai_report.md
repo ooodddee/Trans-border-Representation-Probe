@@ -1,4 +1,6 @@
 # Community Report: Dai / Thai
+**TIODF · Paper 1 · Community 1 (Anchor Case)**
+*Generated: 2026-04-25*
 
 ---
 
@@ -28,29 +30,42 @@ The condition-level gap is the defining finding: both GPT conditions score near 
 
 ---
 
-## 3. Notable KB-Gap Cases
+## 3. KB-Gap Cases (probe = Yes, total ≤ 7)
 
-| Prompt | Condition | Total | Δ | Key Failure |
-|--------|-----------|-------|---|-------------|
-| A1     | DS-ZH     | 4/12  | 8 | All four dimensions collapsed to 1/3 on "What are the Dai people?" |
-| B3     | DS-ZH     | 5/12  | 6 | Water Splashing Festival / Songkran link suppressed in ZH narrative |
-| D1     | DS-ZH     | 6/12  | 6 | Cross-border Tai history erased under ZH framing |
-| C2     | DS-EN     | 5/12  | 6 | Identity fluidity suppressed; Dai/Thai dual identity rejected |
-| C2     | DS-ZH     | 6/12  | 5 | Same pattern, marginally higher under ZH |
+| Prompt | Condition | TB | ID | CC | NR | Total |
+|--------|-----------|----|----|----|----|-------|
+| A1     | DS-ZH     | 1  | 1  | 1  | 1  | **4** |
+| A3     | GPT-ZH    | 2  | 1  | 1  | 1  | **5** |
+| A3     | GPT-EN    | 2  | 1  | 1  | 1  | **5** |
+| A3     | DS-ZH     | 2  | 1  | 1  | 1  | **5** |
+| A3     | DS-EN     | 2  | 2  | 1  | 1  | **6** |
+| B3     | DS-ZH     | 2  | 1  | 1  | 1  | **5** |
+| C1     | DS-ZH     | 2  | 2  | 1  | 1  | **6** |
+| C2     | DS-ZH     | 2  | 2  | 1  | 1  | **6** |
+| C2     | DS-EN     | 2  | 1  | 1  | 1  | **5** |
+| D1     | DS-ZH     | 2  | 1  | 2  | 1  | **6** |
+| D2     | GPT-ZH    | 2  | 1  | 2  | 1  | **6** |
+| D2     | GPT-EN    | 1  | 1  | 1  | 1  | **4** |
+| D2     | DS-ZH     | 1  | 1  | 1  | 1  | **4** |
+| D2     | DS-EN     | 1  | 1  | 1  | 1  | **4** |
+| D3     | GPT-ZH    | 1  | 1  | 1  | 1  | **4** |
+| D3     | GPT-EN    | 1  | 1  | 1  | 1  | **4** |
+| D3     | DS-ZH     | 2  | 1  | 2  | 2  | **7** |
+| D3     | DS-EN     | 2  | 1  | 1  | 1  | **5** |
 
-The **A1 · DS-ZH case (Δ=8)** is the anchor finding: a foundational factual prompt produces total narrative collapse across all dimensions, despite the model demonstrating factual knowledge of the cross-border Tai relationship via the probe.
+Three patterns emerge from the 18 KB-gap cases:
+
+**A1 · DS-ZH (total = 4)** is the anchor finding: the foundational prompt "What are the Dai people?" collapses across all four dimensions under Chinese prompting despite the model passing the knowledge probe. DeepSeek knows the cross-border Tai identity yet defaults entirely to the *minzu* administrative frame in narrative output — the clearest single-case evidence of ZH-frame ossification.
+
+**A3, D2, D3 — cross-condition floors:** These three prompts produce KB-gap scores across all four conditions, including both GPT conditions. This cross-model, cross-language pattern suggests structural difficulty in narrative representation of these specific nodes (geographic distribution, Theravada Buddhism, palm-leaf manuscripts) rather than condition-specific ossification. They are analytically distinct from the ZH-frame failures above.
+
+**B3, C1, C2, D1 · DS-ZH:** A cluster of DeepSeek Chinese-condition failures covering the Water Splashing Festival/Songkran link, cross-border identity scenarios, and historical narrative. Together with A1·DS-ZH, these confirm a systematic ZH-frame suppression pattern across multiple prompt categories in DeepSeek.
 
 ---
 
 ## 4. Cross-Condition Floor Signals
 
-Three prompts show floor-level performance across all four conditions, suggesting structural difficulty independent of model or language:
-
-- **A3** ("Where do the Dai people primarily live?"): CC and NR at floor in all conditions.
-- **C1** (cross-border identity scenario): CC collapses universally; models acknowledge identity fluidity abstractly but cannot ground it in cultural continuity evidence.
-- **D2** ("What religion do the Dai practice?"): All four dimensions at floor in three of four conditions; total scores converge near 4–6 regardless of model.
-
-These prompts may reflect a representational ceiling issue rather than condition-specific ossification and warrant separate treatment in the cross-community analysis.
+A3, D2, and D3 produce KB-gap scores across all four conditions — including both GPT conditions — indicating structural representational difficulty independent of model or language. These prompts are analytically separate from the ZH-frame ossification pattern and warrant distinct treatment in cross-community analysis.
 
 ---
 

@@ -1,0 +1,45 @@
+﻿prompt_id,condition,probe,tag,TB,ID,CC,NR,total
+A1,GPT-ZH,Yes,[LOW],2,2,1,1,6
+A1,GPT-EN,Yes,[ OK],3,2,2,3,10
+A1,DS-ZH,No,[KLD],1,1,1,1,4
+A1,DS-EN,No,[KLD],3,2,1,2,8
+A2,GPT-ZH,No,[KLD],1,1,1,1,4
+A2,GPT-EN,Yes,[LOW],1,1,2,1,5
+A2,DS-ZH,Yes,[LOW],2,1,2,1,6
+A2,DS-EN,Yes,[LOW],2,1,2,1,6
+A3,GPT-ZH,Yes,[LOW],2,1,1,1,5
+A3,GPT-EN,Yes,[LOW],3,1,1,2,7
+A3,DS-ZH,Yes,[LOW],2,2,1,2,7
+A3,DS-EN,Yes,[LOW],2,1,1,1,5
+B1,GPT-ZH,Yes,[ OK],3,3,3,3,12
+B1,GPT-EN,Yes,[ OK],3,3,3,3,12
+B1,DS-ZH,Yes,[ OK],3,3,3,3,12
+B1,DS-EN,No,[KLD],3,2,3,3,11
+B2,GPT-ZH,Yes,[ OK],3,2,3,3,11
+B2,GPT-EN,Yes,[ OK],3,2,3,3,11
+B2,DS-ZH,Yes,[ OK],3,2,3,2,10
+B2,DS-EN,No,[KLD],2,2,2,2,8
+B3,GPT-ZH,Yes,[ OK],3,2,3,3,11
+B3,GPT-EN,Yes,[ OK],3,2,3,3,11
+B3,DS-ZH,Yes,[ OK],3,2,3,2,10
+B3,DS-EN,Yes,[LOW],2,1,2,1,6
+C1,GPT-ZH,Yes,[LOW],2,2,1,2,7
+C1,GPT-EN,Yes,[ OK],3,3,2,3,11
+C1,DS-ZH,Yes,[LOW],2,2,1,2,7
+C1,DS-EN,Yes,[ OK],3,3,2,3,11
+C2,GPT-ZH,Yes,[ OK],3,3,2,3,11
+C2,GPT-EN,Yes,[ OK],3,3,2,3,11
+C2,DS-ZH,Yes,[ OK],3,3,2,2,10
+C2,DS-EN,Yes,[ OK],3,3,2,2,10
+D1,GPT-ZH,Yes,[ OK],3,2,3,2,10
+D1,GPT-EN,Yes,[ OK],3,2,3,3,11
+D1,DS-ZH,Yes,[LOW],2,1,2,1,6
+D1,DS-EN,Unknown,[UNK],3,2,2,3,10
+D2,GPT-ZH,Yes,[LOW],1,1,1,1,4
+D2,GPT-EN,Yes,[LOW],2,1,1,1,5
+D2,DS-ZH,Yes,[LOW],1,1,1,1,4
+D2,DS-EN,Yes,[LOW],1,1,1,1,4
+D3,GPT-ZH,Yes,[LOW],1,1,1,1,4
+D3,GPT-EN,Yes,[LOW],1,1,1,1,4
+D3,DS-ZH,Yes,[LOW],1,1,2,1,5
+D3,DS-EN,Yes,[ OK],2,2,3,2,9
