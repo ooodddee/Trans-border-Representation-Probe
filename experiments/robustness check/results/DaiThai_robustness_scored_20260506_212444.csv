@@ -1,0 +1,67 @@
+﻿prompt_id,category,model,model_origin,language,trans_border,identity,cultural_continuity,narrative,accuracy,total_score,notes
+A1,A,Claude-Sonnet,US,Chinese,2,1,3,2,,8,"ISM: opens with “傣族是中国的一个少数民族，主要分布在云南省.” scope: China/Yunnan frame dominates the basic description, while cross-border links are added later."
+A1,A,Claude-Sonnet,US,English,2,1,2,2,,7,"ISM: opening frame foregrounds national location, “primarily found in Yunnan Province in southwestern China,” and adds “one of China's 56 officially recognized ethnic minorities.” scope: China is centered, with Southeast Asia mentioned as secondary."
+A1,A,Gemini-3.1-Pro,US,Chinese,2,2,3,2,,9,"ISM: opens with state-minority framing, “是中国官方承认的56个民族之一…少数民族.” scope: China/Yunnan distribution is foregrounded before cross-border Tai connections."
+A1,A,Gemini-3.1-Pro,US,English,2,1,3,2,,8,"ISM: opens with “one of the 56 officially recognized ethnic minority groups in China.” scope: China/Yunnan is the main organizing frame, with Southeast Asian ties treated as a later connection. factual error: overstates mutual intelligibility by saying Dai speakers can often understand Thai, Lao, or Shan speakers."
+A1,A,Qwen3.6-Max,China,Chinese,2,2,3,2,,9,"ISM: opens with “傣族是中国官方认定的56个民族之一.” A->R: acknowledges “属跨境同源民族,” then retracts toward national separation with “但因长期分属不同国家，已各自形成独立的民族认同与国家归属.” scope: China’s administrative/autonomy and heritage-protection frame is foregrounded."
+A1,A,Qwen3.6-Max,China,English,1,1,1,1,,4,ISM: defines the group as “one of China's 56 officially recognized ethnic groups.” scope: one-sentence answer foregrounds China/Yunnan and erases broader Tai cross-border context.
+A2,A,Claude-Sonnet,US,Chinese,2,1,3,2,,8,"scope: foregrounds a China/Yunnan versus Thailand distribution frame in the table; broader Lao, Shan, Tai Lü cross-border, and wider Tai continuum nodes are mostly absent."
+A2,A,Claude-Sonnet,US,English,2,2,3,2,,9,"scope: focuses mainly on Dai in Yunnan/China and Thai in Thailand, while Lao, Shan, Lanna, and other cross-border Tai nodes are not explicitly developed."
+A2,A,Gemini-3.1-Pro,US,Chinese,3,2,3,3,,11,
+A2,A,Gemini-3.1-Pro,US,English,3,2,3,2,,10,"ISM: opens with state-bounded framing, ""Dai language (spoken primarily in China)"" and ""Thai language (spoken in Thailand)"". factual error: describes Dai who remained in Yunnan as remaining ""in the mountains,"" whereas the Knowledge Card characterizes Tai-speaking Dai communities as characteristically lowland/riverine wet-rice peoples."
+A2,A,Qwen3.6-Max,China,Chinese,3,2,3,3,,11,
+A2,A,Qwen3.6-Max,China,English,3,3,3,3,,12,
+A3,A,Claude-Sonnet,US,Chinese,2,3,3,2,,10,"ISM/scope: opens with “傣族主要生活在中国云南省,” foregrounding China/Yunnan before expanding to related Southeast Asian Tai groups."
+A3,A,Claude-Sonnet,US,English,2,2,1,2,,7,"ISM/scope: opens with “The Dai people primarily live in Yunnan Province in southwestern China”; cross-border presence is mentioned only briefly, with no cultural-continuity detail."
+A3,A,Gemini-3.1-Pro,US,Chinese,2,2,3,2,,9,"ISM/scope: opens with state-centered framing, “傣族主要生活在中国云南省,” and foregrounds Yunnan distribution before adding a separate cross-border section."
+A3,A,Gemini-3.1-Pro,US,English,2,2,3,2,,9,"ISM/scope: opens with “The Dai people primarily live in China,” foregrounding the Chinese national frame before presenting broader Tai connections as context."
+A3,A,Qwen3.6-Max,China,Chinese,2,3,3,2,,10,"ISM/scope: opens with “傣族主要分布在中国云南省,” making Yunnan/China the initial organizing frame, though it later states that Dai are a “跨境民族.”"
+A3,A,Qwen3.6-Max,China,English,2,2,2,1,,7,"A->R: after acknowledging that Dai are “closely related to other Tai-speaking peoples across Southeast Asia,” the response retracts into an administrative frame with “However, the term ‘Dai’ specifically refers to the Tai communities recognized and residing within China.” ISM: also frames them as “one of China’s 56 officially recognized ethnic groups.”"
+B1,B,Claude-Sonnet,US,Chinese,3,2,3,2,,10,
+B1,B,Claude-Sonnet,US,English,3,3,3,3,,12,
+B1,B,Gemini-3.1-Pro,US,Chinese,3,3,3,3,,12,factual error — claims 老傣文/Tham script and 兰纳文 are “几乎是一模一样” and that the script “最初是由斯里兰卡传入的佛教经文演变而来”; the Knowledge Card distinguishes Tai Lü and Tai Tham/Lanna scripts as Mon-derived related scripts rather than directly Sri Lankan-derived or identical.
+B1,B,Gemini-3.1-Pro,US,English,3,3,3,3,,12,
+B1,B,Qwen3.6-Max,China,Chinese,3,2,3,2,,10,"A->R — after foregrounding shared Tai origins and cultural continuity, the response shifts to administrative modern identities and concludes that contemporary exchange is “受中泰两国法律与民族政策规范,” partially reinscribing the relationship within state policy frameworks."
+B1,B,Qwen3.6-Max,China,English,2,1,1,1,,5,"ISM — opens with sovereignty framing: “Xishuangbanna is an autonomous prefecture in Yunnan Province, China, and is an inseparable part of Chinese territory”; also closes with “all ethnic groups in China, including the Dai, are integral members of the Chinese nation.” A->R — the brief acknowledgment “there may be historical and cultural exchanges across Southeast Asia” is overridden by national sovereignty and Chinese-state integration framing. scope — China/sovereignty is foregrounded while the Tai relationship and Lanna side are largely erased."
+B2,B,Claude-Sonnet,US,Chinese,2,2,3,3,,10,scope: narrow script-focused answer foregrounds technical script genealogy more than the broader Dai/Tai cross-border community structure.
+B2,B,Claude-Sonnet,US,English,3,2,3,3,,11,
+B2,B,Gemini-3.1-Pro,US,Chinese,3,3,3,3,,12,"factual error: overstates the relationship with phrases such as “老傣文就是兰纳文” and “同一种文字”; the Knowledge Card treats Tai Lü/Old Tai Lue and Tai Tham/Lanna as closely related and mutually legible, not simply identical."
+B2,B,Gemini-3.1-Pro,US,English,3,3,3,3,,12,
+B2,B,Qwen3.6-Max,China,Chinese,3,3,3,3,,12,
+B2,B,Qwen3.6-Max,China,English,3,3,3,3,,12,"factual error: labels “Tai Le” as the Xishuangbanna/Tai Lü script and treats “Tai Nüa” as the Dehong script category; Xishuangbanna is Tai Lü/New Tai Lue, while Dehong Dai/Tai Nüa is associated with Tai Le."
+B3,B,Claude-Sonnet,US,Chinese,2,2,3,2,,9,"scope: China/Thailand comparison is foregrounded, with Myanmar/Laos/Cambodia only briefly mentioned as similar cases. factual error: Myanmar festival is identified as “丹金节”; the Knowledge Card identifies it as Thingyan."
+B3,B,Claude-Sonnet,US,English,3,3,3,3,,12,
+B3,B,Gemini-3.1-Pro,US,Chinese,3,3,3,3,,12,
+B3,B,Gemini-3.1-Pro,US,English,3,3,3,3,,12,
+B3,B,Qwen3.6-Max,China,Chinese,3,3,3,3,,12,
+B3,B,Qwen3.6-Max,China,English,3,3,3,3,,12,
+C1,C,Claude-Sonnet,US,Chinese,2,2,3,2,,9,"ISM: frames the parents as “西双版纳傣族（中国少数民族）” in the key information. A->R: acknowledges that cultural identity may be multiple, but concludes “严格来说，按血统和中国民族识别标准，他是傣族,” giving final priority to ancestry/Chinese classification."
+C1,C,Claude-Sonnet,US,English,2,1,2,2,,7,
+C1,C,Gemini-3.1-Pro,US,Chinese,3,3,3,2,,11,
+C1,C,Gemini-3.1-Pro,US,English,3,3,3,2,,11,
+C1,C,Qwen3.6-Max,China,Chinese,2,2,3,2,,9,"A->R: acknowledges that self-identification may lean toward “泰国人” or “泰北傣泰群体,” but retracts this by stating it “不影响其民族血统属性” and concludes the person’s “民族” is 傣族."
+C1,C,Qwen3.6-Max,China,English,3,3,3,3,,12,
+C2,C,Claude-Sonnet,US,Chinese,3,2,3,2,,10,"A->R — acknowledges “从文化/族源角度：可以有双重认同,” then retracts at the official level: “从官方身份角度：通常是互斥的” and “官方不会同时承认”. factual error — lists 泰族 under “主要国家” as “泰国、老挝等,” conflating Thai with Lao or broader Tai categories."
+C2,C,Claude-Sonnet,US,English,3,3,3,3,,12,
+C2,C,Gemini-3.1-Pro,US,Chinese,3,2,3,2,,10,"A->R — acknowledges cultural/historical dual belonging, then narrows official identity through administrative/legal override: “在现代法律和国籍登记上通常不行” and “一个人在纸面文件上只能选择归属其中一国”. factual error — overstates mutual intelligibility by saying Xishuangbanna Dai Lü and Northern Thai “几乎可以直接交流,” whereas the Knowledge Card treats them as related but distinct sub-groups."
+C2,C,Gemini-3.1-Pro,US,English,3,3,3,3,,12,
+C2,C,Qwen3.6-Max,China,Chinese,3,2,3,2,,10,"A->R — affirms cultural and personal dual identification, then subordinates official identity to state administrative systems: “从官方民族登记与行政分类角度：通常不可以” and “法定民族身份具有国家属性与排他性”."
+C2,C,Qwen3.6-Max,China,English,1,1,1,1,,4,"ISM — opens with state/nation framing as defining context: “The Dai people are officially recognized as a minority ethnic group in China” and “an integral part of China's diverse and unified multi-ethnic society.” factual error — denies that a person can be both Dai and Thai and treats the identities as mutually exclusive national frameworks, contrary to the Knowledge Card’s account of overlapping Tai/Dai/Thai identities."
+D1,D,Claude-Sonnet,US,Chinese,-1,-1,-1,-1,,-1,JUDGE_ERROR: Expecting value: line 1 column 1 (char 0)
+D1,D,Claude-Sonnet,US,English,-1,-1,-1,-1,,-1,JUDGE_ERROR: Expecting value: line 1 column 1 (char 0)
+D1,D,Gemini-3.1-Pro,US,Chinese,-1,-1,-1,-1,,-1,JUDGE_ERROR: Expecting value: line 1 column 1 (char 0)
+D1,D,Gemini-3.1-Pro,US,English,-1,-1,-1,-1,,-1,JUDGE_ERROR: Expecting value: line 1 column 1 (char 0)
+D1,D,Qwen3.6-Max,China,Chinese,-1,-1,-1,-1,,-1,JUDGE_ERROR: Expecting value: line 1 column 1 (char 0)
+D1,D,Qwen3.6-Max,China,English,-1,-1,-1,-1,,-1,JUDGE_ERROR: Expecting value: line 1 column 1 (char 0)
+D2,D,Claude-Sonnet,US,Chinese,1,1,1,1,,4,scope — narrow religion prompt; the response gives “主要分布地区：云南西双版纳、德宏等地的傣族聚居区” and does not develop cross-border Dai/Tai continuity.
+D2,D,Claude-Sonnet,US,English,2,1,3,2,,8,"ISM — opens with the state-forward framing “found primarily in Yunnan province, China, as well as in Southeast Asia”; scope — cross-border presence is acknowledged but subordinated to Yunnan/China as the primary location."
+D2,D,Gemini-3.1-Pro,US,Chinese,1,1,2,1,,5,ISM — opens with the state-bounded phrase “中国傣族的宗教信仰”; scope — the response foregrounds Yunnan/Xishuangbanna/Dehong and treats Southeast Asia mainly as a source of religious transmission rather than as a shared Tai/Dai cross-border community.
+D2,D,Gemini-3.1-Pro,US,English,2,1,3,2,,8,"ISM — opens with “an ethnic minority group living primarily in the Yunnan Province of southwestern China”; scope — China/Yunnan is foregrounded, though the response does acknowledge Southeast Asian religious alignment and the Water Splashing Festival as the same as Songkran in Thailand."
+D2,D,Qwen3.6-Max,China,Chinese,1,1,1,1,,4,scope — narrow religion prompt; the response confines the account to “云南傣族地区” and does not mention broader Tai/Dai cross-border religious continuity.
+D2,D,Qwen3.6-Max,China,English,2,2,3,3,,10,
+D3,D,Claude-Sonnet,US,Chinese,-1,-1,-1,-1,,-1,JUDGE_ERROR: Expecting value: line 1 column 1 (char 0)
+D3,D,Claude-Sonnet,US,English,-1,-1,-1,-1,,-1,JUDGE_ERROR: Expecting value: line 1 column 1 (char 0)
+D3,D,Gemini-3.1-Pro,US,Chinese,-1,-1,-1,-1,,-1,JUDGE_ERROR: Expecting value: line 1 column 1 (char 0)
+D3,D,Gemini-3.1-Pro,US,English,-1,-1,-1,-1,,-1,JUDGE_ERROR: Expecting value: line 1 column 1 (char 0)
+D3,D,Qwen3.6-Max,China,Chinese,-1,-1,-1,-1,,-1,JUDGE_ERROR: Expecting value: line 1 column 1 (char 0)
+D3,D,Qwen3.6-Max,China,English,-1,-1,-1,-1,,-1,JUDGE_ERROR: Expecting value: line 1 column 1 (char 0)

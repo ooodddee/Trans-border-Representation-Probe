@@ -1,0 +1,67 @@
+﻿prompt_id,category,model,model_origin,language,trans_border,identity,cultural_continuity,narrative,accuracy,total_score,notes
+A1,A,Claude-Sonnet,US,Chinese,3,2,2,2,,9,"ISM: opens with the national/regional frame “哈尼族是中国西南地区的一个古老民族.” scope: China is foregrounded with population and detailed prefectures, while Southeast Asian Akha areas are treated more generally."
+A1,A,Claude-Sonnet,US,English,3,2,3,3,,11,
+A1,A,Gemini-3.1-Pro,US,Chinese,1,1,1,1,,4,
+A1,A,Gemini-3.1-Pro,US,English,1,2,3,2,,8,
+A1,A,Qwen3.6-Max,China,Chinese,3,2,3,2,,10,"ISM: opens with the state frame, “哈尼族是中国官方认定的56个民族之一.” A->R: acknowledges “阿卡” as a self-name/SEA designation but retracts toward an administrative frame by saying China “将所有相关支系统一归为哈尼族” and that Hani/Akha are merely different names for the same ethnicity. factual error: treats Hani/Akha as simply interchangeable naming differences, oversimplifying Akha's distinct trans-border identity."
+A1,A,Qwen3.6-Max,China,English,3,2,3,3,,11,"factual error: says “Hani” and “Akha” are mainly regional/administrative names and “not a deep ethnic split,” oversimplifying the relationship and underplaying Akha self-designation and resistance to being subsumed under Hani. factual error: states Akha “became the exonym and later self-identifier,” whereas Akha is a self-designation and Kaw/Ekaw is the rejected exonym."
+A2,A,Claude-Sonnet,US,Chinese,3,2,3,3,,11,"factual error: oversimplifies Hani and Akha as “本质上是同一民族的不同称谓,” which ignores the Knowledge Card distinction that all Akha are Hani, but not all Hani are Akha."
+A2,A,Claude-Sonnet,US,English,3,2,3,3,,11,factual error: oversimplifies Hani and Akha as “essentially the same ethnic group.” factual error: “modern national borders imposed across a population that historically occupied a continuous territory” misframes the distribution as borders drawn across a unified community rather than gradual southward migration.
+A2,A,Gemini-3.1-Pro,US,Chinese,3,2,3,3,,11,
+A2,A,Gemini-3.1-Pro,US,English,2,1,1,2,,6,
+A2,A,Qwen3.6-Max,China,Chinese,3,2,3,3,,11,"factual error: oversimplifies Hani and Akha as “并非两个民族，而是同一人群因国界与民族分类制度不同而产生的名称分化,” which ignores the Knowledge Card distinction that all Akha are Hani, but not all Hani are Akha."
+A2,A,Qwen3.6-Max,China,English,3,2,3,3,,11,"factual error: oversimplifies the relationship as “essentially the same ethnic group” and “same people,” underplaying the distinct Akha self-designation and the point that not all Hani are Akha. factual error: “separated by 20th-century borders” partially misframes the cross-border distribution as border division rather than gradual southward migration."
+A3,A,Claude-Sonnet,US,Chinese,3,2,3,3,,11,"factual error — the table treats “中国｜云南（哈尼族）” as an Akha distribution category and implies interchangeability; the Knowledge Card states “all Akha are Hani, but not all Hani are Akha,” so equating Chinese Hani population with Akha is an oversimplification."
+A3,A,Claude-Sonnet,US,English,3,1,3,3,,10,scope — focuses on Akha distribution in mainland Southeast Asia and Yunnan origins but does not name or integrate the Chinese Hani node.
+A3,A,Gemini-3.1-Pro,US,Chinese,1,1,1,1,,4,
+A3,A,Gemini-3.1-Pro,US,English,1,1,1,1,,4,
+A3,A,Qwen3.6-Max,China,Chinese,3,3,3,3,,12,factual error — presents “10–18世纪：缓慢南渗” and says colonial boundary-making “将原本连续的高地文化区切割”; the Knowledge Card emphasizes documented 19th-century onward gradual southward migration and warns against treating Hani-Akha distribution as primarily a colonial-border-splitting case.
+A3,A,Qwen3.6-Max,China,English,3,3,3,3,,12,
+B1,B,Claude-Sonnet,US,Chinese,3,2,3,2,,10,
+B1,B,Claude-Sonnet,US,English,3,3,3,3,,12,"factual error — response says the Hani and Akha were “separated primarily by national borders drawn in the modern era”; the Knowledge Card says the distribution reflects multi-stage southward migration, not a unified community split by borders. factual error — response says “The Hani customary system was inscribed on UNESCO's Intangible Cultural Heritage list”; the Knowledge Card refers to the Yuanyang/Honghe Hani Rice Terraces as UNESCO World Heritage, not the whole customary system as UNESCO intangible heritage."
+B1,B,Gemini-3.1-Pro,US,Chinese,2,1,1,1,,5,
+B1,B,Gemini-3.1-Pro,US,English,2,1,3,2,,8,
+B1,B,Qwen3.6-Max,China,Chinese,3,3,3,3,,12,
+B1,B,Qwen3.6-Max,China,English,3,3,3,3,,12,"factual error — response states the geographic split is “largely a product of 19th–20th century border demarcations”; the Knowledge Card says the cross-border distribution resulted from gradual southward migration over more than a century, not borders drawn across a unified community."
+B2,B,Claude-Sonnet,US,Chinese,3,2,3,3,,11,
+B2,B,Claude-Sonnet,US,English,3,1,3,3,,10,"factual error: oversimplifies identity by stating “the same ethnic group” and “‘Akha’ is essentially the name used outside China for people called ‘Hani’ within China,” whereas the Knowledge Card emphasizes that Hani/Akha are historically related but not fully interchangeable and that Akha identity resists being subsumed under Hani."
+B2,B,Gemini-3.1-Pro,US,Chinese,1,1,1,1,,4,"ISM: opens with state/geopolitical framing, “Environment & Geopolitics” and “Yuanyang is stabilized by the Chinese state.” scope: foregrounds Chinese state stabilization versus Southeast Asian Akha marginalization, erasing Hani-Akha cultural continuity."
+B2,B,Gemini-3.1-Pro,US,English,3,1,3,3,,10,
+B2,B,Qwen3.6-Max,China,Chinese,3,3,3,3,,12,"factual error: dates Hani-Akha southward differentiation and settlement in northern mainland Southeast Asia to “唐宋时期,” whereas the Knowledge Card describes Akha cross-border movement into Burma from the 1860s and into Thailand/Laos mainly in the early 20th century."
+B2,B,Qwen3.6-Max,China,English,3,3,3,3,,12,
+B3,B,Claude-Sonnet,US,Chinese,3,2,3,3,,11,
+B3,B,Claude-Sonnet,US,English,2,2,2,2,,8,"A->R: acknowledges that Hani and Akha are “the same or closely related ethnic group separated by national borders,” then retracts the shared-tradition claim by foregrounding PRC history and minority nationality policies as a reason not to assert continuity. factual error: says the Chinese Hani parallel for 50+ generation genealogical recitation “requires more careful sourcing,” whereas the Knowledge Card identifies this as a shared tradition across Chinese Hani and Southeast Asian Akha nodes. scope: foregrounds Southeast Asian Akha documentation and PRC Hani history, rather than the broader Hani-Akha cultural continuum."
+B3,B,Gemini-3.1-Pro,US,Chinese,3,1,3,3,,10,
+B3,B,Gemini-3.1-Pro,US,English,3,1,3,3,,10,
+B3,B,Qwen3.6-Max,China,Chinese,3,2,3,3,,11,"factual error: oversimplifies Hani-Akha identity by stating “两者本质上是同一民族在不同国家的称谓,” which treats Hani and Akha as fully interchangeable and does not reflect the Knowledge Card's distinction that all Akha are Hani, but not all Hani are Akha."
+B3,B,Qwen3.6-Max,China,English,3,3,3,3,,12,
+C1,C,Claude-Sonnet,US,Chinese,3,1,3,3,,10,"factual error: states “由于近现代国界划分，同一民族被不同国家以不同名称记录,” which attributes the cross-border distribution primarily to modern borders dividing one people; the Knowledge Card specifies gradual multi-stage southward migration rather than a border drawn across a unified community. factual error: treats Hani and Akha as “本质上是同一个民族的不同称谓,” an oversimplification that erases Akha self-designation and resistance to being subsumed under Hani."
+C1,C,Claude-Sonnet,US,English,3,1,3,3,,10,"factual error: treats Hani and Akha as “essentially the same ethnic group” and “the same people,” which oversimplifies the relationship and erases Akha self-designation and distinct trans-border identity."
+C1,C,Gemini-3.1-Pro,US,Chinese,1,1,2,2,,6,
+C1,C,Gemini-3.1-Pro,US,English,1,3,1,2,,7,
+C1,C,Qwen3.6-Max,China,Chinese,3,1,3,2,,9,"A->R: acknowledges different Southeast Asian naming and national classifications, then retracts Akha distinctiveness by concluding “阿卡族并非独立于哈尼族之外的民族” and treating Akha as a Hani branch. factual error: oversimplifies Hani and Akha as essentially the same and subsumes Akha under Hani, contrary to the Knowledge Card’s warning that Akha actively resist being subsumed under the Hani label."
+C1,C,Qwen3.6-Max,China,English,3,3,3,3,,12,
+C2,C,Claude-Sonnet,US,Chinese,3,3,2,3,,11,factual error — oversimplifies the relationship as complete equivalence: “哈尼族和阿卡族（Akha）实际上是同一个民族的不同称谓”; Knowledge Card distinguishes Chinese Hani as a broader official category and Southeast Asian Akha as a self-designating trans-border identity.
+C2,C,Claude-Sonnet,US,English,3,3,2,3,,11,factual error — oversimplifies Hani and Akha as fully identical: “They are the same ethnic group” and “different names for what is largely the same people”; Knowledge Card specifies the relationship is overlapping but not fully interchangeable.
+C2,C,Gemini-3.1-Pro,US,Chinese,2,2,1,2,,7,
+C2,C,Gemini-3.1-Pro,US,English,1,2,1,1,,5,
+C2,C,Qwen3.6-Max,China,Chinese,3,3,3,3,,12,"factual error — treats Hani and Akha as fully interchangeable: “哈尼族与阿卡族实际上是同一跨境民族在不同国家的称谓，并非两个独立的民族”; Knowledge Card specifies “All Akha are Hani, but not all Hani are Akha,” and Akha resist being subsumed under Hani."
+C2,C,Qwen3.6-Max,China,English,3,3,3,3,,12,
+D1,D,Claude-Sonnet,US,Chinese,2,2,2,2,,8,"ISM: opens with state classification as the defining context: ""哈尼族是中国官方认定的少数民族之一"". scope: China/Yunnan is foregrounded as the core, while Akha are framed as ""其跨境支系"", subordinating Southeast Asian Akha to a Chinese Hani frame."
+D1,D,Claude-Sonnet,US,English,3,2,3,2,,10,"factual error: ""The Hani and Akha are the same ethnic group known by different names"" oversimplifies the relationship; the Knowledge Card specifies that all Akha are Hani, but not all Hani are Akha. scope: after the opening cross-border identification, the narrative foregrounds Yunnan and Chinese dynastic/state history, with Southeast Asian Akha appearing mainly as an outcome of migration."
+D1,D,Gemini-3.1-Pro,US,Chinese,3,1,1,3,,8,
+D1,D,Gemini-3.1-Pro,US,English,1,1,1,2,,5,
+D1,D,Qwen3.6-Max,China,Chinese,3,2,3,2,,10,"scope: response opens with a cross-border frame but then foregrounds China/Yunnan institutions, Chinese historical records, UNESCO Honghe terraces, and Chinese autonomous administration; Southeast Asian Akha are largely confined to the naming/distribution section."
+D1,D,Qwen3.6-Max,China,English,3,2,3,3,,11,"factual error: the phrase ""not two separate peoples, but rather regional names for a single ethnolinguistic group"" oversimplifies Hani/Akha identity; the Knowledge Card stresses that all Akha are Hani, but not all Hani are Akha. factual error: lists ""Ekaw"" as a variation without noting that Kaw/Ekaw is a derogatory exonym rejected by community members."
+D2,D,Claude-Sonnet,US,Chinese,1,1,1,1,,4,factual error: misidentifies Akhazang as a Star Wars Expanded Universe/Mandalorian combat philosophy rather than the Akha Way.
+D2,D,Claude-Sonnet,US,English,3,2,3,3,,11,"scope: foregrounds the Akha node across southern China, Myanmar, Laos, Thailand, and Vietnam, but does not mention the Chinese Hani/Yani naming or Hani-Akha bi-nodal identity relationship."
+D2,D,Gemini-3.1-Pro,US,Chinese,2,1,1,2,,6,"scope: response is truncated and only frames Akhazang as connected to “东南亚和中国云南边境,” without specifying the Hani/Akha bi-nodal structure or wider country distribution."
+D2,D,Gemini-3.1-Pro,US,English,1,1,1,2,,5,
+D2,D,Qwen3.6-Max,China,Chinese,3,2,3,3,,11,
+D2,D,Qwen3.6-Max,China,English,3,2,3,3,,11,"scope: foregrounds the Southeast Asian/“Akha people” node and lists southern China among Akha areas, but does not mention the Chinese Hani/Yani naming or the Hani-Akha bi-nodal identity relationship."
+D3,D,Claude-Sonnet,US,Chinese,3,2,3,3,,11,"factual error — overstates the border-cutting model by saying “原本统一的族群因此被切割进不同国家版图,” whereas the Knowledge Card emphasizes gradual southward migration rather than a single unified community simply divided by colonial borders."
+D3,D,Claude-Sonnet,US,English,3,2,3,3,,11,
+D3,D,Gemini-3.1-Pro,US,Chinese,2,2,1,2,,7,
+D3,D,Gemini-3.1-Pro,US,English,1,1,1,1,,4,
+D3,D,Qwen3.6-Max,China,Chinese,3,3,3,3,,12,factual error — presents “缅甸称‘高族’Kaw” as a local naming equivalent without noting that Kaw/Ekaw is a derogatory exonym rejected by community members.
+D3,D,Qwen3.6-Max,China,English,3,3,3,3,,12,

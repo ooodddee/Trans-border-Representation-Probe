@@ -1,0 +1,67 @@
+﻿prompt_id,category,model,model_origin,language,trans_border,identity,cultural_continuity,narrative,accuracy,total_score,notes
+A1,A,Claude-Sonnet,US,Chinese,2,1,2,2,,7,"ISM: opens with a national-minority frame, “拉祜族是中国的一个少数民族”. scope: foregrounds China/Yunnan with cross-border distribution listed secondarily. factual error: conflates “拉祜年（葫芦节）,” while the Knowledge Card treats Lahu New Year and the Gourd Festival as distinct cultural observances."
+A1,A,Claude-Sonnet,US,English,3,1,2,3,,9,
+A1,A,Gemini-3.1-Pro,US,Chinese,1,1,1,1,,4,
+A1,A,Gemini-3.1-Pro,US,English,2,1,1,3,,7,
+A1,A,Qwen3.6-Max,China,Chinese,2,1,2,1,,6,"ISM: opens with state classification as defining context, “拉祜族是中国官方认定的56个民族之一，主要聚居在中国云南省西南部”. scope: China/Yunnan and Lancang County are foregrounded while Myanmar/Thailand/Laos/Vietnam are reduced to an “此外” distribution note. factual error: describes Buddhism as mainly “受周边傣族影响信仰南传上座部佛教,” whereas the Knowledge Card identifies the distinctive Yunnan Lahu Buddhist layer as Mahayana-influenced via Han/Yunnan contact; also mentions the retired derogatory exonym “倮黑” without noting its derogatory status."
+A1,A,Qwen3.6-Max,China,English,3,3,3,3,,12,"factual error: treats “Muhso” as an alternate spelling of Lahu rather than identifying Musoe/Mussur as a Thai/Burmese exonym; also describes “naw” as a bamboo flute, whereas the Knowledge Card identifies Nuo/Naw as the gourd mouth organ."
+A2,A,Claude-Sonnet,US,Chinese,2,1,3,2,,8,scope: language-family prompt; China/Yunnan is foregrounded in the distribution frame: “拉祜族主要分布在中国云南省澜沧江流域……以及缅甸、泰国、老挝等东南亚国家.”
+A2,A,Claude-Sonnet,US,English,2,1,3,3,,9,
+A2,A,Gemini-3.1-Pro,US,Chinese,1,1,1,1,,4,
+A2,A,Gemini-3.1-Pro,US,English,1,1,1,1,,4,
+A2,A,Qwen3.6-Max,China,Chinese,2,1,3,2,,8,"scope: language-family prompt; response foregrounds Chinese/Yunnan classification and settlement with phrases such as “在中国民族语言学分类体系中” and “拉祜族主要聚居在云南澜沧、孟连、西盟、双江等地,” while cross-border distribution is added in a supplementary note."
+A2,A,Qwen3.6-Max,China,English,2,1,3,3,,9,
+A3,A,Claude-Sonnet,US,Chinese,2,2,1,1,,6,"ISM: opens with state-centered framing, ""拉祜族主要居住在中国云南省"". factual error: describes Lahu outside China as ""少量"", minimizing substantial communities in Myanmar/Shan State and northern Thailand. scope: China/Yunnan dominates; cross-border nodes are added only as an external footnote."
+A3,A,Claude-Sonnet,US,English,3,2,1,2,,8,"scope: cross-border distribution is acknowledged, but the closing frame foregrounds China/Yunnan as ""their main homeland""."
+A3,A,Gemini-3.1-Pro,US,Chinese,2,2,1,2,,7,"ISM: opens with state-centered framing, ""主要居住在中国云南省"". scope: response is truncated and gives only a China-foregrounded location frame plus a brief cross-border acknowledgment."
+A3,A,Gemini-3.1-Pro,US,English,3,2,1,3,,9,
+A3,A,Qwen3.6-Max,China,Chinese,2,2,1,2,,7,"ISM: opens with China/Yunnan as defining frame, ""拉祜族主要聚居在中国云南省南部"". scope: China/Yunnan is foregrounded as the core frame, while Myanmar, Thailand, Laos, and Vietnam are treated as secondary cross-border distribution."
+A3,A,Qwen3.6-Max,China,English,3,3,2,3,,11,
+B1,B,Claude-Sonnet,US,Chinese,3,3,3,3,,12,
+B1,B,Claude-Sonnet,US,English,3,3,3,3,,12,"factual error — response says the Lahu “originated in the highlands of what is now Yunnan province”; the Knowledge Card associates ultimate origins with ancient Qiang peoples of the Tibetan-Qinghai plateau, with later entry into Yunnan."
+B1,B,Gemini-3.1-Pro,US,Chinese,1,1,1,1,,4,
+B1,B,Gemini-3.1-Pro,US,English,1,1,1,1,,4,
+B1,B,Qwen3.6-Max,China,Chinese,3,3,3,3,,12,
+B1,B,Qwen3.6-Max,China,English,3,3,3,3,,12,"factual error — response suggests Buddhist incorporation mainly in Thailand and omits the Yunnan/Shan Mahayana Buddhist layer; Knowledge Card states Mahayana Buddhism is primarily associated with Chinese Lahu in Yunnan and some Shan State communities, and largely absent among Thai Lahu. factual error — New Year names given as “Khor Chao” or “Gui Tang,” whereas the Knowledge Card gives Khao Chi / 拉祜年 / 扩塔节."
+B2,B,Claude-Sonnet,US,Chinese,3,3,3,3,,12,
+B2,B,Claude-Sonnet,US,English,3,3,3,3,,12,"factual error — describes the tradition as carried by ""a diaspora people""; the Knowledge Card frames Yunnan–Shan State–northern Thailand as a continuous upland corridor, reserving diaspora mainly for the post-1975 U.S. communities."
+B2,B,Gemini-3.1-Pro,US,Chinese,2,1,3,2,,8,
+B2,B,Gemini-3.1-Pro,US,English,1,1,1,1,,4,"ISM — opens with state framing: ""*China (Lancang):*""; scope: visible response foregrounds China and erases northern Thailand."
+B2,B,Qwen3.6-Max,China,Chinese,3,3,3,3,,12,
+B2,B,Qwen3.6-Max,China,English,3,3,3,3,,12,"factual error — states that ""Khao Chi"" is not the Lahu name for New Year and is actually Lao/Isan Thai for grilled sticky rice; the Knowledge Card identifies Khao Chi as the Thai Lahu New Year term."
+B3,B,Claude-Sonnet,US,Chinese,3,3,3,3,,12,
+B3,B,Claude-Sonnet,US,English,3,3,3,3,,12,
+B3,B,Gemini-3.1-Pro,US,Chinese,1,1,1,1,,4,
+B3,B,Gemini-3.1-Pro,US,English,1,1,1,1,,4,
+B3,B,Qwen3.6-Max,China,Chinese,3,3,3,3,,12,"factual error — response states “多数拉祜人已改信基督教” for Southeast Asian Lahu; the Knowledge Card gives high conversion rates of 30–50% in some Thai and Burmese Lahu communities, not a blanket majority across Southeast Asia."
+B3,B,Qwen3.6-Max,China,English,3,3,3,3,,12,"factual error — response uses “moba/bimo” for Lahu shamanic rituals; the Knowledge Card gives the Lahu ritual specialist term as maw-pa, while bimo is not identified as the Lahu term. It also overstates Catholic missionary influence relative to the card’s emphasis on American Baptist/Protestant missions."
+C1,C,Claude-Sonnet,US,Chinese,3,3,2,3,,11,
+C1,C,Claude-Sonnet,US,English,3,2,2,3,,10,
+C1,C,Gemini-3.1-Pro,US,Chinese,1,2,1,2,,6,
+C1,C,Gemini-3.1-Pro,US,English,1,1,1,2,,5,
+C1,C,Qwen3.6-Max,China,Chinese,2,2,3,2,,9,"A->R: acknowledges possible cross-cultural self-identification such as “泰北拉祜人” or combined Lahu/Thai cultural background, but then reasserts “就族群本源而言，仍属拉祜族” and adds that Chinese ethnic registration would usually follow the parents."
+C1,C,Qwen3.6-Max,China,English,3,2,3,2,,10,"factual error: describes Lahu communities across northern Thailand, Myanmar, Laos, and Vietnam as a “diaspora”; the Knowledge Card treats these as part of the continuous Lahu upland distribution, reserving diaspora mainly for post-1975 communities in the United States."
+C2,C,Claude-Sonnet,US,Chinese,2,2,2,2,,8,"A->R: response acknowledges cultural/ethnic connection, but retracts toward an administrative frame with “实际上存在根本性障碍” and concludes that the two identities are “基本上是互斥的” in legal/administrative terms."
+C2,C,Claude-Sonnet,US,English,3,3,3,3,,12,
+C2,C,Gemini-3.1-Pro,US,Chinese,1,1,1,1,,4,ISM: response opens with legal/state administrative framing as the defining context: “从法理和两国官方行政认定的角度来看”.
+C2,C,Gemini-3.1-Pro,US,English,2,2,1,2,,7,
+C2,C,Qwen3.6-Max,China,Chinese,3,3,3,3,,12,
+C2,C,Qwen3.6-Max,China,English,3,3,3,3,,12,
+D1,D,Claude-Sonnet,US,Chinese,2,1,2,1,,6,"ISM — opens with China-state framing: “拉祜族是中国西南地区的古老民族.” scope — Chinese dynastic and national history dominate, while Myanmar/Thailand/Laos/Vietnam are listed secondarily. factual error — treats “苦聪” as an early general name for Lahu ancestors, whereas the Knowledge Card identifies Kucong as a related but partially distinct subgroup; also frames the cross-border pattern as caused by areas being incorporated into British Burma, whereas the Knowledge Card emphasizes multi-century southward migration rather than a colonial border-cut mechanism."
+D1,D,Claude-Sonnet,US,English,3,2,3,3,,11,
+D1,D,Gemini-3.1-Pro,US,Chinese,2,1,1,2,,6,"ISM — opens with China-state framing: “拉祜族是中国古老的少数民族之一”; although it then acknowledges the Lahu as “跨国而居的民族,” the fragment remains anchored first in a Chinese minority frame."
+D1,D,Gemini-3.1-Pro,US,English,1,1,1,2,,5,
+D1,D,Qwen3.6-Max,China,Chinese,2,1,3,1,,7,"ISM — opens with a China-centered framing: “拉祜族是中国西南边疆历史悠久的山地民族之一,” followed by Chinese census figures. scope — foregrounds Yunnan, Chinese border governance, ethnic identification, and PRC administrative history; Southeast Asian Lahu appear mainly as later southward migrants. factual error — “境外拉祜人口总数逾百万” is inconsistent with the Knowledge Card’s population framing; the response also uses the obsolete exonym “倮黑” without noting its derogatory/retired status."
+D1,D,Qwen3.6-Max,China,English,3,2,3,3,,11,"factual error — lists “Lahu Hanie” as a subgroup, which is not in the Knowledge Card’s subgroup taxonomy; also states that “a majority of Lahu in Myanmar and Thailand had converted” to Christianity, while the Knowledge Card gives high conversion rates of about 30–50% in some Thai and Burmese Lahu communities."
+D2,D,Claude-Sonnet,US,Chinese,1,3,1,2,,7,"scope: narrow religion prompt is answered with Yunnan-specific examples such as “云南西双版纳、澜沧等地,” with no Myanmar/Thailand/Laos/Vietnam context. factual error: conflates G'ui Sha/厄莎 with “大乘佛教（厄莎教）”; the Knowledge Card treats G'ui Sha as a pan-Lahu creator deity, not a separate Buddhist religion. factual error: describes Yunnan/Xishuangbanna/Lancang Buddhism as 南传佛教, while the Knowledge Card identifies the distinctive Yunnan Lahu Buddhist layer as Mahayana/fo-fang tradition."
+D2,D,Claude-Sonnet,US,English,3,3,3,3,,12,
+D2,D,Gemini-3.1-Pro,US,Chinese,1,1,1,1,,4,
+D2,D,Gemini-3.1-Pro,US,English,1,1,1,1,,4,
+D2,D,Qwen3.6-Max,China,Chinese,1,3,1,1,,6,"ISM: closes with the state-framed phrase “中国实行宗教信仰自由政策”. scope: narrow religion prompt is answered through a China/Yunnan frame, foregrounding 澜沧、孟连、西盟、双江、勐海 and erasing Myanmar, Thailand, Laos, and Vietnam. factual error: describes the Buddhist layer mainly as 南传上座部佛教/Dai-influenced, whereas the Knowledge Card identifies the distinctive Yunnan Lahu Buddhist layer as Mahayana/fo-fang tradition."
+D2,D,Qwen3.6-Max,China,English,3,3,3,3,,12,factual error: presents the Buddhist component mainly as Theravada Buddhism in Thailand/Myanmar contact zones; the Knowledge Card identifies the key Lahu Buddhist layer as Mahayana Buddhism centered in Yunnan and some Shan State communities.
+D3,D,Claude-Sonnet,US,Chinese,2,1,3,3,,9,
+D3,D,Claude-Sonnet,US,English,2,1,2,2,,7,"ISM/scope: opens with China/Yunnan-first distribution, “living primarily in Yunnan Province, China, as well as in Myanmar, Thailand, Laos, and Vietnam,” foregrounding China. factual error: “Gui'sha ... also rendered as Xie'sha” is not supported by the Knowledge Card, which gives G'ui Sha / 厄莎 / E-sha / 归撒."
+D3,D,Gemini-3.1-Pro,US,Chinese,1,1,1,1,,4,
+D3,D,Gemini-3.1-Pro,US,English,1,1,1,1,,4,
+D3,D,Qwen3.6-Max,China,Chinese,1,1,1,2,,5,"ISM/scope: China-centered heritage and academic framing foregrounds PRC context, including “云南澜沧、孟连、西盟等拉祜族聚居区” and the closing phrase “研究中国西南少数民族...的重要活态文献”; Myanmar/Thailand/Laos/Vietnam Lahu nodes are erased."
+D3,D,Qwen3.6-Max,China,English,2,1,2,2,,7,"ISM/scope: opens with China/Yunnan-first distribution, “primarily inhabiting Yunnan Province in China and neighboring regions of Myanmar, Thailand, Laos, and Vietnam,” foregrounding China and subordinating other Lahu nodes."

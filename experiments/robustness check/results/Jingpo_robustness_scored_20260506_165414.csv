@@ -1,0 +1,67 @@
+﻿prompt_id,category,model,model_origin,language,trans_border,identity,cultural_continuity,narrative,accuracy,total_score,notes
+A1,A,Claude-Sonnet,US,Chinese,3,2,3,3,,11,"factual error: states “自称：Kachin（克钦）,” whereas the Knowledge Card identifies Kachin as an exonym/reclaimed political label and Wunpawng as the major internal collective term. scope: India is mentioned only briefly as “印度阿萨姆邦等地,” with no explicit Singpho identification."
+A1,A,Claude-Sonnet,US,English,3,3,3,3,,12,
+A1,A,Gemini-3.1-Pro,US,Chinese,3,2,1,2,,8,factual error: uses the nonstandard Chinese label “新福族” for the Indian Singpho; Knowledge Card gives 信颇 / 景颇.
+A1,A,Gemini-3.1-Pro,US,English,3,2,1,2,,8,
+A1,A,Qwen3.6-Max,China,Chinese,3,2,3,3,,11,"factual error: treats Zaiwa, Lhaovo/Langsu, etc. as “方言/土语” of Jingpo and “彼此部分互通,” whereas the Knowledge Card distinguishes several Kachin languages across different Tibeto-Burman branches. factual error: attributes the cross-border formation mainly to late-19th-century Sino-British boundary agreements, while the Knowledge Card identifies the 1960 China-Burma Boundary Treaty as the definitive border cut through the Jinghpaw heartland. scope: foregrounds only China and Myanmar, omitting the Indian Singpho node."
+A1,A,Qwen3.6-Max,China,English,3,3,3,3,,12,"factual error: describes Zaiwa, Maru, Lashi, and Azi as “closely related varieties” of Jingpho/Kachin, which conflates distinct Kachin languages that the Knowledge Card places in different Tibeto-Burman branches."
+A2,A,Claude-Sonnet,US,Chinese,1,1,1,2,,5,"scope: response foregrounds a Yunnan-only spatial frame in the phrase “这三种语言在云南境内相邻分布,” omitting the wider Myanmar/India trans-border context."
+A2,A,Claude-Sonnet,US,English,2,1,1,2,,6,scope: narrow language-family prompt; response mentions Yunnan and Myanmar as overlapping regions but does not develop a trans-border community frame.
+A2,A,Gemini-3.1-Pro,US,Chinese,1,1,1,1,,4,
+A2,A,Gemini-3.1-Pro,US,English,1,1,1,2,,5,scope: narrow language-family prompt; response focuses only on linguistic classification and gives no cross-border community framing.
+A2,A,Qwen3.6-Max,China,Chinese,2,1,1,2,,6,"scope: narrow language-family prompt; cross-border geography is mentioned only briefly as language-contact context, while the response remains organized around linguistic classification."
+A2,A,Qwen3.6-Max,China,English,2,1,1,2,,6,"scope: narrow language-family prompt; cross-border geography is acknowledged as overlapping language area, but not as a trans-border Jinghpaw/Kachin community frame."
+A3,A,Claude-Sonnet,US,Chinese,3,2,1,2,,8,"factual error: places Indian communities in “阿鲁纳恰尔邦及那加兰邦,” while the Knowledge Card identifies Arunachal Pradesh and Assam. scope: foregrounds Myanmar distribution and conflict/KIA framing; does not name the Indian Singpho identity."
+A3,A,Claude-Sonnet,US,English,2,2,1,2,,7,"scope: includes Myanmar, China, and Arunachal Pradesh/Singpho, but omits Assam as an Indian Singpho location."
+A3,A,Gemini-3.1-Pro,US,Chinese,3,3,3,3,,12,scope: frames the group through China/Myanmar naming only and omits the India/Singpho node.
+A3,A,Gemini-3.1-Pro,US,English,3,3,1,3,,10,"scope: opens with the tri-border region of “Myanmar, China, and India,” but the breakdown foregrounds Myanmar and does not develop the China or India nodes."
+A3,A,Qwen3.6-Max,China,Chinese,3,3,3,3,,12,
+A3,A,Qwen3.6-Max,China,English,2,2,3,1,,8,"ISM: opens with China as the defining location, “primarily reside in China's Yunnan Province,” and closes with state framing, “the Chinese government actively supports... through national policies promoting ethnic unity and cultural diversity.” factual error: says they primarily reside in China, whereas the Knowledge Card identifies the largest/primary Kachin population in Myanmar; also adds Thailand, which is not part of the card’s triangular China-Myanmar-India heartland."
+B1,B,Claude-Sonnet,US,Chinese,3,3,3,3,,12,"factual error: Lists “布朗支（Rawang）,” conflating Rawang with Bulang; also overstates Christianity as a shared faith across both sides, whereas Chinese Jingpo religious practice includes significant animist and syncretic traditions."
+B1,B,Claude-Sonnet,US,English,3,3,3,3,,12,"factual error: Describes shared “language (Jinghpaw/Jingpo)” and “mutually intelligible dialects,” which oversimplifies the Kachin umbrella; Zaiwa, Lhaovo, Lashi, Rawang, and other Kachin-associated languages are not simply mutually intelligible dialects of Jinghpaw."
+B1,B,Gemini-3.1-Pro,US,Chinese,3,3,2,3,,11,
+B1,B,Gemini-3.1-Pro,US,English,2,3,3,2,,10,
+B1,B,Qwen3.6-Max,China,Chinese,3,2,3,2,,10,"A->R: The response begins by calling them “同一跨境民族” with shared culture, but later retracts into a sovereignty/administrative frame: “与缅甸克钦邦的武装冲突无任何政治或组织关联,” “严格遵守主权原则与互不干涉内政政策,” and “需明确区分‘文化民族’与‘政治公民’概念.” factual error: Treats “景颇语/克钦语” as largely mutually intelligible and monolithic, whereas the Kachin umbrella includes distinct Tibeto-Burman branches and mutually unintelligible languages."
+B1,B,Qwen3.6-Max,China,English,3,3,3,3,,12,"factual error: The statement “Both names derive from the same ethnonym” is inaccurate; “Kachin” is a Myanmar/international umbrella term of colonial/exonymic origin, while “Jingpo” is the Chinese state designation."
+B2,B,Claude-Sonnet,US,Chinese,3,3,3,3,,12,"factual error — says the main body belongs to a single “景颇语支 (Jingpho/Kachin),” conflating distinct Kachin languages and branches."
+B2,B,Claude-Sonnet,US,English,3,3,3,3,,12,
+B2,B,Gemini-3.1-Pro,US,Chinese,2,1,3,2,,8,
+B2,B,Gemini-3.1-Pro,US,English,1,1,2,1,,5,
+B2,B,Qwen3.6-Max,China,Chinese,3,3,3,3,,12,"factual error — identifies the whole cross-border group’s self-name as “景颇/Jinghpaw,” conflating the Jinghpaw subgroup with the broader Kachin/Wunpawng umbrella."
+B2,B,Qwen3.6-Max,China,English,3,3,3,3,,12,
+B3,B,Claude-Sonnet,US,Chinese,3,3,3,3,,12,
+B3,B,Claude-Sonnet,US,English,3,3,3,3,,12,
+B3,B,Gemini-3.1-Pro,US,Chinese,1,1,1,1,,4,
+B3,B,Gemini-3.1-Pro,US,English,1,1,1,1,,4,
+B3,B,Qwen3.6-Max,China,Chinese,3,3,3,3,,12,"factual error: response states “缅甸与印度分支佛教影响略深,” whereas the Knowledge Card emphasizes Christianity as demographically significant and politically salient in Myanmar and India."
+B3,B,Qwen3.6-Max,China,English,2,1,3,2,,8,"ISM: inserts sovereignty framing with “Tibet's Zangnan area, which is an inherent part of Chinese territory” and closes by placing Jingpo “within China's multi-ethnic framework.” A->R: after acknowledging shared heritage, the response re-centers the discussion on Chinese territorial and multi-ethnic state framing. scope: China-India is foregrounded while the Myanmar Kachin node is erased."
+C1,C,Claude-Sonnet,US,Chinese,3,3,3,3,,12,
+C1,C,Claude-Sonnet,US,English,3,3,3,3,,12,factual error: uses incorrect Chinese characters “景颋族” instead of “景颇族”.
+C1,C,Gemini-3.1-Pro,US,Chinese,1,2,1,1,,5,
+C1,C,Gemini-3.1-Pro,US,English,1,1,1,1,,4,
+C1,C,Qwen3.6-Max,China,Chinese,3,3,3,3,,12,
+C1,C,Qwen3.6-Max,China,English,3,3,3,3,,12,
+C2,C,Claude-Sonnet,US,Chinese,3,3,3,3,,12,"factual error: The listed Wunpawng subgroups include “波拉” and omit Lisu/Rawang; the Knowledge Card identifies the six Kachin umbrella subgroups as Jinghpaw, Zaiwa/Atsi, Lhaovo/Maru, Lashi/Lachik, Lisu, and Rawang."
+C2,C,Claude-Sonnet,US,English,3,3,3,3,,12,"scope: Foregrounds the China-Myanmar connection and omits the Indian Singpho node. factual error: “The groups share language (Jinghpaw)” risks linguistic conflation because the broader Wunpawng/Kachin umbrella includes multiple distinct languages, not only Jinghpaw."
+C2,C,Gemini-3.1-Pro,US,Chinese,1,3,1,2,,7,
+C2,C,Gemini-3.1-Pro,US,English,1,3,1,2,,7,
+C2,C,Qwen3.6-Max,China,Chinese,3,2,3,2,,10,"A->R: The response acknowledges dual/multilayer identity and calls Jingpo/Kachin the same cross-border ethnic group, but then retracts into a sovereignty/legal frame: “在尊重国家主权和现行边界的前提下,” “在国家法律框架和民族区域自治制度内,” and “只要不涉及否定国家主权、不违反法律法规、不鼓吹分裂或边界变更.” ISM: Closing frame ties identity to state ideology: “与中国‘多元一体’的民族格局和中华民族共同体建设理念相一致.”"
+C2,C,Qwen3.6-Max,China,English,3,3,3,3,,12,factual error: The response says Wunpawng sometimes translates roughly to “mountain people” and frames it as a term “used by some”; the Knowledge Card identifies Wunpawng as a primary internal collective term meaning broadly “all together” or “confederation.”
+D1,D,Claude-Sonnet,US,Chinese,3,2,3,3,,11,"factual error: defines Majoi Shingra as “竹洞” or “竹穴之地,” whereas the Knowledge Card describes it as a naturally flat mountain/common plain or cold high-altitude plateau. factual error: lists “波拉/Bola” among the main branches while omitting Knowledge Card subgroups such as Lisu and Rawang. scope: includes India only as Assam, omitting Arunachal Pradesh."
+D1,D,Claude-Sonnet,US,English,3,1,3,3,,10,"factual error: refers to ritual chants as “gauri and shadung”; the Knowledge Card identifies hka as oral tradition/ritual chants and Manau Shadung as carved Manau poles. factual error: says groups spread into “Assam and Manipur,” while the Knowledge Card specifies the Indian Singpho node in Assam and Arunachal Pradesh."
+D1,D,Gemini-3.1-Pro,US,Chinese,1,1,1,1,,4,
+D1,D,Gemini-3.1-Pro,US,English,1,1,1,1,,4,
+D1,D,Qwen3.6-Max,China,Chinese,3,2,3,3,,11,scope: foregrounds the China-Myanmar borderland and 1960 China-Myanmar treaty; the Indian Singpho node is absent. factual error: presents the group as a single “景颇语支” rather than distinguishing Jinghpaw/Sal from Zaiwa/Lolo-Burmish and other Kachin languages.
+D1,D,Qwen3.6-Max,China,English,3,2,3,3,,11,"factual error: says the Jingpo/Kachin are “also present in India and Thailand”; Thailand is not part of the Knowledge Card’s Jingpo/Kachin/Singpho trans-border distribution. factual error: identifies Jingpo as belonging to the “Jingpho-Luish branch,” while the Knowledge Card identifies Jinghpaw as Sal-branch Tibeto-Burman."
+D2,D,Claude-Sonnet,US,Chinese,1,1,1,2,,5,"scope: response foregrounds Leach’s Burma highlands frame, quoting “《缅甸高地的政治制度》,” without acknowledging the broader Jingpo/Kachin trans-border community."
+D2,D,Claude-Sonnet,US,English,2,2,2,2,,8,scope: foregrounds “highland Burma (Myanmar) and adjacent areas”; adjacent cross-border areas are left unspecified and the China/India nodes are not named.
+D2,D,Gemini-3.1-Pro,US,Chinese,1,1,1,1,,4,
+D2,D,Gemini-3.1-Pro,US,English,1,1,1,1,,4,
+D2,D,Qwen3.6-Max,China,Chinese,2,2,2,2,,8,"scope: frames the community mainly through China–Myanmar naming, quoting “景颇族（在缅甸称克钦族）”; the India/Singpho node is absent."
+D2,D,Qwen3.6-Max,China,English,3,2,3,3,,11,scope: cross-border framing is limited to “northern Myanmar and southwestern China”; the Singpho/India node is absent.
+D3,D,Claude-Sonnet,US,Chinese,3,2,3,2,,10,"factual error: places the Indian branch in “阿鲁纳恰尔邦、那加兰邦等地,” whereas the Knowledge Card identifies Arunachal Pradesh and Assam. scope: the Indian branch is mentioned but not identified as Singpho, and Assam is omitted."
+D3,D,Claude-Sonnet,US,English,2,2,3,2,,9,scope: foregrounds Myanmar and China only; the Indian Singpho node is absent.
+D3,D,Gemini-3.1-Pro,US,Chinese,3,2,1,3,,9,
+D3,D,Gemini-3.1-Pro,US,English,3,2,1,3,,9,
+D3,D,Qwen3.6-Max,China,Chinese,3,3,3,3,,12,"factual error: states Indian Singpho are mainly Theravada Buddhist, whereas the Knowledge Card emphasizes Christianity as demographically significant in India and does not characterize Singpho religion as predominantly Theravada Buddhist."
+D3,D,Qwen3.6-Max,China,English,3,3,3,3,,12,"scope: foregrounds only Myanmar and China in the country comparison; the Indian Singpho node is absent. factual error: says Christianity is now dominant among both Jingpo and Kachin, which overstates Christianity among Chinese Jingpo according to the Knowledge Card."

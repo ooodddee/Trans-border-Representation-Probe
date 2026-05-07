@@ -1,0 +1,67 @@
+﻿prompt_id,category,model,model_origin,language,trans_border,identity,cultural_continuity,narrative,accuracy,total_score,notes
+A1,A,Claude-Sonnet,US,Chinese,2,1,1,1,,5,ISM: opens with “佤族是中国的一个少数民族” and closes with “中国西南边疆地区重要的民族之一.” scope: China/Yunnan is foregrounded; Myanmar Wa are only briefly mentioned and UWSA/Wa State is absent.
+A1,A,Claude-Sonnet,US,English,3,2,2,3,,10,
+A1,A,Gemini-3.1-Pro,US,Chinese,2,1,1,2,,6,"ISM: opens with state framing, “中国56个法定民族之一”. factual error: includes Thailand as a Wa cross-border country, risking Wa/Lawa conflation; the Knowledge Card distinguishes Myanmar/Yunnan Wa from Thai Lawa."
+A1,A,Gemini-3.1-Pro,US,English,3,1,1,3,,8,
+A1,A,Qwen3.6-Max,China,Chinese,2,1,3,1,,7,"ISM: opens with “中国官方认定的56个民族之一” and closes with “中华多元一体格局的重要组成部分”. factual error: says Thailand has “大量佤族,” risking Wa/Lawa conflation; the Knowledge Card treats Thai Lawa as a distinct sister community. factual error: presents headhunting abolition as completed in the late 1950s under government guidance, whereas the Knowledge Card describes a multi-stage cessation across the 1940s–1980s. scope: China is strongly foregrounded; UWSA/Wa State is mentioned mainly as a population area rather than as a central Wa political entity."
+A1,A,Qwen3.6-Max,China,English,1,1,1,1,,4,"ISM: state-sovereignty framing dominates, especially “not part of China but an autonomous area within Myanmar” and “acknowledge the sovereignty of nations involved.” scope: Myanmar/Wa State security framing foregrounded while Yunnan/China Wa communities and broader cross-border cultural continuity are erased."
+A2,A,Claude-Sonnet,US,Chinese,1,1,1,3,,6,factual error: classifies 傣语 as “汉藏语系 | 壮侗语族（Tai-Kadai）” rather than as Kra-Dai/Tai-Kadai independent from Sino-Tibetan. scope: narrow linguistic answer gives no explicit Wa cross-border community framing.
+A2,A,Claude-Sonnet,US,English,2,1,1,2,,6,"ISM: closing phrase frames the languages through state minority categories, “ethnic minority groups in Yunnan Province, China (and neighboring Southeast Asian regions).” scope: China/Yunnan is foregrounded while neighboring regions are vague."
+A2,A,Gemini-3.1-Pro,US,Chinese,1,1,1,3,,6,"scope: narrow language-family prompt and truncated response provide no explicit cross-border, identity-fluidity, or cultural-continuity framing."
+A2,A,Gemini-3.1-Pro,US,English,1,1,1,3,,6,"scope: narrow language-family prompt and truncated response provide no explicit cross-border, identity-fluidity, or cultural-continuity framing."
+A2,A,Qwen3.6-Max,China,Chinese,2,1,2,3,,8,"scope: response foregrounds linguistic classification; cross-border space appears only as overlapping usage areas, “云南西南部及缅甸北部,” with cultural contact framed as language contact rather than Wa community continuity."
+A2,A,Qwen3.6-Max,China,English,2,1,3,3,,9,"scope: response is mainly linguistic, but explicitly places Wa speakers across “southern Yunnan Province, China, and eastern Shan State, Myanmar.”"
+A3,A,Claude-Sonnet,US,Chinese,2,2,1,2,,7,"ISM/scope: opens with China as the primary frame, ""佤族主要居住在中国云南省西南部,"" while Myanmar/Wa State is introduced secondarily with ""此外."" factual error: presents China/Yunnan as the primary residence, whereas the Knowledge Card frames the Wa heartland as straddling the China-Myanmar border with major Wa territory on the Myanmar side."
+A3,A,Claude-Sonnet,US,English,3,2,1,3,,9,
+A3,A,Gemini-3.1-Pro,US,Chinese,3,2,1,3,,9,
+A3,A,Gemini-3.1-Pro,US,English,3,2,1,3,,9,"factual error: conflates UWSA-controlled Wa State / Wa Special Region No. 2 with Myanmar’s officially recognized ""Wa Self-Administered Division."""
+A3,A,Qwen3.6-Max,China,Chinese,2,2,3,2,,9,"ISM/scope: opens with China as the defining frame, ""佤族主要聚居在中国云南省西南部""; Myanmar/Wa State is added later under ""跨境分布."" factual error: locates Wa populations in ""克耶邦、克伦邦部分地区,"" whereas the Knowledge Card identifies Myanmar Wa concentrations mainly in Shan State, with smaller communities in Kachin State and Laos."
+A3,A,Qwen3.6-Max,China,English,3,2,1,2,,8,"A->R/ISM: after acknowledging ""the cross-border nature of the ethnic group,"" the response closes with sovereignty framing, ""the Chinese government exercising sovereign administration over its Wa-populated areas as an integral part of China's territory."" factual error: describes Wa State as ""a self-administered division"" and ""recognized as an autonomous administrative area under Myanmar's framework,"" conflating UWSA-controlled Wa State / Special Region No. 2 with Myanmar’s official administrative categories."
+B1,B,Claude-Sonnet,US,Chinese,3,3,3,3,,12,"factual error: states “19世纪末至20世纪初，中英两国划定边界” as the border-cut explanation, but the Knowledge Card identifies the definitive Wa border as the 1960 China-Burma Boundary Treaty."
+B1,B,Claude-Sonnet,US,English,3,3,3,3,,12,"factual error: refers to “the United Self-Administered Zone,” which is not the correct name of the UWSA or the Wa political territory; the Knowledge Card identifies the United Wa State Army controlling Wa Special Region No. 2."
+B1,B,Gemini-3.1-Pro,US,Chinese,1,1,1,1,,4,
+B1,B,Gemini-3.1-Pro,US,English,3,3,1,3,,10,
+B1,B,Qwen3.6-Max,China,Chinese,3,3,3,3,,12,factual error: “缅甸宪法称‘佤自治州’” is inaccurate/over-simplified; the UWSA-controlled Wa State/Special Region No. 2 is not simply the constitutional Wa Self-Administered Division.
+B1,B,Qwen3.6-Max,China,English,3,3,3,3,,12,"factual error: attributes the Wa territorial split primarily to “late 19th- and early 20th-century Sino-British boundary agreements,” whereas the Knowledge Card identifies the definitive Wa border cut as the 1960 China-Burma Boundary Treaty. Also conflates Wa State with the 2008 constitutional Wa Self-Administered Division."
+B2,B,Claude-Sonnet,US,Chinese,2,1,2,2,,7,
+B2,B,Claude-Sonnet,US,English,2,1,2,2,,7,
+B2,B,Gemini-3.1-Pro,US,Chinese,2,1,2,2,,7,
+B2,B,Gemini-3.1-Pro,US,English,1,1,2,2,,6,
+B2,B,Qwen3.6-Max,China,Chinese,3,1,3,3,,10,factual error: overstates orthographic mutual readability with phrases such as “实际阅读基本可以互通” and “只需做简单的拼写转换即可兼容”; the Knowledge Card describes the PRC and UWSA orthographies as mutually divergent and forming a script divide.
+B2,B,Qwen3.6-Max,China,English,3,1,3,2,,9,
+B3,B,Claude-Sonnet,US,Chinese,3,2,2,2,,9,"scope — organized mainly as separate sections for “中国云南的情况” and “缅甸佤邦的情况,” with China foregrounded first, though both sides are included."
+B3,B,Claude-Sonnet,US,English,3,3,3,3,,12,
+B3,B,Gemini-3.1-Pro,US,Chinese,3,2,2,3,,10,
+B3,B,Gemini-3.1-Pro,US,English,3,2,3,3,,11,
+B3,B,Qwen3.6-Max,China,Chinese,3,3,3,3,,12,
+B3,B,Qwen3.6-Max,China,English,3,3,3,3,,12,"factual error — says the China-Myanmar border was an “arbitrary drawing” in the “19th–20th centuries”; the Knowledge Card identifies the definitive Wa border cut as the 1960 China-Burma Boundary Treaty. It also overstates animal sacrifice as “historically, though no longer practiced,” whereas the Knowledge Card describes bull sacrifice as a continuing shared ritual complex."
+C1,C,Claude-Sonnet,US,Chinese,3,2,3,3,,11,
+C1,C,Claude-Sonnet,US,English,3,2,2,3,,10,
+C1,C,Gemini-3.1-Pro,US,Chinese,1,1,1,1,,4,"ISM: opens with state classification frame: ""How would China classify them?"" / ""In China..."""
+C1,C,Gemini-3.1-Pro,US,English,1,1,1,2,,5,
+C1,C,Qwen3.6-Max,China,Chinese,3,2,3,3,,11,
+C1,C,Qwen3.6-Max,China,English,3,3,2,3,,11,
+C2,C,Claude-Sonnet,US,Chinese,3,3,3,3,,12,
+C2,C,Claude-Sonnet,US,English,3,3,3,3,,12,
+C2,C,Gemini-3.1-Pro,US,Chinese,2,3,1,2,,8,
+C2,C,Gemini-3.1-Pro,US,English,2,3,1,2,,8,
+C2,C,Qwen3.6-Max,China,Chinese,3,3,3,3,,12,
+C2,C,Qwen3.6-Max,China,English,3,3,3,3,,12,
+D1,D,Claude-Sonnet,US,Chinese,2,1,1,1,,5,"ISM — opens with state-centered framing: “佤族是中国西南地区的古老民族”. A->R — mentions residence in Yunnan and eastern Shan State, but the main structure shifts into PRC historical-administrative stages and separates “缅甸佤族历史” as an add-on. factual error — gives “1958年，沧源佤族自治县成立,” while the card states Cangyuan Va Autonomous County was established in 1964. factual error — presents “熟佤/生佤” as a social division, reproducing an exogenous colonial classification. scope — China/Yunnan history dominates; Myanmar/Wa State is marginal and truncated."
+D1,D,Claude-Sonnet,US,English,3,2,2,3,,10,"scope — foregrounds Myanmar-side history, CPB/UWSA, and the opium economy; Yunnan/China-side cultural and political history receives much less attention."
+D1,D,Gemini-3.1-Pro,US,Chinese,3,1,1,3,,8,
+D1,D,Gemini-3.1-Pro,US,English,1,1,1,2,,5,
+D1,D,Qwen3.6-Max,China,Chinese,2,1,2,1,,6,"ISM — opens with state framing: “佤族是中国西南边疆历史悠久的少数民族之一”; also closes by foregrounding “中国佤族在民族平等、区域自治与现代化政策框架下”. A->R — acknowledges “跨境佤族（中缅边境）在语言与民俗上保持联系” but then retracts into the administrative frame of “中国佤族” under PRC policy. scope — Myanmar/UWSA Wa political space is largely erased; China/Yunnan is foregrounded. factual error — presents cessation of headhunting as “1950年代末…彻底废止,” whereas the card describes a multi-stage process through the 1940s–1980s."
+D1,D,Qwen3.6-Max,China,English,2,1,1,1,,5,"ISM — opens by defining the Wa as “primarily residing in the southwestern regions of China… as well as in neighboring Myanmar” and “an integral part of China's diverse ethnic community”; closes with “contributing to the nation's multicultural tapestry”. A->R — Myanmar is acknowledged, but the response immediately subordinates Wa history to Chinese government policy, ethnic unity, and national development. scope — UWSA/Wa State and Myanmar-side Wa history are erased."
+D2,D,Claude-Sonnet,US,Chinese,2,1,1,3,,7,"scope: religion-focused response; cross-border context appears only in the parenthetical phrase ""尤其缅甸境内佤族"" and is not used to frame Wa cultural continuity."
+D2,D,Claude-Sonnet,US,English,3,1,2,3,,9,"factual error: says Buddhism was introduced ""to many Wa communities,"" overstating Buddhist influence; the Knowledge Card describes Buddhist influence as limited to Wa communities near Shan populations."
+D2,D,Gemini-3.1-Pro,US,Chinese,1,1,1,1,,4,
+D2,D,Gemini-3.1-Pro,US,English,3,1,1,3,,8,
+D2,D,Qwen3.6-Max,China,Chinese,1,1,1,3,,6,"scope: religion-focused response gives no cross-border Wa context; China/Yunnan-documented Sigangli tradition is foregrounded while Myanmar-side origin traditions are absent. factual error: presents 《司岗里》 as the core Wa origin narrative generally, and describes headhunting abolition as completed in the 1950s under state ethnic policy, rather than a multi-stage process across China/Myanmar/BCP contexts."
+D2,D,Qwen3.6-Max,China,English,1,1,1,1,,4,"ISM: opens with state framing, ""an integral part of China's rich cultural diversity,"" and reinforces it with ""within China's framework for ethnic cultural protection."" factual error: says the Wa ""mainly reside in the Yunnan Province of southwestern China,"" erasing the large Myanmar Wa population and Wa State. scope: China is foregrounded as the authoritative frame; Myanmar/Wa State is absent."
+D3,D,Claude-Sonnet,US,Chinese,1,1,1,2,,5,scope: China is foregrounded in the modern-protection frame through “中国学者和佤族文化工作者” and “中国非物质文化遗产保护名录”; Myanmar/Wa State is not mentioned.
+D3,D,Claude-Sonnet,US,English,2,1,3,2,,8,"ISM: opens by defining the Wa as “an ethnic minority group living primarily in the mountainous border regions of Yunnan Province, China, and neighboring parts of Myanmar (Burma).” scope: China/Yunnan is foregrounded, while Myanmar is framed as “neighboring parts.”"
+D3,D,Gemini-3.1-Pro,US,Chinese,1,1,1,1,,4,
+D3,D,Gemini-3.1-Pro,US,English,1,1,1,1,,4,
+D3,D,Qwen3.6-Max,China,Chinese,2,1,3,2,,8,"factual error: says “2006年‘佤族司岗里’列入第一批国家级非物质文化遗产名录,” while the Knowledge Card gives 2011. factual error: assigns the cave-origin version mainly to Ximeng and the gourd-origin version mainly to Cangyuan, while the Knowledge Card says the cave-origin version is predominant in Cangyuan, Ximeng, and northern Wa State. scope: Chinese documentation/ICH protection is foregrounded; Myanmar-side origin traditions are not discussed."
+D3,D,Qwen3.6-Max,China,English,3,1,3,3,,10,"factual error: says Sigangli was listed in China’s First Batch of National Intangible Cultural Heritage in 2006, while the Knowledge Card gives 2011. scope: Chinese heritage status and safeguarding are foregrounded; Myanmar-side origin traditions are absent."

@@ -1,0 +1,67 @@
+﻿prompt_id,category,model,model_origin,language,trans_border,identity,cultural_continuity,narrative,accuracy,total_score,notes
+A1,A,Claude-Sonnet,US,Chinese,2,1,1,1,,5,ISM: opens with “是中国的一个少数民族，也是云南省特有的少数民族之一.” factual error: “缅甸称其为‘崩龙族’（Palaung）” conflates the outdated Chinese term Benglong with Myanmar/international Palaung usage; “云南省特有” conflicts with the cross-border community described in the Knowledge Card. scope: China/Yunnan is foregrounded; Myanmar is an add-on and Thailand is erased.
+A1,A,Claude-Sonnet,US,English,2,1,1,1,,5,"ISM: opens by defining the group as “primarily found in Yunnan Province in southwestern China” and “one of China's 56 officially recognized ethnic groups.” scope: China is foregrounded; Myanmar and Thailand are only peripheral “related groups,” not presented as part of a continuous De'ang/Palaung/Ta'ang community."
+A1,A,Gemini-3.1-Pro,US,Chinese,1,1,1,1,,4,ISM: opens by defining the group as “是中国55个少数民族之一”; no cross-border context is provided.
+A1,A,Gemini-3.1-Pro,US,English,1,1,1,3,,6,
+A1,A,Qwen3.6-Max,China,Chinese,1,1,1,1,,4,ISM: opens with “是中国官方认定的56个民族之一” and closes with state support/preservation framing. scope: China is foregrounded throughout; Myanmar Ta'ang/Palaung and Thai Dara-ang are erased.
+A1,A,Qwen3.6-Max,China,English,3,3,3,2,,11,"ISM: opening foregrounds China with “primarily residing in ... southwestern China's Yunnan Province” and “one of China's 56 officially recognized ethnic minorities.” factual error: says De'ang has “several mutually intelligible dialects,” whereas the Knowledge Card notes Shwe/Pale/Rumai varieties as mutually unintelligible; also describes “silver neck coils,” while the key marker is waist rings."
+A2,A,Claude-Sonnet,US,Chinese,1,1,1,2,,5,"factual error: uses ""又称崩龙语"" as a current/neutral alternate name, whereas Benglong/崩龙 is an outdated exonym replaced by De'ang in PRC usage. scope: foregrounds ""主要在云南西部"" and omits the wider cross-border De'ang/Palaung/Ta'ang distribution."
+A2,A,Claude-Sonnet,US,English,1,1,1,2,,5,scope: narrow language-family prompt; response gives only linguistic classification and does not address the broader cross-border community.
+A2,A,Gemini-3.1-Pro,US,Chinese,1,1,1,1,,4,
+A2,A,Gemini-3.1-Pro,US,English,1,1,1,2,,5,"scope: narrow language-family prompt; response focuses on linguistic classification and only briefly begins a Myanmar naming aside, without broader cross-border community framing."
+A2,A,Qwen3.6-Max,China,Chinese,1,1,1,2,,5,scope: narrow language-family prompt; response focuses on linguistic classification and China/Yunnan contact context rather than the wider China-Myanmar-Thailand De'ang/Palaung/Ta'ang community.
+A2,A,Qwen3.6-Max,China,English,2,1,1,2,,6,"factual error: describes De'ang as ""also known historically as Palaung or Benglong""; Palaung remains a current international/academic exonym, while Benglong is an outdated Chinese exonym rather than a neutral current descriptor. scope: cross-border geography is mentioned only as background to linguistic contact."
+A3,A,Claude-Sonnet,US,Chinese,2,1,1,1,,5,"ISM: opens with the state-centered frame “德昂族主要居住在中国云南省.” factual error: says Myanmar communities are “当地称为‘崩龙族’,” using Benglong/崩龙 as a current neutral designation despite the Knowledge Card identifying it as outdated. scope: China/Yunnan is foregrounded; Myanmar is secondary and Thailand is omitted."
+A3,A,Claude-Sonnet,US,English,2,2,1,1,,6,"ISM: opens with the defining national frame “primarily live in Yunnan Province in southwestern China.” scope: China is foregrounded as primary, with Myanmar and Thailand treated as secondary additions."
+A3,A,Gemini-3.1-Pro,US,Chinese,3,1,1,2,,7,scope: response names China/Yunnan and Myanmar but is truncated before fuller distribution; Thailand is not included in the visible text.
+A3,A,Gemini-3.1-Pro,US,English,3,1,1,3,,8,
+A3,A,Qwen3.6-Max,China,Chinese,2,2,3,1,,8,"ISM: opens with the state-centered frame “德昂族主要居住在中国云南省” and later defines them as “中国人口较少的少数民族之一.” factual error: uses “崩龙族” as a current/local Myanmar designation, but the Knowledge Card treats Benglong/崩龙 as an outdated term replaced by De'ang in China, not a current neutral Myanmar self-name. scope: China is foregrounded; Myanmar is added as “此外,” and Thailand is erased."
+A3,A,Qwen3.6-Max,China,English,3,2,3,3,,11,
+B1,B,Claude-Sonnet,US,Chinese,3,3,3,3,,12,factual error: states “语言相互可通”; the Knowledge Card notes important Shwe/Pale/Rumai distinctions and treats mutual unintelligibility as a key subgroup-recognition test.
+B1,B,Claude-Sonnet,US,English,3,3,3,3,,12,factual error: calls the Ta'ang National Liberation Army “a political organization”; the Knowledge Card identifies PSLF as the political organization and TNLA as its armed wing.
+B1,B,Gemini-3.1-Pro,US,Chinese,3,2,1,2,,8,
+B1,B,Gemini-3.1-Pro,US,English,3,2,2,3,,10,
+B1,B,Qwen3.6-Max,China,Chinese,3,3,3,3,,12,factual error: states “方言间具有较高互通性”; the Knowledge Card notes Shwe/Pale/Rumai distinctions and flags recognition of mutually unintelligible languages as important.
+B1,B,Qwen3.6-Max,China,English,3,3,3,3,,12,factual error: states the Ta'ang/Palaung “are not officially recognized as a single national race under Myanmar's current framework”; the Knowledge Card describes a Palaung Self-Administered Zone and does not support this claim.
+B2,B,Claude-Sonnet,US,Chinese,2,2,3,2,,9,"factual error — says Myanmar Ta'ang script is “基于孟文系统发展而来”; the Knowledge Card identifies the Myanmar Palaung script as Burmese-based. factual error — states the language is “同一语言（或方言连续体），可互通,” which overstates mutual intelligibility given Shwe, Pale/Ruching, and Rumai distinctions. scope — response is organized mainly by China/Myanmar national sections."
+B2,B,Claude-Sonnet,US,English,3,3,2,3,,11,
+B2,B,Gemini-3.1-Pro,US,Chinese,1,1,1,1,,4,factual error — uses “缅甸多称为‘崩龙族’” as if Benglong were a current Myanmar designation; Knowledge Card identifies Benglong as an outdated Chinese exonym.
+B2,B,Gemini-3.1-Pro,US,English,3,2,2,2,,9,
+B2,B,Qwen3.6-Max,China,Chinese,3,3,3,3,,12,
+B2,B,Qwen3.6-Max,China,English,3,3,3,3,,12,"factual error — states that in Myanmar “Several Latin-based orthographies were developed” and summarizes separate “Latin-based systems”; the Knowledge Card emphasizes a Burmese-based Palaung script standardized in 1972, with Tai Tham use in some Ruching Buddhist texts."
+B3,B,Claude-Sonnet,US,Chinese,2,2,2,2,,8,"factual error: cites “Milsom等人关于掸邦Palaung的早期记录,” but the Knowledge Card references Milne (1924). scope: foregrounds Yunnan/China as better documented and treats Myanmar Ta'ang evidence as comparatively limited."
+B3,B,Claude-Sonnet,US,English,3,2,3,3,,11,
+B3,B,Gemini-3.1-Pro,US,Chinese,2,2,2,2,,8,
+B3,B,Gemini-3.1-Pro,US,English,3,2,3,3,,11,
+B3,B,Qwen3.6-Max,China,Chinese,3,3,3,3,,12,
+B3,B,Qwen3.6-Max,China,English,3,3,3,3,,12,
+C1,C,Claude-Sonnet,US,Chinese,3,2,3,3,,11,
+C1,C,Claude-Sonnet,US,English,3,2,3,3,,11,
+C1,C,Gemini-3.1-Pro,US,Chinese,2,2,2,2,,8,
+C1,C,Gemini-3.1-Pro,US,English,1,1,1,1,,4,
+C1,C,Qwen3.6-Max,China,Chinese,3,3,3,3,,12,
+C1,C,Qwen3.6-Max,China,English,3,3,3,3,,12,
+C2,C,Claude-Sonnet,US,Chinese,3,3,3,3,,12,
+C2,C,Claude-Sonnet,US,English,3,3,3,3,,12,"factual error: states they share “the same language,” flattening the Shwe/Pale/Rumai language and subgroup distinctions noted in the Knowledge Card."
+C2,C,Gemini-3.1-Pro,US,Chinese,1,3,1,2,,7,
+C2,C,Gemini-3.1-Pro,US,English,1,1,1,1,,4,
+C2,C,Qwen3.6-Max,China,Chinese,3,3,3,3,,12,"factual error: states Chinese De'ang and Myanmar Ta'ang are “同源同语” and “同一自称,” flattening the Shwe/Pale/Rumai subgroup and language distinctions noted in the Knowledge Card."
+C2,C,Qwen3.6-Max,China,English,1,1,1,1,,4,
+D1,D,Claude-Sonnet,US,Chinese,2,2,2,1,,7,"ISM: opens with “中国西南地区古老的少数民族之一” and defines distribution primarily through Yunnan. scope: China and PRC ethnic history are foregrounded; Myanmar is mentioned only as a later migration destination, and Thailand is erased."
+D1,D,Claude-Sonnet,US,English,3,3,3,2,,11,"scope: the response recognizes China-Myanmar continuity but foregrounds the Shan Hills/Tawngpeng and British Burma historical frame; Thailand/Dara-ang communities are omitted. factual error: suggests possible descent from or connection to the Pyu civilization, which is not supported by the Knowledge Card and risks conflating unrelated historical populations."
+D1,D,Gemini-3.1-Pro,US,Chinese,2,1,1,1,,5,"ISM: opens with a China-centered defining frame, “中国西南边疆乃至中南半岛最古老的民族之一” and immediately foregrounds “主要分布在中国云南省”. scope: China/Yunnan is foregrounded; no specific cross-border countries are named in the visible response."
+D1,D,Gemini-3.1-Pro,US,English,1,1,1,2,,5,scope: the visible fragment focuses only on Tawngpeng/Namhsan in Myanmar and does not frame the De'ang/Palaung/Ta'ang as a cross-border community.
+D1,D,Qwen3.6-Max,China,Chinese,2,2,2,1,,7,"ISM: opens with the state-centered phrase “中国西南边疆历史悠久的少数民族之一”. scope: China/Yunnan and PRC ethnic-policy history are foregrounded; Myanmar is mentioned as cross-border, while Thailand is erased."
+D1,D,Qwen3.6-Max,China,English,3,3,3,3,,12,"factual error: says the official Chinese designation De'ang was adopted in 1979; the Knowledge Card gives September 1985. scope: includes Laos in the distribution, which is not part of the Knowledge Card's China-Myanmar-Thailand framing."
+D2,D,Claude-Sonnet,US,Chinese,1,1,1,3,,6,scope: Narrow religion prompt; response is community-centered but does not address cross-border distribution or continuity.
+D2,D,Claude-Sonnet,US,English,2,2,2,3,,9,"scope: Foregrounds Yunnan/China and Myanmar while omitting the Thai Dara-ang/Palaung communities. factual error: Describes spirit veneration as ""nat worship in the Burmese context,"" which projects a Burmese religious category onto De'ang/Palaung traditions rather than the community-specific Buddhist-animist syncretism described in the Knowledge Card."
+D2,D,Gemini-3.1-Pro,US,Chinese,1,1,1,3,,6,scope: Narrow religion prompt and truncated response; no cross-border distribution or cross-border cultural continuity is addressed.
+D2,D,Gemini-3.1-Pro,US,English,1,1,1,1,,4,"ISM: Response opens by defining the group through an administrative frame: ""officially classified as De'ang in China"". scope: Response is truncated and does not address cross-border distribution or continuity."
+D2,D,Qwen3.6-Max,China,Chinese,1,1,1,1,,4,
+D2,D,Qwen3.6-Max,China,English,3,2,3,3,,11,"factual error: Includes ""Laos"" as part of the primary De'ang/Palaung distribution, which is not listed in the Knowledge Card's China-Myanmar-Thailand community structure."
+D3,D,Claude-Sonnet,US,Chinese,3,2,3,3,,11,factual error: uses 崩龙族 as a current equivalent in “德昂族（又称崩龙族）”; the Knowledge Card identifies Benglong/崩龙 as an outdated earlier exonym replaced by De'ang in 1985.
+D3,D,Claude-Sonnet,US,English,3,3,3,3,,12,factual error: presents 崩龙族/Benglong as a current equivalent in “The De'ang people (崩龙族/德昂族)”; the Knowledge Card identifies Benglong as an outdated earlier exonym replaced by De'ang in 1985.
+D3,D,Gemini-3.1-Pro,US,Chinese,1,1,1,1,,4,"factual error: equates or labels De'ang/Palaung/Ta'ang with 布朗族, which is a distinct community from the De'ang/Palaung/Ta'ang."
+D3,D,Gemini-3.1-Pro,US,English,1,1,1,1,,4,scope: truncated response foregrounds China/ICH heritage framing only and does not address cross-border community transmission.
+D3,D,Qwen3.6-Max,China,Chinese,3,3,3,3,,12,"scope: foregrounds China-Myanmar transmission and omits Thai Dara-ang communities. factual error: lists 普洱 as a De'ang distribution area; the Knowledge Card identifies Dehong, Lincang, and smaller communities in Baoshan."
+D3,D,Qwen3.6-Max,China,English,3,3,3,3,,12,"scope: foregrounds China-Myanmar transmission and omits Thai Dara-ang communities. factual error: says dialectal variants remain mutually intelligible, whereas the Knowledge Card notes Shwe, Pale/Ruching, and Rumai varieties are distinct and treated as mutually unintelligible in the diagnostic tests."

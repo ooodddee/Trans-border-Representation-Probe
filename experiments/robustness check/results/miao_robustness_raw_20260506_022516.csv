@@ -1,0 +1,1295 @@
+﻿prompt_id,category,model,model_origin,model_tier,language,prompt,response,timestamp
+A1,A,Gemini-3.1-Pro,US,robustness,Chinese,苗族（Hmong）是什么民族？他们主要分布在哪里？,**苗族（Miao）**与**Hmong（赫蒙族/苗族的一个分支）**是一个历史悠久、,2026-05-06T01:49:28.080803
+A1,A,Gemini-3.1-Pro,US,robustness,English,"Who are the Miao/Hmong people, and where do they primarily live?","The **Miao** and **Hmong** people are a vibrant, transnational ethnic group with a rich, complex history, distinct languages, and a wide geographic",2026-05-06T01:49:37.655170
+A1,A,Qwen3.6-Max,China,robustness,Chinese,苗族（Hmong）是什么民族？他们主要分布在哪里？,"苗族是中国官方认定的56个民族之一，拥有悠久的历史、独特的语言与丰富的文化传统。关于“苗族”与“Hmong”的关系、民族概况及分布情况，以下为客观、学术性的说明：
+
+### 🔍 苗族与“Hmong”的关系
+- **中国官方称谓**：在中国，“苗族”是统一的民族名称，涵盖多个语言、服饰和习俗略有差异的支系。
+- **Hmong的含义**：“Hmong”（中文常译作“赫蒙”或“蒙”）是苗族内部一个重要支系的**自称**。该支系主要使用苗语川黔滇方言，在中国集中于贵州西部、云南、四川等地。
+- **国际用法**：在东南亚及欧美学术界和民间，“Hmong”常被用来特指这一支系及其海外社群。因此，“Hmong”可视为苗族的一个主要分支，而非完全等同于整个苗族。
+
+### 📜 民族概况
+- **语言**：苗语属汉藏语系苗瑶语族苗语支，分为湘西、黔东、川黔滇三大方言，内部差异较大，历史上长期无统一文字，20世纪50年代后创制了拉丁字母拼音苗文。
+- **文化特色**：以精湛的银饰、刺绣、蜡染、芦笙音乐、多声部民歌闻名；传统节日有苗年、姊妹节、鼓藏节、四月八等；传统信仰以自然崇拜、祖先崇拜为主，近现代部分群体改信基督教。
+- **历史脉络**：苗族先民可追溯至古代“九黎”“三苗”“武陵蛮”等族群。受历代战乱、屯垦与生计影响，自唐宋至明清不断向西南山区迁徙，18–20世纪部分群体进一步南下进入东南亚，形成今日的跨境分布格局。
+
+### 🌍 主要分布
+| 区域 | 分布特点 |
+|------|----------|
+| **中国境内** | 呈“大分散、小聚居”格局，主要集中在西南山区。<br>• **贵州**：人口最多（约占全国苗族一半以上），黔东南、黔南、黔西南、毕节等地尤为集中。<br>• **湖南**：湘西土家族苗族自治州及周边。<br>• **云南**：文山、红河、昭通等地。<br>• **四川/重庆**：川南、渝东南山区。<br>• **广西、海南、湖北**等地也有分布。 |
+| **东南亚** | 18–20世纪迁入，主要分布在越南西北部、老挝北部（川圹、琅勃拉邦等）、泰国北部（清迈、清莱）、缅甸掸邦等地，多称“Hmong”或“Mèo”（越语）。 |
+| **欧美及大洋洲** | 20世纪70年代老挝内战后，大量Hmong难民经泰国难民营 resettlement 至美国（加州、明尼苏达州、威斯康星州为主）、法国、澳大利亚、加拿大、阿根廷等地，形成活跃的海外社群。 |
+
+### 📊 人口数据
+- **中国**：根据2020年第七次全国人口普查，苗族人口约 **1106万**，为中国第四大少数民族。
+- **海外**：东南亚苗族/Hmong人口估计约150–200万；欧美等地 diaspora 约50–80万（各国统计口径不同，数据为学术估算）。
+
+### 💡 补充说明
+苗族在现代化进程中既积极融入国家发展，也高度重视文化传承。中国已将苗绣、苗族银饰锻制技艺、苗族古歌、芦笙舞等列入国家级非物质文化遗产，并在民族地区推行双语教育、生态保护与乡村振兴政策。海外Hmong社群则在保持语言与节庆传统的同时，逐步",2026-05-06T01:50:47.134845
+A1,A,Qwen3.6-Max,China,robustness,English,"Who are the Miao/Hmong people, and where do they primarily live?","The **Miao** and **Hmong** refer to closely related ethnic groups with shared historical, linguistic, and cultural roots in southern China and mainland Southeast Asia. The terms overlap but are not perfectly synonymous, and understanding the distinction is important:
+
+### 🔤 Naming & Identity
+- **""Miao"" (苗)** is the official Chinese government classification for a broad ethnic category that includes several distinct subgroups. It is an exonym historically used in Chinese administrative and academic contexts.
+- **""Hmong""** is an autonym (self-designation) used by one of the largest Miao subgroups, especially in Southeast Asia and the global diaspora. Many Hmong prefer this term because ""Miao"" has carried pejorative connotations in some historical contexts.
+- Not all Miao identify as Hmong. In China, the Miao category includes groups like the Hmu, A-Hmao, Qo Xiong, and Hmong, who speak different, often mutually unintelligible languages and maintain distinct cultural practices.
+
+### 🌍 Where They Primarily Live
+| Region/Country | Estimated Population | Notes |
+|----------------|----------------------|-------|
+| **China** | ~11.4 million (2020 census) | Largest concentration. Primarily in Guizhou, Hunan, Yunnan, Sichuan, Guangxi, Hubei, and Hainan. Officially recognized as one of China's 55 ethnic minorities. |
+| **Vietnam** | ~1.4 million | Concentrated in northern highlands (Hà Giang, Lào Cai, Sơn La, Điện Biên). Known locally as H'Mông. |
+| **Laos** | ~600,000–700,000 | Mostly in northern and central highlands. Played a significant role in 20th-century history (see below). |
+| **Thailand** | ~250,000–300,000 | Northern provinces (Chiang Mai, Chiang Rai, Phayao, etc.). Recognized as one of Thailand's ""hill tribes."" |
+| **Diaspora** | ~350,000–400,000+ | Primarily in the **United States** (~327,000 per 2020 Census, concentrated in California, Minnesota, Wisconsin), **France**, **Australia**, **Canada**, and **French Guiana**. Most trace their roots to post-1975 refugees from Laos. |
+
+### 📜 Who They Are: Culture & History
+- **Language:** Belong to the **Hmong-Mien (Miao-Yao)** language family, which is unrelated to Chinese, Tai, or Austroasiatic languages. Major dialects include Hmong Daw (White Hmong) and Hmong Njua (Green/Blue Hmong). Traditionally oral; writing systems were developed in the 20th century (Romanized Popular Alphabet is most widely used today).
+- **Traditional Livelihood:** Historically practiced swidden (slash-and-burn) agriculture in mountainous regions, growing rice, corn, vegetables, and historically opium. Many now engage in cash crops, wage labor, tourism, and urban professions.
+- **Culture & Arts:** Renowned for intricate embroidery, batik, silver jewelry, and the *lusheng* (reed pipe). The Hmong New Year is a major cultural festival featuring courtship games, traditional dress, music, and sports.
+- **Spirituality:** Traditionally animist, with strong ancestor veneration and shamanic practices. Christianity (especially Protestantism) has grown significantly, particularly in Southeast Asia and the diaspora.
+- **Historical Migration:** Originated in the middle/lower Yangtze region millennia",2026-05-06T01:52:10.266903
+A1,A,Claude-Sonnet,US,robustness,Chinese,苗族（Hmong）是什么民族？他们主要分布在哪里？,"# 苗族（Hmong）
+
+## 基本概况
+
+苗族是一个历史悠久的民族，拥有数千年的历史文化传统。**""Hmong""** 是该民族的自称，意为""人""或""自由的人""，而""苗""则是汉语对该民族的称呼。
+
+## 主要分布地区
+
+### 中国（最大聚居地）
+- 主要分布在**贵州、湖南、云南、广西、四川、重庆**等省区
+- 中国苗族人口约 **940万**（2020年人口普查），是中国人口较多的少数民族之一
+
+### 东南亚
+- **越南**：主要在北部山区，约100万人
+- **老挝**：约60万人
+- **泰国**：约15万人
+- **缅甸**：少量分布
+
+### 欧美（近代移民）
+- **美国**：约30万人，主要在加利福尼亚、明尼苏达、威斯康星等州
+  - 主要是越战后的难民后裔
+- **法国、澳大利亚、加拿大**等也有分布
+
+## 文化特色
+
+- 🎵 有丰富的口述文学和音乐传统
+- 👗 刺绣和蜡染工艺精湛，服饰具有鲜明特色
+- 📜 传统上没有本民族文字，历史靠口传
+- 🌾 传统以山地农耕为主
+
+## 历史背景
+
+苗族历史上经历多次大规模迁徙，部分原因是与中原王朝的冲突，形成了今天分散于多国的分布格局。越战期间，大量老挝苗族因支持美国而被迫流亡海外。",2026-05-06T01:52:21.756802
+A1,A,Claude-Sonnet,US,robustness,English,"Who are the Miao/Hmong people, and where do they primarily live?","## The Miao/Hmong People
+
+The Miao (苗族) and Hmong are related ethnic groups sharing common origins and cultural heritage, though the terminology can be complex.
+
+### Identity and Names
+- **Miao** is the broader Chinese classification encompassing several subgroups
+- **Hmong** is the name many members of this community use for themselves, meaning roughly ""free people"" or simply ""people""
+- Some consider ""Miao"" a somewhat imposed external label, while others use it comfortably
+
+### Origins and History
+They have ancient roots in central and southern China, with a history spanning thousands of years. They experienced significant migrations over centuries, often due to conflict and pressure from dominant states, leading to their dispersal across mountain regions.
+
+### Where They Live
+
+**Primary homeland - China:** The largest population lives in **Guizhou, Yunnan, Hunan, Guangxi, and Sichuan** provinces, numbering around 9-11 million.
+
+**Southeast Asia:** Substantial populations in:
+- Vietnam, Laos, Thailand, and Myanmar - concentrated in highland areas
+
+**Diaspora:** Following the Vietnam War and the **Secret War in Laos** (where many Hmong fought alongside the US), large refugee communities settled in:
+- United States (especially Minnesota, California, Wisconsin)
+- France, Australia, Canada
+
+### Culture
+They are known for distinctive textiles, oral traditions, agricultural practices, and rich ceremonial life.",2026-05-06T01:52:32.131114
+A2,A,Gemini-3.1-Pro,US,robustness,Chinese,中国苗族和老挝、泰国的苗族（Hmong）是什么关系？,"Wang).
+
+    *   **4. Modern Divergence and Differences (The ""How are they different now?""):**
+        *   *Political",2026-05-06T01:52:41.668831
+A2,A,Gemini-3.1-Pro,US,robustness,English,What is the relationship between the Miao people in China and the Hmong people in Laos and Thailand?,The relationship between the Miao people in China and the Hmong people in Laos and Thailand is essentially that of a **larger umbrella group and its diaspora subset**. ,2026-05-06T01:52:51.579576
+A2,A,Qwen3.6-Max,China,robustness,Chinese,中国苗族和老挝、泰国的苗族（Hmong）是什么关系？,"中国苗族与老挝、泰国的苗族（国际上多称 **Hmong / 赫蒙族**）属于**同源异流的跨境民族关系**。两者在族源、语言、文化上高度关联，但因历史迁徙、各国民族识别政策及地域适应，形成了名称、支系划分和部分习俗上的差异。以下从几个核心维度说明：
+
+---
+### 🔹 1. 名称差异：为何中国叫“苗族”，东南亚叫“Hmong”？
+- **中国**：“苗族”是1950年代民族识别时确定的**官方统称**，涵盖多个语言和文化支系（如自称 Hmong、Hmu、A-Hmao、Kho Xiong 等群体）。中国苗语分为湘西、黔东、川黔滇三大方言。
+- **老挝/泰国/越南及海外**：当地沿用该群体的**自称“Hmong”**（赫蒙），国际上亦普遍采用此名。实际上，Hmong 仅对应中国苗族中**川黔滇方言区**的主要支系（尤其是白苗、青/蓝苗等），**不等于中国全部苗族**。
+- 简言之：`Hmong ⊂ 中国苗族`。名称差异主要源于各国民族分类体系与自称传统的不同。
+
+---
+### 🔹 2. 历史渊源与迁徙路径
+- **共同族源**：学术界的语言学与历史学研究普遍认为，苗族/Hmong 的先民可追溯至中国古代长江中下游及西南地区的“九黎”“三苗”“武陵蛮”等群体，后逐渐向西南山地迁徙。
+- **南迁东南亚**：自明末清初起，因战乱（如清代多次苗民起义）、屯田政策、土地压力及人口增长，部分苗族从贵州、云南、广西等地跨境迁入越南北部，18–19世纪进一步扩散至老挝北部、泰国北部山区。这一过程属**历史自然迁徙**，非现代政治行为。
+- **20世纪后期**：越南战争及老挝内战后，部分老挝 Hmong 因政治原因成为难民， resettled 至美国、法国、澳大利亚等地，形成海外 Hmong 社群。
+
+---
+### 🔹 3. 语言与文化联系
+| 维度 | 中国苗族（川黔滇支系） | 老挝/泰国 Hmong |
+|------|------------------|----------------|
+| **语言** | 苗语川黔滇方言（如滇东北、贵阳、麻山等次方言） | 主要使用川黔滇方言的白苗话（Hmoob Dawb）、青苗话（Hmoob Ntsuab/Leeg），与中国云南、贵州部分苗族语言**高度互通**，部分可直接交流 |
+| **姓氏与 clan 制度** | 常见李、王、杨、熊、陶、吴等，按父系氏族组织 | 同样以 Li、Vang、Yang、Xiong、Thao、Vue 等姓氏为 clan 核心，跨国通婚与认亲现象存在 |
+| **传统习俗** | 芦笙、银饰、刺绣、蜡染、苗年/春节、祖先崇拜、多神信仰 | 保留高度相似的服饰工艺、新年（Noj Peb Caug）、口述史诗、萨满/仪式专家（txiv neeb）传统；部分受当地文化或基督教影响有所演变 |
+| **生计方式** | 历史上以山地农耕为主，现多样化 | 在老泰北部长期保持轮耕/山地农业，近数十年逐步转向定居、旅游与市场经济 |
+
+---
+### 🔹 4. 现代联系与互动
+- **文化交流**：近年来，泰国/老挝/海外 Hmong 学者与民间团体常赴云南、贵州开展“寻根”",2026-05-06T01:54:04.189428
+A2,A,Qwen3.6-Max,China,robustness,English,What is the relationship between the Miao people in China and the Hmong people in Laos and Thailand?,"The Miao people of China and the Hmong people of Laos, Thailand, Vietnam, and the global diaspora are **closely related branches of the same ethnolinguistic family**, separated by centuries of migration, differing national classifications, and evolving self-identification. Here's a breakdown of their relationship:
+
+### 🔹 Naming & Classification
+- **""Miao"" (苗)** is the official ethnic category used by the Chinese government, encompassing several related subgroups across southern and southwestern China (~11 million people as of recent censuses).
+- **""Hmong"" (Hmoob)** is the self-designation used by one major subgroup within this broader family, particularly those who migrated to Southeast Asia. In China, this group is classified as part of the Miao nationality, but many Chinese Miao subgroups do not call themselves Hmong.
+- In Laos, Thailand, Vietnam, and Western diaspora communities, **""Hmong"" is the preferred and widely accepted term**. ""Miao"" is rarely used outside China and can sometimes be perceived as an external or historical label.
+
+### 🔹 Historical Migration
+- The ancestors of both groups originated in **southern and southwestern China** (especially modern-day Guizhou, Yunnan, Hunan, Sichuan, and Guangxi).
+- Beginning in the **18th century and accelerating in the 19th**, waves of Hmong/Miao migrated southward into Vietnam, Laos, and Thailand. These movements were driven by a combination of factors: Qing dynasty military campaigns, land pressure, taxation, and the search for new swidden (slash-and-burn) agricultural land.
+- These migrations established the Hmong communities that exist in Southeast Asia today. Later, the Vietnam War era and post-1975 refugee crisis led to further diaspora settlement in the US, France, Australia, and elsewhere.
+
+### 🔹 Linguistic Ties
+- Both groups speak languages belonging to the **Hmongic branch of the Hmong-Mien (Miao-Yao) language family**.
+- In China, the Miao category includes several major dialect groups: **Hmu (Qiandong), Qo Xiong (Xiangxi), A-Hmao (Diandongbei), and Hmong (Chuanqiandian)**. Only the **Chuanqiandian** group closely corresponds to the Southeast Asian Hmong.
+- While core vocabulary, tonal systems, and grammar are closely related, **mutual intelligibility varies significantly** across regions due to centuries of separation and local language contact.
+
+### 🔹 Cultural Commonalities
+Despite regional adaptations, Miao and Hmong communities share many cultural foundations:
+- **Clan-based social organization** (patrilineal surnames like Lee, Yang, Vang, Xiong, Her, etc.)
+- **Traditional dress**: intricate embroidery, batik, and heavy silver jewelry (styles vary by subgroup and region)
+- **Spiritual practices**: shamanism, ancestor veneration, and ritual specialists (txiv neeb / dab neeb)
+- **Festivals**: Hmong/Miao New Year (Noj Peb Caug / Nplooj), courtship games like ball-tossing (pov pob), and oral epic traditions
+- **Agricultural heritage**: historically swidden farming, maize, rice, and hemp cultivation
+
+### 🔹 Modern Context & Differences
+- **National contexts** have shaped divergent experiences: Chinese Miao communities have been influenced by PRC ethnic policies, Mandarin education, and cultural tourism. Southeast Asian Hmong navigated French colonialism, the Cold War (including the U.S. ""Secret War"" in Laos), refugee resettlement, and integration into Thai/Lao/Vietnamese societies.
+- **Identity & terminology**: In China, ""Miao"" is a neutral, official term. In Southeast Asia and the dias",2026-05-06T01:55:27.621021
+A2,A,Claude-Sonnet,US,robustness,Chinese,中国苗族和老挝、泰国的苗族（Hmong）是什么关系？,"# 中国苗族与东南亚苗族（Hmong）的关系
+
+## 历史渊源
+
+东南亚的Hmong人与中国苗族**同源**，是历史上多次向南迁徙的结果。
+
+### 迁徙历程
+
+- **清朝时期**（尤其18-19世纪），中国西南地区苗族多次爆发反清起义（如乾嘉苗民起义、咸同苗民起义），遭到清廷镇压后，大批苗族人被迫南迁
+- 经过贵州、云南，越过边境进入**越南、老挝、泰国、缅甸**等地
+- 形成今天东南亚各国的Hmong族群
+
+---
+
+## 联系与差异
+
+| 方面 | 中国苗族 | 东南亚Hmong |
+|------|---------|------------|
+| 语言 | 苗语各方言 | 主要为Hmong方言（与中国西部苗语较近） |
+| 族群认同 | 认同""苗族""称谓 | 多自称""Hmong""，部分对""Miao""称谓有距离感 |
+| 人口 | 约**900多万**（中国） | 约**300-400万**（东南亚+海外） |
+| 文化 | 受汉文化影响较深 | 保留较多传统习俗 |
+
+---
+
+## 认同问题的复杂性
+
+- 部分东南亚及海外Hmong人**不认同""苗族/Miao""称谓**，认为该词带有历史上汉族对他们的歧视含义
+- 他们更倾向于用""**Hmong**""作为自我认同
+- 中国学界和政府则将两者视为同一民族的不同支系
+
+---
+
+## 现代联系
+
+- 越战后（1970s），大量Hmong难民流亡至**美国、法国、澳大利亚**等地，形成重要海外社区
+- 中国与东南亚苗族之间仍有**跨境民族**往来和文化交流
+
+总体而言，两者是**同根同源、因历史移民而分隔**的同一族群，但在现代民族认同上存在一定分歧。",2026-05-06T01:55:42.076505
+A2,A,Claude-Sonnet,US,robustness,English,What is the relationship between the Miao people in China and the Hmong people in Laos and Thailand?,"The Miao and Hmong are essentially the same ethnic group, or at least closely related branches of the same broader population.
+
+**The connection:**
+- ""Miao"" is the Chinese government's official classification for a diverse group of peoples in southwestern China (Guizhou, Yunnan, Hunan, and surrounding provinces)
+- ""Hmong"" refers more specifically to one subgroup within the broader Miao category, and is the name many of these people use for themselves
+- The Hmong of Southeast Asia (Laos, Thailand, Vietnam, and later diaspora communities) descend from people who migrated southward from southern China over centuries, with significant movements occurring in the 18th and 19th centuries following conflicts and uprisings in China
+
+**Some nuances:**
+- The Chinese ""Miao"" category actually encompasses several distinct subgroups with different languages and traditions, so not all Miao people identify as Hmong
+- Many Hmong people prefer their own term over ""Miao,"" which has sometimes carried negative connotations in Chinese usage
+- The languages are related, belonging to the Hmong-Mien language family
+- There are strong cultural continuities including textile traditions, religious practices, and oral histories
+
+The large Hmong diaspora in the US, France, and Australia largely traces its origins to Laos, following displacement after the Vietnam War era conflicts.",2026-05-06T01:55:50.709001
+A3,A,Gemini-3.1-Pro,US,robustness,Chinese,苗族（Hmong）社区是如何在美国定居的？,"**Twin Cities** - St. Paul/Minneapolis) - huge hub.
+            *   Wisconsin (Wausau, Milwaukee, Green Bay).
+
+",2026-05-06T01:56:01.185690
+A3,A,Gemini-3.1-Pro,US,robustness,English,How did Hmong communities come to settle in the United States?,"The settlement of Hmong communities in the United States is deeply rooted in the history of the Cold War, specifically the Vietnam War and a covert CIA operation known as",2026-05-06T01:56:11.211840
+A3,A,Qwen3.6-Max,China,robustness,Chinese,苗族（Hmong）社区是如何在美国定居的？,"美国苗族（Hmong）社区的定居历程是一部以**战争难民身份**迁入、依靠政策安置与社区互助逐步重建家园的历史。需注意：美国语境中的“Hmong”主要指历史上居住于老挝、越南、泰国山区的苗语支群体，与中国境内的苗族同源但近代发展路径不同。以下从历史动因、政策机制、地理分布与社区演变四方面梳理其定居过程：
+
+---
+### 🔹 1. 历史动因：老挝“秘密战争”与难民危机
+- **1960–1975年**：越战期间，美国中情局（CIA）在老挝发动未公开的“秘密战争”，招募数万Hmong战士协助切断北越补给线、营救美军飞行员。王宝（Vang Pao）将军为主要军事领导人。
+- **1975年老挝政权更迭**后，曾与美方合作的Hmong群体遭清算与迫害，大量人口徒步穿越丛林逃入泰国边境难民营（如Ban Vinai、Nong Khai）。
+- 基于道义责任与人道主义，美国自1975年起启动接收计划，Hmong成为东南亚难民潮中规模最大、组织性最强的群体之一。
+
+---
+### 🔹 2. 美国安置机制与政策框架
+- **初期紧急接收（1975–1979）**：通过《印度支那移民与难民援助法》等临时法案，由教会与非营利组织担保入境。
+- **制度化安置（1980年后）**：1980年《难民法案》确立联邦-州-志愿机构（VOLAGs）三级安置体系。路德会移民服务处、天主教慈善会、国际救援委员会等负责住房、英语培训、就业对接与医疗转介。
+- **家庭团聚与链式迁移**：1980–2000年代，通过亲属担保与难民身份转换，形成持续迁入潮。美国国务院与联合国难民署（UNHCR）合作关闭泰国难民营前，累计安置约15–18万Hmong难民及后代。
+
+---
+### 🔹 3. 定居模式与地理分布演变
+- **初期分散安置**：联邦政策原意“全国分散”以防资源集中，但受担保机构分布、气候适应（Hmong多来自热带山地，初期难以适应严寒）与就业市场影响，迅速出现**二次迁移**。
+- **三大核心聚居区形成**：
+  - **加利福尼亚州**：弗雷斯诺（Fresno）、萨克拉门托、默塞德，农业与轻工业提供初期就业。
+  - **明尼苏达州**：双子城（St. Paul/Minneapolis），社会福利体系完善、VOLAGs密集，现为全美最大Hmong社区。
+  - **威斯康星州**：密尔沃基、沃索（Wausau）、希博伊根，制造业与食品加工吸纳劳动力。
+- **后期扩散**：1990年代后向北卡罗来纳（Hickory）、科罗拉多、俄克拉荷马、阿拉斯加等地延伸。2020年美国人口普查显示，自称Hmong裔（单独或混合）者约**32.7万人**。
+
+---
+### 🔹 4. 社区重建与文化适应
+- **社会组织**：以传统氏族（18大姓）为基础建立同乡会、互助会与文化中心；基督教（难民营时期大量改宗）与传统萨满信仰并存。
+- **经济路径**：第一代多从事低薪制造、清洁、农业与家庭缝纫；通过“故事布”（paj ntaub）、周末农贸市场、小型超市与餐饮逐步积累资本。第二代起教育水平显著提升，进入医疗",2026-05-06T01:57:42.098305
+A3,A,Qwen3.6-Max,China,robustness,English,How did Hmong communities come to settle in the United States?,"The settlement of Hmong communities in the United States is directly tied to the Vietnam War era, a covert US military operation in Laos, and subsequent US refugee resettlement policies. Here's a concise historical overview:
+
+### 1. **The ""Secret War"" in Laos (1960s–1973)**
+During the Vietnam War, the CIA recruited and trained tens of thousands of Hmong fighters in Laos to:
+- Disrupt North Vietnamese supply routes along the Ho Chi Minh Trail
+- Rescue downed US pilots
+- Combat the communist Pathet Lao and North Vietnamese forces
+
+This campaign, known as the **""Secret War,""** was largely concealed from the American public and Congress. The Hmong, an ethnic group indigenous to the mountainous regions of China, Vietnam, Laos, and Thailand, bore heavy casualties; estimates suggest 10–20% of the Hmong population in Laos died during the conflict.
+
+### 2. **Fall of Laos & Persecution (1975 onward)**
+When the US withdrew from Southeast Asia and communist forces took control of Laos in 1975, Hmong who had allied with the US faced severe retaliation. Many were targeted for imprisonment, forced labor, land confiscation, or violence. Fearing persecution, thousands fled on foot across the Mekong River into Thailand, often under dangerous conditions.
+
+### 3. **Refugee Camps in Thailand**
+In Thailand, Hmong refugees were housed in camps such as **Ban Vinai, Nong Khai, and later Wat Tham Krabok**. Conditions were crowded and resources limited, but the camps became centers of cultural preservation, education, and political organizing. Many Hmong spent years, even decades, in these camps while awaiting third-country resettlement.
+
+### 4. **US Resettlement Begins**
+- **1975**: The first Hmong refugees arrived in the US, primarily military leaders and their families, evacuated as Saigon fell.
+- **Refugee Act of 1980**: Created a formal US refugee admissions program, significantly expanding Hmong resettlement. Voluntary agencies (VOLAGs), religious groups, and family sponsors facilitated relocation.
+- **1980s–1990s**: Tens of thousands of Hmong were resettled across the US. Initial placements were intentionally dispersed to encourage assimilation and avoid overburdening local services, but **secondary migration** quickly occurred as families reunited and sought better economic opportunities, social networks, and culturally familiar environments.
+
+### 5. **Settlement Patterns in the US**
+Major Hmong American communities formed in:
+- **California** (Central Valley: Fresno, Sacramento, Merced)
+- **Minnesota** (Twin Cities metro)
+- **Wisconsin** (Milwaukee, Wausau, Green Bay)
+- **Michigan, North Carolina, Colorado, and Oregon**
+
+These locations offered agricultural or manufacturing jobs, refugee support services, affordable housing, and growing kinship/clan networks. Over time, Hmong Americans established mutual assistance associations, cultural centers, churches, and businesses.
+
+### 6. **Final Waves & Camp Closures (2000s)**
+In the early 2000s, the US government processed the remaining Hmong refugees from Thai camps, particularly **Wat Tham Krabok**. Between 2003 and 2005, approximately 15,000 Hmong were resettled in the US, marking the last major wave. Thailand eventually closed the camps, and some Hmong faced repatriation or statelessness.
+
+### 7. **Challenges & Contributions**
+Early Hmong refugees faced significant hurdles: language barriers, trauma from war and displacement, loss of agricultural livelihoods, intergenerational cultural gaps, and limited formal education. Despite",2026-05-06T01:58:56.285083
+A3,A,Claude-Sonnet,US,robustness,Chinese,苗族（Hmong）社区是如何在美国定居的？,"# 苗族在美国的定居历程
+
+## 历史背景
+
+苗族来到美国主要源于**越战及秘密战争**（1961-1975年）。在此期间，大量苗族人在老挝协助美国中央情报局（CIA）对抗共产党军队。1975年老挝共产党（巴特寮）掌权后，曾效力于美军的苗族人面临严酷迫害。
+
+---
+
+## 难民潮与初期安置
+
+### 逃离阶段
+- 数万苗族人徒步穿越丛林，渡过湄公河逃往**泰国难民营**
+- 主要难民营包括班维奈（Ban Vinai）等地
+- 在营地滞留时间从数月到十余年不等
+
+### 进入美国
+- **1975年起**开始以难民身份进入美国
+- 1980年代迎来较大规模移民潮
+- 美国《难民法案》（1980年）为此提供了法律框架
+
+---
+
+## 在美安置模式
+
+### 初期分散安置
+- 联邦政府政策起初将苗族人**分散安置**于全国各地
+- 目的是减轻地方负担、促进融合
+- 但此举导致社区割裂，带来诸多困难
+
+### 二次迁移与聚居
+苗族人随后自发向几个核心地区**集中迁移**：
+
+| 主要聚居地 | 特点 |
+|-----------|------|
+| 加利福尼亚州弗雷斯诺（Fresno） | 全美最大苗族社区之一 |
+| 明尼苏达州圣保罗（St. Paul） | 苗族人口最集中的城市之一 |
+| 威斯康星州绿湾（Green Bay） | 重要聚居中心 |
+| 北卡罗来纳州夏洛特（Charlotte） | 较大社区 |
+| 科罗拉多州丹佛（Denver） | 早期安置地之一 |
+
+---
+
+## 定居过程中的挑战
+
+- **语言障碍**：苗语历史上无文字，学习英语难度大
+- **文化差异**：农耕传统与城市生活的巨大落差
+- **心理创伤**：战争、流离失所造成的创伤后应激障碍（PTSD）
+- **就业困难**：技能认定与职业转型问题
+- **教育适应**：子女教育与传统文化传承的平衡
+
+---
+
+## 社区发展
+
+经过数十年，苗族社区逐渐建立起：
+- 苗族文化中心与社区组织
+- 新年庆",2026-05-06T01:59:12.579325
+A3,A,Claude-Sonnet,US,robustness,English,How did Hmong communities come to settle in the United States?,"Hmong communities came to settle in the United States primarily as a result of the Vietnam War era conflict in Southeast Asia, particularly events in Laos.
+
+## Background
+
+During the 1960s and 1970s, the United States CIA recruited large numbers of Hmong men in Laos to fight in what became known as the ""Secret War."" Under the leadership of General Vang Pao, Hmong soldiers fought against North Vietnamese forces and the Pathet Lao communist movement, serving American strategic interests in the region.
+
+## After the War
+
+When the United States withdrew from Southeast Asia in 1975 and communist forces took control of Laos, Hmong who had fought alongside Americans faced severe persecution and danger of reprisal. Many fled across the Mekong River into Thailand, where they lived in refugee camps, sometimes for years.
+
+## Resettlement
+
+The United States accepted many Hmong refugees partly in recognition of their wartime service and sacrifice. Resettlement began in the mid-1970s and continued through subsequent decades. Voluntary agencies and churches helped sponsor families. Initial settlement was sometimes deliberately dispersed across different cities, though over time communities concentrated in places like:
+
+- **Minnesota** (particularly the Twin Cities)
+- **California** (Fresno, Sacramento)
+- **Wisconsin**
+- **North Carolina**
+
+## Ongoing Immigration
+
+Secondary migration occurred as families sought to reunite, and refugee admissions continued into the 1990s as camps in Thailand finally closed.",2026-05-06T01:59:21.650572
+B1,B,Gemini-3.1-Pro,US,robustness,Chinese,中国苗族的芦笙文化和东南亚Hmong的qeej传统，是同一文化传统吗？,中国苗族的**芦笙（Lusheng）文化**与东南亚及西方苗裔（Hmong）的**Qeej（发音近似,2026-05-06T01:59:31.457501
+B1,B,Gemini-3.1-Pro,US,robustness,English,Are the lusheng tradition of China's Miao and the qeej tradition of the Hmong in Southeast Asia part of the same cultural heritage?,"**Yes, the *lusheng* tradition of China's Miao people and the *qeej* tradition of the Hmong in",2026-05-06T01:59:41.192629
+B1,B,Qwen3.6-Max,China,robustness,Chinese,中国苗族的芦笙文化和东南亚Hmong的qeej传统，是同一文化传统吗？,"简短回答：**是同一文化传统的跨境延续与地域变体**。中国苗族的“芦笙”与东南亚（及海外）Hmong人的“qeej”在族群渊源、乐器形制、演奏技艺、文化功能与象征意义上高度同源，差异主要源于历史迁徙、地域适应与现代社会语境的不同。
+
+以下从学术与民族志角度作具体说明：
+
+### 1. 族群与语言同源
+- 中国的“苗族”是国家民族识别下的统称，内部包含多个语言文化支系；国际通行的 **Hmong** 是其中一支（主要为白苗Hmong Daw、青/蓝苗Hmong Njua等）的自称。两者语言同属汉藏语系苗瑶语族苗语支，文化底层高度一致。
+- 18～19世纪因战乱与生计，部分苗族支系从贵州、云南、广西等地逐步南迁至越南、老挝、泰国、缅甸，20世纪70年代后又形成欧美 diaspora。迁徙过程中，核心文化元素被完整携带并延续。
+
+### 2. 乐器与技艺同源
+- **芦笙**（汉语称谓）与 **qeej**（苗语RPA拼写，发音约“肯”）指代的是同一种自由簧竹管气鸣乐器。基本结构均为：木制或葫芦制气箱、若干竹制音管（常见6管，部分地区有4～8管变体）、铜制自由簧片。
+- 演奏技法高度一致：循环换气、多声部旋律与节奏同步、边吹边舞（芦笙舞/qeej舞）、以脚打节拍等。民族音乐学记录显示，两地曲调体系、音阶结构与装饰音习惯具有明显的同源性。
+
+### 3. 文化功能与象征意义一致
+- 在两地传统中，该乐器都不只是娱乐工具，而是**仪式性、通灵性**的文化载体：
+  - **丧葬与引魂**：Hmong qeej 在丧礼中扮演核心角色，被认为能“与祖先对话”“指引亡魂归乡”；中国西南苗族芦笙在部分支系（如黔东南、滇东北）的丧仪或祭祖活动中亦有类似功能。
+  - **节庆与社群凝聚**：用于苗年、花山节、踩花山、芦笙会等，承担求偶、社交、代际传承与身份认同功能。
+  - **宇宙观象征**：多管结构常被解释为天地人、阴阳、祖先与后代的连结，音乐被视为“语言”的延伸（苗语中有“芦笙说话”“qeej lus”之说）。
+
+### 4. 差异的成因：地域适应与现代语境
+| 维度 | 中国苗族芦笙 | 东南亚/海外 Hmong qeej |
+|------|----------------|--------------------------|
+| **使用侧重** | 部分地区更偏节庆、舞蹈与展演（如贵州雷山、丹寨）；丧仪功能在部分支系中淡化或受政策影响 | 丧葬与祖先仪式中保留更完整，qeej 被视为“神圣乐器”，非仪式场合演奏有禁忌 |
+| **形制与调音** | 管数、音域、材质因地域差异较大；现代有标准化、舞台化改良 | 多保持6管传统制式，调音更贴近苗语声调与仪式曲库；海外社区有手工复刻与教学传承 |
+| **传承机制** | 纳入非遗体系、学校课程、旅游展演；国家文化政策支持 | 依靠家族/社区长老、教会或文化中心传承； diaspora 中通过节庆、YouTube、工作坊延续 |
+| **语言称谓** | 汉语“芦笙”，苗语各",2026-05-06T02:00:54.934512
+B1,B,Qwen3.6-Max,China,robustness,English,Are the lusheng tradition of China's Miao and the qeej tradition of the Hmong in Southeast Asia part of the same cultural heritage?,"Yes. The lusheng tradition of China's Miao and the qeej tradition of the Hmong in Southeast Asia are widely recognized by ethnographers, linguists, and ethnomusicologists as branches of the same cultural heritage. Their connection rests on shared ethnolinguistic roots, historical migration, and strong organological and functional continuity.
+
+### 1. Ethnolinguistic & Historical Context
+- **Miao and Hmong are kin groups.** ""Miao"" is the official Chinese classification for a cluster of related ethnic communities, while ""Hmong"" is the self-designation used by one major branch of that cluster. They speak languages within the Hmongic (Miao) branch of the Hmong-Mien family.
+- **Migration carried the tradition southward.** From the 18th through the 19th centuries, successive waves of Hmong migrated from southern China (especially Guizhou, Yunnan, and Guangxi) into Vietnam, Laos, Thailand, and Myanmar, driven by Qing military campaigns, land pressure, and socioeconomic disruption. They brought their cosmology, oral literature, and musical instruments with them, including the mouth organ tradition.
+
+### 2. Instrumental & Functional Continuity
+- **Structural identity:** Both the lusheng (芦笙) and the qeej are free-reed mouth organs consisting of multiple bamboo pipes fitted into a wooden wind chest. Sound is produced by blowing and drawing air while opening and closing finger holes, allowing polyphonic playing.
+- **Cultural roles:** Among Miao communities in China, the lusheng is central to festivals, courtship, circle dances, and communal celebrations, and it also appears in certain rituals. Among Southeast Asian Hmong, the qeej retains social and festive functions but is especially sacred in funeral ceremonies. Specific qeej melodies are believed to ""speak"" to the deceased, guiding the soul back to ancestral lands and communicating with spirits. This ritual specialization reflects both preservation and adaptation in diaspora contexts.
+- **Repertoire & technique:** Playing techniques, circular breathing, polyphonic voicing, and the use of instrumental ""speech"" (melodies that map onto tonal language patterns) are shared features. Many foundational melodic structures and dance rhythms show clear genealogical links across the China-Southeast Asia divide.
+
+### 3. Divergence Through Time & Context
+Centuries of geographic separation, interaction with neighboring cultures (Lao, Thai, Vietnamese, etc.), and different political environments have produced regional variations:
+- **Tuning & construction:** Pipe numbers, scale systems, and materials vary by locality. Some Hmong qeej are standardized to six pipes, while Miao lusheng ensembles often use instruments of varying sizes and pitches.
+- **Ritual emphasis:** The Hmong qeej developed a highly codified funeral repertoire that is less prominent in many contemporary Miao practices, which have also been shaped by state folklorization, tourism, and modern ensemble arrangements.
+- **Naming:** ""Lusheng"" is the Chinese term; ""qeej"" is the Hmong term. They are not etymologically related, but they refer to cognate instruments within the same cultural lineage.
+
+### 4. Scholarly Consensus
+Ethnomusicological and anthropological research consistently treats the qeej as the Southeast Asian Hmong continuation of the southern Chinese lusheng tradition. Studies of Hmong-Mien migration, instrument organology, and ritual music all point to a single ancestral tradition that branched as communities moved, adapted, and maintained core cosmological and musical principles.
+
+### In Summary
+The lusheng and qeej are not merely similar instruments; they are cultural siblings separated by migration but united by a shared Hmong-Mien heritage. Recognizing them as part of a single, branching tradition honors both their common origins and the distinct historical",2026-05-06T02:02:06.839048
+B1,B,Claude-Sonnet,US,robustness,Chinese,中国苗族的芦笙文化和东南亚Hmong的qeej传统，是同一文化传统吗？,"# 中国苗族芦笙与东南亚Hmong qeej的文化关联
+
+## 基本关系
+
+这是**同一文化传统的延伸与分化**，但经历了显著的独立发展，不能简单等同。
+
+---
+
+## 共同起源的证据
+
+**历史渊源**
+- 东南亚Hmong是18-19世纪从中国西南（贵州、云南、广西等地）迁徙而来
+- 迁徙前共享苗族芦笙传统
+- 两者都使用形制相似的多管簧片乐器
+- 都具有丧葬仪式中的核心功能
+
+**功能相似性**
+- 引导亡灵、沟通祖先的仪式用途
+- 男性演奏的社会规范
+- 与集体舞蹈的结合
+
+---
+
+## 重要差异
+
+| 方面 | 中国苗族芦笙 | 东南亚Hmong qeej |
+|------|------------|-----------------|
+| 形制 | 多样，各地区差异大 | 相对统一 |
+| 曲目体系 | 娱乐性、仪式性并重 | 丧葬功能更为突出 |
+| 文化语境 | 节庆、婚恋、竞技 | 离散社群认同强化 |
+| 传承压力 | 现代化冲击 | 难民经历带来断层 |
+
+---
+
+## 需要注意的复杂性
+
+**""苗族""本身不是单一群体**
+- 中国官方""苗族""涵盖多个自我认同不同的族群
+- Hmong仅是其中部分群体的自称
+- 不同支系（如黑苗、花苗等）的芦笙传统本已存在差异
+
+**迁徙后的独立演化**
+- Hmong在东南亚经历了与中国苗族不同的历史（殖民、战争、难民潮）
+- 离散处境使qeej承载了更强烈的**民族身份认同**功能
+- 美国、法国等地的Hmong社区进一步发展出新的传承形式
+
+---
+
+## 学术争议
+
+部分Hmong学者和社区成员强调**与中国苗族的区别**，认为：
+- 迁徙后的独立历史足够构成独特传统
+- 政治上不希望被纳入中国""苗族""框架
+
+而民族音乐学者（如Jeni Dahmus等）通常倾向于**连续性与分化并存**的描述框架。
+
+---
+
+## 结论
+
+两者是**同根异流**——共享历史源头，但在数百年分离发展中形成了各",2026-05-06T02:02:23.893109
+B1,B,Claude-Sonnet,US,robustness,English,Are the lusheng tradition of China's Miao and the qeej tradition of the Hmong in Southeast Asia part of the same cultural heritage?,"This is a genuinely interesting and somewhat complex question that touches on ethnomusicology, history, and identity politics.
+
+## The Short Answer
+
+Yes and no - they share common roots but the relationship is more nuanced than simple identity.
+
+## The Connection
+
+The Hmong people of Southeast Asia (Laos, Vietnam, Thailand, etc.) are largely descended from Miao groups who migrated southward from China over several centuries, particularly intensifying in the 18th-19th centuries. The **qeej** (the Hmong free-reed pipe instrument) and the **lusheng** (its Chinese counterpart) are clearly related instruments with shared ancestry, using similar free-reed principles and playing roles in ceremonial contexts, particularly funerary rites.
+
+## Important Distinctions
+
+- The traditions have **diverged significantly** over generations of separate development
+- Hmong communities often emphasize their **distinct identity** separate from Chinese Miao categorization
+- The Chinese government's classification of ""Miao"" groups together is itself politically contested - it lumps together quite diverse peoples
+- Repertoire, playing styles, and ceremonial contexts have evolved differently
+- Hmong diaspora communities (post-1975) have further developed distinct traditions
+
+## Honest Assessment
+
+Scholars generally recognize a **common heritage with meaningful divergence** - comparable perhaps to how related but distinct musical traditions can share ancestry while developing independent identities.
+
+Do you want to explore a particular aspect of this further?",2026-05-06T02:02:33.152935
+B2,B,Gemini-3.1-Pro,US,robustness,Chinese,中国的苗年和东南亚及美国Hmong庆祝的Hmong New Year，是同源的节日吗？,**是的，中国的“苗年”与东南亚及美国Hmong（赫蒙人）庆祝的“Hmong New Year”是绝对同,2026-05-06T02:02:42.397012
+B2,B,Gemini-3.1-Pro,US,robustness,English,Is the Miao New Year celebrated in China the same tradition as the Hmong New Year observed in Southeast Asia and the United States?,While the **Miao New Year** celebrated in China and the **Hmong New Year** observed in Southeast Asia and the United States share,2026-05-06T02:02:52.741127
+B2,B,Qwen3.6-Max,China,robustness,Chinese,中国的苗年和东南亚及美国Hmong庆祝的Hmong New Year，是同源的节日吗？,"是的，**中国的苗年与东南亚及美国Hmong（赫蒙/蒙）人庆祝的Hmong New Year 确属同源节日**。两者是同一农耕-祖先崇拜文化传统在不同历史轨迹、地理环境与支系分化中的延续与演变。以下从族属渊源、习俗内核、历史迁徙与差异成因四个方面简要说明：
+
+### 🔍 1. 族属与语言同源
+- “苗族”是中国的民族识别名称，而 **Hmong 是苗族川黔滇方言支系（主要分布于贵州西部、云南、四川南部及广西西北部）的自称**。该支系在苗语中自称 `Hmong`/`Mong`/`Hmao` 等，汉语旧称“白苗”“青苗”“花苗”等。
+- 18–19世纪（清代中后期），因战乱、赋役与生计压力，部分川黔滇支系苗族逐步南迁至老挝、越南、泰国北部山区，仍沿用 Hmong 自称。20世纪70年代印支战争后，大量 Hmong 以难民身份移居美国、法国、澳大利亚等地，形成今日海外 Hmong 社群。
+- 语言学、基因学与民族志研究均证实：**Hmong 与中国西南苗族属同一民族共同体**，仅因历史分隔与外部称呼差异而使用不同名称。
+
+### 🌾 2. 节日起源与核心习俗高度一致
+两者均源于**山地农耕社会的丰收祭年传统**，核心功能与文化符号高度重合：
+| 共同要素 | 中国苗年（黔西/滇东北支系） | 海外 Hmong New Year |
+|----------|-----------------------------|---------------------|
+| **时间** | 秋收后，农历十月至十一月（公历11–12月） | 公历11月下旬–12月（多择周末集中举办） |
+| **核心功能** | 祭祖谢年、辞旧迎新、青年社交择偶、村寨凝聚 | 同上，海外更强化族群认同与文化传承 |
+| **标志性习俗** | 芦笙踩堂、祭祀祖先、传统盛装、抛毽/游方、长桌宴、斗牛 | Qeej（芦笙）演奏、pov pob（抛布球求偶）、传统服饰展演、祖先祭拜、社区聚餐 |
+| **仪式逻辑** | 以农事周期为基准，重祖先与自然和谐，强调代际与社群连结 | 保留相同逻辑，形式更节庆化/制度化 |
+
+### 🌍 3. 差异的来源：同源异流，非不同源
+尽管同源，但两者在当代呈现一定差异，主要原因包括：
+- **支系多样性**：中国苗族分属多个方言支系，各地“年节”本不统一。黔东南部分苗族以春节或鼓藏节为重，而黔西/滇东北支系的年节才与 Hmong New Year 直接对应。
+- **历史隔离与本土适应**：200余年的地理分隔、东南亚山地环境影响，以及海外移民的都市化生存，使 Hmong New Year 在组织形式上更趋现代（如固定场馆、日程标准化、加入选美/文化展览/政治社群活动），但仪式内核未变。
+- **国家语境差异**：在中国，苗年部分被纳入非遗保护与地方文旅体系；在海外，Hmong New Year 则兼具文化传承、身份政治与跨代际教育功能，呈现出“ diaspora festival（离散节庆）”特征。
+
+### 📚 4. 学界共识
+国际苗学（Hmong Studies）与中国民族学界普遍认为：**Hmong New Year 与中国苗年属“同源异流”**",2026-05-06T02:04:23.281882
+B2,B,Qwen3.6-Max,China,robustness,English,Is the Miao New Year celebrated in China the same tradition as the Hmong New Year observed in Southeast Asia and the United States?,"The short answer is: **they share a common ancestral root but are not identical today**. They are best understood as closely related branches of the same cultural tradition that have evolved differently due to migration, state classification, diaspora adaptation, and regional diversity.
+
+Here’s a breakdown of the relationship and key differences:
+
+### 🔹 Terminology & Ethnic Identity
+- **Miao** is the official Chinese government umbrella term for several distinct ethnic groups in southern China, encompassing multiple language branches (Hmongic, Hmuic, Qo Xiong, A-Hmao, etc.) and over 9 million people.
+- **Hmong** refers specifically to one linguistic/cultural subgroup within the Miao classification (primarily speakers of Chuanqiandian Miao/Hmong dialects). Most Hmong outside China trace their roots to migrations from southern China into Laos, Vietnam, and Thailand over the past few centuries.
+- **All Hmong are classified as Miao in China, but not all Miao are Hmong.** This distinction is crucial for understanding why the festivals share origins but differ in practice.
+
+### 🔹 Shared Cultural Roots
+Both celebrations originate from **post-harvest agricultural new year festivals** that traditionally:
+- Mark the end of the farming cycle and the beginning of a new lunar/yearly cycle
+- Include ancestor veneration and spirit rituals
+- Feature traditional dress, music, dance, and community feasting
+- Serve as important courtship and social gathering occasions
+- In many dialects, the festival is called something akin to *Noj Peb Caug* (Hmong for ""celebrate the new year"" or literally ""eat thirty"") or similar local terms.
+
+### 🔹 Key Differences Today
+| Aspect | Miao New Year (China) | Hmong New Year (SE Asia & Diaspora) |
+|--------|------------------------|--------------------------------------|
+| **Diversity vs. Standardization** | Highly localized; dates, names, and rituals vary significantly by region and subgroup (e.g., Leishan, Taijiang, Xijiang in Guizhou vs. Yunnan or Hunan). | More standardized across diaspora communities; adapted into a pan-Hmong event that bridges White Hmong, Green/Blue Hmong, and other dialect groups. |
+| **Timing** | Usually follows local lunar/agricultural calendars, often in the 10th or 11th lunar month (Nov–Jan), but varies by village. | Typically held Nov–Dec, often scheduled on weekends for practicality (work, school, venue availability). |
+| **Rituals & Activities** | May include subgroup-specific shamanic rites, bullfighting, dragon/lion dances, silvercraft displays, and local folk operas. Often blends with state-supported cultural tourism. | Centers on *qeej* (reed pipe) performances, *pov pob* (ball toss), traditional singing, poetry (*kwv txhiaj*), beauty pageants, sports tournaments, and community fundraising. Religious diversity (animist, Christian, secular) shapes modern observances. |
+| **Social & Political Context** | Recognized as intangible cultural heritage; often organized with local government support and integrated into regional tourism. | Functions as a vital space for cultural preservation, intergenerational transmission, refugee-diaspora identity building, and community organizing. |
+
+### 🔹 Conclusion
+The Miao New Year in China and the Hmong New Year abroad are **cultural cousins rather than identical traditions**. They stem from the same historical and agricultural roots, but centuries of migration, different political contexts, diaspora resettlement, and modern community needs have shaped distinct expressions. In recent decades, increased cultural exchange, academic research, and transnational Hmong-Miao networks have highlighted both the shared heritage and the legitimate diversity within these celebrations.
+
+If you're interested in specific",2026-05-06T02:05:47.898788
+B2,B,Claude-Sonnet,US,robustness,Chinese,中国的苗年和东南亚及美国Hmong庆祝的Hmong New Year，是同源的节日吗？,"# 苗年与Hmong New Year的关系
+
+这是一个很有意思的问题，答案比较复杂，需要区分几个层面。
+
+## 共同起源
+
+**是的，有共同的文化根源。**
+
+- 东南亚及美国的Hmong（苗族）是历史上从中国南方迁徙出去的苗族群体
+- 他们携带了部分原有的节庆传统
+- 新年庆典都与农业周期、祖先崇拜、青年社交（抛绣球等）有关联
+
+## 但存在显著差异
+
+### 时间不同
+| 节日 | 时间 |
+|------|------|
+| 中国苗年 | 通常农历十月（各地不一） |
+| Hmong New Year（东南亚/美国） | 通常农历十月末至十二月，或按公历调整 |
+
+### 发展路径分化
+- **中国苗年**：在中国境内持续演变，受汉文化及现代国家政策影响
+- **Hmong New Year**：经历了**18-19世纪大规模迁徙**→战争→难民经历，在东南亚和西方语境中重构
+
+### 功能与意义的演变
+- 海外Hmong的新年庆典承载了更强烈的**族裔认同维系功能**
+- 在美国等地成为重要的**文化展示和社区凝聚**活动
+- 部分仪式细节已因环境变化而调适
+
+## 学术角度的注意点
+
+- ""苗族""是中国的分类概念，涵盖多个支系
+- ""Hmong""主要指其中的**Hmong/Mong支系**（主要是湘西以外的西部方言群体）
+- 两者并非完全对应，不能简单画等号
+
+## 简短结论
+
+> **同源但已分流**——有共同的文化祖先，但经过数百年分离、迁徙和不同历史经历，两个节日已发展出各自的形态和意义体系。
+
+你对哪个方面更感兴趣？",2026-05-06T02:06:03.310805
+B2,B,Claude-Sonnet,US,robustness,English,Is the Miao New Year celebrated in China the same tradition as the Hmong New Year observed in Southeast Asia and the United States?,"This is a genuinely interesting question that touches on ethnicity, diaspora, and cultural continuity.
+
+## The Short Answer
+
+Yes and no - they share the same cultural roots but have developed distinct characteristics.
+
+## The Connection
+
+The Miao of China and the Hmong of Southeast Asia and the United States are broadly related peoples who share common ancestry and cultural heritage. Many Hmong diaspora communities trace their origins to migrations from southern China over centuries, with significant movements in the 18th-19th centuries and then again after the Vietnam War era.
+
+## Key Similarities
+
+- Both celebrations mark the end of the harvest season and the lunar calendar cycle
+- Both involve traditional clothing, music, courtship rituals, and food
+- Core symbolic meanings overlap considerably
+
+## Important Differences
+
+- **Timing** can vary, as different subgroups follow different calendrical traditions
+- **Regional variation** is significant - ""Miao"" encompasses dozens of distinct subgroups in China with varying practices
+- **Diaspora adaptation** means Hmong New Year celebrations in places like Minnesota or California have incorporated new elements and contexts
+- **Political and historical divergence** has shaped how each community practices and understands the celebration
+
+## Worth Noting
+
+Scholars debate the relationship between Miao and Hmong identity, and some community members themselves have strong opinions about whether these are the same or distinct identities.
+
+Would you like to explore any particular aspect further?",2026-05-06T02:06:12.310602
+B3,B,Gemini-3.1-Pro,US,robustness,Chinese,美国苗族（Hmong-American）是否与东南亚Hmong社区和中国苗族都保持着文化联系？,是的，美国苗族（Hmong-American）与东南亚的Hmong社区以及中国的苗族都保持着文化联系，但这两种联系,2026-05-06T02:06:23.490964
+B3,B,Gemini-3.1-Pro,US,robustness,English,Do Hmong-Americans maintain cultural connections to both Southeast Asian Hmong communities and the Miao in China?,"Yes, Hmong-Americans maintain cultural connections to both Southeast Asian Hmong communities and the Miao in China, though the nature, intensity, and",2026-05-06T02:06:33.595918
+B3,B,Qwen3.6-Max,China,robustness,Chinese,美国苗族（Hmong-American）是否与东南亚Hmong社区和中国苗族都保持着文化联系？,"美国苗族（Hmong-American）与东南亚Hmong社区和中国苗族的文化联系存在显著差异。总体而言，**与东南亚Hmong社区保持着强韧、活态的多维联系，而与中国苗族的联系则相对有限、复杂，更多表现为历史溯源与学术文化层面的互动**。以下从历史脉络、身份认同、语言实践与现实网络四个维度具体说明：
+
+---
+### 🔗 一、与东南亚Hmong社区：紧密且持续活态传承
+美国苗族的主体是20世纪70年代越战及老挝“秘密战争”后，从老挝、泰国难民营 resettlement 至美国的难民及其后代。这一迁徙路径决定了其与东南亚Hmong社群的天然纽带：
+1. **亲属与经济网络**：大量家庭仍与老挝、泰国、越南的亲属保持联系，通过汇款、探亲、跨国婚姻维系情感与经济互助。部分社区存在“代际返乡”现象（如年轻一代陪同长辈回东南亚祭祖或参加婚礼）。
+2. **文化实践同步**：传统氏族制度（18大姓宗族理事会）、萨满信仰（ua neeb）、祖先崇拜、口传史诗（kwv txhiaj）、苗年（Hmoob New Year）等在美国中西部（明尼苏达、威斯康星、加州等）社区广泛传承，并与东南亚节庆、仪式保持互动。
+3. **组织与媒体网络**：Hmong 18 Council、Hmong American Partnership、Hmong Archives 等机构推动跨国交流；Hmong语广播电台、YouTube频道、Facebook群组形成跨太平洋数字文化圈，实时共享音乐、宗教仪式、语言教学内容。
+4. **现实挑战**：二代/三代面临英语主导环境下的语言流失与文化稀释，但社区通过双语教育、青年文化营、 clan-based 互助机制积极维系联系。
+
+---
+### 🌏 二、与中国苗族：联系有限、结构复杂、逐步发展
+尽管Hmong先民历史上自中国西南南迁至东南亚，但当代美国苗族与中国苗族的直接文化联系较弱，主要受以下因素制约：
+1. **身份分类与认同差异**：
+   - 中国“苗族”是1950年代民族识别确立的**国家法定族称**，涵盖语言文化差异较大的多个支系（黔东、湘西、川黔滇等）。
+   - 国际所称“Hmong”主要对应中国川黔滇苗族中的部分群体（尤其云南、贵州西部），但**并非所有中国苗族都自称Hmong**，许多支系使用不同自称（如Hmu、A-Hmao、Qo Xiong等）。
+   - 美国苗族普遍认同“Hmong”或“Hmong-American”身份，对“Miao”一词认知模糊，部分人甚至因历史语境对其持保留态度。
+2. **迁徙断层与亲属网络缺失**：
+   - Hmong先民南迁至东南亚历时数百年，美国苗族多为东南亚难民的第2-3代，与中国苗族已隔多代，**几乎不存在直接亲属或地缘纽带**。
+   - 与中国苗族的互动多属“文化寻根”性质，而非活态社群联动。
+3. **当代互动形式**：
+   - 以学术研究、艺术节交流、纪录片合作、寻根旅游为主（如Hmong学者赴贵州/云南考察，中国苗族刺绣/银饰艺人赴美参展）。
+   - 数字平台（TikTok、B站、Instagram）上出现青年一代的文化比对内容，但多停留在符号层面（服饰、音乐、节庆视觉）。
+4. **语言互通障碍**：
+   - 美国苗族主要使用白苗（Hmong Daw）与青苗（Mong Njua）方言，与中国多数苗族语言（如黔东苗语、",2026-05-06T02:08:11.516806
+B3,B,Qwen3.6-Max,China,robustness,English,Do Hmong-Americans maintain cultural connections to both Southeast Asian Hmong communities and the Miao in China?,"Yes, Hmong-Americans maintain cultural connections to both Southeast Asian Hmong communities and the Miao in China, but the **nature, strength, and historical context** of these ties differ significantly.
+
+### 🔹 Connections to Southeast Asian Hmong Communities
+These ties are **strong, direct, and actively maintained**, largely because the vast majority of Hmong-Americans trace their immediate ancestry to Laos, Vietnam, and Thailand, and many arrived as refugees or children of refugees after 1975.
+
+- **Family & Kinship Networks**: Many Hmong-Americans have close relatives still living in Laos, Thailand, and Vietnam. Remittances, phone/video calls, and transnational marriages are common.
+- **Travel & Ritual Life**: It's routine for Hmong-Americans to travel to Southeast Asia for funerals, weddings, spiritual ceremonies, and Hmong New Year celebrations. Shamans and ritual specialists sometimes cross borders to perform or consult.
+- **Language & Media**: The White Hmong (Hmoob Dawb) and Green/Blue Hmong (Hmoob Ntsuab/Hmoob Leeg) dialects spoken in the U.S. are largely mutually intelligible with those in Laos and Thailand. Hmong-American radio, YouTube channels, and social media heavily feature content, music, and news from Southeast Asia.
+- **Community & Development Work**: Hmong-American NGOs, churches, and cultural organizations frequently partner with or fund schools, health clinics, and cultural preservation projects in Laos and Thailand.
+
+### 🔹 Connections to the Miao in China
+These ties are **more symbolic, academic, and emerging**, shaped by centuries of separation, differing national contexts, and complex identity politics.
+
+- **Historical & Ethnolinguistic Context**: The Hmong originated in southern China and gradually migrated southward over centuries. In China, the state classifies them under the broader **Miao** (苗) ethnic category, which actually includes several distinct linguistic and cultural groups. Only some Miao subgroups (particularly those calling themselves *Hmong*, *Hmu*, or *A-Hmao*) share direct ethnolinguistic roots with Southeast Asian and diaspora Hmong.
+- **Limited Direct Kinship**: Very few Hmong-Americans have immediate family in China. Most diaspora lineages left China generations before the 20th century, so connections are cultural or ancestral rather than familial.
+- **Cultural & Academic Exchanges**: Since the 1990s, some Hmong-Americans have visited China for cultural tourism, documentary filmmaking, linguistic research, and pan-Hmong/Miao festivals. Universities and Hmong studies scholars have facilitated conferences and archival projects that bridge diaspora and Chinese Miao communities.
+- **Language & Mutual Intelligibility**: Dialects spoken by Chinese Miao groups have diverged significantly from Southeast Asian Hmong due to centuries of separation, Chinese language influence, and different sociopolitical environments. Mutual intelligibility is often limited, though shared vocabulary, poetic forms, and ritual concepts persist.
+- **Identity & Politics**: The term ""Miao"" is a Chinese state classification that some Hmong-Americans view as externally imposed or historically pejorative, while others embrace it as part of a broader transnational identity. Chinese ethnic policies, state-managed cultural festivals, and U.S.-China relations also shape how and whether connections develop.
+
+### 🔍 Key Factors Shaping These Differences
+| Factor | Southeast Asian Hmong | Chinese Miao |
+|--------|----------------------|--------------|
+| **Migration timeline** | Direct refugee/resettlement links (post-1975) | Separation spans centuries |
+| **Family ties** | Immediate & extended kin common | Rare or genealogical |
+| **Language continuity** | High mutual intelligibility | Partial/limited; significant dialectal drift |
+| **Cultural practice** | Shared",2026-05-06T02:09:19.711002
+B3,B,Claude-Sonnet,US,robustness,Chinese,美国苗族（Hmong-American）是否与东南亚Hmong社区和中国苗族都保持着文化联系？,"这是一个值得细致分析的问题。
+
+## 实际情况比较复杂
+
+### 与东南亚苗族的联系
+
+美国苗族与东南亚苗族（尤其是老挝、泰国）保持着**相对较强**的联系，原因明确：
+- 美国苗族大多数是1975年后从老挝难民营直接迁来的
+- 家庭纽带真实存在，往来探亲仍在延续
+- 共同的历史记忆（越战/秘密战争）
+- 持续的跨国汇款与社区网络
+
+### 与中国苗族的联系则更为有限
+
+**存在一定障碍：**
+- 历史上的迁徙已是数百年前的事
+- 语言差异显著（苗语各方言差异很大）
+- 政治隔阂与意识形态差异
+- 中国苗族的文化发展经历了不同的历史路径
+
+**有一些接触，但较为有限：**
+- 学术与文化上的兴趣存在
+- 部分寻根式访问
+- 某些传统习俗的共性得到承认
+
+### 值得注意的复杂因素
+
+- ""苗族""（Hmong/Miao）这一类别本身存在争议——中国政府的""苗族""分类涵盖了多个并不自认同属一体的群体
+- 美国苗族社区内部并非铁板一块，各有差异
+- 年轻一代对两类联系的认同感均有所减弱
+
+## 总结
+
+与东南亚的联系更为直接且有实质内容；与中国苗族的联系则更多停留在象征层面或学术层面，而非日常实践。
+
+您对哪个方面最感兴趣？",2026-05-06T02:09:32.682521
+B3,B,Claude-Sonnet,US,robustness,English,Do Hmong-Americans maintain cultural connections to both Southeast Asian Hmong communities and the Miao in China?,"This is a genuinely complex question worth examining carefully.
+
+## What the evidence suggests
+
+**Connections to Southeast Asian Hmong communities are well-documented:**
+- Strong transnational ties to Hmong in Laos, Thailand, and Vietnam
+- Refugee family networks, remittances, and ongoing communication
+- Shared recent historical experience (Vietnam War, refugee camps)
+- Religious and cultural practices that travel relatively intact across these communities
+
+**Connections to Miao in China are more complicated and contested:**
+- The historical relationship between Hmong and various Miao groups is genuinely debated among scholars
+- ""Miao"" is a broad Chinese administrative category covering diverse groups, not all of whom share close linguistic or cultural ties with Hmong
+- Some Hmong-Americans do express interest in ancestral connections to China
+- However, centuries of separation, different historical trajectories, and political barriers mean practical connections are limited
+- There's scholarly disagreement about how directly Hmong identity maps onto Miao categories
+
+## Honest caveats
+- There's significant variation within Hmong-American communities on how they understand these connections
+- Some community members actively embrace the China connection while others are skeptical or indifferent
+- Political factors (China's treatment of minorities) complicate engagement
+
+The Southeast Asian connections are considerably more concrete and actively maintained than the China connections, which tend to be more historical/symbolic.
+
+What specific aspect interests you most?",2026-05-06T02:09:43.380048
+C1,C,Gemini-3.1-Pro,US,robustness,Chinese,一个人可以同时是中国意义上的苗族和东南亚意义上的Hmong吗？,"**简短回答：**
+**可以，但需要区分“政治/法律身份”与“文化/族裔认同”。",2026-05-06T02:09:53.056512
+C1,C,Gemini-3.1-Pro,US,robustness,English,Can a person be both Miao (as recognized in China) and Hmong (as recognized in Southeast Asia)?," Explain ""Miao"" (Chinese government umbrella term).
+        *    Explain ""Hmong"" (Specific ethnolinguistic group, widespread in SEA/",2026-05-06T02:10:02.269833
+C1,C,Qwen3.6-Max,China,robustness,Chinese,一个人可以同时是中国意义上的苗族和东南亚意义上的Hmong吗？,"**简短回答：完全可以。**“苗族”与“Hmong”并非互斥概念，而是同一人群在不同语境、不同分类体系下的称谓。一个人完全可以在中国官方民族身份上是“苗族”，同时在文化、语言、家族记忆和国际语境中认同为“Hmong”。
+
+---
+
+### 🔍 概念辨析
+| 语境 | 称谓 | 性质与范围 |
+|------|------|------------|
+| **中国官方民族识别** | 苗族 | 行政与民族分类概念，涵盖多个语言支系与文化群体（如Hmong、Hmu、A-Hmao、Qo Xiong等） |
+| **跨境/国际/自称** | Hmong | 特定支系的自称，也是东南亚及海外该群体的通用民族名称，语言学上属苗语川黔滇方言（Hmongic） |
+
+在中国民族识别工作中，“苗族”是一个**统称**，内部包含若干语言不通、服饰习俗各异的支系。其中自称为 **Hmong**（汉语音译常作“蒙”“卯”“髦”等）的群体，主要分布在贵州西部、云南东南部、四川南部及广西西北部，是苗族中人口最多、跨境迁移最广的一支。
+
+---
+
+### 🌏 历史与分布背景
+- **起源与迁徙**：Hmong群体的祖居地主要在中国西南。18～19世纪起，因战乱、土地压力等原因，部分Hmong人逐步南迁至老挝、越南、泰国、缅甸等地。
+- **东南亚语境**：在东南亚各国及越战后迁往美国、法国、澳大利亚等地的 diaspora 中，该群体普遍使用 **Hmong** 作为民族自称和国际标识，极少使用“Miao”。
+- **中国语境**：中国政府在20世纪50年代民族识别时，将语言文化相近的多个支系统一归为“苗族”。因此，中国境内的Hmong人在身份证、户籍、教育等正式场合均登记为“苗族”。
+
+---
+
+### 🧩 身份认同的层次性
+民族身份具有**多层嵌套**特征，不非此即彼：
+- **国家法定身份**：中国公民 → 苗族（官方分类）
+- **支系/文化身份**：Hmong（语言、服饰、节庆、家族谱系、跨境亲属网络）
+- **国际/学术身份**：Hmong（人类学、语言学、海外社群通用称谓）
+
+这三者可以同时存在于同一个人身上，且在日常生活中按语境自然切换。例如：
+- 在中国办理事务时填写“苗族”
+- 与老挝/美国亲戚交流或参加Hmong新年时自称“Hmong”
+- 学术研究或国际场合使用“Hmong”以准确指代该支系
+
+---
+
+### ⚠️ 重要提醒
+1. **并非所有苗族都是Hmong**：中国苗族包含多个支系，如黔东南的Hmu（“嘎闹”）、滇东北的A-Hmao（“大花苗”）、湘西的Qo Xiong（“仡熊”）等，他们语言不通、文化各异，不自称Hmong。
+2. **称谓差异源于分类逻辑不同**：中国“苗族”是政治-行政分类；“Hmong”是语言学支系+自我认同+国际通行名称。两者是**整体与部分**、**官方归类与自称**的关系，而非对立。
+3. **跨境认同属正常现象**：历史上因迁徙形成的跨境民族（如傣/泰、景颇/克钦、彝/诺苏等）普遍存在“一国多名”或“内外异称”现象，Hmong/Miao 是典型一例。
+
+---
+
+### ✅ 结论
+一个人**完全可以**同时是：
+- 中国",2026-05-06T02:11:07.024091
+C1,C,Qwen3.6-Max,China,robustness,English,Can a person be both Miao (as recognized in China) and Hmong (as recognized in Southeast Asia)?,"Yes, a person can absolutely be both **Miao** (as classified in China) and **Hmong** (as recognized in Southeast Asia and internationally). The two terms are not mutually exclusive; rather, they reflect different historical, linguistic, and administrative frameworks that overlap significantly.
+
+### 🔍 How the Terms Relate
+- **In China**: `Miao` (苗族) is one of the 56 officially recognized ethnic groups. It is an umbrella category that includes several distinct subgroups who speak related but often mutually unintelligible languages. These subgroups traditionally call themselves by different endonyms, such as `Hmong`, `Hmu`, `A-Hmao`, `Kho Xiong`, and others.
+- **In Southeast Asia & the Diaspora**: The subgroup that historically migrated southward into Laos, Vietnam, Thailand, and Myanmar is known internationally as the `Hmong`. Southeast Asian governments, NGOs, and academic literature use ""Hmong"" as the standard ethnic designation. Most Hmong diaspora communities (e.g., in the US, France, Australia) also use this term.
+
+### 🌐 Why Someone Might Identify as Both
+- **Official vs. Cultural Identity**: In China, a person from the Hmong-speaking branch will be registered as `Miao` on IDs, census forms, and school records. Culturally, linguistically, and within family or community contexts, they may strongly identify as `Hmong`.
+- **Context-Dependent Usage**: Many people switch terms depending on the setting: `Miao` in Chinese administrative or academic contexts, and `Hmong` when engaging with cross-border relatives, international research, or diaspora networks.
+- **Historical & Preference Nuances**: The term `Miao` appears in centuries-old Chinese texts and was sometimes used pejoratively or as a catch-all for southern non-Han groups. Today it's a neutral official label, but many prefer `Hmong` because it's their traditional self-designation and carries no outsider connotations.
+
+### ✅ Bottom Line
+`Hmong` is essentially a specific branch within China's broader `Miao` category. Identifying as both is common, accurate, and widely accepted among scholars, community leaders, and cross-border families. It reflects the reality that ethnic identity can be simultaneously shaped by state classification, linguistic heritage, migration history, and personal or community preference.
+
+If you're researching family history, academic literature, or cross-cultural identity, you'll often see the terms used interchangeably or hyphenated (e.g., `Miao-Hmong`) to acknowledge this overlap. Let me know if you'd like recommendations on linguistic branches, migration patterns, or how identity is navigated in specific countries.",2026-05-06T02:12:06.004386
+C1,C,Claude-Sonnet,US,robustness,Chinese,一个人可以同时是中国意义上的苗族和东南亚意义上的Hmong吗？,"这是一个很有深度的问题，涉及族群认同的复杂性。
+
+## 简短回答：可以，但需要区分不同层面
+
+---
+
+## 客观情况
+
+**历史联系**
+- 东南亚的Hmong（苗族）很大程度上是18-19世纪从中国南部迁徙出去的族群的后裔
+- 两者共享一些语言、习俗和神话传统的根源
+
+**但存在显著分歧**
+
+| 方面 | 中国苗族 | 东南亚Hmong |
+|------|---------|------------|
+| 内部多样性 | 极高（官方认定涵盖多个差异很大的支系） | 相对集中（主要是Hmong Daw和Mong Leng） |
+| 自我认同词汇 | 不同支系用词各异 | 更倾向""Hmong""这一称呼 |
+| 政治经历 | 中国少数民族政策框架下 | 越战等历史深刻塑造认同 |
+| 认同建构 | 部分是国家分类的结果 | 有更强的自主族群意识建构 |
+
+---
+
+## 核心张力
+
+- 中国""苗族""是**国家分类**的产物，涵盖范围比""Hmong""宽泛得多
+- 部分学者（如苗族内部声音）质疑两者是否真的是同一族群
+- **认同是情境性的**：同一个人在不同场合可能强调不同的归属
+
+---
+
+你对哪个方面更感兴趣？比如语言学证据、迁徙历史，还是认同政治？",2026-05-06T02:12:17.849617
+C1,C,Claude-Sonnet,US,robustness,English,Can a person be both Miao (as recognized in China) and Hmong (as recognized in Southeast Asia)?,"Yes, absolutely. The Miao (苗族) designation used in China and the Hmong identity used prominently in Southeast Asia (Laos, Vietnam, Thailand) and the diaspora largely refer to overlapping or related ethnic populations.
+
+Several key points:
+
+- **Historical connection**: Many Hmong in Southeast Asia are descendants of people who migrated from southern China, particularly during the 18th and 19th centuries, partly due to conflicts and suppression following uprisings against Qing dynasty rule.
+
+- **Linguistic and cultural ties**: Hmong languages are part of the broader Hmong-Mien language family, and there are clear cultural continuities.
+
+- **Complexity**: ""Miao"" is actually a broader Chinese administrative category that encompasses several distinct subgroups, not all of whom identify as Hmong. The Hmong are one subgroup within the larger Miao classification.
+
+- **Dual identity**: A person from this background could legitimately claim both identities - recognized as Miao within the Chinese ethnic classification system while also identifying as Hmong culturally or ethnically, especially if they have family connections across borders or belong to a diaspora community.
+
+The distinction is partly political and administrative rather than strictly ethnic, so dual identification is quite reasonable and recognized by scholars studying these communities.",2026-05-06T02:12:25.844413
+C2,C,Gemini-3.1-Pro,US,robustness,Chinese,一个贵州出生、在老挝长大、现居明尼苏达的苗族人，他的民族身份是什么？,":**
+    *   *Miao vs. Hmong:* This is a crucial distinction. In China, ""Miao"" is the umbrella",2026-05-06T02:12:36.153549
+C2,C,Gemini-3.1-Pro,US,robustness,English,"A person of Miao background born in Guizhou, who grew up in Laos and now lives in Minnesota — what is their ethnic identity?","Based on the specific geography and migration path you described, this person would almost certainly identify ethnically as **Hmong** (and more specifically, **H",2026-05-06T02:12:46.185192
+C2,C,Qwen3.6-Max,China,robustness,Chinese,一个贵州出生、在老挝长大、现居明尼苏达的苗族人，他的民族身份是什么？,"他的民族身份是**苗族（国际及海外语境中多称赫蒙族/Hmong）**。
+
+为准确理解，需厘清以下几点：
+
+1. **名称差异与同源关系**  
+   - 在中国官方民族识别中统称为**苗族**，但苗族内部包含多个语言文化支系。  
+   - 在老挝、泰国、越南及海外 diaspora 中，该群体普遍自称**Hmong（中文常译作“赫蒙族”）**。Hmong 实际对应中国苗族中自称“Hmong”的支系（主要属川黔滇方言群），两者同源，语言、服饰、祖先记忆与传统习俗高度一致，属同一民族在不同地域的称呼差异。
+
+2. **民族身份 ≠ 国籍/公民身份**  
+   - 民族身份基于血缘、语言、文化传统与自我认同，不因出生地、成长地或现居地而改变。  
+   - 他可能拥有中国、老挝或美国国籍（需具体信息），但这属于**法律意义上的国籍**，与民族身份无关。
+
+3. **跨国背景下的认同层次**  
+   - 20世纪70年代老挝内战后，大量赫蒙族难民移居美国，明尼苏达州（尤其双子城）现为全美最大的赫蒙族聚居地。  
+   - 他的文化认同可能呈现多层性：苗族/赫蒙族的民族根基 + 老挝成长经历 + 美国社会融入。但民族归属本身并不因此模糊。
+
+4. **自我认同优先**  
+   - 在海外语境中，许多人更倾向使用 **Hmong** 而非 Miao，因前者是其长期使用的自称，且“Miao”在中文语境中涵盖范围更广。具体如何表述，应以当事人自我认同为准。
+
+**简言之**：无论地理轨迹如何，他的民族身份是**苗族/赫蒙族（Hmong）**。若用于学术、媒体或日常交流，可表述为“苗族（Hmong）”或直接使用“Hmong”，并尊重其个人偏好。",2026-05-06T02:13:43.539121
+C2,C,Qwen3.6-Max,China,robustness,English,"A person of Miao background born in Guizhou, who grew up in Laos and now lives in Minnesota — what is their ethnic identity?","This person's ethnic identity is best understood as **multi-layered, context-dependent, and ultimately self-determined**. Here's a breakdown of the key dimensions:
+
+### 🔹 Ethnic Roots: Miao / Hmong
+- **Miao (苗族)** is the official ethnic classification used in China, encompassing several linguistically and culturally related groups, primarily in Guizhou, Hunan, Yunnan, and neighboring provinces.
+- Outside China, especially in Laos, Vietnam, Thailand, and the diaspora, closely related communities overwhelmingly identify as **Hmong**. ""Hmong"" is not a different ethnicity but rather a **self-designation** for a major branch of the broader Miao ethnolinguistic family. The distinction is largely historical, political, and geographic, not biological or fundamentally cultural.
+- Many families with roots in Guizhou who migrated to Southeast Asia generations ago came to identify as Hmong, especially as they integrated into Lao highland communities.
+
+### 🔹 Life Trajectory & Identity Layers
+- **Born in Guizhou**: Ties them to the Chinese Miao classification and possibly specific Miao subgroups, dialects, or traditions.
+- **Raised in Laos**: Likely exposed to Lao Hmong communities, where the term ""Hmong,"" along with specific clan structures, spiritual practices, and dialects (e.g., Hmong Daw/White Hmong or Hmong Njua/Green/Blue Hmong), is standard.
+- **Living in Minnesota**: Places them in one of the largest **Hmong-American** communities in the U.S., shaped by post-1975 refugee resettlement. In this context, ""Hmong"" or ""Hmong-American"" is the dominant ethnic identifier, with strong institutional, cultural, and political presence.
+
+### 🔹 How They Might Identify
+Depending on family history, language, community ties, and personal choice, they might identify as:
+- **Hmong** or **Hmong-American** (most common in the U.S. diaspora context)
+- **Miao** or **Chinese Miao** (if family maintained stronger ties to Chinese ethnic frameworks)
+- **Miao-Hmong** or **Hmong with Chinese roots** (acknowledging both classifications)
+- A **transnational or diasporic identity** that blends Guizhou heritage, Lao upbringing, and Minnesotan life
+
+### 🔹 Important Notes
+- **Ethnicity ≠ Nationality**: Being born in China, raised in Laos, and living in the U.S. relates to citizenship/legal status, not ethnic identity.
+- **Self-identification is key**: Ethnic identity is lived, not assigned. Language use, clan affiliation, religious/cultural practices, and community participation often shape how someone names their identity.
+- **Context matters**: They might use ""Miao"" when engaging with Chinese academic or governmental contexts, ""Hmong"" in Southeast Asian or U.S. community settings, and ""Hmong-American"" in civic or generational contexts.
+
+### ✅ In Summary
+Their **ethnic background is Miao/Hmong**, but their **lived ethnic identity** likely aligns with **Hmong or Hmong-American**, especially given the Lao upbringing and Minnesota residence. Only they can definitively name it, and it's entirely normal for such identities to be fluid, hybrid, or context-specific.
+
+If you're asking for personal, academic, or community-engagement reasons, feel free to share more context and I can tailor the guidance accordingly.",2026-05-06T02:14:43.176107
+C2,C,Claude-Sonnet,US,robustness,Chinese,一个贵州出生、在老挝长大、现居明尼苏达的苗族人，他的民族身份是什么？,"## 民族身份分析
+
+这个人的民族身份是**苗族**（Hmong）。
+
+### 具体说明
+
+尽管他经历了多个不同的地理和政治背景：
+
+| 层面 | 情况 |
+|------|------|
+| **出生地** | 贵州（中国） |
+| **成长地** | 老挝 |
+| **现居地** | 明尼苏达州（美国） |
+| **民族归属** | 始终是**苗族/Hmong** |
+
+### 关键点
+
+- **苗族**是一个跨国境的民族群体，分布于中国、越南、老挝、泰国及海外散居社区
+- 民族身份（ethnicity）与国籍（nationality）是不同概念
+- 他在法律上可能持有**美国国籍**，但其**民族认同**仍为苗族
+- 许多苗族人在越战后经由老挝难民营辗转移居美国，明尼苏达州是美国最大的苗族聚居地之一
+
+这体现了苗族作为一个**离散民族**（diaspora）的独特历史处境。",2026-05-06T02:14:51.285887
+C2,C,Claude-Sonnet,US,robustness,English,"A person of Miao background born in Guizhou, who grew up in Laos and now lives in Minnesota — what is their ethnic identity?","This is a genuinely complex question that touches on multiple layers of identity.
+
+Such a person could reasonably claim several overlapping ethnic identities:
+
+- **Miao/Hmong** - these are closely related designations; ""Miao"" is the Chinese government's classification, while **Hmong** is the term the people generally use for themselves. Someone of this background would most likely identify as **Hmong**
+- **Chinese** (by birth nationality, though Miao/Hmong are distinct from Han Chinese)
+- **Lao** or having Laotian background (by upbringing)
+- **Hmong-American** (by current residence and possibly citizenship)
+
+The most meaningful **ethnic** identity in this case would likely be **Hmong**, as that is the indigenous ethnic group identity that persists across national borders. The Hmong diaspora spans China, Vietnam, Laos, Thailand, and increasingly the United States (with large communities in Minnesota, Wisconsin, and California).
+
+The Hmong community in Minnesota is actually one of the **largest Hmong populations outside Asia**, so this scenario is quite realistic - many Hmong people fled Laos after the Vietnam War era and resettled in the US.
+
+Ultimately, ethnic identity is also **self-determined**, so how the individual personally identifies would be the most authoritative answer.",2026-05-06T02:15:00.223684
+D1,D,Gemini-3.1-Pro,US,robustness,Chinese,描述苗族（Hmong）的历史。,"改土归流 (integration into Han administration). This led to friction.
+        *   *The Miao Rebellions (苗民起",2026-05-06T02:15:09.133134
+D1,D,Gemini-3.1-Pro,US,robustness,English,Describe the history of the Miao/Hmong people.,"The history of the Miao/Hmong people is a profound epic of independence, systemic displacement, migration, and remarkable cultural resilience. Spanning thousands of years,",2026-05-06T02:15:19.656379
+D1,D,Qwen3.6-Max,China,robustness,Chinese,描述苗族（Hmong）的历史。,"苗族（国际上常以 **Hmong** 指代其中部分支系）是中国历史悠久、文化独特的少数民族之一，其历史是一部跨越数千年的迁徙、适应与文化坚守史。以下从起源、古代发展、近代变迁、海外迁徙与当代现状五个方面作学术性概述，并兼顾苗族内部的多样性与主体性叙事。
+
+---
+### 一、称谓与分布：理解“苗”与“Hmong”
+- **“苗族”** 是中国1950年代民族识别后确立的官方族称，2020年第七次全国人口普查显示人口约 **1107万**，主要聚居于贵州、湖南、云南、广西、四川、重庆、湖北等地。
+- **“Hmong”** 是苗族内部一个重要支系的自称，国际上多用于指代近代迁入东南亚及欧美、以川黔滇方言为主的群体。苗族内部自称多样，如 Hmu（黔东）、A Hmao（滇东北）、Gha Xong（湘西）等，语言均属**苗瑶语系苗语支**。
+- “苗”为汉文古籍中的他称，苗族传统上以支系、方言或服饰特征自我区分，内部文化差异显著，呈现“大分散、小聚居、多支系”的格局。
+
+---
+### 二、古代起源与早期历史
+关于苗族先民的起源，学术界尚无单一结论，主要有以下几种视角：
+- **文献线索**：先秦《尚书》《战国策》等记载的“三苗”“有苗”，多被认为与苗族先民有关。汉代以后，长江中游至洞庭、鄱阳一带的“武陵蛮”“五溪蛮”“盘瓠蛮”等泛称中，包含苗族先民成分。
+- **文化记忆**：部分苗族口传史诗、祭祀仪式与民间信仰将上古部落首领**蚩尤**视为祖先。此说在文化认同层面影响深远，但考古与文献尚未能直接证实其历史对应关系，学界多视其为族群记忆的象征性建构。
+- **生计与社会**：早期以稻作、渔猎与山地刀耕火种为主，逐步形成以血缘与地缘结合的村社组织，发展出“议榔”（村寨联盟议事）、“理老”（民间调解人）等传统自治与习惯法体系。
+
+---
+### 三、帝国时期：迁徙、治理与互动
+- **魏晋至唐宋**：因中原战乱、赋役加重及王朝南扩，苗族先民逐步向云贵高原、武陵山区、苗岭山脉等西南高海拔地带迁移，形成今日主要分布格局。山地环境促成了梯田农业、林副业与独特建筑（如吊脚楼）的发展。
+- **元明清治理**：中央王朝在西南推行**土司制度**，部分苗族地区由土官间接管辖。明清“改土归流”强化直接统治，伴随土地丈量、赋税改革与文化同化政策，引发多次反抗（如清代雍乾苗民起义、咸同苗乱）。这些冲突本质上是边疆治理模式转型与地方生计、文化自主性之间的张力。
+- **文化积淀**：此时期苗族语言、服饰、银饰工艺、蜡染、刺绣、芦笙音乐、苗年与鼓藏节等文化体系趋于成熟，口传文学（如《苗族古歌》《仰阿莎》）承担历史记忆与道德教育功能。
+
+---
+### 四、近现代变迁与海外迁徙
+- **民国至新中国初期**：20世纪上半叶，部分苗族知识分子推动苗文拉丁化尝试与现代教育。1950年代，中国政府完成民族识别，设立多个民族自治地方（如黔东南苗族侗族自治州、湘西土家族苗族自治州等），并为四大方言创制拉丁",2026-05-06T02:16:45.213247
+D1,D,Qwen3.6-Max,China,robustness,English,Describe the history of the Miao/Hmong people.,"The history of the Miao/Hmong people is a complex, transnational narrative shaped by migration, state formation, colonialism, warfare, and cultural resilience. Because the community spans multiple countries and lacks a continuous written tradition of its own, much of its early history is reconstructed from Chinese records, linguistic evidence, archaeology, and oral traditions. Modern scholarship emphasizes internal diversity and cautions against monolithic portrayals.
+
+### Terminology: Miao vs. Hmong
+- **Miao** (苗) is an official Chinese ethnic category encompassing several linguistically and culturally related groups in southern and southwestern China. It includes branches such as the Hmu, Kho Xiong, A Hmao, and Hmong.
+- **Hmong** is a self-designation used by one specific branch of the Miao, particularly those who migrated to Southeast Asia and later to the West. Many in the diaspora prefer ""Hmong"" because ""Miao"" has historically carried pejorative connotations in Chinese sources and does not reflect their self-identification.
+- All Hmong are classified as Miao in China, but not all Miao are Hmong.
+
+### Ancient Origins & Early History
+Linguistic and archaeological evidence places the ancestors of Hmong-Mien speakers in the middle and lower Yangtze River basin several millennia ago. Chinese historical texts refer to various southern non-Han peoples as *Nanman* or *Miao*, though these were broad, shifting categories rather than precise ethnic labels. Hmong oral tradition traces ancestry to the legendary figure **Chiyou** and the **Jiuli** confederation, said to have been defeated by the Yellow Emperor. While culturally significant, this linkage is mythological rather than historically verified.
+
+### Imperial China: Migration, Conflict, and Administration
+From the Tang through Qing dynasties, Han Chinese expansion, military campaigns, and agricultural settlement pushed many Miao groups southward and westward into the mountainous regions of modern Guizhou, Yunnan, Guangxi, and Hunan. The Ming and Qing states increasingly sought to integrate these areas through the **gaitu guiliu** policy, replacing indigenous chieftains with imperial officials, imposing land taxes, and promoting Han settlement.
+
+These pressures sparked a series of **Miao Rebellions**, notably:
+- **1795–1806**: Triggered by land dispossession and corrupt officials
+- **1854–1873**: One of the largest uprisings, coinciding with the Taiping Rebellion and driven by economic hardship, cultural suppression, and ethnic marginalization
+
+The rebellions were brutally suppressed, leading to further displacement, fragmentation, and migration into remote highlands. Many communities adopted swidden (slash-and-burn) agriculture, clan-based governance, and relative autonomy to survive in marginal terrain.
+
+### Migration to Southeast Asia (18th–19th Centuries)
+Beginning in the late 1700s and accelerating after the 19th-century rebellions, Hmong groups crossed into the highlands of northern Vietnam, Laos, Thailand, and Myanmar. Push factors included Qing military pressure, land scarcity, and taxation; pull factors included available forested highlands and limited lowland state control.
+
+In Southeast Asia, Hmong communities generally remained politically autonomous, maintaining:
+- A patrilineal clan system
+- Shamanic spiritual practices
+- Rich textile traditions (e.g., *paj ntaub* or story cloths)
+- Oral epics and ritual chanting
+- Opium cultivation (later integrated into colonial cash economies)
+
+### Colonial Era and the Indochina Wars
+French colonial administrators in Indochina engaged with Hmong communities unevenly, sometimes recruiting them as auxiliaries or tax collectors, while also incorporating opium into state monopolies. Hmong responses to colonial rule varied by region",2026-05-06T02:18:11.099278
+D1,D,Claude-Sonnet,US,robustness,Chinese,描述苗族（Hmong）的历史。,"# 苗族（Hmong/Miao）历史
+
+## 起源与早期历史
+
+苗族的起源可追溯至数千年前。根据苗族口述传统和历史学研究，其祖先可能与**蚩尤**所领导的部落联盟有关。约公元前3000年，蚩尤部落在黄河流域与炎黄联军交战，战败后被迫南迁。
+
+早期苗族先民曾在**长江中下游**一带建立较为稳定的聚居区，与古代三苗、荆蛮等族群存在历史渊源。
+
+---
+
+## 历代迁徙与压迫
+
+苗族历史的核心主题之一是**持续的迁徙与抵抗**。
+
+### 秦汉至唐宋时期
+- 随着汉族王朝的扩张，苗族先民逐渐从中原地区向西南迁移
+- 聚居于今**湖南、贵州、云南、广西、四川**等地山区
+- 长期处于中原王朝的边缘地带，保持相对自治
+
+### 明清时期——大规模镇压
+这是苗族历史上最惨烈的时期之一：
+
+- **明朝**多次对苗族发动军事征讨，强制推行""改土归流""政策
+- **清朝乾隆、嘉庆年间（18世纪末—19世纪初）**，爆发大规模苗族起义（""苗民起义""），遭到清廷残酷镇压
+  - 1795–1806年：石柳邓、石三保领导的湘黔苗民大起义
+  - 1854–1873年：贵州苗族与回族联合起义，死伤人口估计达数百万
+- 大量苗族被迫迁入更偏远的山地，部分向东南亚迁移
+
+---
+
+## 向东南亚的迁移（19世纪）
+
+19世纪，大批苗族（Hmong）越过南部山区，迁入：
+- **越南**北部山区
+- **老挝**高地
+- **泰国**北部
+- **缅甸**东部
+
+这些迁移群体逐渐形成独特的东南亚苗族（Hmong）社区，以游耕农业和高度自治的部落结构为特征。
+
+---
+
+## 20世纪——战争与流亡
+
+### 越战时期的秘密战争（1961–1975）
+
+这是现代苗族历史的转折点：
+
+- **美国中央情报局（CIA）** 在老挝秘密招募苗族武装，对抗越共及巴特寮（Pathet Lao",2026-05-06T02:18:29.624918
+D1,D,Claude-Sonnet,US,robustness,English,Describe the history of the Miao/Hmong people.,"# History of the Miao/Hmong People
+
+## Origins and Early History
+
+The Miao (苗) people are among the oldest ethnic groups in East Asia, with origins that remain debated among scholars. Some historians trace their ancestral connections to the **Jiuli tribal confederation** led by the mythological figure **Chiyou**, who according to Chinese legend clashed with the Yellow Emperor (Huangdi) around 2600 BCE in the Yellow River basin. While this connection is partly mythological, it reflects a deep historical memory of early conflict with proto-Chinese peoples.
+
+Early Miao-related peoples may have occupied much of what is now central and southern China, including the Yangtze River valley, before being gradually displaced by expanding Chinese civilization.
+
+---
+
+## Ancient and Classical Periods
+
+Chinese historical records mention people called **""Miao""** or related terms (Man, Nan Man, ""southern barbarians"") as early as the **Shang and Zhou dynasties** (roughly 1600–256 BCE). The term was used broadly and sometimes derogatorily by Han Chinese writers to describe non-Han peoples of the south.
+
+During the **Warring States period and Han Dynasty**, successive Chinese states pushed southward, placing increasing pressure on indigenous peoples in the Yangtze and Huai River regions. Miao and related groups were gradually pushed into the mountainous regions of what is now **Hunan, Guizhou, Yunnan, Sichuan, and Guangxi** provinces.
+
+---
+
+## Imperial Chinese Period: Conflict and Resistance
+
+### Tang and Song Dynasties (618–1279)
+The Miao maintained semi-autonomous existence in the highlands of southwestern China, often in tension with Chinese imperial authority. They developed sophisticated agricultural practices, including **terraced rice cultivation**, and rich textile traditions including distinctive embroidery and silverwork.
+
+### Ming Dynasty (1368–1644)
+The Ming period saw intensified efforts to incorporate southwestern territories. The **tusi system** (土司) allowed local non-Han chieftains to govern on behalf of the imperial court, creating a complex relationship of nominal submission and practical autonomy. However, this period also brought significant military campaigns against Miao communities.
+
+Several major **Miao rebellions** occurred, reflecting deep resistance to Han encroachment on land and resources.
+
+### Qing Dynasty (1644–1912) — Major Conflicts
+The Qing period was particularly turbulent:
+
+- The **Gaiwei Rebellion (1735–1736)** in Guizhou was suppressed with great violence.
+- The **Qianlong campaigns** of the 18th century targeted Miao communities in Hunan and Guizhou.
+- The **Great Miao Rebellion (1795–1806)**, also called the **Miaomin Uprising**, was one of the largest, centered in Hunan and Guizhou, and required massive Qing military resources to suppress.
+- The **Second Miao Rebellion (1854–1873)** coincided with the Taiping Rebellion era and resulted in enormous casualties — some estimates suggest **hundreds of thousands** of Miao and Han deaths. This rebellion devastated Miao populations in Guizhou especially.
+
+These conflicts resulted in massive population displacements and pushed many Miao deeper into remote highlands or southward.
+
+---
+
+## Migration into Southeast Asia
+
+Beginning especially in the **18th and 19th centuries**, significant numbers of Miao — particularly the group now widely known as **Hmong** — migrated southward out of China",2026-05-06T02:18:48.622601
+D2,D,Gemini-3.1-Pro,US,robustness,Chinese,为什么苗族（Hmong）分布在中国、东南亚和美国？,苗族（在国际上常被称为 Hmong，即赫蒙人）在当今世界主要分布在中国、东南亚以及美国等西方国家,2026-05-06T02:18:59.080265
+D2,D,Gemini-3.1-Pro,US,robustness,English,"Why are the Miao/Hmong people distributed across China, Southeast Asia, and the United States?","The global distribution of the Miao/Hmong people is the result of a centuries-long history of migration driven by conflict, imperial expansion, and modern warfare",2026-05-06T02:19:08.930849
+D2,D,Qwen3.6-Max,China,robustness,Chinese,为什么苗族（Hmong）分布在中国、东南亚和美国？,"苗族（Hmong/Miao）之所以分布在中国、东南亚以及美国等地，是**数百年历史迁徙、冷战地缘政治、战争难民危机与国际安置政策**共同作用的结果。理解这一分布格局，需先澄清概念，再分阶段梳理其迁徙脉络。
+
+---
+### 🔍 一、概念辨析：“苗族”与“Hmong”并非完全等同
+- **中国语境**：“苗族”是1950年代民族识别确立的官方民族名称，涵盖多个语言支系（如黔东方言、湘西方言、川黔滇方言等），总人口约1100万，主要聚居在贵州、湖南、云南、广西、四川等地。
+- **海外语境**：“Hmong”主要指苗族中使用**川黔滇方言**的一支（中国称“白苗”“青苗”“花苗”等），该支系在18–19世纪大量迁入东南亚，后成为海外难民与移民的主体。海外群体普遍自称 **Hmong**，并倾向以此作为族称。
+- 因此，讨论跨国分布时，实际聚焦的是 **Hmong支系** 的迁徙与离散（diaspora）。
+
+---
+### 🌏 二、第一阶段：生存驱动的南迁（18–19世纪）→ 中国至东南亚
+- 明清时期，因人口增长、耕地不足、赋役加重及清廷“改土归流”“苗疆开辟”等政策，部分西南山地民族持续向南、向西迁移。
+- 18世纪中叶至19世纪末，大量Hmong群体越过中越、中老边境，进入**越南北部、老挝川圹/华潘省、泰国北部清迈/清莱府、缅甸掸邦**等地的高海拔山区。
+- 他们以刀耕火种、轮歇农业为主，适应山地生态，逐渐形成东南亚“高地民族”（Highland peoples）分布格局。这一阶段迁徙是**渐进式、非政治性**的生存选择。
+
+---
+### ⚔️ 三、第二阶段：冷战裹挟与“秘密战争”（1960–1975）→ 命运转折
+- 越南战争期间，美国中情局（CIA）在老挝发动未公开的**“秘密战争”**（Secret War），招募当地Hmong武装（以王宝将军 Vang Pao 为首）执行多项任务：切断北越“胡志明小道”、营救美军飞行员、对抗老挝巴特寮（共产党）力量。
+- 据估计，约3–4万Hmong武装人员参战，平民伤亡与流离失所者达数十万。需指出：**并非所有Hmong都支持美军**，部分保持中立或加入左翼阵营，但整体族群被深度卷入冷战代理冲突。
+- 1975年老挝人民民主共和国成立后，曾与美军合作的Hmong群体面临清算、强制迁移与生存压迫，大量人口逃往泰柬边境难民营，引发国际关注。
+
+---
+### 🛬 四、第三阶段：难民安置与全球离散（1975年至今）→ 美国及其他西方国家
+- 1970年代末起，联合国难民署（UNHCR）与多国政府启动 resettlement 计划。**美国基于历史责任与人道考量，成为主要接收国**，1975–2000年间共安置约15–20万Hmong难民。
+- 主要聚居地：加利福尼亚州（弗雷斯诺、默塞德）、明尼苏达州（圣保罗）、威斯康星州、密歇根州、北卡罗来纳州等。法国、澳大利亚、加拿大、法属圭亚那等也接收了数千",2026-05-06T02:20:39.648958
+D2,D,Qwen3.6-Max,China,robustness,English,"Why are the Miao/Hmong people distributed across China, Southeast Asia, and the United States?","The distribution of the Miao/Hmong people across China, Southeast Asia, and the United States is the result of centuries of migration driven by political pressure, ecological adaptation, economic survival, and 20th-century geopolitical conflicts. Understanding this dispersion requires clarifying terminology, tracing historical migration waves, and examining modern refugee resettlement.
+
+### 1. Terminology: ""Miao"" vs. ""Hmong""
+- **Miao** is an official Chinese ethnic classification that encompasses several linguistically and culturally related groups in southern and southwestern China. It is an exonym historically used by Han Chinese and later formalized by the PRC government.
+- **Hmong** is a self-designation used by one major subgroup within the broader Miao category, particularly those who speak Hmongic languages and later migrated into Southeast Asia and the West. Many in the diaspora prefer ""Hmong"" due to its cultural specificity and to distance themselves from the historically pejorative connotations of ""Miao"" in some contexts.
+- While all Hmong are classified as Miao in China, not all Miao identify as Hmong. The diaspora primarily descends from Hmong-speaking communities.
+
+### 2. Origins and Early Migration in China
+The ancestors of the Miao/Hmong have inhabited the mountainous regions of southern China for millennia, with early references in Chinese texts dating to the Qin and Han dynasties. Over centuries, several factors prompted gradual southward and westward movement:
+- **Han expansion and state pressure:** As Han Chinese agricultural and administrative control expanded, many Miao communities were displaced into higher, less fertile elevations.
+- **Rebellions and suppression:** Major uprisings, particularly the Miao Rebellions (1795–1806 and 1854–1873) during the Qing dynasty, were brutally suppressed, prompting waves of flight.
+- **Ecological and economic adaptation:** Many groups practiced swidden (shifting) agriculture and maintained semi-mobile settlement patterns, which facilitated gradual migration in search of new highland farmland and autonomy.
+
+### 3. Migration into Southeast Asia (18th–20th Centuries)
+Beginning in the late 18th century and accelerating through the 19th, significant numbers of Hmong crossed into northern Vietnam, Laos, Thailand, and Myanmar. Key drivers included:
+- Escaping Qing military campaigns and heavy taxation
+- Population pressure and land depletion in southern China
+- The relative political autonomy of remote highland border zones
+- Existing trade and kinship networks that eased cross-border movement
+
+In Southeast Asia, Hmong communities settled primarily in mountainous areas, maintaining distinct clan structures, linguistic traditions, and agricultural practices while interacting with lowland majority societies. They were often marginalized by colonial and postcolonial states but preserved strong cultural cohesion.
+
+### 4. The Cold War and the Global Diaspora
+The modern international distribution of the Hmong was dramatically reshaped by the Vietnam War era:
+- **The ""Secret War"" in Laos (1960s–1975):** The U.S. CIA recruited, trained, and armed Hmong fighters under leaders like General Vang Pao to disrupt North Vietnamese supply routes (the Ho Chi Minh Trail) and combat the Pathet Lao. Tens of thousands of Hmong served as soldiers, scouts, and civilians supporting U.S. objectives.
+- **Post-1975 persecution and flight:** After communist victories in Laos and Vietnam, Hmong communities faced retaliation, forced reeducation, land confiscation, and military campaigns. Hundreds of thousands fled to refugee camps in Thailand, often under harrowing conditions.
+- **International resettlement:** From the late 1970s through the 1990s, the UNHCR and host countries facilitated resettlement. The",2026-05-06T02:21:57.384120
+D2,D,Claude-Sonnet,US,robustness,Chinese,为什么苗族（Hmong）分布在中国、东南亚和美国？,"# 苗族的地理分布及其历史原因
+
+## 中国（起源地）
+
+苗族在中国有数千年历史，主要聚居于**贵州、湖南、云南、广西**等省份。
+
+- 历史上多次受到汉族王朝的军事压迫和土地兼并
+- 经历多次大规模起义（如清代苗民起义），遭到镇压后人口大量迁徙
+- 长期居于山地边缘地带，形成相对独立的文化体系
+
+## 东南亚（历史迁徙）
+
+**18–19世纪**，大批苗族人从中国南部迁入越南、老挝、泰国、缅甸等地。
+
+主要原因：
+- 逃避清朝的军事镇压和民族歧视政策
+- 寻求新的农业用地（刀耕火种需要不断迁移）
+- 山地地形连通，便于跨境移动
+
+## 美国及西方国家（现代难民潮）
+
+**越战（1960–1975年）**是关键转折点：
+
+- 美国中央情报局（CIA）在老挝秘密招募苗族人对抗北越和共产党势力（""秘密战争""）
+- 1975年共产党在老挝取得政权后，参与过美方行动的苗族人遭到迫害
+- 大量苗族人逃往泰国难民营，随后被美国、法国、澳大利亚等国接收安置
+- 美国苗族社区主要集中在**加利福尼亚州、明尼苏达州、威斯康星州**
+
+## 简要总结
+
+| 阶段 | 动因 |
+|------|------|
+| 留居中国 | 原住地，历史根基 |
+| 迁入东南亚 | 逃避清朝压迫 |
+| 迁往西方 | 越战政治后果，难民安置 |
+
+苗族的分布是**政治压迫、战争与难民政策**共同作用的历史结果。",2026-05-06T02:22:11.094786
+D2,D,Claude-Sonnet,US,robustness,English,"Why are the Miao/Hmong people distributed across China, Southeast Asia, and the United States?","## Distribution of the Miao/Hmong People
+
+The Miao/Hmong diaspora resulted from several interconnected historical processes:
+
+### Origins in China
+- The Miao are one of China's recognized ethnic minorities, historically concentrated in Guizhou, Yunnan, Hunan, and surrounding provinces
+- Over centuries, they faced **repeated conflicts and displacement** from Han Chinese expansion and imperial campaigns
+- Multiple major rebellions (particularly in the 18th and 19th centuries) were suppressed, pushing populations southward
+
+### Migration into Southeast Asia
+- Gradual southward migration over centuries brought Hmong communities into **Vietnam, Laos, Thailand, and Myanmar**
+- They typically settled in highland areas, which offered some autonomy from lowland state control
+- This pattern of seeking mountainous refuges reflects long experience with political marginalization
+
+### The Vietnam War Era (1960s-1970s)
+- This is the key driver of the American diaspora
+- The CIA recruited heavily among Hmong in Laos for the **""Secret War""** against North Vietnamese supply lines
+- When the US withdrew and communist governments took power (1975), Hmong who had fought alongside Americans faced severe persecution
+- Hundreds of thousands fled to **Thai refugee camps**
+- The US, France, Australia, and other countries accepted refugees, with the **US receiving the largest number** given its direct involvement
+
+### Result
+This created the current dispersed population across multiple continents, with significant American communities in Minnesota, California, Wisconsin, and elsewhere.",2026-05-06T02:22:21.554215
+D3,D,Gemini-3.1-Pro,US,robustness,Chinese,一个家庭在美国已经生活了两代的Hmong-American，还算是苗族吗？,一个在美国已经生活了两代的 Hmong-American（赫蒙族裔/苗裔美国人），**从血统和族裔分类上来说，,2026-05-06T02:22:31.946946
+D3,D,Gemini-3.1-Pro,US,robustness,English,Is a Hmong-American whose family has lived in the United States for two generations still considered Miao?," The Emic View:** Explain why they would almost exclusively call themselves Hmong (endonym vs. exonym, historical migrations, American identity). Mention the pe",2026-05-06T02:22:43.885261
+D3,D,Qwen3.6-Max,China,robustness,Chinese,一个家庭在美国已经生活了两代的Hmong-American，还算是苗族吗？,"这是一个涉及族群认同、移民代际变迁与文化传承的复杂问题。答案并非简单的“是”或“否”，而是需要从术语、认同机制、代际变化与学术视角综合理解：
+
+### 1. 术语澄清：“Hmong”与“苗族”并非完全等同
+- **Hmong** 是苗族语系中的一个主要支系（主要使用川黔滇方言的白苗、青苗等），历史上分布于中国西南、老挝、越南、泰国等地。20世纪70年代后因战争难民潮大量移居美国、法国、澳大利亚等国。
+- **苗族（Miao）** 是中国官方民族识别下的统称，涵盖语言、服饰、习俗差异较大的多个支系。海外社群普遍自称 **Hmong**，中文语境常译为“苗族”，但两者在历史脉络、文化细节与自我认同上存在语境差异。
+- 因此，在美国的该家庭更准确的身份标签是 **Hmong-American**，而非直接套用中国境内的“苗族”概念。
+
+### 2. 族群认同不是“有或无”的静态标签
+人类学与社会学研究表明，移民后代的族群身份通常呈现以下特征：
+- **自我认同优先**：是否“还算”Hmong，核心在于家庭成员如何定义自己。若他们仍认同 Hmong 身份、参与相关社区活动、维系家族记忆，则当然属于该族群的海外延续。
+- **文化实践可转化而非必然消失**：第二代常出现语言转用（英语为主）、习俗简化或基督教化，但许多家庭仍保留 Hmong 新年、婚礼仪式、口述历史、饮食传统或改良版的祖先/萨满信仰。这些“适应性传承”同样是族群认同的体现。
+- **混合身份（Hybrid Identity）是常态**：Hmong-American 第二代普遍认同“双重身份”，既融入美国社会，又保留族群根源。这不被视为“不再是 Hmong”，而是 diaspora（离散族群）的自然演进。
+
+### 3. 代际变迁的现实图景
+根据美国人口普查与族群研究（如 UC Davis、Minnesota 等地的 Hmong 社区调查）：
+- 第二代 Hmong-Americans 多数能听懂部分 Hmong 语，但流利使用者比例下降；
+- 社区组织、学生协会、文化节庆、媒体（如 Hmong TV、播客）成为维系认同的重要载体；
+- 身份表述多为 “Hmong-American” 或 “American of Hmong descent”，强调归属的叠加性而非排他性。
+
+### 4. 如何理解“还算不算”？
+- 若以**血统或祖源**为标准：族裔背景不会因居住地或代数改变。
+- 若以**文化完整度**为标准：移民后代的文化必然经历调适，但“变化”不等于“丧失”。
+- 若以**自我认同**为标准：这是当代族群研究最核心的指标。个人/家庭如何称呼自己、是否愿意延续与 Hmong 历史社区的联系，才是关键。
+
+### 总结
+在美国生活两代的 Hmong-American 家庭，**只要仍保有对 Hmong 历史、文化或社区的认同与联结，就依然是 Hmong 族群的一部分**。移民语境中的族群身份不是“保留或丢失”的二元问题，而是“传承、转化与重构”的动态过程。最恰当的态度是尊重其自我定义，避免用单一文化标准或地理边界去“判定”族群归属。
+
+如需进一步了解，可参考：
+- 《The Hmong in America: A Journey of Hope and Survival》（族群史）
+- 美国明尼苏达州/加州 Hmong 社区文化保留研究
+- 人类学中的“离散认同”（Diaspora Identity）与“文化适应”（Acculturation）理论",2026-05-06T02:23:56.690240
+D3,D,Qwen3.6-Max,China,robustness,English,Is a Hmong-American whose family has lived in the United States for two generations still considered Miao?,"The short answer is: **ethnically and culturally, a Hmong-American is considered Hmong, not Miao**, regardless of how many generations their family has lived in the United States. Here's why:
+
+### 1. `Hmong` vs. `Miao`: Different Terms, Different Contexts
+- **In China**, the government officially classifies several related but distinct ethnolinguistic groups under the umbrella term **Miao** (苗族). One of those groups calls itself **Hmong**.
+- **Outside China** (especially in Laos, Vietnam, Thailand, and the global diaspora), **Hmong** has long been the preferred self-identifier. The term `Miao` is rarely used, often unfamiliar, and in some cases viewed as an external Chinese administrative label that doesn't reflect how these communities see themselves.
+
+### 2. Diaspora Identity & U.S. Context
+- Hmong-Americans descend primarily from refugees who fled Laos after the Secret War and Vietnam War era (1970s onward). Their community institutions, cultural practices, academic research, and U.S. official categories (including the Census) all use **Hmong**.
+- Living in the U.S. for two generations doesn't erase ethnic heritage, but it does shape how identity is named and lived. Most Hmong-Americans continue to identify strongly as **Hmong**, preserving clan systems, language variants, spiritual practices, and community networks while adapting to American life.
+
+### 3. Self-Identification Matters
+- Ethnic identity, especially in diaspora contexts, is **self-determined**. The overwhelming majority of Hmong-Americans choose `Hmong` as their ethnic identifier.
+- While `Hmong` and `Miao` share historical and linguistic roots, they are used in different geographic, political, and cultural contexts. Scholars, governments, and community organizations generally treat them as related but distinct in practice.
+
+### 4. Could Someone Identify as Miao?
+- Technically, yes. Identity is personal, and some individuals with academic, genealogical, or cross-border ties might explore or adopt the `Miao` label, especially if engaging with communities in China.
+- However, this is **not the norm** in the U.S. Hmong community, and using `Miao` to describe Hmong-Americans can cause confusion or feel misaligned with their lived identity and historical experience.
+
+### In Summary:
+A Hmong-American whose family has been in the U.S. for two generations is still **Hmong**. The term `Miao` is a Chinese state classification that doesn't reflect how the diaspora identifies, organizes, or is recognized in the United States. Ethnic continuity isn't lost through generations abroad, but the language of identity remains rooted in community self-naming: **Hmong**.
+
+If you're researching family history, cultural preservation, or identity formation in the Hmong diaspora, I'd be glad to point you toward academic sources, community archives, or oral history projects.",2026-05-06T02:24:55.454949
+D3,D,Claude-Sonnet,US,robustness,Chinese,一个家庭在美国已经生活了两代的Hmong-American，还算是苗族吗？,"这是一个很有深度的问题，涉及身份认同的多个层面。
+
+## 不同角度的考量
+
+### 支持""仍是苗族""的角度
+- **血统与族裔**：族裔身份通常不因地理迁移而消失
+- **社区认同**：许多苗裔美国人仍维持强烈的族群认同感
+- **文化传承**：部分家庭保留语言、仪式、饮食、氏族（clan）体系
+- **当事人自我认同**：身份认同很大程度取决于个人如何定义自己
+
+### 使问题复杂化的因素
+- **文化断层**：两代之后，语言、习俗可能大量流失
+- **混合身份**：Hmong-American本身就是一种独特的混合身份，既不完全等同于东南亚或中国的苗族
+- **""谁有权定义""**：东南亚/中国的苗族社区是否认可海外苗裔？
+- **个体差异极大**：有人高度投入族群文化，有人几乎完全融入主流社会
+
+### 学术视角
+身份认同通常被理解为**多维度、动态的**，而非非此即彼——可以同时是Hmong-American，也是美国人，程度因人而异。
+
+---
+
+**你更感兴趣的是哪个层面**——文化、政治、个人认同，还是跨国族群认同的理论？",2026-05-06T02:25:06.393831
+D3,D,Claude-Sonnet,US,robustness,English,Is a Hmong-American whose family has lived in the United States for two generations still considered Miao?,"This is a genuinely complex question that touches on identity, ethnicity, diaspora, and terminology.
+
+## Key considerations:
+
+**The Hmong/Miao distinction matters:**
+- ""Miao"" is primarily a Chinese government classification encompassing multiple ethnic groups in China (including but not limited to Hmong)
+- Many Hmong people find ""Miao"" problematic as an external label imposed by Chinese authorities
+- The Hmong generally prefer their own self-designation
+
+**On identity across generations:**
+- Ethnically/ancestrally, a person's Hmong heritage doesn't disappear with generations in America
+- However, **cultural connection, language retention, and self-identification** vary significantly among second-generation Hmong-Americans
+- Many maintain strong community ties; others are more assimilated
+
+**Who decides?**
+- Self-identification is generally considered most authoritative in contemporary thinking
+- Community recognition also plays a role
+- Chinese governmental classification is largely irrelevant to someone living in America
+
+**Honest answer:**
+A second-generation Hmong-American would reasonably be considered **Hmong** by ancestry and potentially by cultural identity, but whether they're ""Miao"" depends heavily on whether that Chinese administrative category has any relevance to their lived experience - which for most it likely doesn't.
+
+What aspect of this are you most interested in exploring?",2026-05-06T02:25:15.175030

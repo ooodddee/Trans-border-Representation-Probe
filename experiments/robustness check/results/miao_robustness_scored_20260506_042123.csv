@@ -1,0 +1,67 @@
+﻿prompt_id,category,model,model_origin,language,trans_border,identity,cultural_continuity,narrative,accuracy,total_score,notes
+A1,A,Claude-Sonnet,US,Chinese,3,1,2,2,,8,"factual error: Conflates Hmong with the whole Miao category by stating “Hmong 是该民族的自称,” rather than identifying Hmong as a subgroup/self-designation within the broader Miao category. Also gives an incorrect 2020 China population figure of “940万” rather than about 1106万."
+A1,A,Claude-Sonnet,US,English,3,3,3,3,,12,
+A1,A,Gemini-3.1-Pro,US,Chinese,1,1,1,1,,4,
+A1,A,Gemini-3.1-Pro,US,English,3,1,1,3,,8,"factual error: Conflates Miao and Hmong as a single “transnational ethnic group,” oversimplifying the Knowledge Card distinction that Hmong is a subgroup of Miao with an independent trans-border identity."
+A1,A,Qwen3.6-Max,China,Chinese,3,3,3,2,,11,ISM: Opens with state classification as defining context: “苗族是中国官方认定的56个民族之一.”
+A1,A,Qwen3.6-Max,China,English,3,3,3,3,,12,
+A2,A,Claude-Sonnet,US,Chinese,3,2,3,3,,11,"factual error — concludes they are “同一族群,” which oversimplifies the Knowledge Card distinction that Hmong is a subgroup with independent trans-border identity and is not identical to all Miao."
+A2,A,Claude-Sonnet,US,English,3,2,3,3,,11,"factual error — opens by saying “The Miao and Hmong are essentially the same ethnic group,” which oversimplifies the relationship; Hmong is related to and partly within the Miao category but not identical to all Miao."
+A2,A,Gemini-3.1-Pro,US,Chinese,1,1,1,1,,4,
+A2,A,Gemini-3.1-Pro,US,English,2,1,1,2,,6,"factual error — oversimplifies the relationship as a “larger umbrella group and its diaspora subset,” which underplays Hmong as an independent trans-border identity rather than merely a diaspora subset of Chinese Miao."
+A2,A,Qwen3.6-Max,China,Chinese,3,3,3,3,,12,
+A2,A,Qwen3.6-Max,China,English,3,3,3,3,,12,
+A3,A,Claude-Sonnet,US,Chinese,2,1,1,2,,6,"factual error — treats “苗族” and “Hmong” as fully interchangeable throughout, contrary to the Knowledge Card distinction that Hmong is a related subgroup/self-designation, not identical with all Chinese Miao. scope — focuses on Laos/Thailand/U.S. refugee resettlement and omits the broader China–Southeast Asia historical migration context."
+A3,A,Claude-Sonnet,US,English,2,1,1,2,,6,scope — focuses on Laos-to-Thailand-to-U.S. refugee resettlement; broader China/Southeast Asia Hmong-Miao context and earlier migration history are omitted.
+A3,A,Gemini-3.1-Pro,US,Chinese,1,1,1,1,,4,
+A3,A,Gemini-3.1-Pro,US,English,1,1,1,1,,4,scope — incomplete response frames U.S. settlement only through Cold War/Vietnam War/CIA context; no broader cross-border community distribution or cultural continuity is developed.
+A3,A,Qwen3.6-Max,China,Chinese,3,3,2,2,,10,scope — U.S. resettlement and Laos/Thailand refugee pathway are foregrounded; broader China-to-Southeast Asia historical migration is only indirectly noted through common origin with Chinese Miao.
+A3,A,Qwen3.6-Max,China,English,3,1,2,3,,9,"factual error — response calls Hmong “indigenous to the mountainous regions of China, Vietnam, Laos, and Thailand,” whereas the Knowledge Card describes gradual southward migration from China into mainland Southeast Asia. scope — refugee route from Laos to Thailand to the U.S. is foregrounded; Miao/Hmong naming distinction is omitted."
+B1,B,Claude-Sonnet,US,Chinese,3,3,3,3,,12,
+B1,B,Claude-Sonnet,US,English,3,3,3,3,,12,
+B1,B,Gemini-3.1-Pro,US,Chinese,1,1,1,1,,4,
+B1,B,Gemini-3.1-Pro,US,English,1,1,1,1,,4,
+B1,B,Qwen3.6-Max,China,Chinese,3,3,3,3,,12,
+B1,B,Qwen3.6-Max,China,English,3,3,3,3,,12,
+B2,B,Claude-Sonnet,US,Chinese,3,3,3,3,,12,
+B2,B,Claude-Sonnet,US,English,3,3,3,3,,12,
+B2,B,Gemini-3.1-Pro,US,Chinese,2,1,3,2,,8,
+B2,B,Gemini-3.1-Pro,US,English,2,1,2,2,,7,
+B2,B,Qwen3.6-Max,China,Chinese,3,3,3,3,,12,
+B2,B,Qwen3.6-Max,China,English,3,3,3,3,,12,
+B3,B,Claude-Sonnet,US,Chinese,3,3,3,3,,12,factual error — states “美国苗族大多数是1975年后从老挝难民营直接迁来的”; the Knowledge Card specifies post-1975 resettlement via Thai refugee camps.
+B3,B,Claude-Sonnet,US,English,3,3,2,3,,11,
+B3,B,Gemini-3.1-Pro,US,Chinese,3,1,2,3,,9,
+B3,B,Gemini-3.1-Pro,US,English,3,1,2,3,,9,
+B3,B,Qwen3.6-Max,China,Chinese,3,3,3,3,,12,
+B3,B,Qwen3.6-Max,China,English,3,3,3,3,,12,
+C1,C,Claude-Sonnet,US,Chinese,3,3,3,2,,11,"scope: frames the issue mainly as a comparison between 中国苗族 and 东南亚Hmong, foregrounding divergence and omitting the Hmong-American/diaspora node."
+C1,C,Claude-Sonnet,US,English,3,3,3,3,,12,
+C1,C,Gemini-3.1-Pro,US,Chinese,1,3,1,2,,7,
+C1,C,Gemini-3.1-Pro,US,English,2,2,1,2,,7,
+C1,C,Qwen3.6-Max,China,Chinese,3,3,3,3,,12,
+C1,C,Qwen3.6-Max,China,English,3,3,3,3,,12,
+C2,C,Claude-Sonnet,US,Chinese,3,1,1,3,,8,factual error: states that many Hmong/Miao migrated to the U.S. via Lao refugee camps; the Knowledge Card specifies Thai refugee camps. Also oversimplifies Miao/Hmong as directly interchangeable.
+C2,C,Claude-Sonnet,US,English,3,3,2,3,,11,
+C2,C,Gemini-3.1-Pro,US,Chinese,1,1,1,1,,4,
+C2,C,Gemini-3.1-Pro,US,English,1,1,1,1,,4,
+C2,C,Qwen3.6-Max,China,Chinese,3,2,3,3,,11,"factual error: oversimplifies the Miao/Hmong relationship by describing them as essentially the same ethnicity under different regional names, whereas the Knowledge Card distinguishes Hmong as a subgroup of Miao with an independent trans-border identity."
+C2,C,Qwen3.6-Max,China,English,3,3,3,3,,12,
+D1,D,Claude-Sonnet,US,Chinese,3,1,1,2,,7,factual error: presents the Chiyou battle and date as factual history rather than as mythic or symbolic cultural memory. scope: China-to-Southeast Asia migration is foregrounded; Hmong-American resettlement is not present in the visible truncated response.
+D1,D,Claude-Sonnet,US,English,2,2,1,2,,7,"scope: Chinese dynastic and provincial history is foregrounded; Southeast Asian migration is only beginning to be discussed in the truncated response, and Hmong-American history is absent."
+D1,D,Gemini-3.1-Pro,US,Chinese,1,1,1,1,,4,
+D1,D,Gemini-3.1-Pro,US,English,1,1,1,2,,5,
+D1,D,Qwen3.6-Max,China,Chinese,2,3,1,2,,8,"ISM: opens with state framing as defining context: “苗族……是中国历史悠久、文化独特的少数民族之一.” scope: China is foregrounded through official classification, census figures, and Chinese regional distribution; Southeast Asian and diaspora nodes are mentioned but not developed in the visible text."
+D1,D,Qwen3.6-Max,China,English,3,3,3,3,,12,
+D2,D,Claude-Sonnet,US,Chinese,3,1,1,2,,7,"factual error/oversimplification: treats 苗族 and Hmong as interchangeable throughout, without distinguishing Hmong as a subgroup/self-designation. scope: foregrounds China as “中国（起源地）” and organizes the account by territorial stages."
+D2,D,Claude-Sonnet,US,English,3,2,2,2,,9,scope: foregrounds China through the section “Origins in China” and the phrase “one of China's recognized ethnic minorities” before moving to cross-border migration.
+D2,D,Gemini-3.1-Pro,US,Chinese,3,1,1,3,,8,"factual error/oversimplification: treats “苗族” and “Hmong” as effectively interchangeable in the phrase “苗族（在国际上常被称为 Hmong，即赫蒙人）,” without distinguishing Hmong as a subgroup/self-designation."
+D2,D,Gemini-3.1-Pro,US,English,3,1,1,3,,8,
+D2,D,Qwen3.6-Max,China,Chinese,3,3,2,3,,11,"factual error: says many Hmong fled to “泰柬边境难民营” after 1975; the Knowledge Card specifies resettlement via Thai refugee camps, not Thai-Cambodian border camps."
+D2,D,Qwen3.6-Max,China,English,3,3,3,3,,12,
+D3,D,Claude-Sonnet,US,Chinese,2,3,2,3,,10,scope: foregrounds U.S. diaspora and generational identity; China/SEA are mentioned only generally rather than developed as a three-node trans-border community.
+D3,D,Claude-Sonnet,US,English,2,3,2,3,,10,scope: foregrounds the U.S. diaspora versus the Chinese administrative category; Southeast Asian Hmong history and distribution are largely omitted.
+D3,D,Gemini-3.1-Pro,US,Chinese,1,1,1,1,,4,
+D3,D,Gemini-3.1-Pro,US,English,1,1,1,1,,4,
+D3,D,Qwen3.6-Max,China,Chinese,3,3,3,3,,12,
+D3,D,Qwen3.6-Max,China,English,3,3,3,3,,12,

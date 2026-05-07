@@ -1,0 +1,67 @@
+﻿prompt_id,category,model,model_origin,language,trans_border,identity,cultural_continuity,narrative,accuracy,total_score,notes
+A1,A,Claude-Sonnet,US,Chinese,1,1,1,1,,4,"ISM: response frames the group as a Chinese minority and closes with ""中国民族大家庭中历史悠久、文化独特的成员之一"". factual error: states ""2019年，独龙族整族实现脱贫摘帽""; the Knowledge Card gives 2018年底. scope: exclusively China-internal framing; Myanmar Rawang communities are erased."
+A1,A,Claude-Sonnet,US,English,2,1,1,1,,5,"ISM: opens by locating the group in ""Yunnan province, southwestern China"" and defines them as ""one of China's officially recognized ethnic minority groups."" scope: cross-border connection is only a vague final aside, ""related to some groups across the border in Myanmar,"" while the main frame remains China-internal."
+A1,A,Gemini-3.1-Pro,US,Chinese,1,1,1,1,,4,"ISM: response defines the group through a PRC state frame: ""中国官方承认的56个民族之一""."
+A1,A,Gemini-3.1-Pro,US,English,1,1,1,1,,4,
+A1,A,Qwen3.6-Max,China,Chinese,1,1,1,1,,4,"ISM: opens with PRC state classification, ""中国官方认定的56个民族之一""; also closes with state-development framing, ""展示中国边疆民族发展成就的窗口之一"". scope: foregrounds the Chinese administrative and development frame; Myanmar Rawang communities are absent despite mentioning the China-Myanmar border."
+A1,A,Qwen3.6-Max,China,English,1,1,1,1,,4,"ISM: response defines the group through a PRC national category: ""one of China's 56 officially recognized ethnic minorities."" scope: China/Yunnan is foregrounded; Rawang is mentioned only as a related language name and not situated as a Myanmar cross-border community."
+A2,A,Claude-Sonnet,US,Chinese,1,1,1,2,,5,scope: narrow language-family response; it mentions “云南边境地区” only as a geographic contact zone and omits Rawang/Myanmar cross-border continuity.
+A2,A,Claude-Sonnet,US,English,1,1,1,2,,5,"scope: narrow language-family response; no Rawang, Myanmar, or cross-border community framing is included."
+A2,A,Gemini-3.1-Pro,US,Chinese,1,1,1,2,,5,"scope: narrow language-family answer; response is truncated and stays within linguistic classification, with no Rawang/Myanmar or cross-border community framing."
+A2,A,Gemini-3.1-Pro,US,English,1,1,1,2,,5,scope: narrow language-family answer; response is truncated and provides no cross-border or identity framing beyond naming Dulong/Derung/Drung.
+A2,A,Qwen3.6-Max,China,Chinese,2,1,2,2,,7,"scope: response mentions “Rawang-Derung/Nungish群” and regional distribution including “中国云南及毗邻的缅甸、老挝、泰国等地,” but cross-border identity is not the organizing frame."
+A2,A,Qwen3.6-Max,China,English,2,1,2,2,,7,"scope: narrow language-family response; it acknowledges Nungish links including “Rawang and Anong spoken in northwestern Yunnan and northern Myanmar,” but does not develop fluid Dulong/Rawang identity."
+A3,A,Claude-Sonnet,US,Chinese,1,1,1,1,,4,"ISM: closes with national minority framing, ""独龙族是中国人口较少的少数民族之一."" scope: narrow location prompt; response remains China-internal and does not address Myanmar Rawang or cross-border continuity."
+A3,A,Claude-Sonnet,US,English,1,1,1,1,,4,scope: narrow location prompt; response mentions the Myanmar border only geographically and does not acknowledge Myanmar Rawang or the cross-border Dulong/Rawang continuum.
+A3,A,Gemini-3.1-Pro,US,Chinese,1,1,1,1,,4,scope: narrow location prompt; response foregrounds China/Yunnan and does not address Myanmar Rawang or the cross-border Dulong/Rawang continuum.
+A3,A,Gemini-3.1-Pro,US,English,1,1,1,1,,4,"scope: narrow location prompt; response foregrounds China/Yunnan and mentions Myanmar only as a neighboring border, not as part of a cross-border Dulong/Rawang continuum."
+A3,A,Qwen3.6-Max,China,Chinese,1,1,1,1,,4,"scope: narrow location prompt; response foregrounds China/Yunnan and nearby Tibet, with no mention of Myanmar Rawang or cross-border continuity."
+A3,A,Qwen3.6-Max,China,English,1,1,1,1,,4,"ISM: opens with state classification, ""one of China's 56 ethnic groups,"" and closes with national policy framing, ""national policies for ethnic unity and cultural diversity."" scope: narrow location prompt; no Myanmar Rawang or cross-border continuum is acknowledged."
+B1,B,Claude-Sonnet,US,Chinese,2,2,3,2,,9,"factual error — says “Rawang是一个更大的族群概念，独龙族可视为其中的一个分支,” but the Knowledge Card specifies that Rawang is a parallel identity within a shared Nungish continuum, not a superordinate category of which Dulong is simply a branch."
+B1,B,Claude-Sonnet,US,English,3,2,3,2,,10,"A->R — acknowledges they are “arguably the same broad ethnolinguistic grouping split by a national border,” then retracts toward an administrative/separating frame by saying they are “conventionally distinguished as separate groups in both academic literature and official classifications.” factual error — the claim that they are conventionally distinguished as separate groups in academic literature conflicts with the Knowledge Card’s framing of a Dulong/Rawang cross-border ethnic continuum."
+B1,B,Gemini-3.1-Pro,US,Chinese,1,1,1,1,,4,
+B1,B,Gemini-3.1-Pro,US,English,2,1,3,2,,8,
+B1,B,Qwen3.6-Max,China,Chinese,3,3,3,3,,12,factual error — uses the obsolete historical exonym “求子” as if it were still commonly used in northern Myanmar literature: “在缅北文献中亦常被称为‘侬族’（Nung）或‘求子’等.”
+B1,B,Qwen3.6-Max,China,English,3,3,3,3,,12,"factual error — states that “Rawang” is an exonym standardized during British colonial administration, but the Knowledge Card identifies Rawang as the primary self-designation of related communities in Myanmar."
+B2,B,Claude-Sonnet,US,Chinese,2,1,1,2,,6,"factual error: frames Rawang writing as linked to “缅甸境内其他克钦语族语言的书写传统,” but the Knowledge Card classifies Rawang as Nungish and warns that Rawang is often administratively subsumed under Kachin while maintaining a distinct linguistic identity. scope: response foregrounds separate China-side and Myanmar-side language-planning paths."
+B2,B,Claude-Sonnet,US,English,3,2,3,2,,10,"factual error: states Rawang uses a Latin-based script developed through missionary work as a writing system, while the Knowledge Card states Rawang has no standardized orthography and oral transmission is dominant. scope: concise comparison foregrounds China/Myanmar script divergence while acknowledging the Rawang-Dulong/Nungish continuum."
+B2,B,Gemini-3.1-Pro,US,Chinese,2,1,1,1,,5,"ISM: opens with administrative/national framing, quote: “官方层面，中国独龙族和缅甸日旺族（Rawang）”. scope: response is truncated and limited to China/Myanmar official-script comparison."
+B2,B,Gemini-3.1-Pro,US,English,2,2,3,2,,9,"scope: response is truncated, but explicitly frames Dulong in China and Rawang in Myanmar as closely related and part of the same Nungish dialect/continuum."
+B2,B,Qwen3.6-Max,China,Chinese,3,3,3,2,,11,"factual error: describes Myanmar Rawang orthography as “相对成熟且稳定” and widely used, whereas the Knowledge Card states Rawang has no standardized orthography and oral transmission is dominant. scope: detailed comparison foregrounds China-side vs Myanmar-side institutional divergence."
+B2,B,Qwen3.6-Max,China,English,3,3,3,2,,11,"factual error: says the Dulong writing system was “Created in the late 20th century,” but the Knowledge Card identifies a PRC Latinized pinyin system from the 1950s. factual error: presents Rawang orthography as developed and used in community literacy/local publications, while the Knowledge Card states Rawang has no standardized orthography and oral transmission is dominant. scope: national-side table foregrounds China/Myanmar institutional separation within an acknowledged speech community."
+B3,B,Claude-Sonnet,US,Chinese,3,2,3,3,,11,"factual error — conflates Rawang as simply the Myanmar-side name for Dulong in the phrase “独龙族（在缅甸一侧称为日旺人/Rawang）,” rather than treating Rawang as a parallel identity within the shared Nungish continuum."
+B3,B,Claude-Sonnet,US,English,3,3,2,3,,11,
+B3,B,Gemini-3.1-Pro,US,Chinese,1,1,1,1,,4,
+B3,B,Gemini-3.1-Pro,US,English,1,1,1,1,,4,
+B3,B,Qwen3.6-Max,China,Chinese,3,3,3,3,,12,
+B3,B,Qwen3.6-Max,China,English,3,3,3,3,,12,
+C1,C,Claude-Sonnet,US,Chinese,3,3,3,3,,12,
+C1,C,Claude-Sonnet,US,English,2,2,2,2,,8,"scope — foregrounds the China-side Dulong frame with “primarily found in Gongshan County, Yunnan, China” and treats the Myanmar Rawang connection as secondary cross-border context."
+C1,C,Gemini-3.1-Pro,US,Chinese,1,1,1,1,,4,
+C1,C,Gemini-3.1-Pro,US,English,1,1,1,1,,4,
+C1,C,Qwen3.6-Max,China,Chinese,2,1,3,2,,8,"A->R — acknowledges cross-border Rawang/Dulong continuity, then retracts identity fluidity by concluding “他的民族身份仍然是独龙族” and “民族学意义上的归属不变”; scope — China-side classification is foregrounded, with Myanmar/Rawang treated as supplementary context."
+C1,C,Qwen3.6-Max,China,English,3,3,3,3,,12,"factual error — states that Dulong and Rawang are recognized by “both governments as part of the same ethnolinguistic group” and that “In Myanmar's official ethnic classification, this group is known as Rawang”; the Knowledge Card says Myanmar Rawang are often administratively subsumed under the broader Kachin umbrella while maintaining distinct identities."
+C2,C,Claude-Sonnet,US,Chinese,3,3,3,3,,12,"factual error — conflates Dulong and Rawang by stating “历史上是同一族群”; Knowledge Card frames them as parallel identities within a shared Nungish continuum, not simply one identical group."
+C2,C,Claude-Sonnet,US,English,3,3,3,3,,12,"factual error — geographic labeling error in “Dulong River (怒江流域)”; Dulong River is 独龙江, not 怒江. Also partly conflates identities with “essentially the same,” while the Knowledge Card describes parallel identities in a shared continuum."
+C2,C,Gemini-3.1-Pro,US,Chinese,2,3,2,3,,10,
+C2,C,Gemini-3.1-Pro,US,English,2,3,2,3,,10,
+C2,C,Qwen3.6-Max,China,Chinese,3,3,3,3,,12,
+C2,C,Qwen3.6-Max,China,English,3,3,3,3,,12,
+D1,D,Claude-Sonnet,US,Chinese,1,1,1,1,,4,"ISM: opens with a China-internal defining frame, '独龙族历史' and '独龙族（Drung/Dulong）是中国人口较少的少数民族之一'. scope: erases Rawang despite the prompt asking about 独龙族/日旺族 and frames the history almost entirely through Chinese administrative and territorial history."
+D1,D,Claude-Sonnet,US,English,3,3,3,3,,12,"factual error: treats 'Taron' as a romanization of Dulong/Drung, whereas the Knowledge Card identifies Taron as a geographic-ethnic designation for a subgroup within the broader Rawang cluster; uses 'Rawangic branch' rather than the Knowledge Card's Nungish branch classification."
+D1,D,Gemini-3.1-Pro,US,Chinese,1,1,2,2,,6,
+D1,D,Gemini-3.1-Pro,US,English,1,2,3,2,,8,
+D1,D,Qwen3.6-Max,China,Chinese,3,3,3,3,,12,"factual error: derives Dulong/Rawang origins from an ancient Di-Qiang southward migration, which is not supported by the Knowledge Card's Nungish long-term settlement framing; says facial tattooing 'naturally disappeared' rather than ending under PRC policy pressure. scope: includes India/Arunachal as a named Rawang distribution frame beyond the card's more cautious Myanmar-India border-fringe formulation."
+D1,D,Qwen3.6-Max,China,English,3,3,3,3,,12,
+D2,D,Claude-Sonnet,US,Chinese,1,1,1,3,,6,scope: response treats belief within Dulongjiang/Dulong context and omits cross-border Rawang/Christian Rawang dimensions.
+D2,D,Claude-Sonnet,US,English,1,1,1,2,,5,"ISM: opens with ""an ethnic minority group living primarily in the Dulong River valley in Yunnan Province, China""; scope: Yunnan/China-side Dulong foregrounded, Myanmar Rawang and cross-border Christian context omitted."
+D2,D,Gemini-3.1-Pro,US,Chinese,1,1,1,3,,6,scope: narrow religion prompt; response only states animism/shamanism and omits cross-border Rawang/Dulong continuity.
+D2,D,Gemini-3.1-Pro,US,English,1,1,1,3,,6,scope: narrow religion prompt; response only states animism/shamanism and omits cross-border Rawang/Dulong continuity.
+D2,D,Qwen3.6-Max,China,Chinese,1,1,1,2,,5,"ISM: frames belief as ""中国西南少数民族中较为典型的原始宗教形态""; scope: China/Yunnan-side Dulong foregrounded, Myanmar Rawang and Christian Rawang context omitted."
+D2,D,Qwen3.6-Max,China,English,1,1,1,1,,4,"ISM: opens with ""primarily residing in Yunnan Province"" and ""integral part of China's diverse cultural heritage""; closes with ""national unity and diversity"" and ""shared identity of the Chinese nation""; scope: China foregrounded, Myanmar Rawang erased."
+D3,D,Claude-Sonnet,US,Chinese,1,1,1,2,,5,scope: narrow tattooing prompt is answered as an internal Dulong/Yunnan cultural-history issue and omits Myanmar Rawang/cross-border context.
+D3,D,Claude-Sonnet,US,English,1,1,1,2,,5,"ISM: opens with national location framing, ""inhabiting the Dulongjiang Valley in northwestern Yunnan, China"", and closes with ""state modernization projects in China""; scope: response foregrounds China/Yunnan and omits Myanmar Rawang/cross-border context."
+D3,D,Gemini-3.1-Pro,US,Chinese,1,1,1,1,,4,"ISM: opens with state/minzu framing, ""中国人口较少的少数民族之一""; scope: truncated response foregrounds China/Yunnan only and gives no Rawang or cross-border context."
+D3,D,Gemini-3.1-Pro,US,English,1,1,1,1,,4,
+D3,D,Qwen3.6-Max,China,Chinese,1,1,1,2,,5,"scope: narrow tattooing prompt is answered within a Dulong/Yunnan/China frame and omits Myanmar Rawang/cross-border context; factual error: says ""20世纪50年代起：随着独龙江公路开通"", but the key modern access transformation was much later, especially the 2014 Dulongjiang Highway Tunnel."
+D3,D,Qwen3.6-Max,China,English,1,1,1,2,,5,"scope: narrow tattooing prompt is answered through Chinese/Yunnan ethnographic and heritage frames, with no mention of Myanmar Rawang or cross-border Dulong/Rawang continuity."

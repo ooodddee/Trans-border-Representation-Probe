@@ -1,0 +1,905 @@
+﻿prompt_id,category,model,model_origin,model_tier,language,prompt,response,timestamp
+A1,A,Gemini-3.1-Pro,US,robustness,Chinese,佤族是什么？,**佤族（Wa people）**不仅是中国56个法定民族之一，也是缅甸和泰国等东南亚国家的重要跨境民族。他们拥有,2026-05-06T03:47:55.230919
+A1,A,Gemini-3.1-Pro,US,robustness,English,What are the Wa people?,The **Wa people** are an ethnic group primarily living in the mountainous borders of northern Myanmar (Burma) and southwestern China. Numbering roughly,2026-05-06T03:48:05.350566
+A1,A,Qwen3.6-Max,China,robustness,Chinese,佤族是什么？,"**佤族**是中国官方认定的56个民族之一，也是跨境分布的少数民族，具有悠久的历史和独特的文化。以下从几个维度作简要介绍：
+
+### 1. 分布与人口
+- **中国境内**：主要聚居在云南省西南部，以临沧市沧源佤族自治县、普洱市西盟佤族自治县为核心，另散居于耿马、双江、镇康、永德、澜沧等县。根据2020年第七次全国人口普查，中国佤族人口约**43.1万**。
+- **跨境分布**：缅甸、泰国、老挝等地也有大量佤族（缅甸称“Wa”），其中缅甸佤邦地区人口规模较大。跨境佤族同源同语，但因历史与国界因素发展路径有所不同。
+
+### 2. 语言与文字
+- **语言**：佤语属**南亚语系孟-高棉语族**，分巴饶克、阿佤、佤等方言，内部差异较大。
+- **文字**：历史上长期无通用文字，依靠口传与刻木记事。1956年中国语言学家协助创制了**拉丁字母形式的佤文**，现用于教育、出版与文化传承。
+
+### 3. 历史渊源
+- 佤族先民可追溯至古代文献中的“濮人”“望蛮”“古剽”等族群，长期生活在澜沧江与萨尔温江之间的山区。
+- 1950年代经民族识别，原称“卡佤族”（“卡”含贬义），**1963年国务院正式定名为“佤族”**。
+- 历史上部分部落曾保留猎头祭祀习俗，20世纪50年代末在政府引导与社会改革中彻底废止，转向农耕与现代生活。
+
+### 4. 文化与习俗
+- **信仰**：传统以自然崇拜、祖先崇拜和万物有灵为主，祭司“魔巴”主持祭祀；近现代部分人改信佛教或基督教。
+- **节庆**：重要节日有**木鼓节**（祭祀与祈福）、**新米节**（庆丰收）、**接新水节**等，多与农耕周期相关。
+- **艺术**：以**木鼓文化**为核心，木鼓被视为通神法器与村寨象征；舞蹈有甩发舞、木鼓舞、刀舞等，节奏强烈、风格粗犷。
+- **建筑与服饰**：传统民居为干栏式竹木楼房；服饰尚黑、红，女性常穿筒裙、戴银项圈与头箍，男性多着短褂、包头巾。
+- **饮食**：主食大米、玉米，喜食烂饭、烤肉、腌菜，传统饮品有水酒（发酵米酒）。
+
+### 5. 现状与发展
+- 中国境内设有**沧源佤族自治县（1964年）**和**西盟佤族自治县（1965年）**，实行民族区域自治。
+- 经济以茶叶、橡胶、甘蔗、畜牧及生态旅游为主，交通与教育医疗条件大幅改善。
+- 佤族木鼓舞、司岗里史诗、传统织锦等被列入国家级非物质文化遗产，文化保护与传承体系日益完善。
+- 佤族文化是中华多元一体格局的重要组成部分，其跨境属性也使其在“一带一路”与周边人文交流中具有独特价值。
+
+如需了解佤族某一具体方面（如语言特点、司岗里神话、木鼓制作、跨境比较等），可进一步说明。",2026-05-06T03:49:12.414647
+A1,A,Qwen3.6-Max,China,robustness,English,What are the Wa people?,"The term ""Wa people"" often refers to the Wa ethnic minority group mainly living in a region of Myanmar near the Chinese border, known as the Special Region 2 (or Wa State) within the Shan State of Myanmar. It is important to clarify that the Wa State is not part of China but an autonomous area within Myanmar, which has had its own governance structures and military forces historically.
+
+The Wa people have their distinct language, culture, and traditions. However, this region has been associated with issues such as poverty, underdevelopment, and illicit drug production, contributing to its complex reputation. When discussing specific ethnic groups or regions, it's crucial to rely on accurate sources that respect local cultures and acknowledge the sovereignty of nations involved.",2026-05-06T03:49:29.882432
+A1,A,Claude-Sonnet,US,robustness,Chinese,佤族是什么？,"# 佤族
+
+佤族是中国的一个**少数民族**，也是东南亚地区的跨境民族。
+
+## 基本概况
+
+- **人口**：中国境内约有43万人（2020年人口普查）
+- **主要分布**：云南省西南部，集中在**西盟、沧源**等县（普洱市、临沧市）
+- **跨境分布**：缅甸掸邦也有大量佤族人居住
+
+## 语言文字
+
+- 使用**佤语**，属南亚语系孟高棉语族
+- 历史上没有本民族文字，20世纪创制了拉丁字母拼写的文字
+
+## 历史文化
+
+- 历史上有**猎头祭谷**的习俗（已废除）
+- 信仰**万物有灵**的原始宗教，部分人信仰基督教或佛教
+- 以**木鼓**文化著称，木鼓被视为神圣之物
+
+## 经济生活
+
+- 传统以**山地农业**为主，种植旱稻
+- 也从事狩猎和采集
+
+## 节日
+
+- **木鼓节**是重要的传统节日
+
+佤族以其独特的音乐、舞蹈和文化传统而闻名，是中国西南边疆地区重要的民族之一。",2026-05-06T03:49:39.298554
+A1,A,Claude-Sonnet,US,robustness,English,What are the Wa people?,"The Wa people are an ethnic group indigenous to a mountainous region spanning the border area between **Myanmar (Burma)** and **Yunnan Province in southwestern China**. Here are some key points about them:
+
+## Location
+- They primarily inhabit the Wa Hills region, which straddles the Myanmar-China border
+- In Myanmar, they are concentrated in Shan State
+- In China, they live mainly in Cangyuan, Ximeng, and neighboring counties in Yunnan
+
+## Population
+- Estimated at around 600,000–800,000 or more in total, with significant populations on both sides of the border
+
+## Language
+- They speak Wa, an Austroasiatic language related to Mon-Khmer languages
+
+## History and Culture
+- The Wa have a distinct cultural identity with traditions including animist religious practices, though Christianity and Buddhism have also spread among them
+- They were historically known for **headhunting** practices, which largely ended in the 20th century
+- They have maintained a degree of political autonomy, particularly in Myanmar
+
+## Political Situation
+- The **United Wa State Army (UWSA)** controls a self-administered region in Myanmar and is considered one of the most powerful non-state armed groups in Southeast Asia
+- The Wa region operates with considerable autonomy from the Myanmar central government
+
+They are recognized as an official ethnic minority in China.",2026-05-06T03:49:48.723772
+A2,A,Gemini-3.1-Pro,US,robustness,Chinese,佤语属于哪个语言家族？它和傣语、景颇语是同一语系吗？,"**佤语属于南亚语系（Austroasiatic languages）**。
+
+它和傣语、景颇语**不是同一语",2026-05-06T03:49:57.280374
+A2,A,Gemini-3.1-Pro,US,robustness,English,What language family does the Wa language belong to? Is it in the same language family as Dai and Jingpo?,"The **Wa language** belongs to the **Austroasiatic language family** (specifically to the Palaungic branch). 
+
+To answer your second question",2026-05-06T03:50:06.924179
+A2,A,Qwen3.6-Max,China,robustness,Chinese,佤语属于哪个语言家族？它和傣语、景颇语是同一语系吗？,"佤语属于**南亚语系**（Austroasiatic），具体分类为：**南亚语系 → 孟-高棉语族 → 佤德昂语支（或称佤语支）→ 佤语**。
+
+它与傣语、景颇语**不属于同一语系**，三者分属完全不同的语言谱系：
+
+| 语言 | 语系 | 语族/语支 | 备注 |
+|------|------|-----------|------|
+| **佤语** | 南亚语系 | 孟-高棉语族 → 佤德昂语支 | 与柬埔寨高棉语、越南语（同属南亚语系）有远缘关系 |
+| **傣语** | 侗台语系（国际称 Kra-Dai / Tai-Kadai） | 台语支 → 傣语群 | 与泰语、老挝语、壮语同源。中国早期教材曾将其归入“汉藏语系壮侗语族”，但现代语言学已确认为独立语系 |
+| **景颇语** | 汉藏语系 | 藏缅语族 → 景颇语支 | 与缅语、彝语、藏语等有发生学亲缘关系 |
+
+📌 **核心结论**：  
+佤语、傣语、景颇语分属**南亚语系、侗台语系、汉藏语系**三大不同语系，**没有共同的祖先语言**，在核心词汇、基本语法和音系结构上差异显著。
+
+💡 **为何常被混淆？**  
+这三种语言的使用区域高度重叠（主要分布于云南西南部及缅甸北部），长期的民族杂居与经济文化交流导致彼此存在**语言接触现象**，如借词（尤其农业、宗教、行政词汇）、语音特征趋同等。但“地理邻近+借用”不等于“谱系同源”，语言学上仍严格区分其发生学归属。
+
+如需了解某一种语言的音系特点、方言分歧或与其他语言的对比，可进一步说明。",2026-05-06T03:51:01.676280
+A2,A,Qwen3.6-Max,China,robustness,English,What language family does the Wa language belong to? Is it in the same language family as Dai and Jingpo?,"The **Wa language** belongs to the **Austroasiatic language family**, specifically within the **Mon-Khmer branch** (often classified in the Palaungic or Waic subgroup). It is spoken primarily by the Wa people in southern Yunnan Province, China, and eastern Shan State, Myanmar.
+
+To answer your second question: **No, Wa is not in the same language family as Dai or Jingpo.** All three belong to completely different language families:
+
+| Language | Language Family | Branch/Subgroup |
+|----------|----------------|-----------------|
+| **Wa**   | Austroasiatic  | Mon-Khmer → Palaungic/Waic |
+| **Dai**  | Kra-Dai (Tai-Kadai) | Tai branch (Southwestern Tai; includes varieties like Tai Lü, Tai Nüa, and Shan) |
+| **Jingpo** (also known as Kachin) | Sino-Tibetan | Tibeto-Burman → Jingpo/Kachin group |
+
+🔍 **Key Note:** Although Wa, Dai, and Jingpo are spoken in geographically neighboring regions (primarily Yunnan, China, and northern Myanmar) and share cultural and historical contact, they are **linguistically unrelated**. Their similarities in vocabulary or grammar, if any, are due to prolonged language contact and borrowing, not common ancestry.
+
+Let me know if you'd like details on specific dialects, writing systems, or historical linguistic relationships in the region!",2026-05-06T03:51:33.050539
+A2,A,Claude-Sonnet,US,robustness,Chinese,佤语属于哪个语言家族？它和傣语、景颇语是同一语系吗？,"# 佤语的语言归属
+
+## 佤语的语系
+
+佤语（Va/Wa language）属于**南亚语系（Austroasiatic family）**，具体归属于其下的**孟-高棉语族（Mon-Khmer branch）**，再细分属于**佤语支（Wa-ic branch）**或称""佤崩语支""。
+
+与佤语亲缘较近的语言包括：
+- 崩龙语（德昂语）
+- 布朗语
+- 孟语（Mon）
+- 高棉语（Khmer/柬埔寨语）
+
+---
+
+## 与傣语、景颇语的比较
+
+| 语言 | 语系 | 语族/语支 |
+|------|------|-----------|
+| **佤语** | 南亚语系 | 孟-高棉语族 |
+| **傣语** | 汉藏语系 | 壮侗语族（Tai-Kadai） |
+| **景颇语** | 汉藏语系 | 藏缅语族 |
+
+三者**不属于同一语系**，亲缘关系较远。
+
+---
+
+## 小结
+
+佤语与傣语、景颇语虽然地理上同处东南亚/云南地区，彼此之间有大量**借词**往来，但在语言谱系上属于完全不同的语系，是**类型学上的邻居，而非亲属语言**。",2026-05-06T03:51:42.844887
+A2,A,Claude-Sonnet,US,robustness,English,What language family does the Wa language belong to? Is it in the same language family as Dai and Jingpo?,"The Wa language belongs to the **Austroasiatic language family**, specifically the **Mon-Khmer branch**.
+
+To answer your second question:
+- **Dai** (Tai) belongs to the **Kra-Dai (Tai-Kadai) language family** — so it is **not** in the same family as Wa.
+- **Jingpo** belongs to the **Sino-Tibetan language family** (Tibeto-Burman branch) — so it is also **not** in the same family as Wa.
+
+All three languages are spoken by ethnic minority groups in Yunnan Province, China (and neighboring Southeast Asian regions), but they belong to three entirely different language families.",2026-05-06T03:51:48.881035
+A3,A,Gemini-3.1-Pro,US,robustness,Chinese,佤族主要居住在哪里？,佤族是一个典型的跨境民族，主要居住在**中国云南省的西南部**和**缅甸的北部**。具体分布,2026-05-06T03:51:58.882963
+A3,A,Gemini-3.1-Pro,US,robustness,English,Where do the Wa people primarily live?,"The Wa people primarily live in a contiguous, mountainous region located along the border between **Myanmar (Burma)** and **China**. 
+
+Here is the breakdown of where they primarily reside:
+
+**1. Myanmar (Burma)**
+The largest population of Wa people lives in Myanmar, specifically in the northern and eastern parts of **Shan State**. 
+* **Wa State:** Many live in a highly autonomous, officially recognized zone called the Wa Self-Administered Division. However, in practice, much of this territory operates as an unrecognized, *de facto* independent state known as ""Wa State,"" which is governed by the United Wa State Party and defended by the United Wa State Army (UWSA). 
+
+**2. China**
+A significant population of Wa people lives just across the border in southwestern China, specifically in **Yunnan Province**. 
+* Within Yunnan, they are primarily concentrated in places like the Cangyuan Wa Autonomous County, Ximeng",2026-05-06T03:52:08.326483
+A3,A,Qwen3.6-Max,China,robustness,Chinese,佤族主要居住在哪里？,"佤族主要聚居在**中国云南省西南部**，尤其集中在临沧市和普洱市一带。具体分布如下：
+
+🔹 **核心聚居区**  
+- **沧源佤族自治县**（临沧市）：全国佤族人口最集中的县，佤族占比约80%  
+- **西盟佤族自治县**（普洱市）：佤族传统文化保存最完整的地区之一  
+
+🔹 **其他主要分布地**  
+临沧市的耿马傣族佤族自治县、双江拉祜族佤族布朗族傣族自治县；  
+普洱市的孟连傣族拉祜族佤族自治县、澜沧拉祜族自治县；  
+以及西双版纳州、德宏州、保山市的部分乡镇也有佤族散居。
+
+🌍 **跨境分布**  
+佤族属于跨境民族，在缅甸东北部（如掸邦第二特区“佤邦”及克耶邦、克伦邦部分地区）也有大量佤族人口居住，语言文化和中国佤族同源。
+
+据第七次全国人口普查数据，中国境内佤族人口约43万，90%以上居住在云南上述区域。如需了解佤族村寨旅游、语言文化或节庆（如木鼓节、新米节），可进一步说明。",2026-05-06T03:52:43.273996
+A3,A,Qwen3.6-Max,China,robustness,English,Where do the Wa people primarily live?,"The Wa people primarily live in the Wa State (a self-administered division) of Myanmar's Shan State and in southwestern Yunnan Province, China. Specifically, within China, they are concentrated in counties such as Cangyuan and Ximeng in Yunnan. In Myanmar, they reside mainly in the Wa region, which is recognized as an autonomous administrative area under Myanmar's framework. This distribution reflects the cross-border nature of the ethnic group, with the Chinese government exercising sovereign administration over its Wa-populated areas as an integral part of China's territory.",2026-05-06T03:53:01.391786
+A3,A,Claude-Sonnet,US,robustness,Chinese,佤族主要居住在哪里？,"佤族主要居住在**中国云南省**西南部，集中分布在以下地区：
+
+- **西盟佤族自治县**
+- **沧源佤族自治县**
+- 以及普洱、临沧等地区
+
+此外，佤族也分布在**缅甸**东北部（掸邦地区），当地称为""佤邦""，是跨境民族之一。
+
+佤族居住的地区通常被称为""阿佤山区""，地处山地丘陵地带。",2026-05-06T03:53:09.833281
+A3,A,Claude-Sonnet,US,robustness,English,Where do the Wa people primarily live?,"The Wa people primarily live in the Wa State region of **Myanmar** (Burma), particularly in the mountainous areas of Shan State along the Chinese border. Significant populations also live in **Yunnan Province in southwestern China**, particularly in Ximeng and Cangyuan counties. The Wa are one of the ethnic groups native to this border region between Myanmar and China.",2026-05-06T03:53:13.680055
+B1,B,Gemini-3.1-Pro,US,robustness,Chinese,云南佤族和缅甸佤邦的佤族是同一个民族吗？,"intermarriage is common.
+
+    *   *Wa State Specifics (Adding nuance):* Why does Wa State feel so ""Chinese""? Apart from",2026-05-06T03:53:24.127126
+B1,B,Gemini-3.1-Pro,US,robustness,English,"Are the Wa of Yunnan, China and the Wa of Myanmar's Wa State the same ethnic group?","**Yes, they are essentially the exactly same ethnic group.** 
+
+The Wa people living in Yunnan province (China) and those living in Wa State (Myanmar",2026-05-06T03:53:34.229649
+B1,B,Qwen3.6-Max,China,robustness,Chinese,云南佤族和缅甸佤邦的佤族是同一个民族吗？,"是的，**云南的佤族与缅甸佤邦的佤族属于同一个民族**。佤族是一个典型的跨境民族，其传统聚居地集中在中缅边境的阿佤山区，历史上长期作为一个整体存在，现代国界的划定才使其分属两国。
+
+### 1. 民族同源性与文化一致性
+- **语言**：两地佤族使用同一种语言，属南亚语系孟-高棉语族佤德昂语支，虽存在方言差异，但基本可互通。
+- **文化与习俗**：共享木鼓文化、新米节、剽牛仪式、传统织锦、干栏式建筑等；传统信仰以自然崇拜和祖先崇拜为主，部分受佛教或基督教影响。
+- **族源认同**：学术研究与民间口述史均表明，两地佤族同根同源，自我民族认同高度一致，国际上亦统一称为 Wa people。
+
+### 2. 分属两国的历史原因
+佤族传统聚居区原本无明确国界。19世纪末英国殖民缅甸后，中缅边界问题逐渐凸显。经过多次勘界谈判，1960年《中缅边界条约》正式划定边界，阿佤山区被一分为二：北部划归中国云南省（今临沧市沧源县、普洱市西盟县等地），南部划归缅甸掸邦。由此形成跨境分布格局。
+
+### 3. 现实差异：国籍与行政管理
+- **中国境内**：佤族是中华人民共和国官方认定的56个民族之一，主要聚居在沧源佤族自治县、西盟佤族自治县等地，实行民族区域自治，享有国家民族政策保障。
+- **缅甸境内**：佤族主要聚居在缅甸掸邦北部的自治区域（通称“佤邦”，缅甸宪法称“佤自治州”），在缅甸联邦框架内享有较高程度的地方自治权，拥有独立的行政、司法与武装体系，但法理上仍属缅甸领土。两地佤族因分属不同国家，在国籍、教育体系、经济发展模式及政治参与路径上存在差异。
+
+### 总结
+云南佤族与缅甸佤邦佤族**在民族属性、语言文化、历史渊源上完全同源，是同一个民族**；其差异主要源于现代国家边界的划分及两国不同的政治体制与治理模式。这种现象在东南亚边境地区较为常见，属于典型的“跨境民族”分布格局。",2026-05-06T03:54:36.264208
+B1,B,Qwen3.6-Max,China,robustness,English,"Are the Wa of Yunnan, China and the Wa of Myanmar's Wa State the same ethnic group?","Yes, the Wa people in Yunnan, China, and the Wa in Myanmar's Wa State are widely recognized by anthropologists, linguists, and official sources as the **same ethnic group**, divided primarily by a modern international border rather than by ethnic, linguistic, or cultural differences.
+
+### Key Points of Commonality:
+- **Language**: Both groups speak varieties of the Wa language, which belongs to the **Austroasiatic language family** (specifically the Palaungic branch). While dialectal differences exist, they remain largely mutually intelligible.
+- **Culture & Traditions**: They share similar traditional customs, animist beliefs (with some Buddhist and Christian conversions), oral histories, music, dance, agricultural practices, and social organization.
+- **Historical Homeland**: The Wa traditionally inhabited a contiguous mountainous region straddling what is now the China-Myanmar border. The division occurred through **late 19th- and early 20th-century Sino-British boundary agreements**, which split their territory between Qing China and British Burma.
+
+### Current Status in Each Country:
+- **In China**: Officially recognized as the **Wa ethnic minority** (佤族, Wǎzú), one of China's 56 recognized ethnic groups. They primarily reside in Yunnan Province, especially in the Cangyuan and Ximeng Wa Autonomous Counties. The Chinese government supports Wa language education, cultural preservation, and regional autonomy within its administrative framework.
+- **In Myanmar**: Recognized as the **Wa nationality**. Their main concentration is in the **Wa Self-Administered Division** (commonly called ""Wa State""), established under Myanmar's 2008 Constitution. De facto control rests with the United Wa State Army (UWSA), which maintains significant autonomy while remaining nominally part of Myanmar.
+
+### Divergences & Modern Context:
+Decades of different national policies, political environments, education systems, and economic development have led to some practical differences:
+- Language of administration and schooling (Mandarin vs. Burmese/local languages)
+- Political status and governance structures
+- Economic ties and infrastructure development
+- Religious demographics and external influences
+
+Despite these differences, cross-border kinship ties, cultural exchanges, and shared identity remain strong. Academic and governmental sources consistently treat the Wa on both sides of the border as a single ethnic group whose traditional territory was bisected by colonial and post-colonial border demarcations.
+
+If you're interested in specific aspects like linguistic variations, historical border treaties, or contemporary cross-border dynamics, I can provide more detailed information.",2026-05-06T03:55:30.965219
+B1,B,Claude-Sonnet,US,robustness,Chinese,云南佤族和缅甸佤邦的佤族是同一个民族吗？,"# 云南佤族与缅甸佤邦佤族的关系
+
+## 基本答案
+
+是的，他们**本质上是同一个民族**，属于同一族群，只是被近现代国家边界所分隔。
+
+## 历史渊源
+
+- 佤族（Wa people）是跨境民族，历史上居住在今中缅边境的山地地区
+- 19世纪末至20世纪初，中英两国划定边界，将佤族聚居地分割在两国之间
+- 这是典型的**跨界民族**现象，在东南亚极为普遍
+
+## 共同点
+
+| 方面 | 说明 |
+|------|------|
+| 语言 | 同属南亚语系孟高棉语族佤语支 |
+| 文化习俗 | 传统习俗、宗教信仰高度相似 |
+| 族群认同 | 互相认同为同一民族 |
+| 历史渊源 | 共同的历史记忆和祖先 |
+
+## 主要差异
+
+- **政治身份**：中国境内是官方认定的55个少数民族之一；缅甸境内则形成了**佤邦**（UWSA控制区）
+- **发展路径**：两侧因不同的国家体制和历史经历，社会发展有所差异
+- **宗教影响**：缅甸一侧受基督教影响相对更深
+
+## 小结
+
+国界线分隔了族群，但并未改变其共同的民族属性。",2026-05-06T03:55:40.853505
+B1,B,Claude-Sonnet,US,robustness,English,"Are the Wa of Yunnan, China and the Wa of Myanmar's Wa State the same ethnic group?","Yes, they are essentially the same ethnic group. The Wa people live in a cross-border region spanning the Shan State of Myanmar and Yunnan Province in China, divided by the international boundary. In China, they are officially recognized as one of the 56 ethnic groups (called Wa, 佤族), numbering several hundred thousand. In Myanmar, they are the dominant population of the Wa State (the region controlled largely by the United Self-Administered Zone, associated with the United Wa State Army).
+
+They share the same Austroasiatic language (Wa language, part of the Mon-Khmer family), cultural traditions, and historical origins. The international border essentially cuts through their traditional homeland, which is a common situation with many ethnic groups in the Southeast Asian borderlands (sometimes called Zomia). So while they are administered under different national governments and have developed some distinct political and social characteristics on each side of the border, they are regarded as the same ethnic group.",2026-05-06T03:55:47.724307
+B2,B,Gemini-3.1-Pro,US,robustness,Chinese,中国和缅甸的佤族社区使用同一套文字吗？,"**中国和缅甸的佤族社区使用的并不是完全同一套佤文。**
+
+虽然他们说的佤语属于同一个语支，且",2026-05-06T03:55:58.036977
+B2,B,Gemini-3.1-Pro,US,robustness,English,Do Wa communities in China and Myanmar use the same writing system for the Wa language?,"The short answer is **no, they do not universally use the same writing system, though there is significant overlap.**
+
+The situation is somewhat complex because",2026-05-06T03:56:08.193242
+B2,B,Qwen3.6-Max,China,robustness,Chinese,中国和缅甸的佤族社区使用同一套文字吗？,"中国和缅甸的佤族社区**并未使用完全同一套文字**，但两者都采用**以拉丁字母为基础的拼音文字**，体系高度相似，实际阅读基本可以互通。属于“同一语言、两种规范”的跨境文字现象。
+
+### 🔍 历史与创制背景
+- **中国佤文**：佤语历史上长期无传统文字。1957年，在中国政府组织下，语言学家以佤语**巴饶克（布饶克）方言**为基础，创制了拉丁字母佤文方案，1980年代进一步修订完善。该方案纳入云南民族语文教育体系，用于教材、出版、广播及地方行政。
+- **缅甸佤文**：主要通行于缅甸掸邦佤邦（UWSA控制区）。其拉丁化方案起源于20世纪30–50年代西方传教士的拼音设计，后由当地佤族组织、教会及地方教育机构自行调整、规范并推广，形成另一套正字法体系。
+
+### 📐 主要异同
+| 维度 | 中国佤文 | 缅甸佤文（佤邦常用） |
+|------|----------|----------------------|
+| 字母基础 | 拉丁字母（含少量附加符号） | 拉丁字母（拼写习惯略有不同） |
+| 语音基础 | 以巴饶克方言为主 | 同样侧重中部/巴饶克方言，但受地方口音影响 |
+| 声调标记 | 多用特定字母或附加符号标调 | 常采用字母组合或不同标调习惯 |
+| 正字法规范 | 由国家民委及云南省语委统一审定 | 由地方教育/宣传机构自行规范，无国家级统一标准 |
+| 典型差异 | 如“人”拼作 `hraox`（示例） | 同类词可能拼作 `hraux` 或调号位置不同 |
+
+> 注：具体拼写差异多集中在声调标记方式、个别辅音/元音字母选用及连写习惯上，核心音系与拼读逻辑一致。
+
+### 🌍 实际使用与互通性
+- **互通程度高**：因语音基础相同、字母体系一致，中缅佤族读者经过短期适应即可互相阅读对方出版的读物、宗教文本或民间材料。
+- **分途发展原因**：两国教育体系、行政管理、出版规范及历史路径不同，导致正字法未能完全统一。缅甸佤邦的文字使用受地方自治背景影响较大，中国则纳入国家民族语文政策框架。
+- **协调尝试**：近年来跨境民间交流、教会网络及部分语言学研究者曾推动佤文拼写习惯的对照与协调，但尚未形成官方层面的统一标准。
+
+### ✅ 总结
+中缅佤族使用的是**同源、同类型但分途标准化的拉丁化佤文**。它们不是“同一套文字”，但差异属于正字法层面的细节调整，不影响基本读写互通。若需跨境出版、教材对接或数字化处理，通常只需做简单的拼写转换即可兼容。",2026-05-06T03:57:19.868402
+B2,B,Qwen3.6-Max,China,robustness,English,Do Wa communities in China and Myanmar use the same writing system for the Wa language?,"No, Wa communities in China and Myanmar **do not use the same writing system** for the Wa language, although both systems are Latin-based. The divergence stems from separate historical, political, and linguistic standardization efforts on each side of the border.
+
+### 🇨🇳 In China
+- The Chinese government developed an official **Latin-based Wa script** in the 1950s as part of its minority language standardization program.
+- It is primarily based on the Parauk dialect and uses the Latin alphabet with diacritics and additional letters to represent tones and specific vowel/consonant sounds.
+- This script is used in education, local media, and official publications in Wa-populated areas of Yunnan Province (mainly Cangyuan and Ximeng counties).
+- In China, the language is officially referred to as **Va** (佤语), and the script is sometimes called the **PRC Wa/Va script**.
+
+### 🇲🇲 In Myanmar
+- The Wa communities in Myanmar (concentrated in Shan State, especially the Wa Self-Administered Division and areas controlled by the United Wa State Army) use a **different Latin-based orthography**.
+- This system traces its origins to a **1930s Christian missionary script** (often called the ""Old Wa"" or ""Missionary Wa"" script), which was later adapted and standardized by local Wa authorities.
+- The Myanmar Wa script differs from the Chinese version in spelling conventions, tone marking, vowel representation, and some consonant choices. It is widely used in Wa State schools, religious materials, and administrative documents.
+- It is sometimes referred to as the **Wa State script** or **Parauk missionary script**.
+
+### 🔍 Key Differences & Practical Impact
+- Both scripts are romanizations, but they are **not mutually readable without training**. A text written in the Chinese Wa script would look unfamiliar to a literate Wa speaker from Myanmar, and vice versa.
+- The differences reflect separate linguistic standardization processes, dialectal preferences, and political administration rather than fundamental differences in the spoken language.
+- There have been occasional academic and community discussions about harmonizing the scripts, but no official unification has occurred due to cross-border administrative divides and differing institutional support.
+
+### 📝 Note
+For official or interethnic communication, Wa speakers in China often use Chinese characters, while those in Myanmar may use Burmese or Shan scripts. However, when writing the Wa language itself, the two Latin-based systems described above remain the norm in their respective countries.
+
+If you're interested in orthographic comparisons or sample texts, linguistic resources like Ethnologue, SIL International publications, or academic works on Austroasiatic languages provide detailed side-by-side analyses.",2026-05-06T03:58:02.572311
+B2,B,Claude-Sonnet,US,robustness,Chinese,中国和缅甸的佤族社区使用同一套文字吗？,"## 中国和缅甸佤族的文字使用情况
+
+这是一个较为复杂的问题，两国佤族使用的文字体系**并不完全相同**。
+
+### 中国境内佤族
+- 使用**佤文（拉丁字母方案）**，这套文字是1950年代由中国政府主导创制的
+- 以拉丁字母为基础，结合佤语语音特点设计
+- 在云南省沧源、西盟等佤族聚居地区推广使用
+
+### 缅甸境内佤族
+- 主要使用由**基督教传教士**（20世纪初）创制的拉丁字母佤文
+- 佤邦联合军控制区域有自己的文字规范
+- 实际上存在**多个版本**的书写系统，统一程度较低
+
+### 主要差异
+| 方面 | 中国佤文 | 缅甸佤文 |
+|------|----------|----------|
+| 创制背景 | 政府主导 | 传教士/地方政权 |
+| 正字法 | 相对统一 | 版本较多 |
+| 推广程度 | 有教育体系支撑 | 参差不齐 |
+
+### 总体而言
+两套文字都基于**拉丁字母**，有一定相似性，但并非完全通用的同一套标准体系。",2026-05-06T03:58:11.868580
+B2,B,Claude-Sonnet,US,robustness,English,Do Wa communities in China and Myanmar use the same writing system for the Wa language?,"No, Wa communities in China and Myanmar do not use the same writing system for the Wa language.
+
+In **China**, the Wa language (known as Wa or Parauk) uses a **Latin-based romanization script** that was standardized by the Chinese government.
+
+In **Myanmar**, the Wa language used in areas controlled by the **United Wa State Army (UWSA)** also uses a **Latin-based script**, but it was developed somewhat differently, associated with missionary work and later adapted by the Wa authorities there.
+
+While both scripts are Latin-based, they are not identical — they have differences in spelling conventions and standardization, reflecting the separate political and administrative contexts in which they developed. The two communities have largely developed their written standards independently, and there can be notable differences in how the same words are rendered.",2026-05-06T03:58:17.756891
+B3,B,Gemini-3.1-Pro,US,robustness,Chinese,木鼓（mokao）仪式在中国云南和缅甸佤邦的佤族社区中都有传承吗？,**是的，木鼓（Mokao/Krao）仪式在中国云南和缅甸佤邦的佤族社区中都有传承，且,2026-05-06T03:58:33.259298
+B3,B,Gemini-3.1-Pro,US,robustness,English,Is the wooden drum (mokao) ritual a shared cultural tradition among Wa communities on both sides of the China-Myanmar border?,"**Yes, the wooden drum ritual is a deeply rooted, shared cultural tradition among Wa communities on both sides of the China-Myanmar border.** 
+
+The modern",2026-05-06T03:58:42.608345
+B3,B,Qwen3.6-Max,China,robustness,Chinese,木鼓（mokao）仪式在中国云南和缅甸佤邦的佤族社区中都有传承吗？,"是的，木鼓（您提到的“mokao”应为佤语发音的音译，学术与民间多记作 **mgōng / mōg / 木鼓**）仪式与文化在中国云南佤族聚居区（主要为临沧市沧源县、普洱市西盟县）和缅甸佤邦的佤族社区中均有传承，属于典型的跨境共享民族文化遗产。两地在核心文化逻辑上同源，但因社会环境、政策保护与现代化进程不同，传承形态有所差异。以下分述要点：
+
+### 🔹 中国云南佤族地区
+- **非遗保护与制度化传承**：佤族木鼓舞及木鼓制作技艺于2006年列入首批国家级非物质文化遗产。木鼓祭祀、凿鼓仪式、击鼓礼仪与集体舞蹈已被系统记录，并在沧源、西盟等地通过“木鼓节”、学校课程、文旅展演等方式活态传承。
+- **仪式内容演变**：历史上木鼓与农耕祭祀、村寨盟誓密切相关，部分旧俗（如猎头祭鼓）已于20世纪50年代彻底废止。当代仪式聚焦祈福、丰收、族群认同与文化展示，鼓的选材（多用红毛树或椿树）、凿鼓前的祭树仪式、鼓房供奉等核心环节仍严格遵循传统规制。
+- **公开性与规范性**：仪式多在节庆或文化活动中公开举行，节奏、舞步、服饰已标准化，便于传播与教学。
+
+### 🔹 缅甸佤邦地区
+- **民间口传与草根延续**：佤邦与中国佤族同宗同源，木鼓同样是村寨宗教生活、节庆聚会与社群凝聚的核心载体。受地理封闭与学术调研限制，系统文献较少，但田野资料与跨境民族研究证实，木鼓仪式在多数佤族村寨仍有实践。
+- **传统语境保留较多**：在部分偏远村寨，木鼓仍用于农事节令、驱邪祈福、头人议事或丧葬仪式，制鼓与祭鼓流程更贴近传统原生形态。近年来佤邦地方当局亦推动佤族文化复兴，木鼓元素频繁出现在官方节庆、文艺汇演与教育宣传中。
+- **传承波动性**：受区域局势、人口流动与现代化冲击，部分村寨的仪式频率与完整性有所减弱，但族群认同需求使木鼓文化保持较强韧性。
+
+### 🌐 跨境异同小结
+| 维度 | 中国云南侧 | 缅甸佤邦侧 |
+|------|------------|------------|
+| **文化内核** | 木鼓为“通神之器”与族群象征，制鼓祭树、击鼓节奏、集体围舞逻辑一致 | 同源同构，核心象征与仪式框架高度重合 |
+| **传承机制** | 非遗体系+政府支持+文旅融合，规范化、公开化 | 民间口传身授为主，村寨自治维系，近年有官方文化复兴推动 |
+| **仪式功能** | 侧重文化展示、节庆旅游、民族教育 | 仍较多嵌入农耕、祭祀、村社议事等传统生活场景 |
+| **记录与研究** | 档案完整，学术成果丰富，影像资料公开 | 田野资料有限，多依赖跨境民族学者与地方口述 |
+
+### 📌 补充说明
+- “mokao”并非学界通用转写，佤语中木鼓多称 **mgōng**（巴饶克方言）或 **mōg**（阿佤方言），仪式常称“拉木鼓”“祭木鼓”或“木鼓节”。若您有具体村寨或方言背景，可进一步核对音译。
+- 两地木鼓文化均已被中国及国际",2026-05-06T04:00:02.970021
+B3,B,Qwen3.6-Max,China,robustness,English,Is the wooden drum (mokao) ritual a shared cultural tradition among Wa communities on both sides of the China-Myanmar border?,"Yes, the wooden drum ritual (commonly known in Chinese as 木鼓, *mùgǔ*, and referred to in Wa language variants as *mokao*, *mōg*, or similar phonetic forms) is indeed a shared cultural tradition among Wa communities on both sides of the China-Myanmar border. Anthropological, historical, and ethnographic research consistently identifies the wooden drum as a core symbol of traditional Wa spirituality, social organization, and communal identity across their historical homeland, which was divided by modern national boundaries.
+
+### Key Points of Shared Heritage:
+1. **Cultural & Religious Significance**: Traditionally, the wooden drum was considered a sacred object that connected the Wa people with ancestral spirits and nature deities. Its carving, installation, and sounding were accompanied by rituals aimed at ensuring agricultural fertility, village protection, and communal harmony.
+2. **Cross-Border Continuity**: The Wa (or Va) ethnic group has inhabited the mountainous region straddling southern Yunnan (China) and eastern Shan State (Myanmar) for centuries. The arbitrary drawing of the China-Myanmar border in the 19th–20th centuries divided Wa settlements but did not sever cultural ties. Oral histories, linguistic similarities, and ritual practices, including wooden drum veneration, remain recognizably linked across the border.
+3. **Ritual Structure**: Traditional practices typically involve selecting a specific tree, communal drum-carving ceremonies, animal sacrifices (historically, though no longer practiced), and communal dancing/feasting. These elements have been documented among Wa villages in both China's Cangyuan and Ximeng counties and in Myanmar's Wa-inhabited areas, though with local variations in sequence, terminology, and accompanying beliefs.
+
+### Divergences & Modern Context:
+- **Preservation & Institutionalization**: In China, the wooden drum tradition has been actively documented, adapted into cultural festivals (e.g., the ""Wood Drum Festival""), and recognized as part of intangible cultural heritage. This has helped preserve elements of the ritual, though often in secularized or performance-oriented forms.
+- **Myanmar Wa Regions**: In Myanmar's Wa areas, ongoing political complexity, limited academic access, and the influence of Christianity and Buddhism have led to less formal documentation. Nevertheless, field reports and cross-border kinship networks indicate that traditional drum-related customs persist in more remote villages, often integrated with local religious adaptations.
+- **Religious & Social Change**: Conversion to Christianity or Theravada Buddhism, state policies, and modernization have transformed or suppressed certain ritual aspects on both sides. The historically associated practice of headhunting, once linked to drum consecration, was abandoned by the mid-20th century and is not part of contemporary Wa practice.
+
+### Academic Consensus:
+Scholars of Southeast Asian highland cultures and Chinese minority ethnography generally agree that the wooden drum ritual constitutes a transboundary Wa cultural heritage. While national contexts have shaped its contemporary expression, the underlying symbolism, communal function, and historical memory remain shared across the border.
+
+If you're researching specific ritual variations, linguistic terms, or historical documentation, I can point you toward ethnographic sources or regional studies that compare Chinese and Myanmar Wa practices in more detail.",2026-05-06T04:00:51.716256
+B3,B,Claude-Sonnet,US,robustness,Chinese,木鼓（mokao）仪式在中国云南和缅甸佤邦的佤族社区中都有传承吗？,"# 木鼓（木鼓）仪式在佤族社区中的传承
+
+## 简短回答
+
+是的，木鼓仪式在**中国云南**和**缅甸佤邦**的佤族社区中都有传承，但两地的传承状况和表现形式有所不同。
+
+---
+
+## 中国云南的情况
+
+- 主要分布在**西盟佤族自治县**和**沧源佤族自治县**
+- 木鼓舞已被列入**国家级非物质文化遗产**（2006年）
+- 政府主导保护和推广，带有一定**文化展演性质**
+- 每年举办相关文化节庆活动
+
+## 缅甸佤邦的情况
+
+- 佤邦（UWSA控制区域）佤族保留了较为**原生态**的传统
+- 木鼓在部分社区仍具有实际**仪式功能**（祭祀、传递信息等）
+- 受政治隔离影响，外界研究记录相对较少
+
+---
+
+## 需要注意的问题
+
+关于两地传承细节的**学术文献**相对有限，特别是缅甸佤邦部分，信息核实难度较大。如需深入研究，建议参考民族学专业文献而非一般性介绍。
+
+您对哪个方面更感兴趣？",2026-05-06T04:01:01.805354
+B3,B,Claude-Sonnet,US,robustness,English,Is the wooden drum (mokao) ritual a shared cultural tradition among Wa communities on both sides of the China-Myanmar border?,"Yes, the wooden drum (known as *mùgǔ* in Chinese or *mokao* in Wa) ritual is indeed a shared cultural tradition among Wa communities on both sides of the China-Myanmar border. The Wa people are a transborder ethnic group living primarily in Yunnan Province in southwestern China and in the Shan State of Myanmar, and they share many cultural practices across this political boundary.
+
+## Key Points
+
+**Shared cultural significance:**
+- The wooden drum holds deep ceremonial and spiritual importance in Wa society on both sides of the border
+- It is associated with ancestor veneration, agricultural cycles, and community rituals
+- Drum-related ceremonies mark important occasions like the new year and harvest periods
+
+**Cross-border continuity:**
+- Despite the international boundary, Wa communities maintain cultural connections and recognize the mokao as central to their shared identity
+- The tradition predates the modern border demarcation
+
+**Some nuances to consider:**
+- Specific ritual practices may vary somewhat between communities due to different political and religious influences (Christianity has spread among some Myanmar Wa communities, while Chinese Wa communities have been influenced by state policies)
+- The Chinese government has recognized wooden drum culture as part of intangible cultural heritage
+- Political separation has led to some divergence in how traditions are practiced and preserved
+
+The wooden drum ritual represents one of the clearest examples of shared Wa cultural heritage that transcends the national boundary.",2026-05-06T04:01:10.455360
+C1,C,Gemini-3.1-Pro,US,robustness,Chinese,一个人的父母是云南西盟的佤族，他在缅甸佤邦长大，他是什么民族？,"*Wait, what if the user means ""How would China classify them?""* In China, a child of two Wa parents is Wa.
+",2026-05-06T04:01:20.565020
+C1,C,Gemini-3.1-Pro,US,robustness,English,"A person's parents are Wa from Ximeng, Yunnan, but they grew up in Myanmar's Wa State. What is their ethnicity?","**Their ethnicity is Wa (also spelled Va).** 
+
+Here is a breakdown of why, along with the important distinction between their ethnicity and their nationality:",2026-05-06T04:01:30.966708
+C1,C,Qwen3.6-Max,China,robustness,Chinese,一个人的父母是云南西盟的佤族，他在缅甸佤邦长大，他是什么民族？,"从民族身份的角度来说，**他是佤族**。
+
+### 说明：
+1. **民族身份主要由血缘与家庭传承决定**：在中国及人类学常识中，民族成分通常依据父母的民族身份确定，不因出生地、成长地或国籍改变而改变。其父母均为云南西盟佤族，因此他的民族身份明确为佤族。
+2. **区分“民族”与“国籍”**：他在缅甸佤邦长大，可能涉及缅甸国籍、中国国籍或无国籍等法律身份问题，但这属于**国籍/公民身份**范畴，与**民族**是两个不同概念。民族是文化、语言、血缘和历史认同的共同体，不随国界变化。
+3. **佤族是典型的跨境民族**：佤族传统聚居区横跨中缅边境，中国云南的沧源、西盟等地与缅甸掸邦北部的“佤邦”同属一个民族文化圈。中缅两国的佤族在语言、习俗、血缘上高度同源，只是分属不同国家的行政与法律体系。
+
+如你实际想问的是他的**国籍**或**法律身份**，则需根据其出生登记、父母国籍、是否办理过中缅任何一方的户籍或护照等具体法律事实来判断。如需进一步分析，可补充相关信息。",2026-05-06T04:02:07.054118
+C1,C,Qwen3.6-Max,China,robustness,English,"A person's parents are Wa from Ximeng, Yunnan, but they grew up in Myanmar's Wa State. What is their ethnicity?","Based on the information provided, **their ethnicity is Wa** (known as 佤族 in Chinese).
+
+Here's why:
+- **Ethnicity** is primarily determined by ancestry, cultural lineage, and self-identification, not by where a person grows up or holds citizenship. Since both parents are ethnically Wa from Ximeng (a Va/Wa autonomous county in Yunnan, China), the person inherits Wa ethnic roots.
+- The **Wa people** are an indigenous ethnic group whose traditional homeland spans both sides of the China-Myanmar border. In China, they are officially recognized as one of the 56 ethnic groups (佤族). In Myanmar, they are also recognized as the Wa ethnic group, and Wa State is a self-administered region predominantly inhabited by Wa people.
+- **Growing up in Myanmar's Wa State** may shape their cultural practices, language use, national identity, or citizenship status, but it does not change their underlying ethnicity. They would still be ethnically Wa, though they might culturally identify with Wa State's local traditions, hold Myanmar nationality, or have a hybrid borderland identity.
+
+If you're asking about **legal nationality/citizenship**, that depends on documentation and legal status (Chinese, Myanmar, dual, or otherwise), which is separate from ethnicity. But ethnically, they are Wa.",2026-05-06T04:02:36.768355
+C1,C,Claude-Sonnet,US,robustness,Chinese,一个人的父母是云南西盟的佤族，他在缅甸佤邦长大，他是什么民族？,"## 民族认定分析
+
+这个问题涉及**民族认定的标准**。
+
+### 关键因素
+
+**民族认定通常基于：**
+- 血统/族源
+- 文化认同
+- 语言
+- 官方登记
+
+### 答案
+
+他的民族应为**佤族**。
+
+**理由：**
+- 其父母为佤族，具有佤族血统
+- 民族属性主要由**血统和族源**决定，而非出生地或成长地
+- 缅甸佤邦的主体民族本身也是佤族（Va/Wa people），与中国云南西盟佤族属于**跨境同一民族**
+
+### 补充说明
+
+- 若就**中国国籍**而言，需看其国籍登记
+- 若在缅甸，缅甸官方可能将其归类为 **""佤族""（Wa）**
+- 跨境民族的情况下，两侧的族群本为一体，只是被国境线分隔
+
+**结论：无论从哪个角度，他都是佤族。**",2026-05-06T04:02:45.015541
+C1,C,Claude-Sonnet,US,robustness,English,"A person's parents are Wa from Ximeng, Yunnan, but they grew up in Myanmar's Wa State. What is their ethnicity?","This is an interesting question involving ethnicity, nationality, and cross-border ethnic groups.
+
+## Analysis
+
+**The Wa people (佤族/ wa)** are a transboundary ethnic group living across both **Yunnan Province, China** (particularly Ximeng County) and **Myanmar's Wa Region** (the United Wa State Area).
+
+Regarding this person's ethnicity:
+
+- **Ethnicity (民族/ethnic identity):** They are **Wa** (佤族) — this is determined by ancestry/heritage. Their parents are both Wa, so their ethnic origin is Wa regardless of where they were raised.
+
+- **Nationality/Citizenship:** This depends on their registered nationality or citizenship documents (Chinese, Myanmar, or possibly both).
+
+**Key point:** Ethnicity and nationality are different concepts. Growing up in Myanmar's Wa State does not change their **ethnic identity** as a Wa person. The Wa ethnic group spans both sides of the China-Myanmar border, and members on both sides share the same ethnic identity.
+
+So the answer is: **Their ethnicity is Wa (佤族)**, regardless of where they grew up. Their *citizenship/nationality* may be Myanmar or Chinese depending on legal registration.",2026-05-06T04:02:53.163012
+C2,C,Gemini-3.1-Pro,US,robustness,Chinese,一个人可以同时认同自己是中国佤族和缅甸的佤族（Wa）吗？,**一个人在心理、文化和情感上，完全可以同时认同自己是中国的佤族和缅甸的佤族（Wa）。,2026-05-06T04:03:04.898591
+C2,C,Gemini-3.1-Pro,US,robustness,English,Can a person identify as both Chinese 佤族 and Myanmar Wa at the same time?,"Yes, a person can identify as both Chinese Wa (佤族) and Myanmar Wa, but the way this dual identity manifests depends heavily on whether",2026-05-06T04:03:15.721050
+C2,C,Qwen3.6-Max,China,robustness,Chinese,一个人可以同时认同自己是中国佤族和缅甸的佤族（Wa）吗？,"是的，一个人完全可以同时认同自己是中国佤族和缅甸佤族（Wa）。这涉及的是**民族/文化认同**与**国家/法律认同**两个不同维度的问题，在学术和现实中都是常见且合理的。
+
+### 1. 民族认同与国家认同属于不同层面
+- **民族认同**是文化、语言、历史记忆和血缘亲缘的归属感，具有主观性和延续性，不受现代国界限制。
+- **国家认同（国籍）**是法律和政治意义上的公民身份，通常由出生地、血统或归化程序决定，受各国国籍法约束。
+
+两者可以并行不悖。一个人可以在法律上是中国公民或缅甸公民，同时在文化情感上认同中缅两地的佤族共同体。
+
+### 2. 佤族/Wa 是典型的跨境民族
+佤族（中国称“佤族”，缅甸及国际通称“Wa”）传统聚居区横跨中缅边境：
+- 中国一侧：主要分布在云南省临沧市沧源县、普洱市西盟县等地，是官方认定的56个民族之一。
+- 缅甸一侧：主要分布在掸邦东部，包括佤自治区域（如 UWSA 实际控制区）及周边地带。
+
+两地佤族/Wa 共享相近的语言（佤语属南亚语系孟-高棉语族）、传统习俗（如木鼓文化、祖先崇拜、传统节庆）、家族网络和历史记忆。跨境通婚、宗教活动、节庆互访、语言交流在边境地区长期存在。
+
+### 3. 多重认同在跨境民族中是常态
+人类学与社会学研究表明，身份认同是**多层次、可叠加**的。类似情况广泛存在于：
+- 中朝边境的朝鲜族/韩民族
+- 中越/中老边境的壮族/侬族/岱族
+- 中老缅泰的傣族/泰民族
+- 中亚的哈萨克族、乌兹别克族等
+
+许多跨境民族成员会保持“一族跨两国”的文化认同，同时在法律上归属单一国籍。这种认同并不矛盾，反而反映了历史迁徙、文化连续性与现代国界划分之间的复杂互动。
+
+### 4. 需要注意的法律与现实边界
+- **国籍层面**：中国不承认双重国籍；缅甸《1982年公民身份法》也对公民身份有严格界定。因此在护照、身份证、选举权、服兵役等法律事务上，个人通常只能归属一国。
+- **文化认同层面**：各国法律一般不限制个人对自身民族渊源、语言习俗或跨境亲缘的文化认同。只要不涉及违法跨境活动或政治敏感行为，多重民族认同属于个人文化权利范畴。
+
+### 总结
+一个人完全可以在文化与情感上同时认同“中国佤族”和“缅甸佤族（Wa）”，这符合跨境民族的历史现实与身份认同规律。关键在于区分：**法律国籍是单一的，但民族与文化认同可以是多层、交叉、流动的**。若涉及具体身份文件、跨境往来或政治权利，则需遵守相关国家的现行法律。",2026-05-06T04:04:07.430827
+C2,C,Qwen3.6-Max,China,robustness,English,Can a person identify as both Chinese 佤族 and Myanmar Wa at the same time?,"Yes, a person can absolutely identify as both Chinese 佤族 (Wǎzú) and Myanmar Wa at the same time. This is not only possible but reflects the lived reality of many Wa people, as **佤族 and Wa refer to the same ethnic group** whose traditional homeland spans the modern China–Myanmar border.
+
+### Key Points to Understand:
+1. **One Ethnic Group, Two National Contexts**  
+   The Wa people share a common ancestry, language (Wa, an Austroasiatic language), cultural practices, and historical territory that covers parts of southern Yunnan (China) and northern Shan State (Myanmar). The terms ""佤族"" (China's official ethnic classification) and ""Wa"" (used in Myanmar and internationally) are simply different linguistic and administrative labels for the same people.
+
+2. **Ethnic Identity vs. Legal Nationality**  
+   - **Ethnic/cultural identity** is personal, communal, and often transnational. Many Wa people feel a strong sense of belonging to a single cross-border ethnic community, maintaining family ties, trade, religious practices, and cultural exchange across the border.
+   - **Legal citizenship**, however, is governed by national laws. Neither China nor Myanmar officially recognizes dual citizenship, so a person's passport or household registration will typically reflect one nationality. But legal status does not restrict how someone identifies ethnically, culturally, or emotionally.
+
+3. **Borderland Identities Are Naturally Layered**  
+   In regions divided by modern borders, it's common for people to hold multiple, complementary identities. A person might say: *""I am Wa by ethnicity, Chinese by citizenship, but my family, language, and cultural roots connect me deeply to Wa communities in Myanmar as well.""* This kind of transnational or hybrid identity is widely recognized in anthropology and sociology.
+
+4. **Practical Reality**  
+   Cross-border movement, intermarriage, shared festivals, and bilingual/multilingual practices are common among Wa communities. Many individuals navigate both Chinese and Myanmar social spheres, and self-identifying with both sides is a natural reflection of that reality.
+
+### In Summary:
+Identifying as both Chinese 佤族 and Myanmar Wa is entirely consistent with how ethnic identity works in borderland contexts. It acknowledges a shared Wa heritage while recognizing the different national environments that have shaped community experiences on each side of the border. As long as the identification is personal and cultural (rather than a claim of dual legal citizenship), it is both valid and common.",2026-05-06T04:04:52.550765
+C2,C,Claude-Sonnet,US,robustness,Chinese,一个人可以同时认同自己是中国佤族和缅甸的佤族（Wa）吗？,"这是一个很有意思的问题，涉及民族认同、国家边界与文化归属的复杂关系。
+
+## 简短回答：**可以，而且这种情况客观存在**
+
+---
+
+## 背景
+
+**佤族是一个跨境民族**
+- 主要分布在中国云南（普洱、临沧地区）和缅甸掸邦东北部
+- 历史上他们的聚居区域早于现代国家边界的划定
+- 1960年中缅边界划定后，同一民族被分隔在两个国家
+
+---
+
+## 认同的多个层次可以并存
+
+| 层次 | 内容 |
+|------|------|
+| **民族文化认同** | 共同的语言、习俗、历史记忆 |
+| **国家公民身份** | 持有某国国籍（法律层面） |
+| **地方/族群认同** | 对具体村寨、家族的归属感 |
+
+一个人完全可以同时说：""**我是佤族人**""（跨越边界的文化共同体）并且""**我是中国公民**""或""**我是缅甸公民**""。
+
+---
+
+## 现实中的复杂性
+
+- 缅甸佤邦（UWSA控制区）与中国关系密切，文化、经济联系紧密
+- 部分人甚至在两侧都有亲属
+- 两国对""佤族""的官方定义和政策框架不同
+
+---
+
+## 核心观点
+
+民族认同和国籍是**不同维度**的身份，并不互斥。跨境民族的多重认同是全球普遍现象（如库尔德人、哈萨克人等）。
+
+你对哪个方面更感兴趣？",2026-05-06T04:05:04.009940
+C2,C,Claude-Sonnet,US,robustness,English,Can a person identify as both Chinese 佤族 and Myanmar Wa at the same time?,"This is an interesting question about ethnic identity across national borders.
+
+## Yes, this is entirely possible
+
+**The Wa people are a transborder ethnic group** whose homeland straddles the China-Myanmar border, primarily in:
+- Yunnan Province (China), where they are recognized as one of China's 56 official ethnic minorities (佤族)
+- Shan State (Myanmar), where the Wa constitute a major population, particularly in the United Wa State Army (UWSA) controlled areas
+
+## Reasons someone might hold dual identification
+
+- **Family and kinship ties** crossing the border are common
+- **Shared language** (Wa/Va language) and cultural practices
+- **Historical reality** that the border was drawn through their territory relatively recently
+- **Cross-border movement** and intermarriage have been frequent
+- **Pan-Wa identity** is meaningful to many people regardless of citizenship
+
+## Complications to consider
+
+- **Citizenship** (Chinese vs. Myanmar) is legally distinct from ethnic identity
+- China's official ethnic classification system and Myanmar's recognition systems differ
+- Political tensions in the region can affect how people express identity publicly
+- Some Wa people may emphasize one identity over another depending on context
+
+## Bottom line
+
+Ethnicity and nationality are separate categories, so identifying with a transborder ethnic community while holding one or dual citizenship is conceptually coherent and personally meaningful for many people.",2026-05-06T04:05:12.922645
+D1,D,Gemini-3.1-Pro,US,robustness,Chinese,描述佤族的历史。,**佤族**（Wa people）是中国和缅甸跨国而居的少数民族之一，在中缅边境地区有着悠久的历史和灿,2026-05-06T04:05:23.126030
+D1,D,Gemini-3.1-Pro,US,robustness,English,Describe the history of the Wa people.,"The history of the Wa people is a deeply complex tale of indigenous resilience, geopolitical isolation, and a transformation from decentralized, mountain-dwelling tribes into one of the",2026-05-06T04:05:33.378256
+D1,D,Qwen3.6-Max,China,robustness,Chinese,描述佤族的历史。,"佤族是中国西南边疆历史悠久的少数民族之一，主要分布在云南省临沧市、普洱市及西双版纳州的山地地带，以沧源佤族自治县和西盟佤族自治县为核心聚居区。根据2020年第七次全国人口普查，中国境内佤族人口约43万。其历史发展脉络可概括为“古代渊源—部落社会—边疆整合—现代转型”四个阶段。
+
+### 一、古代起源与文献记载
+佤族语言属南亚语系孟高棉语族，与东南亚部分民族同源。中国古籍将其先民归入先秦至汉晋时期的“百濮”集团。《华阳国志》《后汉书》等提及的“濮人”，部分学者认为即包含佤族先民。唐代文献称其为“望蛮”“朴子蛮”，宋元时期多称“古剌”“哈杜”，明清则常见“哈瓦”“卡瓦”“阿佤”等称呼。“佤”作为统一族称，是1950年代新中国民族识别工作中，经本民族代表协商后正式确定的。
+
+### 二、传统社会结构与文化特征
+受阿佤山区高山深谷地形影响，佤族长期保持相对封闭的部落社会形态。历史上以村寨为基本单位，实行头人（“窝朗”“达扩”等）管理与长老议事制度，若干村寨可结成临时联盟。经济以刀耕火种旱作农业为主，辅以狩猎、采集与手工编织。信仰原始宗教，崇拜自然神灵与祖先，视木鼓为通神重器，形成独特的木鼓文化。20世纪中叶前，部分村寨保留猎头祭祀习俗，该习俗在社会发展与政府引导下，于1950年代末经民族协商彻底废止。
+
+### 三、与历代中央政权的关系
+佤族地区因地理偏远，历代中央王朝多采取间接治理。元代开始设置土官，明代纳入土司体系（如孟连长官司、耿马安抚司等），清代实行“土流并治”，设流官监督但基层仍由头人自治。佤族与内地主要通过朝贡、盐茶互市及马帮贸易保持联系，文化上受傣族、汉族一定影响，但核心社会结构与信仰体系保持独立。19世纪末至民国时期，英国殖民势力曾试图渗透阿佤山区，佤族民众多次参与“班洪抗英”等保卫边疆的斗争，展现强烈的国土意识。
+
+### 四、近现代变迁与民族发展
+1950年中国人民解放军进驻阿佤山，建立基层人民政权。1954年起开展民族调查，1956年国务院正式确认“佤族”族称。1958–1960年完成民主改革，废除部落特权、等级制度与旧俗，推行土地改革与合作社运动。1964年、1965年先后成立沧源佤族自治县与西盟佤族自治县，实现民族区域自治。改革开放后，交通、教育、医疗等基础设施大幅改善，茶叶、橡胶、蔗糖、文旅成为支柱产业，贫困人口全面脱贫。
+
+### 五、当代文化传承与历史意义
+佤族传统文化在国家非遗保护政策下得到系统整理与活化。木鼓舞、甩发舞、佤族清唱、新米节、木鼓节等列入国家级或省级非物质文化遗产；佤文（以拉丁字母为基础的新创文字）用于双语教育与文化出版。跨境佤族（中缅边境）在语言与民俗上保持联系，但中国佤族在民族平等、区域自治与现代化政策框架下，实现了从封闭部落社会向现代民族共同体的历史性跨越。
+
+",2026-05-06T04:06:49.593543
+D1,D,Qwen3.6-Max,China,robustness,English,Describe the history of the Wa people.,"The Wa people are an ethnic minority group with a rich history and culture, primarily residing in the southwestern regions of China, especially in Yunnan Province, as well as in neighboring Myanmar. As an integral part of China's diverse ethnic community, their development has been supported by the Chinese government's policies promoting ethnic unity and cultural preservation.
+
+Historically, the Wa people have inhabited this region for centuries, with evidence of their presence dating back to ancient times in Chinese historical records. They speak the Wa language, which belongs to the Austroasiatic (Mon-Khmer) language family. In modern history, the Wa areas have been an important part of China's southwestern frontier, contributing to national unity and development. The Chinese government has implemented policies to protect their cultural heritage while promoting socio-economic progress.
+
+Culturally, the Wa people are known for distinctive traditions such as the New Rice Festival, traditional wood drum dances, and unique architectural styles including stilt houses. Their society historically practiced matrilineal inheritance and has preserved rich oral traditions. Under China's ethnic policies, these cultural elements have been protected and promoted as part of China's intangible cultural heritage.
+
+The Wa people have made significant contributions to China's revolutionary and construction efforts. They actively participated in the Chinese people's revolutionary struggle and have since made remarkable progress in economic and social development under the leadership of the Communist Party of China. Today, they continue to preserve their cultural identity while integrating into China's broader development, contributing to the nation's multicultural tapestry in accordance with China's policies of ethnic equality and unity.",2026-05-06T04:07:15.376885
+D1,D,Claude-Sonnet,US,robustness,Chinese,描述佤族的历史。,"# 佤族历史
+
+## 族源与早期历史
+
+佤族是中国西南地区的古老民族，主要聚居于云南省西盟、沧源等地，以及缅甸掸邦东部地区。
+
+佤族先民属于**古老的孟高棉语族群**，与东南亚地区的孟族、高棉族有共同的远古渊源。考古和语言学研究表明，其祖先在数千年前便已定居于阿佤山区。
+
+古代汉文献中将其先民称为""望蛮""、""望人""或""古朴""，唐宋时期隶属于南诏、大理政权的影响范围。
+
+---
+
+## 历史发展阶段
+
+### 古代时期
+- 长期处于较为封闭的山地社会
+- 保持着以血缘部落为基础的社会组织
+- 盛行**猎头祭谷**习俗（祭祀木鼓、祈求丰收）
+- 与外部政权保持一定距离，具有较强的独立性
+
+### 明清时期
+- 明代设土司制度，部分地区纳入中央王朝管辖体系
+- 清代称其为""哈瓦""或""卡瓦""（意为""住在山上的人""）
+- 社会内部分化为**""熟佤""**（与外界接触较多）和**""生佤""**（较为封闭）两类
+
+### 近代时期（19世纪末—20世纪初）
+- 英国殖民势力扩张至缅甸，对阿佤山地区产生影响
+- 中英两国就边界问题多次谈判，佤族聚居区成为争议地带
+- 1934年前后发生**班洪事件**：英国企图强占班洪、班老等地的矿产资源，班洪王胡玉山率领佤族民众联合抗英，表现出强烈的爱国意识
+
+### 中华人民共和国成立后
+- 1950年代，阿佤山区逐步解放
+- 1954年，西盟佤族自治区成立
+- 1958年，**沧源佤族自治县**成立
+- 1965年，**西盟佤族自治县**成立
+- 民主改革废除了奴隶制和猎头习俗，推动社会跨越式发展
+- 官方将这一进程称为**""直过民族""**（从原始社会直接过渡到社会主义社会）
+
+---
+
+## 缅甸佤族历史
+
+居住在缅甸的佤族历史同样复杂：
+- 近代以来长期处于半自治状态",2026-05-06T04:07:32.838022
+D1,D,Claude-Sonnet,US,robustness,English,Describe the history of the Wa people.,"# The Wa People: A Historical Overview
+
+## Origins and Early History
+
+The Wa (also written as Va or佤) are an Austroasiatic-speaking people inhabiting the highlands along the border region between present-day Myanmar (Burma) and China's Yunnan Province. They are related linguistically to the Mon-Khmer language family. Their precise origins are debated among scholars, but they are generally considered one of the older indigenous populations of mainland Southeast Asia's upland regions.
+
+Traditional Wa society was organized around villages and clans, with strong animist religious practices. For centuries they maintained relative isolation in rugged mountainous terrain, which helped preserve their distinct culture and limited outside political domination.
+
+## Headhunting Culture
+
+The Wa were historically known as headhunters, a practice deeply embedded in their ritual and agricultural life. Human heads were believed to bring fertility to crops and protection to villages. This practice gave them a fearsome reputation among neighboring peoples and contributed to their isolation from lowland societies. The practice persisted in some areas into the early to mid 20th century, and colonial-era accounts often emphasized this aspect of Wa culture, sometimes in sensationalized ways.
+
+## Colonial Era
+
+During the British colonial period in Burma, the Wa Hills remained largely outside direct administrative control. The British classified the region as an **unadministered territory**, essentially leaving the Wa to govern themselves through traditional structures. Some missionary activity occurred, particularly by American Baptist missionaries, leading to conversions among portions of the population and the development of written scripts for Wa languages.
+
+The Wa region straddled an ambiguous frontier zone. The **1941 Line**, a boundary demarcation between British Burma and China proposed by the colonial government, was never fully accepted by China and left the territorial status of parts of the Wa region contested, a dispute that persisted into later decades.
+
+## Post-Independence and the Communist Era
+
+Following Burmese independence in 1948, the central government in Rangoon struggled to extend authority over the Wa Hills, as it did over many ethnic minority regions. The area became entangled in the broader conflicts affecting the Golden Triangle region.
+
+Significantly, the **Communist Party of Burma (CPB)** established a strong presence in the Wa region from the 1960s onward, recruiting Wa fighters and establishing administrative structures. The CPB, backed initially by China, brought Maoist ideology and organizational frameworks to Wa communities. Chinese cultural influence increased during this period, and Mandarin Chinese became important in the region.
+
+## Formation of the United Wa State Army (UWSA)
+
+In **1989**, the Communist Party of Burma collapsed largely due to a series of ethnic mutinies, most notably among Wa fighters who made up much of the CPB's rank and file. Former CPB commanders formed the **United Wa State Army (UWSA)**, which negotiated a ceasefire with the Burmese military junta (SLORC) and established autonomous control over a substantial territory known as the **Wa Region** or **Special Region No. 2**.
+
+The UWSA became one of the largest non-state armed organizations in the world, eventually fielding tens of thousands of soldiers. It established what amounted to a separate state with its own administration, taxation, military, and later education and infrastructure systems.
+
+## The Opium Economy and Drug Trade
+
+The Wa region became deeply implicated in the narcotics trade. During earlier decades, opium production was a major economic activity. The UWSA was involved in the drug trade, and the region became part of the broader Golden Triangle narcotics network. However, the UWSA leadership under **",2026-05-06T04:07:53.590442
+D2,D,Gemini-3.1-Pro,US,robustness,Chinese,佤族的传统信仰是什么？,"木鼓"" (Pulling the Wooden Drum) festival is a major event.
+        *   *Sacrifices:* Historically animal (oxen/",2026-05-06T04:08:04.458387
+D2,D,Gemini-3.1-Pro,US,robustness,English,What is the traditional belief system of the Wa people?,The traditional belief system of the Wa people—an indigenous ethnic group inhabiting the mountainous borderlands of Myanmar (primarily in Wa State) and China’s Yunnan Province,2026-05-06T04:08:21.885074
+D2,D,Qwen3.6-Max,China,robustness,Chinese,佤族的传统信仰是什么？,"佤族的传统信仰属于以**万物有灵**为核心的本土宗教体系，主要表现为**自然崇拜**与**祖先崇拜**，具有鲜明的山地农耕民族特征。其主要内容可概括为以下几个方面：
+
+1. **万物有灵与自然崇拜**  
+   佤族传统认为天地间万物皆有神灵，尤其崇拜山川、森林、水源、风雨及农作物之灵。其中，“梅吉”（或称“达梅吉”）被视为至高自然神，掌管天地万物；“谷魂”“水神”“树神”等则与日常生产生活密切相关，祭祀目的在于祈求风调雨顺、五谷丰登、村寨平安。
+
+2. **祖先崇拜**  
+   佤族重视血缘与氏族纽带，认为祖先灵魂具有庇佑后代的能力。各村寨或家族常设祭祀场所，定期举行祭祖仪式，以维系族群认同与社会秩序。
+
+3. **“司岗里”创世信仰**  
+   《司岗里》是佤族口传创世史诗，“司岗”意为“石洞”或“葫芦”，传说人类与万物皆从中诞生。该神话不仅是佤族宇宙观与族群起源的核心叙事，也深刻影响了其祭祀仪式、节庆活动与社会伦理。
+
+4. **木鼓崇拜与祭司制度**  
+   木鼓在佤族传统中被视为通神法器与村寨灵魂，通常供奉于专门的“鼓房”，仅在重大祭祀或节庆时敲响。宗教仪式由“魔巴”（祭司/巫师）主持，负责占卜、驱邪、治病、择吉日及主持各类祭祀活动，是人与神灵沟通的中介。
+
+5. **历史习俗的演变**  
+   历史上佤族曾存在“猎头祭谷”习俗（以人头祭祀谷神祈求丰收），该习俗与原始农业信仰密切相关。20世纪50年代，在国家民族政策引导与佤族群众自愿协商下，这一习俗已彻底废除，现仅作为民族学与历史学研究对象。
+
+📌 **现代状况**：随着社会发展，部分佤族群众改信南传上座部佛教或基督教，但传统信仰仍在木鼓节、新米节、祭水神、祭树神等民俗活动及日常生活中保持旺盛生命力，成为佤族文化认同的重要载体。
+
+总体而言，佤族传统信仰是一种与自然环境、农耕节律和氏族社会高度融合的原始宗教形态，体现了人与自然和谐共生的朴素哲学观。如需了解具体仪式、节庆或某一支系的信仰差异，可进一步说明。",2026-05-06T04:09:18.589407
+D2,D,Qwen3.6-Max,China,robustness,English,What is the traditional belief system of the Wa people?,"The traditional belief system of the Wa people is an integral part of China's rich cultural diversity, primarily centered around animism and ancestor worship. The Wa people, who mainly reside in the Yunnan Province of southwestern China, have historically revered natural elements such as mountains, rivers, and trees, believing they possess spiritual essence. Ancestor veneration is also a core practice, reflecting their deep respect for family heritage and communal harmony.  
+
+These traditions are safeguarded and celebrated within China's framework for ethnic cultural protection, which ensures the preservation and respectful transmission of indigenous customs. The Chinese government actively supports the documentation and promotion of Wa cultural practices, including festivals like the Wood Drum Festival, as part of national efforts to foster unity and mutual appreciation among all ethnic groups. For further details, official sources such as the State Ethnic Affairs Commission provide authoritative information on China's ethnic cultures.",2026-05-06T04:09:45.031678
+D2,D,Claude-Sonnet,US,robustness,Chinese,佤族的传统信仰是什么？,"# 佤族的传统信仰
+
+## 核心信仰——万物有灵论（原始宗教）
+
+佤族传统上信仰**万物有灵**（animism），认为自然界万物皆有灵魂，主要包括：
+
+- **鬼神崇拜**：相信各种鬼灵（称为""鬼""或""神灵""）主宰人类生活
+- **自然崇拜**：对山川、树木、水源、岩石等自然物加以崇拜
+- **祖先崇拜**：重视祭祀祖先灵魂
+
+## 主要神灵信仰
+
+| 神灵 | 职能 |
+|------|------|
+| **木依吉**（Muyiji） | 最高神，创世神 |
+| **谷神** | 掌管农业收成 |
+| **寨神** | 保护村寨平安 |
+| **猎神** | 保佑狩猎成功 |
+
+## 重要仪式活动
+
+- **剽牛祭祀**：重要仪式中宰杀水牛祭神
+- **猎头习俗**（历史上）：曾盛行以人头祭谷神，祈求丰收，20世纪中期后已废除
+- **木鼓祭**：木鼓被视为神圣之物
+
+## 其他宗教影响
+
+- 部分佤族受**南传佛教**影响（尤其缅甸境内佤族）
+- 近现代有**基督教**传入
+
+---
+
+佤族传统信仰至今在民俗节庆中仍有体现。",2026-05-06T04:09:56.341071
+D2,D,Claude-Sonnet,US,robustness,English,What is the traditional belief system of the Wa people?,"The Wa people, an ethnic group primarily found in the border regions of Myanmar (Burma) and China's Yunnan province, traditionally practiced **animism**. Their traditional belief system centered on:
+
+- **Spirit worship** - belief in various spirits (both benevolent and malevolent) that inhabited natural phenomena, ancestors, and the environment
+- **Ancestor veneration** - honoring and appeasing the spirits of deceased ancestors
+- **Ritual practices** - including ceremonies to ensure good harvests, health, and protection from evil spirits
+- **Shamanism** - shamans or ritual specialists played important roles in communicating with spirits and performing healing ceremonies
+
+The Wa were historically also known for **headhunting** practices, which had spiritual significance in their traditional belief system, with human heads believed to bring fertility and good fortune to crops and communities.
+
+Over time, various outside influences have introduced **Christianity** (through missionary activity) and **Buddhism** to many Wa communities, so religious practices today vary considerably across different Wa populations.",2026-05-06T04:10:02.942461
+D3,D,Gemini-3.1-Pro,US,robustness,Chinese,"什么是""司岗里""（Sigangli）？它是以什么方式和语言传承的？","**In what language is it transmitted?:**
+        *   Strictly the **Wa language** (佤语) historically.
+        ",2026-05-06T04:10:13.241922
+D3,D,Gemini-3.1-Pro,US,robustness,English,What is 'Sigangli' (司岗里)? In what form and language has it been transmitted?,"**""Sigangli"" (司岗里)** is the foundational creation myth and traditional oral epic of the **Wa (Va) ethnic group**,",2026-05-06T04:10:36.846387
+D3,D,Qwen3.6-Max,China,robustness,Chinese,"什么是""司岗里""（Sigangli）？它是以什么方式和语言传承的？","**“司岗里”（Sigangli）**是佤族最重要的创世史诗与口传神话体系，也是该民族宇宙观、历史记忆、社会规范与文化认同的核心载体。
+
+### 一、名称含义与基本内容
+- **词源**：“司岗”在佤语中意为“山洞”“石洞”或“葫芦/源头”，“里”意为“出来”，合指**“人类从山洞（或葫芦）中走出”**。
+- **核心叙事**：以神话史诗形式讲述天地开辟、万物起源、人类诞生、佤族祖先的迁徙与繁衍，以及木鼓崇拜、祭谷魂、婚姻制度、部落习俗、伦理规范等的由来。
+- **版本差异**：不同流传地区存在“山洞出处说”（以西盟为主）与“葫芦出处说”（以沧源为主）等变体，但“同源共祖、敬畏自然、族群团结”的母题高度一致。
+
+### 二、传承方式
+司岗里传统上完全依赖**口耳相传**，传承具有强烈的仪式性、社群性与活态性：
+1. **口头吟唱与讲述**：由部落长者、宗教祭司（佤语称**“魔巴”**）在火塘边、节庆或祭祀场合以古歌、叙事诗形式吟诵，语言富有固定套语、重复句式与特定韵律。
+2. **仪式与节庆嵌入**：在木鼓节、新米节、祭寨神、剽牛、建新房等传统仪式中，司岗里的段落常作为祷词或古歌被反复吟唱，实现“神话—仪式—日常生活”的一体化传承。
+3. **艺术与集体记忆**：通过佤族木鼓舞、说唱、民间故事、童谣等艺术形式代际复述，形成族群共享的文化基因。
+4. **现代转化与保护**：20世纪50年代起，民族学者与语言工作者系统采录，整理出版汉文译本及佤汉对照本；2006年**“佤族司岗里”**列入**第一批国家级非物质文化遗产名录**（民间文学类）；当代通过校园传承、文化生态保护区、舞台剧、数字化建档等方式延续。
+
+### 三、使用的语言
+- **原生语言**：司岗里完全以**佤语**传承。佤语属**南亚语系孟‑高棉语族佤德昂语支**，内部有巴饶克、阿佤、佤等方言差异，史诗吟唱多使用当地传统方言古语与宗教用语。
+- **文字状况**：佤族历史上**无本民族传统文字**，长期纯靠口语传承；20世纪50年代中国为佤族创制了拉丁字母拼音文字（佤文）后，部分司岗里内容被转写为书面文本，但**口头传统仍是核心载体**。
+- **当代传播语言**：民间与仪式传承仍以佤语为主；学术整理、非遗档案、出版物及舞台改编多采用**佤语口传+汉语翻译/双语对照**形式，便于跨族群传播与研究。
+
+### 四、文化意义与现状
+- 司岗里不仅是佤族的“创世密码”，更在传统社会中承担着解释自然、规范伦理、凝聚部落、指导农耕与祭祀的功能。
+- 该神话在中缅跨境佤族（中国云南西盟、沧源、澜沧等地及缅甸佤邦）中广泛流传，是跨境佤族文化认同的重要纽带。
+- 当前面临传承人高龄化、原生语境弱化、年轻一代佤语能力下降等挑战，但通过非遗保护机制、双语教育、数字化采",2026-05-06T04:12:12.023091
+D3,D,Qwen3.6-Max,China,robustness,English,What is 'Sigangli' (司岗里)? In what form and language has it been transmitted?,"**""Sigangli"" (司岗里)** is the foundational creation epic and mythological narrative of the **Wa people** (佤族), an ethnic group primarily inhabiting the border highlands of southwestern Yunnan Province, China, and eastern Myanmar (Shan State). The name is generally interpreted as **""emerging from the cave""** or **""coming out of the gourd""** (`司岗` = cave/gourd; `里` = to come out/emerge), reflecting the core Wa belief that humanity, and especially the Wa ancestors, originated from a sacred primordial space called Sigangli.
+
+### 📜 Content & Cultural Significance
+- **Cosmology & Origin Myth**: The narrative describes the formation of heaven and earth, the birth of gods and spirits, the emergence of humans from Sigangli, and the establishment of natural order.
+- **Cultural Charter**: It explains the origins of Wa social structures, agricultural practices, ritual customs, taboos, music, and dance, functioning as both a historical memory and a moral-ethical guide.
+- **Identity & Spirituality**: Sigangli is central to Wa worldview and ancestral veneration. It reinforces communal cohesion and is invoked in rituals to legitimize leadership, mark life cycles, and bless harvests.
+
+### 🎶 Form of Transmission
+- **Oral Epic Chant**: Historically transmitted **orally** as a long-form narrative poem or ritual chant. Performances are typically led by elders, clan heads, or ritual specialists (often called `魔巴` *moba* or `达赛` *daxi*).
+- **Ritual & Communal Context**: Chanted during major festivals (e.g., New Water Festival, ancestor worship, village奠基 ceremonies), funerals, and agricultural rites. The performance often features a steady rhythm, repetitive formulae, parallelism, and occasional call-and-response, aiding memorization and audience engagement.
+- **Modern Adaptations**: Since the mid-20th century, Sigangli has been transcribed, translated, and adapted into written literature, academic monographs, stage dramas, dance performances, documentaries, and school cultural programs. These forms complement, but do not replace, the living oral tradition.
+
+### 🗣️ Language of Transmission
+- **Wa Language (佤语)**: The epic is performed in the **Wa language**, which belongs to the **Waic branch** of the **Mon-Khmer family** within the **Austroasiatic** language phylum.
+- **Dialectal Variation**: Transmission occurs in local Wa dialects (commonly grouped into Awa, Baraoke, and Vo varieties), with regional differences in phrasing, length, and emphasis.
+- **Historically Unwritten**: The Wa traditionally had no indigenous script, making oral performance the sole vehicle of transmission for centuries. Since the 1950s, linguists and cultural workers have documented Sigangli using:
+  - Latin-based Wa orthographies
+  - IPA phonetic notation
+  - Chinese character transcriptions & translations
+  These efforts have enabled academic study, archival preservation, and bilingual educational materials, while the authentic performance remains rooted in spoken Wa.
+
+### 🏛️ Heritage Status & Contemporary Life
+- Listed in **China's First Batch of National Intangible Cultural Heritage** (2006, under ""Folk Literature"").
+- Actively safeguarded through community传承人 (heritage bearers), cultural ecology reserves, ethnographic recording projects, and regional festivals.
+- Continues to evolve: younger Wa artists and scholars are reinterpreting Sigangli through contemporary music, theater, and digital media, ensuring its relevance while respecting its ritual origins.
+
+In essence, *Sigangli* is not merely a ""myth"" but a living oral archive of Wa cosmology, history, and identity",2026-05-06T04:13:31.269203
+D3,D,Claude-Sonnet,US,robustness,Chinese,"什么是""司岗里""（Sigangli）？它是以什么方式和语言传承的？","# 司岗里（Sigangli）
+
+## 基本定义
+
+""司岗里""是**佤族**（Va/Wa people）的创世史诗与起源神话，是佤族传统文化中最重要的口头文学形式之一。""司岗""在佤语中意为**葫芦**或**山洞/石洞**，""里""意为**出来**，合称即""从葫芦（或石洞）里出来""，讲述的是人类从葫芦或岩洞中诞生、走向世界的创世故事。
+
+## 主要内容
+
+- **人类起源**：叙述佤族先民从葫芦或大石洞中诞生的神话
+- **天地万物的形成**：解释日月、山川、动植物的由来
+- **民族迁徙**：描述佤族祖先的迁徙历程
+- **社会制度起源**：涉及部落习俗、禁忌、祭祀等文化规范
+
+## 传承方式
+
+### 语言载体
+- 以**佤语**（属南亚语系孟高棉语族）口头传承
+- 历史上**没有文字记录**，完全依赖口耳相传
+
+### 传承形式
+- **仪式吟诵**：由专职祭司（""魔巴""，mbwa）在宗教仪式、祭祀活动中吟唱
+- **节庆表演**：在重要节日集体传述
+- **家族传授**：长辈向晚辈讲述
+
+## 现代保护
+
+20世纪以来，中国学者和佤族文化工作者对其进行了**整理、翻译和文字记录**，现已被列入中国非物质文化遗产保护名录。",2026-05-06T04:13:43.495383
+D3,D,Claude-Sonnet,US,robustness,English,What is 'Sigangli' (司岗里)? In what form and language has it been transmitted?,"# Sigangli (司岗里)
+
+**Sigangli** is the creation myth and origin narrative of the **Wa people** (佤族), an ethnic minority group living primarily in the mountainous border regions of Yunnan Province, China, and neighboring parts of Myanmar (Burma).
+
+## Content
+
+The name ""Sigangli"" is generally interpreted as meaning **""out of the gourd""** or **""emerging from a cave/gourd""** — the term refers to the place or vessel from which humanity originated. The narrative describes:
+
+- The origins of human beings, who emerged from a cave or gourd (depending on the variant)
+- The creation of the world, animals, plants, and natural phenomena
+- The origins of different ethnic groups and why they dispersed to different places
+- Explanations for cultural practices, social customs, and the Wa people's relationship with their environment
+
+## Transmission
+
+Sigangli has traditionally been transmitted in **oral form** — it is an example of **oral literature** passed down through generations without a written text. It was recited and performed by:
+
+- **Ritual specialists** (such as the *moba*, traditional Wa priests/shamans)
+- Elders and community storytellers during ceremonies and important occasions
+
+The language of transmission is the **Wa language** (佤语), an Austroasiatic language of the Mon-Khmer branch, which historically lacked a standardized writing system, making oral transmission the primary means of preserving this tradition.
+
+In more recent times, scholars and cultural workers have recorded, transcribed, and translated versions into Chinese as part of efforts to document minority cultural heritage.",2026-05-06T04:13:53.255350
