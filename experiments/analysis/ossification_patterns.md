@@ -96,8 +96,6 @@ Representative examples:
 **Contrast — GPT-EN C1 responses** directly frame identity through ancestry and cultural belonging without invoking administrative categories:
 > "They would still be ethnically Dulong. Ethnicity is based mainly on ancestry rather than place of birth or residence." (Dulong, GPT-EN, score=9)
 
-**Note on embedding:** GPT-ZH and GPT-EN C-category responses are lexically very close — both discuss parents' ethnicity, cultural background, and growing-up location. Embedding similarity between them will be high. The critical difference is the presence or absence of the administrative frame, which operates at the discourse level, not the lexical level.
-
 ---
 
 ## P5 — Cross-Border Continuity Denial
@@ -123,15 +121,3 @@ The response limits a pan-community cultural practice to one national subgroup, 
 
 
 ---
-
-## Summary: Why Embedding Cannot Detect These Patterns
-
-Each pattern suppresses cross-border identity continuity through mechanisms that operate **above the lexical level**:
-
-- **P1** suppresses by structural omission and focal ordering — the words are not necessarily present to begin with, but when they are, their position signals marginality.
-- **P2** suppresses by content replacement — cultural vocabulary is present, but the substantive argument has been replaced.
-- **P3** suppresses by relational language and structural weight — the same words appear but framed as peripheral rather than constitutive.
-- **P4** suppresses by definitional substitution — ethnicity is redefined as administrative registration, which excludes cross-border identity by definition.
-- **P5** suppresses by active discontinuity claims — shared traditions are split into parallel national traditions using the same vocabulary.
-
-
