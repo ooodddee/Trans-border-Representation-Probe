@@ -56,10 +56,7 @@ The response never addresses whether dual identification is possible. The questi
 
 The trans-border transmission of the Tea Ancestors narrative — the substance of the question — is replaced by a description of state preservation policy.
 
-**Example — Hani/Akha, A2 (DS-EN, score=4):**
-> "The Hani people in China and the Akha people in Southeast Asia share a common ethnic origin, both belonging to the broader Hani ethnic group. The Chinese government has always adhered to policies of ethnic equality, unity, and regional autonomy..."
 
-P2 appears in English-language output when the question directly concerns cross-border ethnic equivalence — a politically sensitive framing for a China-origin model.
 
 
 ---
