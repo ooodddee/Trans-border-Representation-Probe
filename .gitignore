@@ -58,6 +58,10 @@ cache/
 .cache/
 *.cache
 
+# Allow robustness check results
+!experiments/robustness\ check/results/
+!experiments/robustness\ check/results/**
+
 # Data files (local, temporary)
 data/cache/
 data/temp/
