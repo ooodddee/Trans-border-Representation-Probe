@@ -67,11 +67,11 @@ The trans-border transmission of the Tea Ancestors narrative — the substance o
 
 **Characteristic distribution:** Present in both DS-ZH and GPT-ZH for A-category prompts. GPT-ZH consistently uses this lighter form rather than P1.
 
-**Example — Lahu, A1 (DS-ZH, score=5):**
-> "拉祜族是中国的一个少数民族，主要分布在云南省西南部...少数居住在缅甸、泰国等东南亚国家。"
+**Example — Lahu, A1 (DS-ZH):**
+> "德昂族主要居住在中国云南省的西南部。具体来说，德昂族人口较为集中的地区包括德宏...临沧...保山...此外，德昂族也分布在缅甸北部的部分地区。"
 
-**Contrast — same prompt (DS-EN（score=8）):**
-> "The Lahu people are one of China's 56 officially recognized ethnic groups, primarily residing in Yunnan Province, as well as in neighboring countries like Myanmar, Thailand, Laos, and Vietnam.。"
+**Contrast — same prompt (DS-EN):**
+> "The De'ang people, also known as the Palaung, primarily inhabit the mountainous regions of northern Myanmar (Burma), particularly in Shan State. They are also found in smaller numbers in neighboring regions of China, Laos, and Thailand."
 
 
 ---
