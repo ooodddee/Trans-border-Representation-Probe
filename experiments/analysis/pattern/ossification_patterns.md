@@ -67,7 +67,7 @@ The trans-border transmission of the Tea Ancestors narrative — the substance o
 
 **Characteristic distribution:** Present in both DS-ZH and GPT-ZH for A-category prompts. GPT-ZH consistently uses this lighter form rather than P1.
 
-**Example — Lahu, A1 (DS-ZH):**
+**Example — De'ang, A3 (DS-ZH):**
 > "德昂族主要居住在中国云南省的西南部。具体来说，德昂族人口较为集中的地区包括德宏...临沧...保山...此外，德昂族也分布在缅甸北部的部分地区。"
 
 **Contrast — same prompt (DS-EN):**
