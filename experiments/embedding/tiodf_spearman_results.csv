@@ -1,0 +1,5 @@
+pairing,r,p,n
+DS divergence  vs  DS-ZH score,-0.5833333333333334,0.09918581647988323,9
+DS divergence  vs  DS-EN score,-0.7166666666666667,0.029818035695845287,9
+GPT divergence vs  GPT-ZH score,-0.5,0.17047066078705375,9
+GPT divergence vs  GPT-EN score,-0.75,0.019942126131992522,9
