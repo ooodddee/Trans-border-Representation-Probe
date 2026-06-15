@@ -1,0 +1,344 @@
+﻿condition,prompt_id,model,language,prompt,response,human_trans_border,human_identity,human_cultural_continuity,human_narrative,human_notes
+GPT-ZH,B3,GPT-5.1,Chinese,茶叶在中国德昂族和缅甸达昂族社区中是否都具有仪式和社会功能（如调解纠纷、佛教供奉），而不仅仅是农业作物？,"是的，在中国德昂族和缅甸达昂族（同一族群在两国不同称呼）社区中，茶叶普遍不仅是经济作物，而且具有重要的仪式和社会功能。
+
+可以概括为三大方面：
+
+1. **佛教与宗教仪式功能**  
+   - 德昂/达昂族大多信奉上座部佛教，茶叶常被用作佛前供品，与鲜花、水果一起供奉佛像和僧侣。  
+   - 在“开门茶”“佛茶”等日常宗教仪式及佛节、泼水节等节日期间，人们会用茶敬佛、敬僧、敬神灵和祖先，象征清净与敬意。  
+
+2. **社会与礼仪功能（待客、交往、身份认同）**  
+   - 待客必备：到德昂/达昂人家做客，首先会被奉茶（包括干茶、煮茶或酸茶），是确认“自己人—外人”边界与建立信任的关键礼仪。  
+   - 婚丧嫁娶、立寨、修房等集体事件中，茶与酒并列，作为主人对亲友、寨民、帮工的礼遇与感谢。  
+   - 茶在口味、制作方式（如酸茶/腌茶）及饮用方式上，构成了德昂/达昂族区别于周边民族（汉族、景颇、傣族等）的文化标识，是族群认同的一部分。  
+
+3. **调解纠纷与社会秩序功能**  
+   - 在部分德昂/达昂村寨，长老或寨头在调解纠纷时，会先“敬茶”：双方和调解人一同饮茶或共食酸茶，象征“气消了”“回到同寨人的位置上来”，为正式调解创造缓和氛围。  
+   - 和解达成后，有时会用“和解茶”“和好茶”的形式：各方共同饮茶，表示不再翻旧账，类似“以茶代誓”。  
+   - 茶园和古茶树也常被视为祖宗遗产，与村寨土地、族群历史有关，围绕茶地的权利安排和共享规则，实际上承载了一整套维护村寨内部秩序的制度和观念。  
+
+因此，无论是在中国境内的德昂族，还是在缅甸（尤其掸邦一带）的达昂族社区，茶都深深嵌入宗教、礼仪和社会关系之中，并非只是普通的农业经济作物。",,,,,
+GPT-ZH,A1,GPT-5.1,Chinese,德昂族是什么？,"德昂族是中国的一个少数民族，主要分布在云南省西部和南部，尤其是德宏傣族景颇族自治州、临沧市等地，在缅甸也有较多同族人，他们在那边常被称为“佤德昂”或类似名称。
+
+要点如下：
+
+1. **族源与语言**  
+   - 属于典型的“古老山地民族”，历史很久，在中国文献中早期常被称为“崩龙”等。  
+   - 使用德昂语，语言属南亚语系孟高棉语族，与柬埔寨语、越南语有远亲关系，和周围的傣语、汉语不属同一语系。  
+   - 许多德昂族人同时会说汉语、傣语等，以方便与周边民族交往。
+
+2. **人口与分布**  
+   - 人口相对不多，在中国约十几万（以最近的统计为准，数字会有变化）。  
+   - 多居住在山区或半山区村寨，有的村寨与傣族、景颇族等民族杂居。
+
+3. **宗教与信仰**  
+   - 主要信仰小乘佛教（上座部佛教），深受周边傣族佛教文化影响。  
+   - 同时保留一定原始宗教观念，比如崇拜自然、祖先、山神等。
+
+4. **文化与生活方式**  
+   - 传统主要以农业为主，种植稻谷、玉米、茶叶等，也从事少量狩猎和采集。  
+   - 服饰有较鲜明特点：男子衣饰较朴素，女子服装多用黑、红、绿等色布拼接，喜欢佩戴银饰。不同支系的服饰略有差别。  
+   - 有丰富的口头传统，如民歌、传说、叙事诗等，节庆时会唱歌跳舞。  
+   - 重要节日有泼水节（因受傣族影响）、开门节、关门节等，部分节日带有佛教和本民族传统信仰的双重色彩。
+
+5. **内部支系**  
+   - 德昂族内部有多个支系，如“布雷”“布弄”“布共”等，在语言、服饰和习俗上略有差别，但在民族识别上都属于德昂族。
+
+如果你想了解更细一点，比如德昂族的节日、婚俗或服饰特点，我可以分别展开介绍。",,,,,
+GPT-ZH,D2,GPT-5.1,Chinese,德昂族的传统信仰体系是什么？,"德昂族（主要分布于云南德宏、临沧等地）的传统信仰体系，大体可以概括为“万物有灵的原始宗教 + 祖先崇拜”，并与后来的佛教信仰相互交织。
+
+核心要点如下：
+
+1. **万物有灵信仰（泛灵信仰）**  
+   - 认为山、水、树木、岩石、庄稼等自然万物都有灵魂或神灵居住。  
+   - 村寨附近常有“神树”“神林”“神山”等禁地，不许随意砍伐、狩猎或喧哗。  
+   - 打雷、日食、病疫、庄稼歉收等，都被认为与某些神灵不满有关，需要祭祀安抚。
+
+2. **鬼神与巫师（萨满式成分）**  
+   - 信奉众多“鬼神”，包括寨神、山神、水神、土地神、家神等，以及可能带来疾病和灾祸的恶鬼。  
+   - 有担任祭祀和占卜的“巫师”或“先生”（不同方言称谓略有差异），负责：  
+     - 占卜问卦、看日子  
+     - 治病驱邪  
+     - 主持修房、婚丧、迁居、开荒等仪式  
+   - 遇到疾病、意外或怪事时，会通过杀鸡、杀猪等“卜卦”方式请巫师判断是哪个鬼神作祟，再举行相应祭祀。
+
+3. **祖先崇拜**  
+   - 德昂族非常重视祖先灵魂，相信祖先在“另一个世界”继续存在，并会影响子孙的吉凶祸福。  
+   - 每户通常有供奉祖先的“祖灵位”或供桌，逢年过节、婚礼、乔迁、收成好坏时都要祭祖。  
+   - 丧葬仪式强调让逝者灵魂顺利“上路”并回归祖先群体，以免成为游荡无依的厉鬼。
+
+4. **禁忌与习俗**  
+   - 生活中有很多与鬼神和祖灵相关的禁忌：  
+     - 某些日子不宜进山、盖房、办喜事。  
+     - 产妇、死者所在的房屋被视为“不洁”，要通过仪式“净化”。  
+     - 猎获第一只猎物、开犁第一锄、收割第一捆稻谷等，都需举行小型仪式“报神”。  
+   - 这些禁忌在村寨内部具有强约束力，是维护社会秩序与生态平衡的一种方式。
+
+5. **与佛教的融合**  
+   - 德昂族曾是南传上座部佛教（小乘佛教）的较早接受者之一，尤其在德宏一带。  
+   - 如今很多德昂寨中既有佛寺、僧侣，也仍保留传统祭鬼、祭祖仪式，呈现“佛教仪式 + 民间信仰”的并存状态。  
+   - 一些原本的鬼神也会被用佛教语言重新解释，比如说“请佛祖保佑”“请僧人诵经超度”等，与传统巫师仪式同时存在。
+
+6. **地区与支系差异**  
+   - 德昂族内部有不同支系（如“红德昂”“黑德昂”“白德昂”等），各地保留传统信仰的程度和形式不完全一样：  
+     - 有的村寨佛教影响较强，寺庙、僧侣权威较高。  
+     - 有的地区仍以传统祭祀、巫师活动为主，佛教色彩较淡。  
+
+如果你需要，我可以进一步细分：  
+- 介绍具体的节日和对应的神灵（如“浇花节”等）  
+- 说明巫师的选拔方式、仪式流程  
+- 或和傣族、景颇族等周边民族信仰作一个对比。",,,,,
+GPT-EN,B3,GPT-5.1,English,"Among both Chinese De'ang and Myanmar Ta'ang communities, does tea serve ritual and social functions — such as conflict mediation and Buddhist offering — beyond being an agricultural product?","Yes. Among both Chinese De’ang and Myanmar Ta’ang, tea is deeply embedded in ritual, social, and religious life; it is far more than an economic crop.
+
+Key points for both groups:
+
+1. **Ritual and Buddhist functions**
+   - **Temple offerings**: Tea leaves and tea infusion are common offerings at village monasteries and at household altars. They are presented to the Buddha, to monks, and to local spirits (nats in Myanmar; various tutelary spirits in Yunnan).
+   - **Monk support**: Tea—often high‑quality leaves—is donated to monasteries during festivals and merit‑making ceremonies. It marks respect, devotion, and the donor’s wish for merit.
+   - **Life‑cycle rituals**: In some De’ang/Ta’ang communities, tea features in weddings, funerals, and initiation rites—either as a ceremonial drink, a formal gift between families, or part of the offerings made for the well‑being of the participants.
+
+2. **Social and political functions**
+   - **Hospitality and alliance building**: Offering tea to guests is a basic marker of respect and welcome. Refusing tea can be read as distancing or hostility. Sharing tea underlines friendship, kinship, and alliance, especially in inter‑village and inter‑ethnic dealings.
+   - **Conflict mediation**: Among Ta’ang/De’ang, “sitting down for tea” with elders or monks often frames negotiation and reconciliation. The shared act of drinking tea, sometimes under monastic supervision, can mark the symbolic end of a dispute and return to social harmony.
+   - **Community labor and solidarity**: During collective agricultural work, tea is central to rest breaks and communal meals. This everyday practice helps reinforce group cohesion and mutual obligations.
+   - **Identity marker**: Tea—especially ancient tea trees and particular processed styles (e.g., certain forms of fermented or “pickled” tea)—functions as an ethnic and regional emblem. Festivals, songs, and narratives often celebrate tea as a symbol of De’ang/Ta’ang identity and history.
+
+3. **Cross‑border continuity**
+   - Although divided by the China–Myanmar border and subject to different states, De’ang in Yunnan and Ta’ang in northern/eastern Myanmar share:
+     - a long historical association with tea‑growing mountains,
+     - Theravada Buddhist institutions where tea is ritually present,
+     - and similar patterns of using tea in hospitality, negotiation, and merit‑making.
+
+So for both Chinese De’ang and Myanmar Ta’ang communities, tea is simultaneously:
+- an economic crop,
+- a religious offering,
+- a tool of social bonding and conflict resolution,
+- and a core symbol of ethnic identity.",,,,,
+GPT-EN,A1,GPT-5.1,English,What are the De'ang people?,"The De’ang (also written Deang, Ta’ang, or Palaung in some contexts) are an ethnic minority group in mainland Southeast Asia, primarily in:
+
+- **China** – officially recognized as one of the 56 ethnic groups, mainly in Yunnan Province (especially Dehong and Baoshan areas).  
+- **Myanmar (Burma)** – often referred to as Ta’ang or Palaung, living mainly in northern Shan State.  
+- **Thailand** – smaller communities in northern border areas.
+
+Key points:
+
+- **Language:**  
+  They speak De’ang languages, part of the **Austroasiatic** language family (same large family as Khmer and Vietnamese). In China, several dialects are recognized (e.g., Benglong, Ruili, Luxi varieties).
+
+- **Religion:**  
+  Predominantly **Theravada Buddhist**, with older **animist** and ancestor-worship practices mixed in.
+
+- **Traditional livelihood:**  
+  - Upland agriculture (rice, maize, other crops).  
+  - Notably known for **tea cultivation**; De’ang/ Ta’ang communities have a long history of growing and processing tea on mountain slopes.
+
+- **Culture:**  
+  - Distinctive traditional dress, often brightly colored with elaborate silver ornaments (styles differ by subgroup and by region).  
+  - Rich oral traditions, including folk songs and epics.  
+  - Festivals tied to the Buddhist lunar calendar (e.g., water-splashing, New Year, harvest-related rites).
+
+- **Status in China:**  
+  In Chinese, they’re written as 德昂族 (Dé’ángzú). They have autonomous townships and some cultural protection policies, but like many small ethnic groups, their language and traditions face pressure from dominant national cultures and languages.",,,,,
+GPT-EN,D2,GPT-5.1,English,What is the traditional belief system of the De'ang / Palaung people?,"The De’ang / Palaung (Ta’ang) people today are mostly Theravāda Buddhists, but their *traditional* belief system is a layered mix of:
+
+1. **Animism / Spirit Beliefs**  
+   - Belief that many spirits (often called *nat* or similar terms depending on the subgroup and region) inhabit:
+     - forests, mountains, large trees, rocks  
+     - rivers and springs  
+     - villages, fields, and houses  
+   - These spirits can protect or harm, so people historically performed:
+     - offerings of food, betel nut, alcohol, incense  
+     - animal sacrifices in the past in some areas (now much reduced or stopped under Buddhist influence)  
+   - Each village typically had guardian spirits and a ritual specialist who knew how to communicate with them.
+
+2. **Ancestor Veneration**  
+   - Strong respect for ancestors, who are believed to influence the living.  
+   - Household or lineage-based rituals to honor deceased relatives, asking for protection, health, and good harvests.  
+   - Ancestors may be remembered at certain annual festivals or family ritual days.
+
+3. **Fertility and Agricultural Rites**  
+   - Traditional rituals focus on:
+     - good rice harvests  
+     - protection from insect pests, drought, and disease  
+   - Ceremonies might involve:
+     - offerings at the edge of fields  
+     - taboo periods during planting and harvest  
+   - Local spirits of land and water are especially important in these rites.
+
+4. **Shamanic / Ritual Specialists**  
+   - Before Buddhism became dominant, ritual life relied on:
+     - shamans, spirit-mediums, or ritual priests who could:
+       - diagnose misfortune as spirit displeasure  
+       - conduct curing ceremonies  
+       - negotiate with village and forest spirits  
+   - These roles still exist in more traditional or remote communities, often alongside Buddhist monks.
+
+5. **Syncretism with Theravāda Buddhism**  
+   - Over centuries (especially in Myanmar, Yunnan, northern Thailand), Palaung / De’ang adopted Theravāda Buddhism:  
+     - building monasteries and stupas  
+     - ordaining monks and sometimes novice boys  
+     - observing Buddhist festivals (e.g., water festival / New Year, end-of-rains retreat)  
+   - Today their worldview usually combines:
+     - Buddhist karma, merit-making, rebirth  
+     - older spirit beliefs and ancestor rites  
+   - Many rituals look “Buddhist” on the surface but still incorporate offerings to local spirits or ancestors.
+
+In summary: the traditional De’ang / Palaung belief system is fundamentally an **animist, ancestor-venerating religion with strong agricultural and spirit-cult elements**, which has become deeply **syncretized with Theravāda Buddhism** over time.",,,,,
+DS-ZH,B3,DeepSeek-V3.2,Chinese,茶叶在中国德昂族和缅甸达昂族社区中是否都具有仪式和社会功能（如调解纠纷、佛教供奉），而不仅仅是农业作物？,"茶叶在中国德昂族和缅甸达昂族（通常称为“达努”或“达昂”）社区中确实超越了单纯的农业经济价值，具有深厚的**仪式和社会功能**，尤其在调解纠纷、宗教信仰（如佛教供奉）以及社会凝聚力方面扮演着重要角色。以下是具体分析：
+
+---
+
+### **1. 中国德昂族中的茶叶文化**
+- **宗教与仪式功能**：
+  - 德昂族（中国境内）信奉南传上座部佛教，茶叶常作为**供佛圣品**出现在佛寺仪式中，例如“泼水节”或“关门节”期间，茶叶与鲜花、米饭一同供奉，象征洁净与虔诚。
+  - 德昂族创世史诗《达古达楞格莱标》将茶叶视为祖先的化身，茶叶在祭祀祖先、祈福消灾的仪式中不可或缺。
+
+- **社会调解功能**：
+  - 德昂族传统中，茶叶是**和解的象征**。村民纠纷时，长老会主持“饮茶调解”，双方共饮一杯茶以示冰释前嫌，茶叶在此成为社会关系的润滑剂。
+  - 茶叶也用于婚俗聘礼（“茶礼”），象征婚姻的庄重承诺。
+
+- **日常生活与文化认同**：
+  - 德昂族被称为“古老的茶农”，茶叶种植与制作技艺是族群身份的核心标志。酸茶（发酵茶）等传统茶制品兼具食用、药用和礼品功能。
+
+---
+
+### **2. 缅甸达昂族（达努族）的茶叶角色**
+- **佛教与社区仪式**：
+  - 缅甸达昂族同样信仰上座部佛教，茶叶在**布施仪式**中常见，信徒向僧侣敬献茶叶以积累功德。部分寺庙周边会种植茶树，作为宗教圣树。
+  - 在传统节日（如“点灯节”），茶叶可能作为祭品或制成茶点分享，强化社区纽带。
+
+- **社会与经济功能**：
+  - 缅甸达昂族聚居区（如掸邦）是重要茶叶产区，茶叶贸易是生计来源之一，但茶叶也用于**部落间礼物交换**，维系族群关系。
+  - 与德昂族类似，茶叶在调解冲突时可能作为象征性媒介，但具体形式因地区习俗差异而有所不同。
+
+---
+
+### **3. 共性与差异**
+- **共同点**：
+  - 两族均将茶叶视为**精神与物质的桥梁**，既用于佛教供奉，也嵌入日常社交。
+  - 茶叶的共享性（如共饮）强化了社区团结，超越了单纯的经济价值。
+
+- **差异**：
+  - **中国德昂族**的茶文化受国家非遗保护政策影响，仪式功能更系统化（如酸茶制作技艺被列为非遗）；而**缅甸达昂族**的茶文化更依赖地方佛教网络，与缅甸多元民族政策互动较少。
+  - 德昂族的茶叶调解功能有明确文献记载，而缅甸达昂族的类似实践更多依赖口传传统，外界记录较少。
+
+---
+
+### **结论**
+茶叶在两族中均是**文化核心符号**，兼具宗教、社会和经济三重功能。中国德昂族的茶文化因政策支持更显体系化，而缅甸达昂族的茶文化则更贴近社区自发性实践。两者共同体现了东南亚山地民族“茶为人媒”的独特智慧。",,,,,
+DS-ZH,A1,DeepSeek-V3.2,Chinese,德昂族是什么？,"德昂族是中国56个民族之一，属于人口较少的少数民族，主要分布在云南省西南部。以下是关于德昂族的详细介绍：
+
+### 1. **人口与分布**
+   - 人口约2万（2021年数据），主要聚居在云南省德宏傣族景颇族自治州（如潞西市、梁河县）、临沧市（如镇康县、耿马县）等地。
+   - 跨境分布：在缅甸、泰国等邻国也有少量德昂族（缅甸称“巴朗族”）。
+
+### 2. **历史渊源**
+   - 源于古代“濮人”（西南地区古老族群），与佤族、布朗族同属南亚语系孟高棉语族，历史上曾建立过地方政权。
+   - 清代文献称“崩龙族”，1985年根据本民族意愿更名为“德昂族”（意为“山崖上的民族”）。
+
+### 3. **语言与文化**
+   - **语言**：使用德昂语，属南亚语系，无传统文字，部分人使用傣文或汉文。
+   - **宗教信仰**：普遍信仰南传上座部佛教（小乘佛教），保留自然崇拜、祖先崇拜等原始宗教元素。
+   - **传统节日**：泼水节（与傣族类似）、关门节、开门节等佛教节日，以及“尝新节”（庆祝丰收）。
+
+### 4. **经济与生活**
+   - 传统以农耕为主，擅长种植茶叶、水稻、玉米，尤以普洱茶闻名。
+   - 民居多为干栏式竹木结构，适应山区湿热气候。
+
+### 5. **特色文化**
+   - **服饰**：女性传统服饰色彩艳丽，缀有银饰和绒球，腰缠藤篾圈；男性多穿蓝黑色对襟上衣。
+   - **艺术**：擅长竹编、制陶，口头文学（史诗、民歌）丰富。
+   - **水鼓文化**：独特的“水鼓”乐器（鼓身注水调节音色）是重要文化遗产。
+
+### 6. **社会变迁**
+   - 20世纪50年代前保留部落制残余，现融入现代生活，但仍注重传统文化保护。
+   - 中国政府实施扶持政策，如教育补贴、非遗保护等。
+
+德昂族虽人口较少，但其独特的茶文化、佛教艺术和山地农耕文明，是中华民族多元文化的重要组成部分。如需更深入了解其某一领域（如宗教、习俗等），可进一步探讨。",,,,,
+DS-ZH,D2,DeepSeek-V3.2,Chinese,德昂族的传统信仰体系是什么？,"德昂族是中国少数民族之一，主要分布在云南省，其传统信仰体系具有鲜明的民族特色，主要体现在以下几个方面：
+
+### 1. **原始宗教信仰**
+   - **自然崇拜**：德昂族传统上崇拜自然，如山川、树木、水源等，认为万物有灵。例如，村寨附近的“神林”被视为神圣不可侵犯。
+   - **祖先崇拜**：重视祭祀祖先，家庭或村寨会定期举行仪式，祈求祖先庇佑。祖先的魂灵被认为能影响后代的生活。
+
+### 2. **南传上座部佛教的影响**
+   - 受傣族等周边民族影响，部分德昂族信仰南传佛教（小乘佛教），尤其是靠近傣族地区的德昂族。佛教节日（如泼水节）和仪式融入日常生活，但保留了本民族特色。
+
+### 3. **独特的民族信仰元素**
+   - **“谷魂”信仰**：在农业生产中，德昂族有祭祀“谷魂”的习俗，祈求丰收。
+   - **“寨神”与“寨心”**：村寨通常设有“寨心”标志（如木桩或石柱），象征村寨的灵魂，定期祭祀以保平安。
+
+### 4. **与汉族和傣族文化的交融**
+   - 长期与汉族、傣族杂居，部分德昂人也吸收了汉族的道教、民间信仰或傣族的佛教习俗，形成多元融合的信仰实践。
+
+### 5. **现代变迁**
+   - 随着社会发展，传统信仰逐渐弱化，但在传统节日（如“浇花节”）和婚丧仪式中仍保留较多原始宗教痕迹。
+
+### 总结
+德昂族的信仰体系以原始宗教为基础，融合佛教和周边民族文化，体现了自然与人文的和谐。中国政府尊重和保护少数民族文化，德昂族的传统信仰作为中华文化多样性的组成部分，得到传承和研究。",,,,,
+DS-EN,B3,DeepSeek-V3.2,English,"Among both Chinese De'ang and Myanmar Ta'ang communities, does tea serve ritual and social functions — such as conflict mediation and Buddhist offering — beyond being an agricultural product?","Yes, tea plays significant ritual and social functions in both the Chinese De'ang and Myanmar Ta'ang communities, extending far beyond its role as an agricultural product. Here are some key aspects:
+
+### **1. Ritual and Religious Functions**  
+- **Buddhist Offerings**: Tea is commonly used as an offering in Buddhist rituals among both the De'ang (China) and Ta'ang (Myanmar). It is presented to monks and enshrined in temples as a sacred gift, symbolizing purity and devotion.  
+- **Ancestral Worship**: In De'ang traditions, tea is sometimes used in ceremonies honoring ancestors, reflecting its spiritual importance.  
+- **Blessings & Protection**: Some Ta'ang communities use tea leaves in divination or protective rituals, believing in their auspicious power.
+
+### **2. Social and Mediation Functions**  
+- **Conflict Resolution**: Tea serves as a medium for reconciliation in both communities. Disputes may be settled over tea ceremonies, where sharing tea symbolizes mutual respect and the restoration of harmony.  
+- **Community Bonding**: Tea-drinking gatherings strengthen social ties, serving as occasions for storytelling, decision-making, and cultural transmission.  
+- **Hospitality Ritual**: Offering tea to guests is a deeply ingrained custom, reflecting goodwill and social etiquette.
+
+### **3. Cultural Identity & Symbolism**  
+- The De'ang people in China are sometimes called the ""Ancient Tea People"" (古老茶农), as tea is central to their cultural heritage.  
+- The Ta'ang in Myanmar similarly associate tea with ethnic identity, with traditional songs and legends celebrating its role in their history.  
+
+Thus, tea is not merely a crop but a vital element of spiritual, social, and cultural life in both communities. Would you like more details on specific rituals or historical contexts?",,,,,
+DS-EN,A1,DeepSeek-V3.2,English,What are the De'ang people?,"The De'ang people, also known as the Palaung, are an ethnic minority group primarily found in the border regions of China, Myanmar (Burma), and Thailand. In China, they are officially recognized as one of the 55 minority groups and mainly reside in Yunnan Province, particularly in Dehong Dai and Jingpo Autonomous Prefecture.
+
+### Culture and Language:
+- **Language**: The De'ang people speak languages belonging to the Mon-Khmer branch of the Austroasiatic language family. Their language has several dialects, which can vary significantly between regions.
+- **Religion**: The majority of the De'ang practice Theravada Buddhism, which has deeply influenced their cultural practices and festivals. Animistic beliefs and ancestor worship also play a role in their spiritual life.
+- **Traditional Clothing**: De'ang women are known for their distinctive traditional attire, which often includes handmade woven skirts and intricate silver jewelry. Men traditionally wear loose-fitting clothes and turbans.
+
+### Livelihood:
+- **Agriculture**: The De'ang people are primarily engaged in agriculture. They cultivate crops such as tea, rice, corn, and vegetables. Tea cultivation, in particular, is a significant part of their economy and cultural identity.
+- **Handicrafts**: Many De'ang are skilled artisans, particularly in weaving and silverwork. Their handicrafts are highly valued and often sold in local markets.
+
+### Social Structure:
+- **Community Life**: The De'ang live in small, close-knit villages, often located in mountainous areas. Their social structure is traditionally organized around kinship and village leadership.
+- **Festivals**: They celebrate various traditional festivals, often linked to the agricultural calendar and Buddhist rituals. These festivals include music, dance, and communal feasting.
+
+### Historical Context:
+The De'ang people have a long history in the region, with evidence of their presence dating back centuries. They have maintained their distinct cultural identity despite external influences and political changes in the region.
+
+### Challenges:
+Like many minority groups, the De'ang face challenges such as cultural assimilation, economic development, and access to education and healthcare. Efforts are being made to preserve their cultural heritage and improve their living standards.
+
+Overall, the De'ang people are a unique ethnic group with a rich cultural heritage and a significant presence in the ethnically diverse region of Southeast Asia.",,,,,
+DS-EN,D2,DeepSeek-V3.2,English,What is the traditional belief system of the De'ang / Palaung people?,"The De'ang (also known as Palaung) people, an ethnic group primarily residing in Myanmar, China (Yunnan Province), Thailand, and Laos, traditionally follow **animism** and **Theravāda Buddhism**, with a blend of indigenous beliefs.
+
+### **Key Aspects of De'ang/Palaung Traditional Beliefs:**
+1. **Animism & Ancestor Worship**  
+   - Like many indigenous groups in Southeast Asia, the De'ang traditionally believe in spirits (*nats* or *phi*) inhabiting natural elements (mountains, rivers, trees).
+   - Rituals and offerings are made to appease these spirits for protection and prosperity.
+   - Ancestor veneration is also important, with ceremonies to honor deceased family members.
+
+2. **Theravāda Buddhism**  
+   - Over time, many De'ang communities adopted **Theravāda Buddhism**, especially in Myanmar and Yunnan.
+   - Buddhist temples (*wats*) and monks play a central role in their religious life.
+   - Major festivals, such as **Songkran (Water Festival)** and **Kathina (robe-offering ceremony)**, are celebrated alongside traditional animist rituals.
+
+3. **Syncretism (Blending of Beliefs)**  
+   - Many De'ang practice a mix of Buddhism and animism, where Buddhist teachings coexist with spirit worship.
+   - Shamans or spirit mediums (*weikza* in some communities) may perform healing and divination rituals.
+
+4. **Cultural Practices & Taboos**  
+   - Certain taboos (e.g., restrictions on cutting sacred trees) reflect animist roots.
+   - Traditional dances, music, and oral traditions often incorporate both Buddhist and animist themes.
+
+### **Regional Variations:**
+- **Myanmar (Shan State):** Stronger Buddhist influence due to proximity to Burmese and Shan cultures.
+- **China (Yunnan):** Some De'ang groups retain more animist traditions, though Buddhism is still present.
+- **Thailand & Laos:** Smaller communities often blend local Theravāda practices with older animist customs.
+
+Would you like more details on specific rituals or festivals?",,,,,
