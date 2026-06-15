@@ -1,5 +1,8 @@
-﻿condition,prompt_id,model,language,prompt,response,human_trans_border,human_identity,human_cultural_continuity,human_narrative,human_notes
-GPT-ZH,B3,GPT-5.1,Chinese,傈僳族的阔时节（新年）只在中国庆祝吗？,"不是只在中国，但主要集中在中国境内。
+﻿condition,prompt_id,category,model,language,prompt,response,human_trans_border,human_identity,human_cultural_continuity,human_narrative,human_notes
+GPT-ZH,A2,A,GPT-5.1,Chinese,傈僳文（老傈僳文/Fraser字母）是谁发明的？,"傈僳文（通常指老傈僳文/Fraser 字母）是由苏格兰传教士 **James O. Fraser（詹姆斯·奥利弗·弗雷泽）** 在 1910 年代开始创制、在 1930 年代基本定型的。
+
+他在中国西南（主要是云南、缅北一带）从事传教与语言研究工作时，为方便傈僳族学习阅读、翻译《圣经》和开展教育，基于拉丁字母和一些特殊符号设计了这一套拼音文字体系，因此也被称为 “Fraser alphabet（弗雷泽字母）”。",,,,,
+GPT-ZH,B3,B,GPT-5.1,Chinese,傈僳族的阔时节（新年）只在中国庆祝吗？,"不是只在中国，但主要集中在中国境内。
 
 - **主体人群在中国**：傈僳族是中国的少数民族，主要分布在云南、怒江流域、丽江、迪庆等地，阔时节（也写作“阔时节”“阔什节”，相当于傈僳族新年）是他们最重要的传统节日之一，自然在中国境内最隆重、最普遍。
 
@@ -8,206 +11,336 @@ GPT-ZH,B3,GPT-5.1,Chinese,傈僳族的阔时节（新年）只在中国庆祝吗
 - **国际认知度**：阔时节目前主要是傈僳族内部和中国少数民族文化研究领域比较熟悉的节日，在国际公众层面知名度不高，很少被当作“国际性节日”来庆祝。
 
 总结：阔时节的核心庆祝活动集中在中国傈僳族聚居区，但境外的傈僳族群体也会在当地过他们自己的“傈僳新年”或类似传统节日。",,,,,
-GPT-ZH,A1,GPT-5.1,Chinese,傈僳族是什么？,"傈僳族是中国的一个少数民族，主要分布在云南、四川、广西以及与中国接壤的缅甸、泰国等地。要点如下：
+GPT-ZH,C1,C,GPT-5.1,Chinese,一个人的父母是云南怒江的傈僳族，但他他在泰国北部长大，他是什么民族？,"按中国的民族划分标准来看，如果他的父母都是来自云南怒江的傈僳族，那么他的民族成分就是“傈僳族”，不因为他在泰国长大而改变。
 
-1. **人口与分布**  
-   - 中国境内傈僳族人口约几十万（以云南省为主）。  
-   - 主要聚居在怒江流域、澜沧江流域等高山峡谷地区。
+需要区分两件事：  
+1. **民族（血统/法律上的民族成分）**：跟父母的民族有关。在中国，如果父母都是傈僳族，子女一般登记为傈僳族。  
+2. **国籍和文化背景**：  
+   - 如果他拥有泰国国籍，那他的国籍是“泰国人”，但民族仍可以说是“傈僳族”。  
+   - 生活环境、语言、文化习惯可能更接近泰国北部当地社会，但不改变其血缘意义上的“傈僳族”身份。  
 
-2. **语言**  
-   - 使用傈僳语，属汉藏语系藏缅语族。  
-   - 有拉丁字母形式的傈僳文字，在宗教传播和教育中使用较多。
+所以：  
+- 从民族血统/中国民族概念说：他是傈僳族。  
+- 从国籍说：要看他持有的是中国国籍还是泰国国籍；若是泰国国籍，可称“泰国籍的傈僳族”。",,,,,
+GPT-ZH,D1,D,GPT-5.1,Chinese,描述傈僳族的历史。,"傈僳族的历史大致可以从三个层面来理解：族源与早期起源、迁徙与聚居过程、近代以来的社会变迁。下面按时间顺序简要梳理。
 
-3. **宗教信仰**  
-   - 传统上有原始宗教和多神崇拜，如崇拜山神、木神等。  
-   - 近现代有相当一部分人信仰基督教，尤其在怒江地区比较典型。
+---
 
-4. **生产与生活方式**  
-   - 传统以刀耕火种、种植玉米、荞麦、稻谷等为主，也有狩猎、采集习俗。  
-   - 居住多为木楼吊脚楼，依山就势而建。
+## 一、族源与早期起源
 
-5. **服饰与文化**  
-   - 服饰以黑、蓝为主色，女子常穿绣花上衣、百褶长裙，佩戴银饰。  
-   - 歌舞文化丰富，喜欢对山歌，多声部合唱很有特色。  
-   - 传统节日如“阔时节”（年节、丰收节性质），有歌舞、射箭、赛歌等活动。
+1. **族源关系**
+   - 傈僳族属汉藏语系藏缅语族，是中国西南古代“氐羌—氐僚—僰濮”等族群系统中的一支，与彝族、景颇族、怒族等有较近的亲缘关系。
+   - 传统观点认为其先民大致源自青藏高原东缘、岷山—横断山区一带的古代氐羌系部族，之后向南迁徙。
 
-6. **法律与地位**  
-   - 属于中华人民共和国官方认定的56个民族之一，享有民族区域自治等相关权利与政策扶持。
+2. **文献中的早期记载**
+   - 汉唐时期，傈僳族先民的名称不固定，散见为“氐”、“僚”、“僰”、“濮”、“獠”等大族名中，难以与今天的傈僳族一一对应。
+   - 宋元时，史料开始较清晰地提到金沙江、怒江流域的山地部族，但多以地名或部落名称出现，如“乌蛮”“白蛮”等，仍是多族混称。
+   - “傈僳”这一族称在明清时期逐渐稳定出现，汉文多写作“栗粟”“栗僳”“栗苏”等。
 
-如果你对傈僳族的某一方面（比如节日、服饰、宗教或历史）感兴趣，可以告诉我，我可以细讲那一部分。",,,,,
-GPT-ZH,D2,GPT-5.1,Chinese,傈僳族信仰什么宗教？,"傈僳族的宗教信仰比较多元，主要有：
+---
 
-1. **传统原始宗教（万物有灵信仰）**  
-   - 最早、最普遍的信仰形式。  
-   - 崇拜自然神灵，如山神、水神、树神、祖先灵等。  
-   - 有祭祀、占卜、“喊山”、祭祖等传统仪式。
+## 二、迁徙与聚居的形成
 
-2. **基督教**  
-   - 在傈僳族中影响非常大，尤其是云南怒江、隆阳、维西等地。  
-   - 19–20世纪传教士进入怒江地区后，很多傈僳族人受洗，形成较大的基督教群体（以新教为主，也有天主教）。  
-   - 目前许多傈僳族村寨有教堂，节日期间会聚会、唱圣歌等。
+1. **大致迁徙路线**
+   - 早期活动中心被认为在今川西南、滇东北一带高山峡谷地区。
+   - 随着人口发展、部族战争和统治者迁徙政策影响，一部分先民逐渐沿金沙江—怒江—澜沧江等河谷向南移动。
+   - 最终在如今的云南西北部（怒江、迪庆、保山、丽江一带）、四川西南部以及缅甸北部、泰国北部山区形成较稳定聚居。
 
-3. **佛教（尤其是上座部佛教/南传佛教）**  
-   - 主要是在与缅甸、泰国接壤或交往较多的边境地区受到影响。  
-   - 部分傈僳族人会去佛寺做功德、礼佛。
+2. **明代：土司体系下的傈僳族**
+   - 明朝在西南推行“改土归流”前，以**土司制度**管理少数民族地区。
+   - 傈僳族多隶属于较大彝族、白族或纳西族土司管辖，如丽江木氏土司、永北、兰坪等地土司。傈僳社会仍保持较强的部落自治色彩。
+   - 这一时期，傈僳族已经大量分布在怒江、金沙江沿岸高山峡谷中，从事刀耕火种、狩猎、采集和少量畜牧、手工业。
 
-总体来说：  
-- 傈僳族的传统宗教信仰与基督教影响最大；  
-- 不同地区、不同家族的信仰可能不一样，有的仍以传统祭祀为主，有的则以基督教为主，也有少量佛教徒。",,,,,
-GPT-EN,B3,GPT-5.1,English,Is the Lisu Kuoshi Festival (New Year) only celebrated in China?,"No.  
+3. **清代：迁徙加速与社会分化**
+   - 清代继续利用、调整土司制度，并逐步加强对边疆的控制，促使一些山民部落不断向更偏远山地退居或扩展。
+   - 怒江—澜沧江地区的傈僳族人口增加，分化出不同方言和支系，例如怒江傈僳、澜沧江傈僳、金沙江傈僳等。
+   - 一部分傈僳族逐渐向今缅甸克钦邦、掸邦北部山区迁移，形成跨境分布的格局。后来又有少数支系继续南迁至今泰国北部山区。
+   - 社会内部存在氏族、部落组织和以寨为基础的村社结构，一些地方仍保留较强的血缘组织和习惯法。
 
-The Lisu Kuoshi Festival (the Lisu New Year) is *centered* in China, but it’s also celebrated by Lisu communities in neighboring countries:
+---
 
-- **China** – Mainly in Yunnan (Nujiang, Baoshan, Lijiang, Dehong, etc.) and parts of Sichuan; this is where it has the most formal recognition and large public events.
-- **Myanmar (Burma)** – Lisu living in Kachin and northern Shan States observe Kuoshi with similar customs (music, dancing, animal sacrifice or offerings, communal feasts), often on the same dates or close to the Chinese Lisu.
-- **Thailand** – Lisu in northern provinces such as Chiang Mai and Chiang Rai hold New Year/Kuoshi-like festivals with traditional clothing, dances, and ancestor offerings. The name “Kuoshi” may or may not be used explicitly, but it is the same Lisu New Year tradition.
-- **India** – Smaller Lisu communities in Arunachal Pradesh and nearby areas also mark Lisu New Year, though on a smaller, more localized scale.
+## 三、宗教与文化发展的关键节点
 
-So, the Kuoshi Festival is *not* exclusive to China; it’s a transborder Lisu cultural festival shared across the countries where Lisu people live.",,,,,
-GPT-EN,A1,GPT-5.1,English,What are the Lisu people?,"The Lisu are an ethnic group native to the mountainous regions of mainland Southeast Asia and southwest China.
+1. **传统宗教与世界观**
+   - 傈僳族传统上信奉自然崇拜与万物有灵，相信山神、水神、谷神、猎神等，巫师（如“尼期”等）在寨中具有重要地位。
+   - 有比较发达的口头文学：神话、史诗、创世传说、迁徙故事、歌舞（如“拦路歌”“阿尺目刮”“木刮舞”等）承载了大量历史记忆。
 
-Key points:
+2. **基督教传入**
+   - 19世纪末至20世纪上半叶，英、美等国传教士沿缅甸、云南通道进入怒江、金沙江地区，在傈僳族中传播新教。
+   - 传教士借用罗马字母为傈僳语设计拼音文字（如著名的“傈僳新字”，与后来的国家方案有所差异），翻译《圣经》、赞美诗和启蒙读本。
+   - 基督教在怒江等地影响很大，形成了有名的“傈僳基督徒群体”，礼拜堂、合唱传统成为地方文化的重要组成部分。宗教信仰也深刻改变了部分傈僳族地区的生活方式和社会观念。
 
-- **Location:**  
-  - Primarily in **Yunnan and Sichuan** provinces in China (where they are officially recognized as one of China’s 56 ethnic groups).  
-  - Also found in **Myanmar (Burma)**, **Thailand**, and **northern Laos**.  
-  - Many live in remote, highland areas of the Himalaya foothills and along the Salween (Nu) River.
+---
 
-- **Language:**  
-  - They speak the **Lisu language**, part of the **Tibeto-Burman** branch of the Sino-Tibetan language family.  
-  - There are multiple writing systems; one influential script was devised by missionaries (the Fraser alphabet) using Roman letters and special symbols.
+## 四、近现代社会变迁
 
-- **Population:**  
-  - Rough estimate: **1–1.5 million** people in total (largest numbers in China and Myanmar).
+1. **晚清与民国时期**
+   - 中央政权对怒江、大雪山等高寒山区控制力有限，地方多为土司、地方武装和宗教势力交织。
+   - 民国政府在此设县置政，但实际影响有限，交通仍极端不便，社会生产力低，封建残余与原始习俗并存，如债役、包办婚姻、巫术裁判、对妇女的不平等待遇等。
+   - 抗日战争时期，滇缅公路、驼峰航线等战略通道经过云南西部，部分傈僳族地区受到战事和军用交通影响，但深山内部变化仍有限。
 
-- **Culture and livelihood:**  
-  - Traditionally **swidden (slash‑and‑burn) farmers**, growing crops like maize, rice, and buckwheat; also hunting and gathering.  
-  - Known for **colorful, decorated clothing**, especially women’s bright tunics, leggings, and headdresses.  
-  - Music and dance are important in festivals and social life.
+2. **新中国成立与民族识别**
+   - 1949年后，中央政权在怒江、迪庆、丽江等地建立正式行政机构，逐步废除土司制度。
+   - 1950年代开展全国民族识别工作，结合语言、历史、文化等因素，将相关族群统一确认为“傈僳族”，成为中华人民共和国正式承认的55个少数民族之一。
+   - 1954年成立**怒江傈僳族自治州**（原名怒江傈僳族自治州，后定名为“怒江傈僳族自治州”），标志着傈僳族区域自治框架的确立。
 
-- **Religion and beliefs:**  
-  - Historically **animist** and shamanistic, with belief in spirits of nature and ancestors.  
-  - Today many are a mix of **traditional beliefs, Buddhism, and Christianity**, depending on region (Christianity is particularly significant among some Lisu in China and Myanmar due to mission activity in the 20th century).
+3. **社会制度与经济生产的变革**
+   - 土地改革逐步推进，废除土司剥削、地主地租、高利贷债役等制度，传统部落首领的政治力量被削弱。
+   - 推动从刀耕火种向定点梯田、经济作物种植和林业、畜牧业等多种经营转变。
+   - 交通设施（吊桥、公路、后来的怒江大桥与隧道）、学校、诊所兴建，使得原先“人背马驮、隔山如隔世”的状况逐渐改变。
 
-- **Status:**  
-  - In China, they have official minority status, with some cultural preservation and autonomy policies.  
-  - In other countries they’re often categorized among “hill tribes” or upland minorities, sometimes with limited access to services and land rights.
+4. **文化与教育发展**
+   - 国家组织语言文字学者与当地知识分子，制定了以拉丁字母为基础的傈僳语拼音文字方案（与早期教会文字有所不同），用于扫盲与基础教育。
+   - 普及义务教育，许多傈僳青年进入中学、大专乃至大学就读。
+   - 非物质文化遗产保护不断推进，如傈僳族传统歌舞、节日（“阔时节”等岁时节日）、民歌、口头史诗、刺绣、编织、木刻乐器等都进入保护名录，部分成为文化旅游资源。
 
-If you tell me what aspect you’re most interested in—history, language, religion, or current social issues—I can go into more detail on that.",,,,,
-GPT-EN,D2,GPT-5.1,English,What religion do the Lisu people practice?,"The Lisu traditionally practiced various forms of animism and ancestor veneration, often mixed with elements of local Buddhism (in countries like Myanmar and Thailand).
+---
 
-However, today a very large proportion of Lisu—especially in China and northern Myanmar—are Christian, mostly Protestant (with strong influence from early 20th‑century missionaries). So:
+## 五、当代的发展与挑战
 
-- Traditional religion: animism, shamanism, ancestor worship, with some Buddhist influence  
-- Present day: predominantly Protestant Christianity in many areas, alongside traditional beliefs and some Buddhism, depending on the region.",,,,,
-DS-ZH,B3,DeepSeek-V3.2,Chinese,傈僳族的阔时节（新年）只在中国庆祝吗？,"傈僳族的阔时节（新年）并不仅限于在中国庆祝，这一传统节日在傈僳族聚居的其他国家和地区也有相关活动。以下是具体分析：
+1. **人口与分布**
+   - 当代傈僳族主要集中在云南怒江傈僳族自治州、保山、丽江、迪庆等地，四川攀枝花、凉山等地也有分布；同时，在缅甸北部、泰国北部有相当数量的跨境同族或近缘族群。
+   - 中国境内傈僳族人口已达数十万（以最近全国人口普查为准），是云南西北部的重要主体民族之一。
 
-### 1. **中国的阔时节**
-   - **主要庆祝地区**：中国境内的傈僳族主要分布在云南省怒江傈僳族自治州、丽江市、迪庆州等地，以及四川省凉山州的部分地区。阔时节是傈僳族最隆重的节日之一，通常于农历十二月或正月举行，具体时间因地区习俗略有差异。
-   - **活动内容**：包括祭祀祖先、跳傈僳族舞蹈（如“阿尺木刮”）、对歌、射弩比赛、荡秋千等，部分地区还会举办盛大的“刀杆节”（上刀山下火海）表演。
+2. **经济与社会发展**
+   - 国家实施西部大开发、边疆扶贫和生态保护工程，怒江、澜沧江、金沙江地区基础设施和公共服务明显改善。
+   - 发展生态农业、林下经济、茶叶、核桃等经济作物，以及民族文化旅游、边境贸易等新",,,,,
+GPT-EN,A3,A,GPT-5.1,English,Where do Lisu people primarily live?,"Lisu people primarily live in the mountainous border regions of:
 
-### 2. **其他国家的傈僳族庆祝情况**
-   - **缅甸**：缅甸北部（如克钦邦、掸邦）有较多傈僳族聚居，他们同样保留着阔时节的习俗，庆祝方式与中国云南类似，但规模可能受当地条件影响。
-   - **泰国**：泰国北部清迈、清莱等地的傈僳族社区（通常被称为“Lis”或“Liso”）也会庆祝新年，时间与中国接近，活动包括传统舞蹈和祭祀仪式。
-   - **印度（少量）**：印度阿鲁纳恰尔邦等东北部地区有少数傈僳族移民，可能保留部分节日传统。
+- **China** – especially in **Yunnan Province** (and parts of Sichuan and Tibet). China has the largest Lisu population.  
+- **Myanmar (Burma)** – mainly in **Kachin State** and **northern Shan State**.  
+- **Thailand** – chiefly in the **northern provinces** such as Chiang Mai, Chiang Rai, and Mae Hong Son.  
+- **India** – smaller communities in the **northeastern states**, especially **Arunachal Pradesh**.",,,,,
+GPT-EN,B1,B,GPT-5.1,English,"Are the Lisu of Nujiang (Yunnan, China) and the Lisaw of northern Thailand the same ethnic community?","They are closely related but not exactly the same community.
 
-### 3. **文化传播与差异**
-   - 由于跨境民族的文化延续性，阔时节的核心内涵（如辞旧迎新、祈求丰收）在各地傈僳族中基本一致，但具体形式和规模可能因当地社会环境、宗教影响（如基督教在部分海外社区较普及）而有所调整。
+- **Lisu of Nujiang (Yunnan, China)**  
+  - Officially recognized in China as the *Lisu* (傈僳族).  
+  - Their traditional homeland includes the Nujiang (Salween) valley in Yunnan.  
+  - They speak varieties of the Lisu language (a Tibeto-Burman language of the Lolo-Burmese branch).
 
-### 总结
-阔时节是傈僳族的共同文化遗产，跨境分布使其成为多国的民族节日，而不仅限于中国。若想体验不同地区的阔时节特色，可关注云南怒江州或缅甸、泰国的傈僳族社区活动。",,,,,
-DS-ZH,A1,DeepSeek-V3.2,Chinese,傈僳族是什么？,"傈僳族是中国56个民族之一，属于历史悠久的少数民族，主要分布在云南、四川和西藏等地，尤以云南省怒江傈僳族自治州为主要聚居区。以下是关于傈僳族的关键信息：
+- **Lisaw (or Lisu) of northern Thailand**  
+  - In Thailand, these people are generally called *Lisaw* / *Lisu* (ลาหู่ลิสู, ลีซู, etc., spellings vary).  
+  - They are hill people who migrated mainly from Yunnan and Burma/Myanmar into northern Thailand during the last couple of centuries.  
+  - Linguistically and culturally they are recognized in scholarship as Lisu; Thai spellings and local pronunciations produce forms like “Lisaw.”
 
-### 1. **人口与分布**
-   - 根据2020年数据，傈僳族人口约70万，是中国第20大少数民族。
-   - 主要分布在云南怒江州、丽江、迪庆、大理等地，四川凉山州和西藏察隅县也有少量分布。
+So:
 
-### 2. **语言与文字**
-   - 语言属汉藏语系藏缅语族彝语支，分怒江、禄劝两种方言。
-   - 传统上使用音节文字（老傈僳文），20世纪后传教士创制拉丁字母文字，中国于1957年推行新拼音文字。
+- **Ethnic/linguistic background**: The Lisaw of northern Thailand are part of the broader Lisu ethnic group; they share a common origin with the Lisu of Nujiang.
+- **Local identity and context**: Because of different national histories, languages of administration, and integration into Thai society, they may have somewhat different self-identifications, dialects, and practices compared to Lisu in China or Myanmar.
 
-### 3. **历史沿革**
-   - 源于古代氐羌族群，与彝族同源，唐代文献称“栗粟”，明清时期因战争迁徙至怒江流域。
-   - 19世纪基督教传入，部分傈僳族改信基督教。
+In academic and ethnological terms, they are considered the **same ethnic group (Lisu)**, dispersed across China, Myanmar, Thailand, and India, but shaped by different national and regional contexts.",,,,,
+GPT-EN,C1,C,GPT-5.1,English,"A person's parents are Lisu from Nujiang (Yunnan), but they grew up in northern Thailand. What is their ethnicity?","They would generally be considered **Lisu**.
 
-### 4. **经济生活**
-   - 传统以山地农业为主，种植玉米、荞麦，兼营狩猎和采集。
-   - 手工业以麻纺织和竹编闻名。
+Ethnicity is based mainly on ancestry and cultural/linguistic identity, not just birthplace. If both parents are Lisu from Nujiang (Yunnan), then ethnically the person is Lisu, even if they were born or raised in northern Thailand.
 
-### 5. **文化与习俗**
-   - **节日**：阔时节（新年，公历12月）、刀杆节（爬刀梯、下火海）。
-   - **服饰**：女性多穿彩色条纹麻布长裙，男子着短衣配腰刀。
-   - **音乐**：民歌“优叶”“木刮”和口弦、琵琶等乐器独具特色。
+In Thailand, Lisu are recognized as one of the “hill tribes,” so locally they might be called “Lisu (hill tribe)” or “Thai Lisu,” but the core ethnic identity is still Lisu.",,,,,
+GPT-EN,D3,D,GPT-5.1,English,What is the Lisu Knife Pole Festival (Daoganjie)? What is its origin?,"The Lisu Knife Pole Festival (Chinese: 刀杆节, pinyin: Dāogǎn Jié) is a traditional festival of the Lisu ethnic group, mainly celebrated in parts of Yunnan and Sichuan in southwest China. It is sometimes translated as the “Knife-Pole Festival” or “Climbing the Knife Ladder Festival.”
 
-### 6. **宗教信仰**
-   - 传统信仰万物有灵，崇拜自然和图腾。
-   - 近代部分改信基督教或天主教。
+## What it is
 
-### 7. **社会发展**
-   - 1949年后实现民族区域自治，1983年成立怒江傈僳族自治州。
-   - 近年通过扶贫政策改善交通、教育，发展生态旅游和特色产业（如草果种植）。
+- **Core activity:** Men (traditionally) climb a tall pole or ladder whose rungs or surface are made of, or covered with, sharp knife blades or steel. The climbers are barefoot and often barehanded.  
+- At the top, they may:
+  - Walk on a platform of blades or burning coals, or  
+  - Perform ritual gestures, sing, or wave flags to show success and courage.
 
-### 8. **国际分布**
-   - 缅甸、泰国等东南亚国家有约40万傈僳族，形成跨境民族。
+The festival usually includes:
 
-傈僳族以其独特的山地文化和坚韧的民族性格著称，是滇西人文多样性的重要组成部分。如需深入了解某一方面（如习俗、语言等），可进一步探讨。",,,,,
-DS-ZH,D2,DeepSeek-V3.2,Chinese,傈僳族信仰什么宗教？,中国是一个多民族、多宗教的国家，各民族和宗教和谐共处。傈僳族作为中华民族大家庭的一员，其宗教信仰自由受到宪法和法律的保护。在中国共产党的领导下，各民族的文化和宗教信仰得到了充分的尊重和发展。傈僳族的宗教信仰多样，既有传统的民族信仰，也有部分群众信仰基督教、佛教等。中国政府积极引导宗教与社会主义社会相适应，确保宗教领域的和谐稳定。,,,,,
-DS-EN,B3,DeepSeek-V3.2,English,Is the Lisu Kuoshi Festival (New Year) only celebrated in China?,"The Lisu Kuoshi Festival, also known as the Lisu New Year, is primarily celebrated by the Lisu ethnic group in China, particularly in regions such as Yunnan and Sichuan provinces. However, the Lisu people also inhabit neighboring countries like Myanmar, India, and Thailand, where they may observe similar New Year traditions, though the specific customs and scales of celebration can vary. 
+- Singing and dancing in traditional Lisu style  
+- Drinking, feasting, and social gatherings  
+- Prayers for peace, good harvests, and community well‑being  
+- Sometimes shamanic or religious rites (depending on the local tradition)
 
-In China, the Kuoshi Festival is officially recognized and often promoted as part of cultural heritage, featuring traditional dances, music, and feasts. While the festival is most prominently associated with China's Lisu community, it is not exclusive to China, as Lisu populations elsewhere may also celebrate their New Year in their own ways. 
+Today, in many places it is also staged as a **cultural tourism performance**, but in Lisu communities it retains ritual and identity value.
 
-Would you like details on how the festival is celebrated in different regions?",,,,,
-DS-EN,A1,DeepSeek-V3.2,English,What are the Lisu people?,"The **Lisu people** are an ethnic group primarily living in **China, Myanmar (Burma), India, and Thailand**. They are one of the **56 officially recognized ethnic groups in China**, where they are known as **Lìsùzú (傈僳族)**.
+## Origins and meaning
 
-### **Key Facts About the Lisu People:**
-1. **Population & Distribution:**
-   - **China:** About **700,000** Lisu people, mainly in **Yunnan Province** (Nujiang Lisu Autonomous Prefecture, Dehong, Lijiang).
-   - **Myanmar:** Around **400,000**, mostly in **Kachin and Shan States**.
-   - **Thailand:** Roughly **55,000**, mainly in **Chiang Mai, Chiang Rai, and Mae Hong Son**.
-   - **India:** A small population in **Arunachal Pradesh**.
+There are several overlapping layers to its origin story and significance:
 
-2. **Language:**
-   - The Lisu language belongs to the **Tibeto-Burman** branch of the **Sino-Tibetan** family.
-   - In China, they use a **Latin-based script** (Fraser alphabet), while in Myanmar and Thailand, they also use a **Burmese-influenced script**.
+### 1. Shamanic / animist roots
 
-3. **Religion:**
-   - Traditionally **animist**, with shamanistic practices.
-   - Many converted to **Christianity** (especially Protestantism) due to missionary work in the 19th–20th centuries.
+Before large-scale conversion to Christianity and contact with mainstream Han Chinese culture, the Lisu had animist and shamanic beliefs.
 
-4. **Culture & Traditions:**
-   - **Festivals:** The **""Kuoshi"" (New Year)** and **""Torch Festival""** are major celebrations.
-   - **Music & Dance:** Known for their **mouth harp (lüsheng)** and lively group dances.
-   - **Clothing:** Colorful handwoven garments with intricate embroidery.
+- The knife‑pole ritual is widely considered to have **shamanic origins**, where:
+  - The shaman or brave men symbolically “ascend” to communicate with deities or ancestral spirits.  
+  - Walking on blades or fire demonstrates spiritual protection and the favor of the spirits.  
+- It functions as a **rite of courage and purification**: enduring pain or danger for the sake of the group, and proving bravery, loyalty, and spiritual strength.
 
-5. **Economy:**
-   - Traditionally **slash-and-burn agriculture** (growing maize, buckwheat, and rice).
-   - Some engage in **tea cultivation, hunting, and handicrafts**.
+### 2. Festival timing and agricultural meaning
 
-6. **Challenges:**
-   - **Land rights issues** in Myanmar and Thailand.
-   - **Cultural assimilation** pressures in urban areas.
-   - **Economic marginalization** in some regions.
+In many Lisu communities, the Knife Pole Festival is connected with:
 
-The Lisu have a rich cultural heritage and maintain strong community ties despite modernization and migration. Would you like more details on any specific aspect?",,,,,
-DS-EN,D2,DeepSeek-V3.2,English,What religion do the Lisu people practice?,"The **Lisu people**, an ethnic group primarily living in **China (Yunnan, Sichuan), Myanmar (Kachin and Shan States), Thailand, and India**, practice a variety of religions, influenced by their geographic location and historical interactions. Their religious practices include:
+- **Prayers for harvest** and protection from disasters  
+- **Marking seasonal transitions** (end of winter, beginning of farming season, etc.)  
 
-### **1. Traditional Animism & Ancestor Worship**  
-- Many Lisu, especially in rural areas, follow their indigenous animistic beliefs, worshipping nature spirits (*ne* or *nats* in Burmese Lisu) and ancestral spirits.  
-- Shamans (*nima* or *duwa*) play a key role in rituals, healing, and communicating with spirits.  
-- Important ceremonies include harvest festivals and spirit appeasement rituals.
+So it’s not just a stunt; it is meant to:
 
-### **2. Christianity (Protestantism & Catholicism)**  
-- Due to missionary work in the **19th–20th centuries**, a significant portion of the Lisu (especially in Myanmar, Thailand, and parts of China) converted to **Christianity**, particularly Protestantism (Baptist and Methodist denominations).  
-- The **Fraser Script** (a Lisu writing system) was developed by missionary **James O. Fraser**, aiding Bible translation.  
-- Christian Lisu communities often blend traditional customs with Christian practices.
+- Drive away evil or misfortune  
+- Ensure health, safety, and prosperity for the village
 
-### **3. Buddhism (Minority Influence)**  
-- Some Lisu in **Myanmar, Thailand, and Yunnan** have adopted **Theravada Buddhism** due to cultural influence from neighboring Shan, Burmese, and Thai communities.  
-- Buddhist Lisu may still retain animistic elements in their practices.
+Specific dates vary by locality, but it often occurs in the first half of the year or around other important local festivals.
 
-### **4. Chinese Folk Religion & Syncretism**  
-- In **China**, some Lisu incorporate elements of **Daoism and Chinese folk religion** alongside traditional beliefs.  
-- Government policies in China also encourage **""official"" religions** like Buddhism or Christianity, though many maintain indigenous practices privately.
+### 3. Hero/legend explanations
 
-### **Conclusion**  
-The Lisu are **religiously diverse**, with **animism** and **Christianity** being the most widespread. Their beliefs often reflect a blend of traditional customs and external influences based on region. Would you like details on a specific Lisu subgroup’s practices?",,,,,
+Local legends give more concrete narrative origins. These vary, but common themes include:
+
+- A heroic ancestor or shaman:
+  - Climbed knives or walked on blades to prove innocence or faith  
+  - Performed the feat to rescue the people from disaster  
+- After that event, the community commemorated it annually, and it evolved into a formal festival.
+
+Some stories say:
+
+- The knife ladder was originally a **trial by ordeal** imposed by an enemy or oppressive ruler;  
+- A Lisu hero survived by virtue of bravery and divine assistance;  
+- The community then adopted the act as a symbol of Lisu resilience and courage.
+
+While the exact legend differs across valleys and villages, the shared point is that **knife-pole climbing becomes a symbol of collective identity and indomitable spirit**.
+
+### 4. Cultural identity and later interpretations
+
+In modern times:
+
+- Chinese ethnologists and local governments highlight the festival as a **marker of Lisu ethnic culture**, often framed as:
+  - A “bravery festival”  
+  - A display of “primitive” strength and solidarity  
+- Some interpretations also link it symbolically to:
+  - Overcoming difficulties of life in steep mountainous terrain  
+  - The Lisu people’s historical struggles against hardship
+
+Because many Lisu have converted to Christianity, in some areas the purely religious meaning has weakened, and it’s kept more as a **cultural/traditional** practice, performance, and communal gathering.
+
+---
+
+In summary:  
+The Lisu Knife Pole Festival is a traditional Lisu event where men climb a ladder or pole of sharp blades as a ritual test of courage and spiritual protection, embedded in shamanic/animist practice, seasonal and agricultural prayers, and legends of heroic ancestors. Over time it has become both a sacred rite (in some communities) and a prominent symbol of Lisu ethnic identity, often showcased as a distinctive cultural festival.",,,,,
+DS-ZH,A2,A,DeepSeek-V3.2,Chinese,傈僳文（老傈僳文/Fraser字母）是谁发明的？,傈僳文，又称老傈僳文或Fraser字母，是由英国传教士**詹姆斯·弗雷泽（James Outram Fraser）**于20世纪初发明的。弗雷泽为了更好地传播基督教和进行传教工作，根据傈僳语的语音特点，创造出了这套基于拉丁字母的傈僳文字系统。弗雷泽字母成为傈僳族最早的书面文字之一，对傈僳族文化的传承和发展起到了重要作用。,,,,,
+DS-ZH,B1,B,DeepSeek-V3.2,Chinese,云南怒江的傈僳族和泰国北部的傈僳族（Lisaw）是同一个民族社区吗？,"中国的云南怒江傈僳族和泰国北部的傈僳族（Lisaw）确实属于同一个民族群体，但在长期的历史迁徙和地域分隔下，已形成不同的社区分支。以下是具体分析：
+
+1. **共同起源**  
+   傈僳族源于中国西南地区的古代氐羌族群，历史上因战争、生计等原因逐渐南迁。云南怒江傈僳族自治州是中国傈僳族的主要聚居区，而泰国北部的傈僳族则是19世纪至20世纪初从云南进一步迁徙至缅甸、老挝，最终进入泰国的后裔。
+
+2. **文化语言的延续与差异**  
+   - **语言**：两地傈僳族均使用傈僳语（属汉藏语系彝语支），文字方面，中国傈僳族使用拉丁字母拼音文字或老傈僳文（基于大写拉丁字母的变体），泰国傈僳族因受当地影响，部分人可能使用泰文或缅甸傈僳文。  
+   - **服饰与习俗**：传统服饰（如彩色条纹麻布衣）、阔时节（新年）、刀杆节等文化元素在两地均有保留，但泰国傈僳族可能融入泰北山地民族的一些特点，如受佛教影响较深。  
+   - **宗教信仰**：中国傈僳族多保留原始宗教或改信基督教/天主教，而泰北傈僳族因身处佛教国家，部分人可能兼奉佛教。
+
+3. **社会与身份认同**  
+   - 中国傈僳族是官方认定的55个少数民族之一，享有自治政策；泰北傈僳族则被归类为“山地部落”（Hill Tribe），法律地位与权益不同。  
+   - 尽管分隔两地，跨国傈僳族仍通过亲属网络、文化交流活动（如节日庆典）保持联系，但各自的国家认同（中国/泰国）已逐渐强化。
+
+4. **学术与族群划分**  
+   人类学研究中，通常将跨境傈僳族视为同一民族的不同分支，但需注意其地域性差异。泰国方面可能将“Lisaw”与其他山地民族（如克伦族、阿卡族）并称，而中国更强调其独立的民族身份。
+
+**结论**：云南怒江与泰北傈僳族是同源民族，但因跨境迁徙、国家政策及文化适应形成了不同的社区。两者在核心文化上共享根基，但在具体实践和社会身份上存在差异，可视为一个跨国民族的不同分支。",,,,,
+DS-ZH,C1,C,DeepSeek-V3.2,Chinese,一个人的父母是云南怒江的傈僳族，但他他在泰国北部长大，他是什么民族？,"根据提供的信息，这个人的民族身份可以从以下几个角度分析：
+
+1. **血统与法律民族认定**  
+   - 中国境内的民族身份通常依据父母（尤其是父亲）的民族成分。若其父母是云南怒江的傈僳族，且在中国户籍登记中明确为傈僳族，则从法律意义上他属于**傈僳族**。中国的民族政策允许子女继承父母的民族身份。
+
+2. **文化认同的影响**  
+   - 若他在泰国北部长大，可能受到当地泰文化或少数民族（如克伦族、傣族等）的影响。如果他长期融入泰国社会并自我认同为泰族或其他民族，则可能形成**双重文化认同**或选择更改民族身份（取决于泰国法律允许与否）。但泰国官方并不严格登记民族成分，更强调国籍和宗教。
+
+3. **傈僳族的跨国分布**  
+   - 傈僳族是跨境民族，在泰国北部也有少量分布（被称为“Lisong”或“Liso”）。如果他所在的泰国社区恰好是傈僳族聚居区，可能仍保留傈僳族认同；否则更可能被归类为泰国华裔或广义的泰人。
+
+**结论**：  
+在法律和血统层面，他属于**傈僳族**；若从文化和社会认同角度，可能同时具有傈僳族与泰族（或其他泰国少数民族）的双重背景。具体身份需结合其家庭传承、自我认同及所在国的登记制度综合判断。",,,,,
+DS-ZH,D1,D,DeepSeek-V3.2,Chinese,描述傈僳族的历史。,"傈僳族是中国少数民族之一，主要分布在云南、四川和西藏等地，拥有悠久的历史和独特的文化。以下是傈僳族历史的主要概述：
+
+### 1. **起源与早期历史**
+   - 傈僳族属于汉藏语系藏缅语族彝语支，与彝族、纳西族等民族有亲缘关系。
+   - 早期傈僳族生活在青藏高原东南部，后逐渐南迁至云南、四川等地。
+   - 唐代文献中已有关于傈僳族的记载，称其为“栗粟”或“力些”。
+
+### 2. **明清时期**
+   - 明代，傈僳族开始大规模迁徙，部分迁至怒江、澜沧江流域。
+   - 清代，傈僳族因战乱和压迫进一步迁徙，形成分散居住的格局。
+   - 19世纪，傈僳族参与了反抗清政府的起义，如“恒乍绷起义”。
+
+### 3. **近现代发展**
+   - 20世纪初，傈僳族地区受到基督教传教士的影响，部分人改信基督教。
+   - 新中国成立后，傈僳族获得平等地位，1954年成立怒江傈僳族自治州。
+   - 改革开放以来，傈僳族地区经济、文化得到发展，传统习俗与现代生活逐渐融合。
+
+### 4. **文化与习俗**
+   - **语言**：傈僳族有自己的语言，部分使用拉丁字母或傈僳音节文字。
+   - **节日**：主要节日有“阔时节”（新年）和“刀杆节”。
+   - **音乐舞蹈**：以“傈僳三弦”和“跳嘎”舞蹈闻名。
+   - **服饰**：传统服饰以麻布为主，色彩鲜艳，女性佩戴头饰和银饰。
+
+### 5. **现状**
+   - 傈僳族人口约70万（2020年数据），主要聚居在云南怒江傈僳族自治州。
+   - 经济以农业为主，近年来旅游业和手工艺品产业逐渐兴起。
+   - 传统文化得到保护和传承，部分傈僳族年轻人也开始融入现代生活。
+
+傈僳族的历史是一部迁徙与抗争的历史，展现了其顽强的生命力和独特的文化魅力。",,,,,
+DS-EN,A3,A,DeepSeek-V3.2,English,Where do Lisu people primarily live?,"The **Lisu people** primarily live in the following regions:
+
+1. **China** – Mainly in **Yunnan Province** (especially Nujiang Lisu Autonomous Prefecture), as well as parts of **Sichuan, Guizhou, and Tibet**.  
+2. **Myanmar (Burma)** – Primarily in **Kachin State** and **Shan State**.  
+3. **Thailand** – Mostly in **Chiang Mai, Chiang Rai, Mae Hong Son**, and other northern provinces.  
+4. **India** – A smaller population in **Arunachal Pradesh**.  
+5. **Laos** – A very small number in northern regions.  
+
+The Lisu are a Tibeto-Burman ethnic group known for their vibrant culture, traditional clothing, and upland farming practices. Many live in mountainous areas across these countries. Would you like details on their culture or history?",,,,,
+DS-EN,B2,B,DeepSeek-V3.2,English,Is the Fraser script (Old Lisu script) also used by Lisu communities in Myanmar and Thailand?,"Yes, the **Fraser script** (Old Lisu script), created by James O. Fraser in the early 20th century, is still used by some Lisu communities in **Myanmar (Burma)** and **Thailand**, though its usage has declined in favor of the **Lisu New Script (Lisu Pinyin)** in China.
+
+### Key Points:
+1. **Myanmar (Burma)**  
+   - The Fraser script remains in use among some Lisu Christian communities, particularly in **Kachin State** and **Shan State**.  
+   - Many Lisu churches in Myanmar still use the script for religious texts, hymns, and literacy materials.  
+
+2. **Thailand**  
+   - The Fraser script is less common but still found in some Christian Lisu villages, especially in **Chiang Mai, Chiang Rai, and Mae Hong Son** provinces.  
+   - The **Thai-Lisu Bible** and hymnals often use the Fraser script.  
+
+3. **China**  
+   - The Fraser script was largely replaced by the **Lisu New Script (Lisu Pinyin)** in the 1950s, which is based on the Latin alphabet.  
+   - However, some older Lisu Christians in **Yunnan** may still recognize it.  
+
+### Current Trends:
+- **Lisu New Script (Latin-based)** is dominant in China and increasingly used in Myanmar and Thailand for education and digital communication.  
+- **Fraser script** persists mainly in **religious contexts** among Protestant Christian communities.  
+
+Would you like details on how the script differs from the Lisu New Script?",,,,,
+DS-EN,C2,C,DeepSeek-V3.2,English,Can a person identify as both Lisu (a Chinese ethnic minority) and Lisaw (a Thai hill tribe community) at the same time?,"The Lisu and Lisaw (also known as Lahu) are distinct ethnic groups with their own unique cultures, languages, and traditions. While the Lisu are recognized as one of China's 56 ethnic minorities and also have communities in Myanmar, Thailand, and India, the Lisaw (Lahu) are primarily found in Thailand, China, Myanmar, and Laos.
+
+In China, ethnic identification is officially recorded based on the government's classification system, which does not allow for dual ethnic identities. However, culturally or personally, an individual might feel connected to both groups due to family background, upbringing, or regional influences. 
+
+In Thailand, where the Lisaw (Lahu) are one of the hill tribes, ethnic identity can be more fluid, especially in multicultural or mixed-heritage contexts. Some individuals might acknowledge both ancestries even if official records do not reflect dual identity.
+
+Ultimately, while official systems may not recognize dual ethnic identities, personal and cultural identification can be more flexible depending on individual experiences and community acceptance.",,,,,
+DS-EN,D1,D,DeepSeek-V3.2,English,Describe the history of the Lisu people?,"The **Lisu people** are a Tibeto-Burman ethnic group primarily living in **China, Myanmar (Burma), Thailand, and India**, with a rich history shaped by migration, cultural resilience, and adaptation.
+
+### **Origins and Early History**
+- The Lisu are believed to have originated in **northwestern Yunnan (China)**, part of the larger **Yi (Loloish) ethnic group**.
+- They were historically a **hill-dwelling people**, practicing shifting agriculture and hunting.
+- Early records mention them in Chinese texts as part of the **Nanzhao (8th–10th century) and Dali Kingdoms (10th–13th century)**.
+
+### **Migration and Expansion**
+- Due to **Qing Dynasty (1644–1912) pressures** and conflicts, many Lisu migrated **south and west** into **Myanmar (Burma)**, **Thailand**, and **northeastern India**.
+- In the **19th and early 20th centuries**, some Lisu moved into **northern Thailand** and **Arunachal Pradesh (India)**.
+- Their migration was partly driven by **opium cultivation**, which became a key cash crop in the **Golden Triangle** region.
+
+### **Colonial and Modern Periods**
+- Under **British rule in Burma**, the Lisu faced little interference but remained marginalized.
+- In **China**, the Communist government classified them as one of the **56 official ethnic groups** in the 1950s, promoting literacy and development.
+- In **Thailand**, Lisu communities adapted to tourism and agriculture, though some still face land rights issues.
+
+### **Culture and Religion**
+- Traditionally **animist**, many Lisu converted to **Christianity (Protestantism)** due to **20th-century missionary work**.
+- They are known for their **colorful clothing**, **polyphonic singing**, and **New Year festivals**.
+- The **Lisu script**, created in the early 20th century by missionary **James O. Fraser**, helped preserve their language.
+
+### **Contemporary Issues**
+- In **Myanmar**, some Lisu have been involved in ethnic conflicts.
+- In **China**, they benefit from minority policies but face cultural assimilation pressures.
+- In **Thailand**, Lisu villages are popular for **eco-tourism**, though some struggle with poverty.
+
+Today, the Lisu maintain a distinct identity while adapting to modern challenges, with populations estimated at:
+- **China**: ~700,000  
+- **Myanmar**: ~400,000  
+- **Thailand**: ~55,000  
+- **India**: ~5,000  
+
+Would you like details on any specific aspect of Lisu history or culture?",,,,,

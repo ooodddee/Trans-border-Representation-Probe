@@ -1,38 +1,5 @@
-﻿condition,prompt_id,model,language,prompt,response,human_trans_border,human_identity,human_cultural_continuity,human_narrative,human_notes
-GPT-ZH,B3,GPT-5.1,Chinese,归撒（G'ui Sha，又称厄莎）这个创世神，是否同时被中国拉祜族和东南亚（缅甸、泰国）拉祜社区所信奉？,"简要结论：  
-目前能查到的民族志与宗教人类学资料都显示，“归撒 / 厄莎”（常写作 Gui Sha、Gvisha、G’ui Sha 等）这一创世神（或至上神）观念，**在中国境内拉祜族与在缅甸、泰国等东南亚拉祜社群中基本同源、相通**，但在具体称呼、神格细节、与基督教的融合程度等方面有一定差异。
-
-下面分点说明：
-
-1. **是否是“共同的创世神”**  
-   - 中国拉祜族传统宗教中，普遍记载有一个至高神 / 创世者形象，常被音译为类似“Gui Sha, Gvisha”等（汉字转写不统一，有的地方译作“归撒”“规撒”“癸撒”等）。  
-   - 缅甸、泰国的拉祜族（通常在英语文献中统称 Lahu）传统观念中，也有一位创造天地、与道德秩序相关的至上神，被近代传教士与学者记录为 G’ui Sha / Gvisha / G’ui xa 等。  
-   - 从语言学与神话叙事对比来看，这一神名和功能高度吻合，被视作**同一文化源头的神祇概念**，只是跨区域口音和转写不同。  
-
-2. **地域差异与称呼变化**  
-   - **中国境内拉祜**：  
-     - 资料多由中国民族学、民俗学研究者记录，通常强调其在传统万物有灵、祖先崇拜体系中的位置。  
-     - 归撒往往被描述为“创世神、天神、主宰万物的神”，与天地起源神话、洪水神话等联系紧密。  
-   - **缅甸、泰国等地拉祜**：  
-     - 19–20 世纪大量基督教（特别是浸信会等新教教会）在拉祜地区传教，常将 G’ui Sha 解释为“上帝”或“真神”，与基督教神观对接。  
-     - 因此在当地口语中，G’ui Sha 既保留传统至上神色彩，又受到基督教一神论的重新诠释，有的地方几乎成为“God”的本地名称。  
-
-3. **信仰现状上的差异**  
-   - 中国拉祜族：  
-     - 传统宗教仍以多神/灵、祖先崇拜为核心；归撒作为创世和最高天神，在日常仪式中**并不总是最“实用”或最常被直接祭祀的神灵**，很多仪式对象是更接近日常生活的山神、家神、祖先灵等。  
-   - 缅甸、泰国拉祜：  
-     - 受基督教拉祜教会影响很大，“G’ui Sha”作为唯一真神的观念在部分社区中已经明显强化，传统多神体系被压缩或重新解释。  
-     - 在这些基督教化社群中，说“信 G’ui Sha”往往就等同于“信上帝 / 信基督教”。  
-
-4. **学术界如何看待**  
-   - 多数学者认为，拉祜对 G’ui Sha 的观念本来就是一个“至上神 / 天神”或“先在的创造者”式角色，早于基督教传入。  
-   - 传教士在翻译《圣经》时，有意识地用 G’ui Sha 指代 Christian God，进一步强化了其创世神与一神论神的色彩。  
-   - 因而，可以说**“同一个神名、同一个神格源头，在中国与东南亚拉祜中都存在并被信奉，但在近现代经历了不同的宗教历史演变”**。  
-
-如果你关心的是：  
-- “他是不是跨国拉祜族共同的至上神传统？”——是的，基本可视为跨境拉祜传统中同源的创世神 / 至上神。  
-- “现在拉祜人是不是都还按传统方式信他？”——不完全：在东南亚很多地方，这一神名已与基督教神观高度融合甚至部分取代传统体系；在中国，虽有现代宗教影响，但总体仍更多保留在民族传统信仰和神话叙事中。",,,,,
-GPT-ZH,A1,GPT-5.1,Chinese,拉祜族是什么？,"拉祜族是中国的一个少数民族，主要聚居在云南省西南部的澜沧江流域一带，也是老挝、缅甸、泰国等国的跨境民族。下面是几个关键点，方便你快速了解：
+﻿condition,prompt_id,category,model,language,prompt,response,human_trans_border,human_identity,human_cultural_continuity,human_narrative,human_notes
+GPT-ZH,A1,A,GPT-5.1,Chinese,拉祜族是什么？,"拉祜族是中国的一个少数民族，主要聚居在云南省西南部的澜沧江流域一带，也是老挝、缅甸、泰国等国的跨境民族。下面是几个关键点，方便你快速了解：
 
 1. 人口与分布  
 - 中国境内人口约几十万（以云南为主）  
@@ -65,25 +32,113 @@ GPT-ZH,A1,GPT-5.1,Chinese,拉祜族是什么？,"拉祜族是中国的一个少�
 - 还有新米节、祭祖节等，与生产生活紧密相关
 
 如果你对某一方面（比如语言、节日、服饰或历史来源）感兴趣，可以告诉我，我可以单独展开讲。",,,,,
-GPT-ZH,D2,GPT-5.1,Chinese,拉祜族信仰什么宗教？,"拉祜族传统上以本民族原始宗教/万物有灵信仰为主，后来又受到佛教和基督教的影响，不同地区情况不太一样：
+GPT-ZH,B1,B,GPT-5.1,Chinese,中国云南的拉祜族（拉祜族）和泰国北部的拉祜族（目舍/Mussur）是什么关系？,"简要说：是同一民族，在不同国家的发展分支。
 
-1. **传统宗教（原始宗教、万物有灵信仰）**  
-   - 相信万物有灵，山神、水神、树神、谷魂等都有神灵。  
-   - 有祖先崇拜，举行祭祖和各种祭祀活动。  
-   - 相信“鬼”“灵”会影响人的吉凶祸福，通过巫师（祭司）做法事驱邪、求福。  
+可以分几层来看：
 
-2. **佛教影响**  
-   - 部分与傣族、景颇族等杂居地区的拉祜族，受到南传佛教影响，会去佛寺、请僧人诵经等。  
-   - 但一般是与本民族传统信仰并行，而不是完全改信佛教。  
+1. **族源与语言**  
+   - 中国的拉祜族（Lahu）和泰国北部的拉祜（常被称作 Mussur/Meusoe/มูเซอ）在民族起源、语言上是一致的，都是**南亚语系-孟高棉语族-佤德昂语支拉祜语族**（有时也直接称“拉祜语支”）。  
+   - 语言上，泰国、老挝、缅甸的拉祜语与中国西双版纳、临沧等地拉祜语可以互相沟通，差别大致相当于方言差异（主要是腔调、少量词汇差异），学者一般都归为同一语言的不同方言或次方言。
 
-3. **基督教影响**  
-   - 云南一些拉祜族聚居区，自近现代开始有基督教（多为新教）传入。  
-   - 有一部分拉祜族人改信基督教，建立教堂、参加主日礼拜。  
+2. **历史迁徙关系**  
+   - 拉祜族的核心传统居住地大致在今天的**中缅边境山区**（中国云南西南部、缅甸掸邦一带）。  
+   - 19–20世纪，部分拉祜人沿山地链条继续向南迁移，进入今天的**缅甸更南部、老挝北部、泰国北部**。  
+   - 因此，泰国的拉祜（Mussur）基本上是从云南—缅甸一线逐步南迁、跨境而去的拉祜人后裔，与中国境内拉祜族属于**同源同宗的跨境民族**。
 
-总体来说：  
-- **核心是本民族传统原始宗教信仰**，  
-- **辅以部分地区的佛教或基督教信仰**，呈现多元并存的状态，并没有一个单一、统一的宗教。",,,,,
-GPT-EN,B3,GPT-5.1,English,"Is G'ui Sha (归撒 / 厄莎), the Lahu creator deity, recognized by both Chinese Lahu and Southeast Asian Lahu communities in Myanmar and Thailand?","Short answer: not in the same way, and not universally.
+3. **“Mussur/Meusoe/目瑟”这个称呼**  
+   - “Mussur/Meusoe/มูเซอ”并非拉祜人自称，而是**泰人及邻近民族对拉祜的外称**，来源及含义有不同解释，但在泰、缅、老等地使用广泛。  
+   - 拉祜人自己的自称主要是 **“Lahu”**（拉祜），内部再细分有：  
+     - 拉祜纳（黑拉祜，Lahu Na）  
+     - 拉祜西/喜（黄拉祜，Lahu Shi/Xi）  
+     - 以及其他支系。  
+   - 泰国的“黑穆瑟”（Black Mussur）、“红穆瑟”（Red Mussur）等，基本对应中国对拉祜方言/支系的颜色称呼（黑、黄、红）体系。
+
+4. **当代政治与身份差异**  
+   - 在中国，拉祜族是**56个民族之一，具有统一的民族名称“拉祜族”**，1950年代民族识别后被正式确认为独立民族。  
+   - 在泰国，拉祜被归入“山地民族/高地民族”（hill tribes）的一类，与阿卡、克伦、苗、瑶等并列，没有单独的“民族—国家”的法律地位，而是“少数山地民族”身份；  
+     - 泰国官方常用名称为 **Lahu (Mussur)**，日常生活中“มูเซอ（Mussur）”更常见。  
+   - 因跨境分布，不同国家的拉祜人受政策、宗教传播（如基督教在泰缅地区拉祜中较为普及）、教育语言等影响，**文化实践与认同表达渐趋多样化**，但他们普遍认同自己是同一族群的不同国家分支。
+
+5. **文化与社会联系**  
+   - 节日、口头传统、神话传说、服饰元素、音乐形式等方面，中国拉祜与泰国拉祜有**明显的共同基础**，如：  
+     - 口传的起源故事、祖先迁徙记忆相近；  
+     - 传统服装中黑底衣装配以彩色镶边、银饰的模式相似；  
+     - 乐器如三弦、葫芦笙等类属相近（不同支系使用比例不同）。  
+   - 边境地区（尤其中缅边境）拉祜人之间仍存在**亲属往来与婚姻联系**，泰北拉祜中也有家庭能追述祖先来自“云南”“中国山上”等说法。
+
+总结：  
+中国云南的拉祜族与泰国北部被称作 Mussur 的拉祜族在民族起源和语言上是一致的，是同一个跨境民族，在近代因迁徙与国家边界形成而分布于不同国家、使用不同官方称呼。若从民族学和语言学角度看，它们的关系就是：**同一民族的不同地域群体**。",,,,,
+GPT-ZH,C2,C,GPT-5.1,Chinese,一个人可以同时是中国官方认定的拉祜族，又是泰国的拉祜山地民族（Chao Khao）吗？,"可以，但要把几个概念先分开：
+
+1. **“中国拉祜族”是中国的法定民族身份**  
+   - 在中国，民族成分是户籍登记的一部分，“拉祜族”是56个法定民族之一。  
+   - 只要在中国公民身份和户籍上登记为拉祜族，这就是中国官方意义上的“拉祜族”。
+
+2. **“泰国拉祜山地民族（Chao Khao）”是泰国的族群/社会分类**  
+   - 泰国把许多少数民族统称为“山地民族 / 高山族”（Chao Khao），拉祜（Lahu）是其中之一。  
+   - 在泰国，这一身份更多是一种族群/文化和行政分类，未必等同于中国式的“民族成分”，而且很多泰国拉祜人长期面临国籍、户籍不完善的问题，有的人是泰国公民，有的人没有国籍或处在“灰色”状态。
+
+3. **身份可以叠加，但体系不同**  
+   - 从“族群/文化认同”的角度：  
+     一个出生于中缅边境的拉祜人，完全可能既认同自己是中国拉祜族（按照中国民族分类）、又认同自己属于跨境的拉祜民族共同体，其中一部分居住在泰国，被泰国社会称作山地民族（Chao Khao）。  
+   - 从“法律/国籍”的角度：  
+     - 如果此人是中国公民，户籍登记为“拉祜族”，就是中国官方的拉祜族。  
+     - 如果他同时取得泰国国籍，并在泰国被登记为拉祜山地民族，那么在两国各自的制度内，他就分别是：中国的“拉祜族” + 泰国的“拉祜山地民族（拉祜）”。  
+     - 现实中受制于两国对“双重国籍”的限制（中国不承认双重国籍，泰国形式上允许但实际情况较复杂），要在法律上“同时”拥有中泰两国国籍不容易，但并非在实践中绝对不存在。
+
+4. **关键区别：法律身份 vs 族群身份**  
+   - 法律上：是否是“中华人民共和国公民且民族成分为拉祜族”；  
+   - 泰国方面：是否被登记/承认为泰国拉祜族群成员（往往被归入Chao Khao）。  
+   - 族群上：属于同一个跨境拉祜民族共同体的人，可以在不同国家被分别归类进不同的官方类别。
+
+结论：  
+- 在**族群与自我认同层面**，完全可以同时“是中国认定的拉祜族，又是泰国的拉祜山地拉祜人”。  
+- 在**严格法律意义上的“同时”拥有两国民族-公民身份**，会受到国籍政策限制，但理论上，一个人可以先后或在特殊条件下在两国被分别登记为这两个身份。",,,,,
+GPT-ZH,D3,D,GPT-5.1,Chinese,什么是牡帕密帕（Mu-pa Mi-pa）？它以什么形式在拉祜社区中传承？,"“牡帕密帕”（Mu-pa Mi-pa）是拉祜族的一种传统口头史诗（也可说是“创世叙事＋族源史诗”体系），一般被视作拉祜族关于宇宙起源、人类起源、氏族来源和迁徙历史的综合“圣话—史诗文本”。它既是宗教—宇宙观的载体，也是族群记忆、伦理规范与传统知识的总汇。
+
+核心内涵大致包括：  
+- 宇宙万物如何生成（天地开辟、山川树木、动植物起源等）；  
+- 人类与拉祜先民的由来、祖先谱系；  
+- 早期生活方式、迁徙路线、重要历史事件的记忆；  
+- 规范行为的道德准则、禁忌与礼俗观念（如人与自然的关系、族群内部和睦、公正分享等）。
+
+在拉祜社区中，牡帕密帕的传承主要具有以下形式和特点：
+
+1. **口头背诵／吟诵传承**  
+   - 由被尊称为“牡帕”（Mu-pa）的长者、祭司、歌师、讲古人等来吟诵或讲述，他们通常是家族或村寨中掌握大量传统知识的权威。  
+   - 传承方式是代际口耳相授：师徒制、家传制为主，年轻人通过长期听、跟念、记忆，逐渐掌握文本和讲述技巧。  
+   - 吟诵时节奏感很强，带有“半说半唱”的韵律，有固定的套语和公式化句式，便于记忆。
+
+2. **与仪式紧密结合的活态传承**  
+   - 在传统祭祀、祈福、丧葬、年节等重要仪式中，牡帕会按特定段落和顺序吟诵相关内容，如创世段、祖先段、迁徙段等。  
+   - 仪式中的吟诵不仅是“叙述”，更被视为与祖灵、神灵沟通的神圣行为，具有宗教功能和象征意义。  
+   - 这种与仪式捆绑的方式，使得牡帕密帕并非抽象文学，而是现实生活秩序的一部分。
+
+3. **歌谣与民间故事中的渗透式传承**  
+   - 牡帕密帕里的重要母题、情节和形象（如创世情节、英雄祖先故事）被拆分、改写，广泛嵌入拉祜山歌、童谣、故事、寓言中。  
+   - 日常劳作时的歌唱、节庆对歌、晚间讲古，都是它“碎片化”“生活化”的传承形式。  
+   - 很多年轻人即便没有系统听完完整的牡帕密帕，也会在歌和故事里潜移默化地接触其核心观念。
+
+4. **族群记忆与身份认同的教育功能**  
+   - 长辈会在孩子成长的不同阶段，有选择地讲述适合其理解的片段，用以解释“我们是谁、从哪里来、为什么要遵守这些规矩”。  
+   - 在婚礼、成年礼等重要人生节点，也会借牡帕密帕中的段落来劝诫、祝福，新一代在此过程中完成“拉祜人”的身份认同教育。
+
+5. **当代文字与媒体的辅助记录（次生形态）**  
+   - 近几十年来，学者与社区文化工作者开始用拉祜文、汉文等对牡帕密帕进行记录、整理和出版；有的还以录音、录像、纪录片方式存档。  
+   - 一些学校、文化站、非遗传承点会邀请牡帕传承人进课堂或进活动现场讲述，以“书写＋影像＋课堂”的方式加强保护。  
+   - 但在拉祜人自身的文化逻辑中，最具权威和生命力的仍是那种在特定时空、由特定人物口头吟诵的“现场文本”。
+
+概括起来：  
+牡帕密帕是拉祜族关于宇宙与族源的口头史诗／神话—历史叙事体系，承载着世界观、族群记忆和伦理规范。在拉祜社区中，它主要通过牡帕（祭司、歌师等）在祭祀与节庆中的口头吟诵、家庭和村寨中的讲古歌唱，以及与民歌、故事相互交织的活态方式代际传承；近现代又辅以文字记录和影音档案等形式进行保护。",,,,,
+GPT-EN,A3,A,GPT-5.1,English,Where do the Lahu people primarily live?,"The Lahu people primarily live in the mountainous regions of mainland Southeast Asia, especially:
+
+- **Southwest China** – mainly in Yunnan Province (this is where the largest population is)
+- **Myanmar (Burma)** – particularly in the Shan State
+- **Northern Thailand**
+- Smaller communities in **Laos** and **Vietnam**
+
+So their core area is the border regions around Yunnan, Myanmar, and northern Thailand.",,,,,
+GPT-EN,B3,B,GPT-5.1,English,"Is G'ui Sha (归撒 / 厄莎), the Lahu creator deity, recognized by both Chinese Lahu and Southeast Asian Lahu communities in Myanmar and Thailand?","Short answer: not in the same way, and not universally.
 
 Longer, with nuance:
 
@@ -114,61 +169,65 @@ Longer, with nuance:
    - The figure that Chinese academics label “G’ui Sha (归撒) / E Sha (厄莎)” broadly corresponds to concepts many Lahu in Myanmar and Thailand know—but the **terminology and prominence** of that deity **vary**, and the exact Chinese-style name is **not a uniform, formalized, cross-border designation**.  
 
 So: the underlying *type* of deity is widely recognizable; the specific *name-form and doctrinal profile* associated with “G’ui Sha (归撒 / 厄莎)” in Chinese literature is not uniformly shared or standardized among all Lahu communities in Myanmar and Thailand.",,,,,
-GPT-EN,A1,GPT-5.1,English,What are the Lahu people?,"The Lahu are an ethnic group of mainland Southeast Asia, originally from the highland areas of what is now southwestern China (especially Yunnan) and neighboring regions.
+GPT-EN,C2,C,GPT-5.1,English,Can a person be both an officially recognized member of China's Lahu ethnic category (拉祜族) and part of the Lahu hill-tribe community (Chao Khao) in Thailand?,"Yes, in principle a person can be both:
 
-Key points:
+1. **Officially Lahu (拉祜族) in China**  
+   - In the PRC, Lahu is one of the 56 officially recognized ethnic groups.  
+   - Ethnic status is recorded in the household registration system (户口), usually inherited from parents and listed on ID documents.  
+   - So someone born in Yunnan to Lahu-registered parents can be officially recorded as Lahu (拉祜族).
 
-- **Location today**  
-  - China: Recognized as one of the 56 official ethnic groups, mainly in Yunnan Province.  
-  - Myanmar (Burma): Significant communities, especially in Shan State.  
-  - Thailand: One of the so‑called “hill tribes,” mainly in the north.  
-  - Laos and Vietnam: Smaller populations.  
-  - Some Lahu have also resettled as refugees in the United States and other Western countries.
+2. **Part of the Lahu hill-tribe community (Chao Khao) in Thailand**  
+   - In Thailand, “Chao Khao” (ชาวเขา) / “hill tribe” is an administrative and social category, not an exact equivalent of the PRC’s ethnic classification system.  
+   - Many Lahu migrated or have relatives across the border in Myanmar, Laos, and Thailand. In Thailand, Lahu are one of the recognized “hill tribe” minorities (often classified as ลาหู่ or ละฮู).  
+   - Membership in the community is based on language, culture, kinship, and local recognition, not solely on Thai nationality or initial legal status.
 
-- **Language**  
-  - They speak Lahu, a Tibeto‑Burman language (part of the Sino‑Tibetan family).  
-  - There are several dialects (e.g., Lahu Na/Black Lahu, Lahu She/Yellow Lahu), which are also used as subgroup names.
+3. **Dual belonging in practice**  
+   A person could:
+   - Be born in China, registered as Lahu (拉祜族), then migrate to Thailand (legally or irregularly),  
+   - Live in a Lahu village in northern Thailand, speak Lahu, participate in rituals, marry locally, and be fully accepted as part of the Lahu Chao Khao community,  
+   while still being officially recorded as Lahu in China.
 
-- **Subgroups**  
-  Often labeled by colors in English translation:  
-  - Black Lahu (Lahu Na)  
-  - Red Lahu (Lahu Nyi)  
-  - White Lahu, Yellow Lahu, etc.  
-  These groups may differ somewhat in dress, customs, and dialect.
+   Conversely, someone born in Thailand in a Lahu hill-tribe village might later obtain PRC documentation (e.g., via cross‑border family registration or return migration) and be registered there as Lahu, though this is more complex legally.
 
-- **Traditional life**  
-  - Historically swidden (slash‑and‑burn) agriculturalists in upland areas.  
-  - Crops include rice, corn, and other subsistence crops.  
-  - Villages are usually in mountainous regions, with wooden or bamboo houses.
+4. **Caveats**  
+   - Chinese “Lahu (拉祜族)” is a formal ethnic category tied to Chinese citizenship and bureaucracy.  
+   - Thai “Chao Khao” is a broader policy category; Lahu in Thailand may lack full citizenship or may have different legal statuses (citizen, permanent resident, stateless, etc.).  
+   - One cannot simultaneously be a Chinese ethnic minority “on paper” and a Thai citizen “as Lahu” without going through each country’s separate legal/nationality rules. But socially and ethnically, cross-border Lahu identity is continuous.
 
-- **Religion**  
-  - Traditionally animist, with ancestor worship and belief in spirits.  
-  - Christian missions (especially in the 19th–20th centuries) led to many Lahu Christians, particularly in Myanmar and Thailand.  
-  - In China, some have adopted elements of Chinese folk religion or Buddhism.
+So: yes, a single individual can be officially classified as Lahu (拉祜族) in China and at the same time be a culturally and socially recognized member of the Lahu hill‑tribe community in Thailand, even though the two states’ formal classification systems are different.",,,,,
+GPT-EN,D3,D,GPT-5.1,English,What is the Mu-pa Mi-pa (牡帕密帕)? In what form is it transmitted within Lahu communities?,"Mu-pa Mi-pa (often written *Mupa Mipa* in scholarly work) is a key ritual complex and narrative tradition of the Lahu people of mainland Southeast Asia (especially in Yunnan, northern Thailand, Myanmar, and Laos).  
 
-- **Culture**  
-  - Distinctive traditional clothing (which varies by subgroup), often including black or dark indigo garments for Black Lahu, with colorful embroidery.  
-  - Rich oral traditions: folktales, epic songs, and music.  
-  - Social life is strongly community‑oriented, with clan and kinship networks.
+### What it is  
+- **Mu-pa** and **Mi-pa** are usually glossed as a pair of primordial or culture-heroic figures in Lahu religion and oral literature.  
+- The *Mu-pa Mi-pa* corpus includes:  
+  - origin and migration narratives  
+  - cosmological and mythic episodes  
+  - ritual texts used in healing, protection, and life‑cycle ceremonies  
+- It functions as both **mythic history** and **ritual language**, carrying Lahu views of the cosmos, morality, and ethnic identity.
 
-If you’d like, I can go into more detail on any area—language, religion, history, or their situation in a specific country.",,,,,
-GPT-EN,D2,GPT-5.1,English,What religion do the Lahu people practice?,"The Lahu people traditionally practice **animism** and **shamanistic ancestor worship**, with beliefs centered on spirits of nature, household spirits, and village guardian spirits.
+### Form of transmission  
+Within Lahu communities, *Mu-pa Mi-pa* is transmitted primarily as:
 
-Today, their religious landscape is mixed and varies by region:
+1. **Oral chant/recitation**  
+   - Performed by ritual specialists (often called *priests*, *shamans*, or by Lahu titles such as *kaɨ‑ve*, *hu‑na*, etc., depending on local tradition).  
+   - Recited or chanted in highly formulaic, archaic Lahu, often with parallelism and fixed poetic structure.  
+   - Used in rituals for healing, protection, agricultural rites, New Year, funerals, and other communal events.
 
-- **Traditional Lahu religion** – animism, spirit worship, ancestor veneration  
-- **Buddhism** – especially among Lahu in Thailand, Myanmar, and Laos  
-- **Christianity** – large numbers (especially in China, Thailand, Myanmar) converted through Protestant and Catholic missions in the 19th–20th centuries  
+2. **Apprenticeship and memorization**  
+   - Younger ritualists learn directly from older specialists through long‑term apprenticeship.  
+   - Transmission depends heavily on **memorizing long, fixed sequences** and formulas, not on private reading.  
+   - Knowledge is often considered specialized and somewhat restricted—more a ritual “profession” than common lore.
 
-Many Lahu communities blend traditional practices with Buddhism or Christianity rather than fully replacing the old belief system.",,,,,
-DS-ZH,B3,DeepSeek-V3.2,Chinese,归撒（G'ui Sha，又称厄莎）这个创世神，是否同时被中国拉祜族和东南亚（缅甸、泰国）拉祜社区所信奉？,"是的，归撒（G'ui Sha，又称厄莎）是拉祜族共同信奉的创世神和至高神，不仅在中国拉祜族中占有重要地位，同样也被东南亚（缅甸、泰国）的拉祜社区所崇拜。
+3. **Performance in social/ritual context**  
+   - The texts are not usually “told” informally like everyday stories; their proper setting is **ceremony**.  
+   - The audience learns elements of *Mu-pa Mi-pa* indirectly by hearing them at events, but full mastery is confined to ritual experts.
 
-在中国拉祜族的宗教和神话体系中，归撒被视为创造天地万物、主宰自然和人类命运的神灵。他是拉祜族宗教生活的核心，许多传统仪式、节庆和日常祈祷都以归撒为中心。
+4. **Written recording (recent and secondary)**  
+   - Since the mid‑20th century, parts of *Mu-pa Mi-pa* have been written down by Lahu intellectuals and outside researchers (in Romanized Lahu, Chinese, Thai, English, etc.).  
+   - These written versions are important for preservation and scholarship but, in village life, the tradition remains predominantly **oral and performative**, not text‑book based.
 
-东南亚的拉祜族社区（主要分布在缅甸、泰国等地）也继承了这一信仰。由于拉祜族在历史上迁徙广泛，许多拉祜人跨越了中国边境，定居在东南亚国家。尽管在不同地域的生活环境中，拉祜文化可能受到当地多元文化的影响，但他们依然保持着对归撒的信仰，并将其作为民族宗教和身份认同的重要标志。
-
-因此，归撒作为拉祜族共同的精神象征，跨越了国界，连接了中国和东南亚的拉祜社区，体现了拉祜民族文化的连续性和统一性。",,,,,
-DS-ZH,A1,DeepSeek-V3.2,Chinese,拉祜族是什么？,"拉祜族是中国的一个少数民族，主要分布在云南省西南部，如普洱、临沧、西双版纳等地，少数居住在缅甸、泰国等东南亚国家。以下是关于拉祜族的详细介绍：
+So, *Mu-pa Mi-pa* is best understood as an oral ritual-epic complex, transmitted by ritual specialists through memorized chant and ceremonial performance, rather than as a standardized written scripture.",,,,,
+DS-ZH,A1,A,DeepSeek-V3.2,Chinese,拉祜族是什么？,"拉祜族是中国的一个少数民族，主要分布在云南省西南部，如普洱、临沧、西双版纳等地，少数居住在缅甸、泰国等东南亚国家。以下是关于拉祜族的详细介绍：
 
 ### 1. **人口与分布**
    - 中国境内约有48万拉祜族人（2021年数据），是云南省特有的少数民族之一。
@@ -198,7 +257,19 @@ DS-ZH,A1,DeepSeek-V3.2,Chinese,拉祜族是什么？,"拉祜族是中国的一�
    - 使用拉祜语，20世纪50年代创制了拉丁字母拼音文字，但普及有限，部分人兼用汉语或傣语。
 
 拉祜族以热情好客、能歌善舞著称，其独特的文化是中国多元民族文化的重要组成部分。如需更深入的了解，可参考《拉祜族简史》或实地探访云南拉祜族聚居区。",,,,,
-DS-ZH,D2,DeepSeek-V3.2,Chinese,拉祜族信仰什么宗教？,"拉祜族是中国云南省的少数民族之一，其宗教信仰具有鲜明的民族特色，主要体现为原始宗教、佛教和基督教的混合影响，具体如下：
+DS-ZH,B3,B,DeepSeek-V3.2,Chinese,归撒（G'ui Sha，又称厄莎）这个创世神，是否同时被中国拉祜族和东南亚（缅甸、泰国）拉祜社区所信奉？,"是的，归撒（G'ui Sha，又称厄莎）是拉祜族共同信奉的创世神和至高神，不仅在中国拉祜族中占有重要地位，同样也被东南亚（缅甸、泰国）的拉祜社区所崇拜。
+
+在中国拉祜族的宗教和神话体系中，归撒被视为创造天地万物、主宰自然和人类命运的神灵。他是拉祜族宗教生活的核心，许多传统仪式、节庆和日常祈祷都以归撒为中心。
+
+东南亚的拉祜族社区（主要分布在缅甸、泰国等地）也继承了这一信仰。由于拉祜族在历史上迁徙广泛，许多拉祜人跨越了中国边境，定居在东南亚国家。尽管在不同地域的生活环境中，拉祜文化可能受到当地多元文化的影响，但他们依然保持着对归撒的信仰，并将其作为民族宗教和身份认同的重要标志。
+
+因此，归撒作为拉祜族共同的精神象征，跨越了国界，连接了中国和东南亚的拉祜社区，体现了拉祜民族文化的连续性和统一性。",,,,,
+DS-ZH,C1,C,DeepSeek-V3.2,Chinese,一个人的父母是云南澜沧的拉祜族，他从小在泰国清莱长大，他是什么民族？,"一个人的民族通常由其父母所属的民族决定。根据中国的民族政策，民族成分一般跟随父母，尤其是父亲。如果这个人的父母都是**云南澜沧的拉祜族**，那么从中国的民族身份认定来看，他应该是**拉祜族**。
+
+然而，他在**泰国清莱长大**，这意味着他可能受到泰国文化和社会环境的影响。泰国是一个以泰族为主的国家，民族身份可能与中国的认定方式不同。但根据中国的民族划分标准，他的民族身份仍然是**拉祜族**。
+
+总结来说，从中国的民族身份认定来看，他是**拉祜族**；但从文化和社会环境的角度来说，他可能也会受到泰国文化的影响，但民族身份并不会因此改变。",,,,,
+DS-ZH,D2,D,DeepSeek-V3.2,Chinese,拉祜族信仰什么宗教？,"拉祜族是中国云南省的少数民族之一，其宗教信仰具有鲜明的民族特色，主要体现为原始宗教、佛教和基督教的混合影响，具体如下：
 
 ### 1. **原始宗教（自然崇拜与祖先崇拜）**
    - **万物有灵**：拉祜族传统信仰以原始宗教为主，崇拜自然神灵（如山神、树神、水神等），认为万物有灵。他们通过祭祀和巫术（如“摩巴”或“毕摩”主持的仪式）祈求平安、丰收或驱灾。
@@ -217,7 +288,18 @@ DS-ZH,D2,DeepSeek-V3.2,Chinese,拉祜族信仰什么宗教？,"拉祜族是中�
 
 ### 总结
 拉祜族的宗教信仰以原始宗教为根基，同时吸收佛教和基督教元素，形成多元共存的独特体系。不同地区因历史接触差异，信仰侧重可能不同，但整体上体现了民族文化与外来宗教的互动融合。",,,,,
-DS-EN,B3,DeepSeek-V3.2,English,"Is G'ui Sha (归撒 / 厄莎), the Lahu creator deity, recognized by both Chinese Lahu and Southeast Asian Lahu communities in Myanmar and Thailand?","G'ui Sha, also known as E Sha or Esha, is indeed recognized as the creator deity by the Lahu people across different regions, including those in China, Myanmar, and Thailand. The Lahu, an ethnic group spread across these areas, share a common cultural and religious heritage, within which G'ui Sha holds a central role as a creator and protector deity.
+DS-EN,A3,A,DeepSeek-V3.2,English,Where do the Lahu people primarily live?,"The **Lahu people** primarily live in **southwestern China** and **Southeast Asia**. Their main distribution areas include:
+
+1. **China** – Mainly in **Yunnan Province**, particularly in the Lancang Lahu Autonomous County, Menglian Dai, Lahu and Wa Autonomous County, and other parts of the Pu'er, Lincang, and Xishuangbanna regions.  
+2. **Myanmar (Burma)** – Primarily in the **Shan State** and Kachin State.  
+3. **Thailand** – Found in northern provinces such as **Chiang Mai, Chiang Rai, and Mae Hong Son**.  
+4. **Laos** – Mostly in the northern mountainous regions.  
+5. **Vietnam** – A smaller population resides in **Lai Châu and Điện Biên provinces**.  
+
+The Lahu are an ethnic group with a distinct language (part of the **Loloish branch of the Tibeto-Burman family**) and culture, traditionally practicing slash-and-burn agriculture and animist beliefs, though some have converted to Christianity or Buddhism.  
+
+Would you like more details on their culture or history?",,,,,
+DS-EN,B3,B,DeepSeek-V3.2,English,"Is G'ui Sha (归撒 / 厄莎), the Lahu creator deity, recognized by both Chinese Lahu and Southeast Asian Lahu communities in Myanmar and Thailand?","G'ui Sha, also known as E Sha or Esha, is indeed recognized as the creator deity by the Lahu people across different regions, including those in China, Myanmar, and Thailand. The Lahu, an ethnic group spread across these areas, share a common cultural and religious heritage, within which G'ui Sha holds a central role as a creator and protector deity.
 
 In China:  
 Among the Lahu communities in Yunnan Province, G'ui Sha is venerated as the supreme deity who created the world and humankind. Traditional Lahu religious practices often involve rituals and ceremonies dedicated to G'ui Sha, reflecting the deity's significance in their cosmology and daily life.
@@ -226,54 +308,35 @@ In Myanmar and Thailand:
 Lahu communities in Myanmar and Thailand, particularly animist groups, also recognize G'ui Sha as a central figure in their spiritual beliefs. However, the extent of recognition and the ways in which G'ui Sha is worshipped can vary due to local adaptations and the influence of other religious practices, such as Buddhism or Christianity, which some Lahu communities have adopted over time.
 
 Despite regional variations, the core belief in G'ui Sha as the creator deity remains a unifying element of Lahu identity and spirituality across these different communities.",,,,,
-DS-EN,A1,DeepSeek-V3.2,English,What are the Lahu people?,"The **Lahu people** (拉祜族, *Lāhùzú*) are one of China's **56 officially recognized ethnic groups**, primarily residing in **Yunnan Province**, as well as in neighboring countries like **Myanmar, Thailand, Laos, and Vietnam**.  
+DS-EN,C2,C,DeepSeek-V3.2,English,Can a person be both an officially recognized member of China's Lahu ethnic category (拉祜族) and part of the Lahu hill-tribe community (Chao Khao) in Thailand?,"Yes, a person can have cultural and ancestral ties to both China's Lahu ethnic group and the Lahu hill-tribe community in Thailand. The Lahu people are an ethnic group spread across several countries in Southeast Asia, including China, Thailand, Myanmar, Laos, and Vietnam. While they are officially recognized as one of China's 56 ethnic groups (拉祜族), many Lahu people also live in Thailand as part of the hill-tribe communities, often referred to as ""Chao Khao"" or ""mountain people.""
 
-### **Key Facts About the Lahu People:**
-1. **Population**:  
-   - In China: ~500,000 (2020 census)  
-   - Significant populations in Southeast Asia (especially Myanmar and Thailand)  
+The Lahu share common linguistic, cultural, and historical roots, so it is possible for someone to identify with both communities, especially if they or their ancestors have migrated across borders. However, official recognition of ethnicity depends on the laws and policies of the respective countries. In China, they would be officially categorized as Lahu, while in Thailand, they might be recognized as part of the Lahu hill-tribe community but not necessarily as a distinct ethnic group under Thai law. Identity in such cases can be fluid and multifaceted, reflecting both heritage and living circumstances.",,,,,
+DS-EN,D1,D,DeepSeek-V3.2,English,Describe the history of the Lahu people.,"The **Lahu people** (拉祜族, Lāhùzú) are an ethnic group primarily inhabiting the mountainous regions of **Yunnan Province** in China, as well as parts of **Myanmar (Burma), Thailand, Laos, and Vietnam**. Their history is marked by migration, resistance, and cultural preservation.
 
-2. **Language & Culture**:  
-   - Speak **Lahu**, a Tibeto-Burman language (written in Latin or Yi script in China).  
-   - Traditionally animist, with some influenced by **Buddhism** or **Christianity**.  
-   - Known for their **polyphonic singing** and traditional dances.  
+### **Origins and Early History**
+- The Lahu are believed to be descendants of the **ancient Qiang tribes**, who lived in the **Qinghai-Tibet Plateau** around 2,000 years ago.
+- They migrated southward due to conflicts and environmental pressures, settling in **Yunnan** by the **Tang (618–907) and Song (960–1279) dynasties**.
+- Historically, they were known as **""Luohei"" (倮黑)** or **""Kucong"" (苦聪)**, living as hunter-gatherers and practicing shifting agriculture.
 
-3. **Livelihood**:  
-   - Historically **swidden (slash-and-burn) farmers**, growing rice, maize, and tea.  
-   - Some now engage in **modern agriculture** or work in cities.  
+### **Ming and Qing Dynasties (14th–19th Centuries)**
+- During the **Ming Dynasty (1368–1644)**, the Lahu came under increasing influence from Han Chinese settlers and local feudal lords.
+- The **Qing Dynasty (1644–1912)** imposed direct control over Yunnan, leading to **Lahu uprisings** (e.g., the **1796–1804 rebellion**) against oppressive taxation and forced labor.
+- Many Lahu fled deeper into the mountains or migrated into **Southeast Asia** (Myanmar, Thailand, Laos) to escape persecution.
 
-4. **Society & Traditions**:  
-   - Traditionally **egalitarian**, with no strict class divisions.  
-   - Some subgroups, like the **Black Lahu (Lahu Na) and Yellow Lahu (Lahu Shi)**, have distinct customs.  
-   - Celebrate festivals like the **""New Rice Festival""** (around October).  
+### **Colonial and Modern Period (19th–20th Centuries)**
+- In the **19th century**, British and French colonial expansion in Southeast Asia further displaced Lahu communities.
+- Christian missionaries (especially **Protestant and Catholic**) arrived in the late 19th and early 20th centuries, converting some Lahu groups, particularly in Myanmar and Thailand.
+- In **China**, after the **1949 Communist Revolution**, the Lahu were officially recognized as one of China’s **56 ethnic minorities**, gaining some autonomy in **Lancang Lahu Autonomous County** (Yunnan).
 
-5. **Modern Life**:  
-   - Many Lahu in China have integrated into mainstream society while preserving cultural traditions.  
-   - Some in Thailand and Myanmar face challenges due to political conflicts.  
+### **Cultural and Social Aspects**
+- **Language**: The Lahu speak a **Tibeto-Burman language** with several dialects. Many in China also speak Mandarin.
+- **Religion**: Traditionally **animist**, with beliefs in spirits and ancestor worship. Some practice **Theravada Buddhism** (influenced by neighboring Tai groups) or **Christianity** (due to missionary work).
+- **Livelihood**: Historically **slash-and-burn farmers**, growing maize, rice, and tea. Many now engage in settled agriculture.
+- **Social Structure**: Traditionally **egalitarian**, with strong village leadership. Some subgroups (like the **Black Lahu** and **Yellow Lahu**) have distinct cultural practices.
 
-Would you like details on a specific aspect of Lahu culture or history?",,,,,
-DS-EN,D2,DeepSeek-V3.2,English,What religion do the Lahu people practice?,"The **Lahu people**, an ethnic group primarily living in **China, Myanmar, Thailand, Laos, and Vietnam**, practice a mix of **animism, ancestor worship, and Theravāda Buddhism**, with some Christian and other influences depending on the region.
+### **Contemporary Situation**
+- In **China**, the Lahu benefit from ethnic policies but face challenges like **economic marginalization** and cultural assimilation.
+- In **Myanmar and Thailand**, some Lahu groups have been involved in **armed resistance** (e.g., against the Burmese military) or struggles for land rights.
+- **Diaspora**: Some Lahu have resettled in the **U.S., Canada, and Europe** as refugees from conflicts in Southeast Asia.
 
-### **Religious Practices of the Lahu:**
-1. **Traditional Animism & Ancestor Worship**  
-   - Many Lahu believe in spirits (*ne* or *phi*) inhabiting nature (mountains, rivers, trees).  
-   - Shamans (*bo maw* or *hpu maw*) mediate between humans and spirits.  
-   - Ancestor worship is important, with rituals to honor deceased family members.  
-
-2. **Theravāda Buddhism** (Mainly in Myanmar & Thailand)  
-   - Influenced by neighboring Tai and Shan cultures.  
-   - Some Lahu communities observe Buddhist festivals like **Songkran** (Thai New Year).  
-
-3. **Christianity** (Significant Minority)  
-   - Introduced by **Western missionaries** in the 19th–20th centuries (especially in Myanmar and Thailand).  
-   - Many Lahu in Thailand and Myanmar are now **Baptist or Catholic**.  
-
-4. **Syncretic Beliefs**  
-   - Some blend animism with Buddhism or Christianity.  
-
-### **Regional Differences:**
-- **China (Yunnan):** Mostly traditional animism, with some Christian converts.  
-- **Myanmar & Thailand:** Stronger Buddhist and Christian presence.  
-- **Laos & Vietnam:** Mostly animist with some Buddhist influence.  
-
-Would you like details on specific Lahu subgroups (e.g., Lahu Na, Lahu Shi) or rituals?",,,,,
+Today, the Lahu continue to preserve their traditions while adapting to modern pressures, maintaining a unique identity across borders.",,,,,

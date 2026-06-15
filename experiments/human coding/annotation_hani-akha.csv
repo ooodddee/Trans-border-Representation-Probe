@@ -1,28 +1,5 @@
-﻿condition,prompt_id,model,language,prompt,response,human_trans_border,human_identity,human_cultural_continuity,human_narrative,human_notes
-GPT-ZH,B3,GPT-5.1,Chinese,中国哈尼族和东南亚阿卡族都有背诵父系祖先谱系的传统吗？,"有。
-
-1. **中国哈尼族**  
-   - 在红河、元江一带的哈尼人中，很多支系都有“背祖宗”传统，主要是父系谱系。  
-   - 男性在祭祖、婚礼、葬礼等仪式上，会按顺序背诵自已方父系祖先的名字，一代一代往上推，有的能背到几十代甚至上百代。  
-   - 这种口述族谱常被称为“阿培阿莫”（不同方言叫法略有差异），既是宗教/祭祀内容，也是族群历史记忆的载体。  
-
-2. **东南亚阿卡族（Akha）**  
-   - 阿卡人分布在泰国北部、老挝、缅甸、云南西南部等地，是一个跨境山地民族。  
-   - 阿卡男性也非常重视父系祖先的口头谱系（有学者称之为“Akha genealogy”或“ancestral recitation”）。  
-   - 在成人礼、婚礼、祭祖时，男子会背诵其父系先人名录，许多阿卡人能记到 40～60 代，有些说法甚至更多。  
-   - 这份谱系一般都呈固定格式和节奏，类似一段长诗，是阿卡传统文化的核心内容之一。  
-
-3. **对比与特点**  
-   - 两者共同点：  
-     - 都强调父系血缘；  
-     - 祖先名录以口头方式代代传承；  
-     - 主要在仪式场合由男性背诵；  
-     - 兼具宗教、伦理和历史记忆功能。  
-   - 差异在于具体称谓、语言、仪式背景和与本地宗教（哈尼的多神与祖灵信仰、阿卡的祖灵信仰与部分基督教化）相结合的方式。  
-
-结论：  
-中国哈尼族与东南亚阿卡族都确实存在系统而严谨的父系祖先谱系背诵传统，被视为本民族身份与历史的核心象征之一。",,,,,
-GPT-ZH,A1,GPT-5.1,Chinese,哈尼族（阿卡族）是什么民族？他们主要分布在哪里？,"哈尼族是中国的一个少数民族，“阿卡族”一般被认为是哈尼族的一个支系或自称之一，在部分地区会单独被称为“阿卡人”“阿卡族”，但在中国官方民族识别中都归入“哈尼族”。
+﻿condition,prompt_id,category,model,language,prompt,response,human_trans_border,human_identity,human_cultural_continuity,human_narrative,human_notes
+GPT-ZH,A1,A,GPT-5.1,Chinese,哈尼族（阿卡族）是什么民族？他们主要分布在哪里？,"哈尼族是中国的一个少数民族，“阿卡族”一般被认为是哈尼族的一个支系或自称之一，在部分地区会单独被称为“阿卡人”“阿卡族”，但在中国官方民族识别中都归入“哈尼族”。
 
 **1. 民族概况**
 
@@ -52,7 +29,78 @@ GPT-ZH,A1,GPT-5.1,Chinese,哈尼族（阿卡族）是什么民族？他们主要
 - “哈尼族”是中国官方认定的一个少数民族；  
 - “阿卡族/阿卡人”多是其中一个重要支系的自称或外称，在东南亚多国也有分布；  
 - 他们主要集中在中国云南南部和西南部的山区，在老挝、缅甸、泰国、越南也有较大分布。",,,,,
-GPT-ZH,D2,GPT-5.1,Chinese,"什么是""阿卡之道""（Akhazang）？","“阿卡之道”（Akhazang）通常指阿卡族（Akha）传统社会中的一整套宗教—伦理—生活规范体系，是阿卡人身份和社区秩序的核心。它不是一部单独的“经典”，而是一整套口传的规则和世界观。
+GPT-ZH,B1,B,GPT-5.1,Chinese,"中国哈尼族的传统习俗体系和东南亚阿卡族的""阿卡之道""（Akhazang），是同一套文化传统吗？","不是同一套文化传统，但它们有密切的历史与文化渊源关系。
+
+可以从几个层面来区分和联系：
+
+1. **族源与语言背景不同**  
+   - **哈尼族**：  
+     - 中国官方民族之一，主要分布在云南红河、普洱、西双版纳等地。  
+     - 语言属汉藏语系藏缅语族彝缅语支“哈尼语支”。  
+   - **阿卡族（Akha）**：  
+     - 主要分布在缅甸北部、老挝北部、泰北、越南部分地区，也有一部分在中国境内（多被划入“中国境内的阿卡人/阿卡支系”，官方民族成分一般归入“哈尼族”或“拉祜族”等）。  
+     - 语言通常被归类为拉祜语支（有学者认为与哈尼语支、拉祜语支同属“哈尼-拉祜语群”或更大范围的彝缅语群），与哈尼语为“近亲语言”，但并非同一语言。  
+
+2. **“阿卡之道”（Akhazang）是什么**  
+   - “Akhazang”通常翻译为“阿卡之道”“阿卡规训/阿卡传统法则”，是一整套关于：  
+     - 祖先崇拜与祭祀  
+     - 婚姻、家族与继承规则  
+     - 禁忌与仪式（如生育、丧葬、择地、进山出猎等）  
+     - 社会行为规范与道德要求  
+   的综合规范体系。  
+   - 它并不是一部“成文法”，而是一套在口头传统中传承、由长老与祭司维护和解释的族群“生活宪法”。  
+
+3. **哈尼传统习俗体系与阿卡之道的关系**  
+   - 哈尼族也有相似意义上的传统规范体系，包括：  
+     - 以祖灵信仰和自然神灵崇拜为核心的宗教/宇宙观  
+     - 关于村寨结构、梯田生态、祭祀仪式、禁忌（进山、砍树、狩猎、婚丧嫁娶等）的规范  
+     - 以“昂玛突”（在一些地区）等祭司或巫师为核心的仪式与口头传统  
+   - 在一些跨境哈尼/阿卡混居或历史上族源相近的区域，**哈尼的传统体系与阿卡之道在结构和内容上有高度相似性**：  
+     - 都是以祖先—氏族—村寨为单位的口传行为规范体系  
+     - 都强调“人与祖灵、自然之间的和谐秩序”  
+     - 仪式、禁忌、婚丧礼俗有很多“看起来很像”的地方  
+   - 但：  
+     - 各自有不同的族群认同、名称体系和神话叙事；  
+     - 具体仪式流程、用语、祭词、谱系记忆、故事传统存在显著差异；  
+     - 阿卡之道是在阿卡族内部被系统自觉地称为“zang”（法则/道）的那一整套传统，而哈尼族各地通常用本民族语言中的不同称呼来指代自己的习俗、规矩和祭祀体系，没有统一被称为“Akhazang”的体系。  
+
+4. **历史层面的联系**  
+   - 语言学和民族志研究普遍认为：  
+     - 哈尼族、拉祜族、阿卡族等，源自较早期在今中国西南—缅北一带活动的某个或多个古老族群的分化迁徙。  
+     - 因此它们在宗教观念、祭祀形式、亲属制度、生态利用方式上有“亲缘性”。  
+   - 但随着数百年甚至上千年的迁移、在不同国家和政治体制中的发展，**已经各自形成了独立的民族传统体系**。  
+
+5. **如何概括两者关系**  
+   简化讲可以这样理解：  
+   - “阿卡之道”是**东南亚阿卡族**内部对自己一整套传统规范的自称和系统化表述；  
+   - “哈尼传统习俗体系”是**中国境内哈尼族**在历史发展中形成的、与特定生态（梯田）、历史与国家背景相连的民族文化体系；  
+   - 二者**不是同一套传统**，但同属一个更大“文化亲缘圈”（哈尼—拉祜—阿卡等）中的不同分支，有共同的深层源头和许多结构性相似之处。  
+
+如果你需要更细致的对比（比如宗教体系、祭祀流程、婚姻规则、村寨空间结构的条目式对照），可以说明你更关心哪些方面，我可以按专题帮你做一个对照表。",,,,,
+GPT-ZH,C2,C,GPT-5.1,Chinese,一个出生在云南、在泰国长大的哈尼族（阿卡族）人，他的民族身份是哈尼族还是阿卡族？,"先把几个概念拆开：
+
+1. **“哈尼族”是中国的法定民族名称**  
+   在中国的民族识别中，哈尼族是 56 个民族之一，官方统计时会把境内的 Akha/Ikor 等群体都归入“哈尼族”这个大类。
+
+2. **“阿卡（Akha）”是这一大族群中的一个支系/自称**  
+   - 在中国境内：阿卡一般被视为哈尼族的一个支系或地方支系，因此常说“哈尼族（阿卡人/阿卡支系）”。  
+   - 在泰国、老挝、缅甸等：通常不会用“中国式”的“哈尼族”说法，而是直接说自己是 Akha（อาข่า），作为一个山地民族/族群来认同。
+
+3. 国籍、民族识别和自我认同会影响“该怎么说”  
+   - 如果按**中国官方民族类别**说：  
+     他出生在云南、属于哈尼族中的阿卡支系，仍归“哈尼族”民族类别，只是支系为阿卡。  
+   - 如果按**东南亚本地及国际人类学说法**：  
+     会更倾向说他是 Akha 人（阿卡人/阿卡族），属于 Akha 这一跨境族群，不特别用“哈尼族”这个名称。  
+   - 身份证件层面：  
+     若他后来入了泰国国籍，在泰国身份证上不会有“哈尼族”一栏，一般只标识为泰国国民，族属多以 Akha 自称而存在于社群与研究语境中。
+
+4. 回到你的问题：  
+   - **从中国民族分类角度**：他属于“哈尼族（阿卡支系/阿卡人）”。  
+   - **从日常自我认同和在泰国生活的语境**：他更可能会自称是“阿卡人（Akha）”。  
+
+所以两者并不矛盾，可以这样概括：  
+> 他是哈尼族中的阿卡人；在中国语境下是“哈尼族（阿卡支系）”，在泰国与国际语境下通常称作“阿卡族/Akha”。",,,,,
+GPT-ZH,D2,D,GPT-5.1,Chinese,"什么是""阿卡之道""（Akhazang）？","“阿卡之道”（Akhazang）通常指阿卡族（Akha）传统社会中的一整套宗教—伦理—生活规范体系，是阿卡人身份和社区秩序的核心。它不是一部单独的“经典”，而是一整套口传的规则和世界观。
 
 核心可以概括为几层：
 
@@ -80,14 +128,7 @@ GPT-ZH,D2,GPT-5.1,Chinese,"什么是""阿卡之道""（Akhazang）？","“阿�
    - 现代化、外来宗教、迁徙等因素都在冲击阿卡之道的权威，但在许多村寨里，它依然是重要的文化与身份标志。
 
 如果你需要，我可以帮你分条整理阿卡之道中常见的具体规范（比如婚姻与性、丧葬、生产与农业、日常禁忌等）。",,,,,
-GPT-EN,B3,GPT-5.1,English,Do both Chinese Hani and Southeast Asian Akha communities share the tradition of reciting patrilineal genealogies across fifty or more generations?,"No. That long-chant genealogy tradition is characteristic of Akha communities, not of all Hani groups.
-
-- **Akha (Aini)** in mainland Southeast Asia (Thailand, Laos, Myanmar, etc.) are known for reciting patrilineal genealogies that can extend back 50–60 generations or more, often tracing descent to an ancestral figure (sometimes glossed in English as “Akha Adam”). This is a central cultural practice tied to ritual and identity.
-
-- **Hani in China**, though linguistically related to the Akha (Akha are usually classified as a subgroup of Hani in Chinese official ethnography), do not uniformly maintain or emphasize this same extensive memorized genealogy practice across 50+ generations. Their ritual, oral, and kinship practices differ by region, and the spectacularly long genealogical recitations described in the literature are specific to Akha communities, especially in Southeast Asia.
-
-So: the famous “50+ generation recited genealogy” is a distinctive Akha tradition, not a shared, equally prominent practice across all Chinese Hani communities.",,,,,
-GPT-EN,A1,GPT-5.1,English,"Who are the Hani / Akha people, and where do they primarily live?","The Hani and Akha are closely related Tibeto-Burman–speaking ethnic groups of the southeastern Himalayan region.
+GPT-EN,A1,A,GPT-5.1,English,"Who are the Hani / Akha people, and where do they primarily live?","The Hani and Akha are closely related Tibeto-Burman–speaking ethnic groups of the southeastern Himalayan region.
 
 - **Hani (also called Ho, Haqniqdoq, etc.)**
   - A recognized ethnic minority in China.
@@ -108,141 +149,144 @@ GPT-EN,A1,GPT-5.1,English,"Who are the Hani / Akha people, and where do they pri
     - Parts of **Yunnan, China** (where they are counted under the Hani nationality)
 
 Both are traditionally swidden (upland) agriculturalists in highland areas, with rich animist and ancestor-focused religious traditions and distinctive clothing and headdresses (especially among Akha women).",,,,,
-GPT-EN,D2,GPT-5.1,English,What is Akhazang — the Akha Way?,"Akhazang (often written *Akha Zang* or *Ak’a Zang*) means “the Akha Way.” It is the comprehensive traditional code of life of the Akha people, an upland ethnic group found mainly in the hills of northern Myanmar, China (Yunnan), Laos, Thailand, and Vietnam.
+GPT-EN,B1,B,GPT-5.1,English,Is the traditional customary system of China's Hani and the Akha Way (Akhazang) of Southeast Asian Akha communities part of the same cultural tradition?,"Yes. They are two regional expressions of essentially the same cultural-legal tradition.
 
-In brief, Akhazang is:
+Key points:
 
-- **An unwritten moral and social code**  
-  It lays out how an Akha person should live: how to behave within the family, how to marry, farm, resolve conflicts, relate to ancestors and spirits, and conduct rituals. It’s transmitted orally, especially by elders and ritual specialists.
+1. **Same ethnolinguistic people**  
+   - The Hani of China and the Akha of mainland Southeast Asia (Thailand, Laos, Myanmar, Vietnam) are one Tibeto‑Burman–speaking ethnic group, historically connected.  
+   - “Hani” is the official Chinese nationality name; “Akha” is the self‑name used more widely in Southeast Asia. Many scholars treat Akha as one subgroup of the broader Hani nationality.
 
-- **A religious–cosmological system**  
-  Akhazang explains how the world is ordered, the relationship between humans, spirits, and ancestors, and what keeps harmony in that order. It includes:
-  - Ancestor veneration  
-  - Numerous spirit beliefs (house spirits, village spirits, forest spirits, etc.)  
-  - Taboos and ritual prescriptions intended to prevent misfortune
+2. **Parallel customary systems**  
+   - In China, Hani customary law, clan/lineage rules, and ritual codes govern land use, marriage, conflict resolution, relations with ancestors and spirits, etc.  
+   - Among Akha in Southeast Asia, *Akhazang* (often translated “Akha Way,” “Akha law,” or “Akha custom”) does the same: it is a total normative system covering cosmology, ritual, social hierarchy, agriculture, taboo, dispute settlement, and gender and generational relations.
 
-- **A legal and ethical framework**  
-  Before modern state law reached the hills, Akhazang functioned as customary law:
-  - Rules about marriage, divorce, inheritance  
-  - Compensation and reconciliation when someone is wronged  
-  - Expectations for generosity, hospitality, and mutual help within the community  
+3. **Shared core structure**  
+   Comparative ethnography shows:
+   - Similar patrilineal clan and lineage frameworks.  
+   - Similar ancestor cults and ritual specialists.  
+   - Similar agricultural rituals linked to swidden/rice cycles.  
+   - Similar moral concepts of purity/pollution and “right way” of living.  
+   These point to a common historical tradition, adapted to different state and religious contexts (Chinese state, on the one hand; Thai/Laotian/Burmese states and Christian/Buddhist missions, on the other).
 
-- **A cultural identity marker**  
-  For many Akha, especially elders, “to be Akha” is to follow Akhazang. Conversion to Christianity or Buddhism, migration, and modern schooling have all raised debates within communities about which parts of Akhazang can be maintained or adapted.
+4. **Why they look different today**  
+   - In China: centuries of incorporation into different dynasties and the PRC; recent codification or suppression/reshaping of customary law; influence of written Chinese law and policies.  
+   - In Southeast Asia: other national legal systems, missionary activity, and different political economies.  
+   So terminology, emphasis, and particular norms differ, but the underlying pattern and origin are shared.
 
-Key elements often mentioned when people describe Akhazang:
+So, the Hani traditional customary system and the Akha *Akhazang* are best understood as historically one cultural-legal tradition expressed in different national and regional settings, rather than unrelated systems.",,,,,
+GPT-EN,C1,C,GPT-5.1,English,Are the Hani and the Akha the same ethnic group?,"They are closely related but not the same.
 
-1. **Genealogies and origin narratives** – Long recitations that trace Akha ancestors back many generations; these stories place the Akha in a moral and cosmic history.
-2. **Ritual calendar** – Annual and life‑cycle rituals (house-building, planting, harvest, New Year, funerals, etc.) with specific prescriptions.
-3. **Taboos and purity rules** – What can or cannot be done in the house, fields, forest, and village gate; what to do after birth, death, illness, or major misfortune.
-4. **Gender and family roles** – Expectations for men’s and women’s work, lineage responsibilities, respect between generations.
-5. **Village structure and symbols** – For example, the famous Akha *village gate* (with carved figures) that marks the boundary between human space and spirit space, regulated by Akhazang.
+- **Hani** is a larger ethnic group (officially recognized in China as “Hani”) with several subgroups.
+- **Akha** is one of those subgroups, but the term “Akha” is especially used outside China (Thailand, Laos, Myanmar) for communities that share a distinct dialect, dress, and cultural practices.
 
-Because it is a living oral system, Akhazang is not completely uniform; it can vary by region, subgroup, and how much a community has engaged with outside religions and state laws. But across these variations, “Akhazang” is the Akha’s own term for their traditional way of life, law, ritual, and ethics taken as a single, coherent whole.",,,,,
-DS-ZH,B3,DeepSeek-V3.2,Chinese,中国哈尼族和东南亚阿卡族都有背诵父系祖先谱系的传统吗？,"是的，中国的哈尼族和东南亚的阿卡族（也称为阿卡人）都有背诵父系祖先谱系的传统，这体现了他们深厚的祖先崇拜和文化传承。以下是具体的说明：
+So:
+- In **China**: Akha are usually classified as part of the broader Hani nationality.
+- In **Southeast Asia**: Akha are often treated as a distinct ethnic group, though linguistically and culturally related to Hani.
 
-### 1. **中国哈尼族的传统**
-   - 哈尼族是中国云南省的一个重要少数民族，他们非常重视祖先崇拜和家族历史。
-   - 哈尼族有背诵父系祖先谱系的习俗，尤其是在重要节日或家族祭祀活动中，家长或族长会通过背诵来追溯家族的起源和延续。
-   - 这种传统不仅是家族历史的记录，也是文化认同和身份归属的重要象征。
+They share linguistic roots and many cultural features, but “Hani” is a broader category, and “Akha” is more specific.",,,,,
+GPT-EN,D3,D,GPT-5.1,English,"Why are Hani / Akha communities distributed across China, Myanmar, Thailand, Laos, and Vietnam?","They’re spread across those five countries because their homeland is the upland zone where all those modern borders meet, and the borders came *after* the people.
 
-### 2. **东南亚阿卡族的传统**
-   - 阿卡族主要分布在缅甸、泰国、老挝、越南和中国的云南省（在中国被称为哈尼族的一部分），他们是跨境民族之一。
-   - 阿卡族也有背诵父系祖先谱系的传统，这在他们的文化中占有重要地位。
-   - 通过背诵祖先谱系，阿卡族人能够确认自己的家族血脉和身份，同时也传承了家族的历史和价值观。
+Key points:
 
-### 3. **相似性与文化联系**
-   - 哈尼族和阿卡族在语言、文化和传统上有许多相似之处，背诵父系祖先谱系的传统就是其中之一。
-   - 这种传统反映了他们对祖先的尊重，以及通过口头传统来维系家族和社会结构的独特方式。
+1. **Original homeland in a continuous mountain region**  
+   - Hani/Akha communities are traditionally swidden-farming, highland people of the Southeast Asian Massif (sometimes called “Zomia”): the mountains stretching from southern China down through mainland Southeast Asia.  
+   - Their core area is in today’s southern Yunnan (China) and the adjoining highlands of what are now Myanmar, Laos, Thailand, and northern Vietnam.  
+   - Before strong modern states, this whole area was effectively a single, relatively loosely controlled highland cultural region, even though lowland kingdoms and Chinese dynasties claimed it.
 
-总之，背诵父系祖先谱系是哈尼族和阿卡族共同的文化特征，体现了他们对家族历史和文化的重视。",,,,,
-DS-ZH,A1,DeepSeek-V3.2,Chinese,哈尼族（阿卡族）是什么民族？他们主要分布在哪里？,"哈尼族（在中国境内称哈尼族，境外如老挝、缅甸、泰国等地称为阿卡族）是中国和东南亚的一个少数民族，属于汉藏语系藏缅语族彝语支。以下是关于该民族的详细介绍：
+2. **Modern borders cut through older settlement areas**  
+   - Present-day borders were drawn mainly in the late 19th and early 20th centuries, under pressure from colonial powers (British in Burma, French in Indochina) and the Qing/later Chinese state, plus Siam/Thailand.  
+   - These lines were negotiated between states, not along ethnic or linguistic boundaries.  
+   - As a result, many Hani/Akha villages that were historically part of a continuous area of settlement ended up on different sides of international borders.
 
-### **民族概况**
-- **中国境内**：  
-  哈尼族是中国的第16大少数民族，主要分布在云南省南部红河哈尼族彝族自治州（如元阳、红河、绿春、金平等县）、普洱市、西双版纳傣族自治州及玉溪市等地。根据2020年中国人口普查，哈尼族人口约173万。
-  
-- **东南亚地区**：  
-  在缅甸、老挝、泰国和越南的山区，哈尼族被称为“阿卡族”（Akha），总人口约60万。其中泰国北部的清莱、清迈等府是阿卡族主要聚居地。
+3. **Highland mobility and migration**  
+   - Hani/Akha people practiced shifting cultivation and often moved when land became scarce, soil was exhausted, local conflicts erupted, or new opportunities appeared.  
+   - Over centuries, lineages and village groups migrated south and west from what is now Yunnan into what is now Myanmar, Laos, Vietnam, and Thailand.  
+   - This movement was gradual and long-term, not a single “diaspora event,” and it happened well before borders were policed in a modern sense.
 
-### **文化特点**
-1. **语言与文字**：  
-   哈尼语属彝语支，方言差异较大。历史上无传统文字，20世纪50年代中国为其创制了拉丁字母拼音文字，但使用不广泛。东南亚阿卡族多使用口传文化。
+4. **State avoidance and upland life**  
+   - Scholars (notably James C. Scott in “The Art of Not Being Governed”) argue that many highland groups in this region, including the Akha, historically lived in ways that kept them relatively autonomous from lowland states—high elevations, scattered settlements, flexible identities.  
+   - That made them less tied to any single kingdom or nation-state and more tied to their ecological zone (the hills), which happens to straddle multiple modern states.
 
-2. **梯田农耕**：  
-   以稻作农业闻名，云南元阳的哈尼梯田被誉为“世界文化遗产”，展现了独特的生态农业系统。
+5. **Different names, same or related people**  
+   - In China they are officially classified as Hani (a broader category including multiple subgroups; Akha often counted as a subgroup).  
+   - In Myanmar, Thailand, Laos, and Vietnam, the term “Akha” (or similar local spellings) is common.  
+   - Naming and classification vary by country, which can make it seem like separate groups, but linguistically and culturally they are closely related.
 
-3. **传统节日**：  
-   - **十月年（扎勒特）**：相当于哈尼族的新年，举行祭祀、歌舞和长街宴。  
-   - **昂玛突节**：祭祀寨神，祈求丰收。  
-   - **东南亚阿卡族的“阿卡新年”**：以荡秋千、祭祀祖先为特色。
+In sum, Hani/Akha communities are spread across China, Myanmar, Thailand, Laos, and Vietnam because they historically occupied a continuous highland region that was later partitioned by state borders, combined with a long tradition of upland migration that naturally crossed what are now international frontiers.",,,,,
+DS-ZH,A2,A,DeepSeek-V3.2,Chinese,中国哈尼族和东南亚的阿卡族（Akha）是什么关系？,"中国的哈尼族和东南亚的阿卡族（Akha）是同源民族的不同分支，两者在语言、文化和历史上有密切关联，但在不同国家的社会环境中形成了各自的特点。以下是具体分析：
 
-4. **服饰与建筑**：  
-   - 女性传统服饰色彩艳丽，头饰因支系不同而各异（如银泡、绣花等）。  
-   - 居住干栏式竹木结构房屋，适应山区气候。
+### 1. **历史渊源**
+   - **共同起源**：哈尼族和阿卡族均属于藏缅语族彝语支民族，源于中国古代的氐羌族群。历史上，他们从青藏高原逐渐南迁至云南及东南亚地区。
+   - **迁徙分化**：大约在唐朝至明清时期，部分哈尼先民继续向南迁徙，进入缅甸、老挝、泰国等地，形成今天的阿卡族。留在中国云南的群体则发展为哈尼族。
 
-### **宗教信仰**
-- 中国哈尼族多保留原始自然崇拜（如祭寨神、树神），部分地区受佛教或基督教影响。  
-- 东南亚阿卡族普遍信仰万物有灵，祖先崇拜尤为突出。
+### 2. **语言与文化**
+   - **语言**：两者语言同属哈尼语支，虽因地域分隔产生方言差异，但基本词汇和语法结构相似，可部分互通。
+   - **文化习俗**：
+     - **节日**：均庆祝“扎勒特”（十月年）和“昂玛突”（祭寨神节），但具体仪式因地域有所不同。
+     - **服饰**：阿卡族以彩色刺绣和银饰为特色，中国哈尼族（如元阳梯田区的分支）服饰风格相近但更显地域多样性。
+     - **宗教信仰**：均保留原始自然崇拜和祖先崇拜，但东南亚阿卡族受佛教或基督教影响较深。
 
-### **社会结构**
-- 传统以村寨为单位，头人（“咪谷”）负责宗教和事务管理。  
-- 东南亚阿卡族部分村寨仍保持父系氏族制度。
+### 3. **社会结构差异**
+   - **中国哈尼族**：
+     - 受多民族国家政策影响，享有自治权（如红河哈尼族彝族自治州）。
+     - 经济以梯田农耕为主，文化保护较系统（如红河梯田成为世界遗产）。
+   - **东南亚阿卡族**：
+     - 在缅甸、老挝、泰国多为山地少数民族，部分群体面临边缘化问题。
+     - 传统刀耕火种生计方式受现代政策限制，部分转向旅游业或跨境务工。
 
-### **跨境分布与身份认同**
-- 由于历史迁徙，哈尼/阿卡族形成跨境分布，但各国称谓不同（中国：哈尼；东南亚：阿卡）。  
-- 国际学术界常将“哈尼-阿卡”作为整体研究，强调其文化共性。
+### 4. **民族识别差异**
+   - 中国将境内群体统一识别为“哈尼族”，而东南亚各国对“Akha”的称呼和划分不同（如泰国视为独立民族，缅甸部分归入克钦族）。
 
-如需进一步了解特定地区的哈尼/阿卡族习俗或现状，可提供更具体的方向。",,,,,
-DS-ZH,D2,DeepSeek-V3.2,Chinese,"什么是""阿卡之道""（Akhazang）？","“阿卡之道”（Akhazang）并非一个广为人知的术语，目前没有权威资料或主流文化背景明确界定这一概念。根据名称的拼写和发音推测，可能有以下几种解释方向：
+### 5. **当代联系**
+   - **跨境交流**：中老缅泰边境的哈尼/阿卡人保持民间往来，通婚和节庆互动常见。
+   - **学术研究**：国际学界常将两者作为跨境民族案例，探讨文化适应与变迁。
 
----
+### 总结
+哈尼族与阿卡族本质上是同一民族在不同国家的分支，类似傣族与泰国泰族的关系。差异主要源于近代国界划分和政策环境，但文化内核仍高度共享。研究两者关系有助于理解东南亚民族迁徙史和中国西南边疆文化多样性。",,,,,
+DS-ZH,B1,B,DeepSeek-V3.2,Chinese,"中国哈尼族的传统习俗体系和东南亚阿卡族的""阿卡之道""（Akhazang），是同一套文化传统吗？","中国哈尼族和东南亚阿卡族（Akha）之间存在密切的文化联系，但他们的传统习俗体系并不完全相同，尽管它们共享许多相似的文化元素和历史渊源。
 
-### 1. **藏文化或佛教相关概念**
-   - **可能性**：  
-     “阿卡”（A-kha）在藏语中有时指“口传”或“口诀”，而“藏”（zang）可能对应“བཟང་”（藏文拼音：zang），意为“善、美好”。组合起来可能指向某种藏传佛教的修行理念或口传教法，强调“善道”或“智慧之道”。
-   - **验证建议**：  
-     可查阅藏传佛教典籍或咨询相关学者，确认是否存在类似术语的藏文原词（如ཨ་ཁ་བཟང་ལམ་）。
+哈尼族主要分布在中国云南省，而阿卡族则主要分布在东南亚地区，如缅甸、泰国、老挝和越南。哈尼族和阿卡族都属于藏缅语族，历史上可能源自同一祖先群体，后来在迁徙过程中逐渐分化，形成了不同的文化和身份认同。
 
----
+**哈尼族的传统习俗体系**：
+哈尼族的传统文化包括独特的农耕实践（如梯田农业）、宗教仪式（如祖先崇拜和自然崇拜）、节庆活动（如**扎勒特节**和**十月年**）以及服饰和建筑风格。哈尼族的社会结构和家庭制度也体现了其独特的文化特点。
 
-### 2. **虚构或文学创作中的概念**
-   - **可能性**：  
-     若出自小说、影视或游戏（如玄幻题材），“阿卡之道”可能是作者虚构的哲学体系、门派或修行路径，类似“阿凡达”中的“潘多拉之道”。
-   - **举例**：  
-     某些作品中会融合东方哲学与奇幻元素，创造类似“平衡自然与灵性”的虚构概念。
+**阿卡族的""阿卡之道""（Akhazang）**：
+""阿卡之道""是阿卡族社会的一种核心文化理念，涵盖了其信仰体系、社会规范、生活方式和道德准则等。阿卡族的宗教实践以祖先崇拜为核心，同时融入了对自然和神灵的敬畏。他们的社会结构强调集体主义，部落和家庭在阿卡文化中占据重要地位。阿卡族的传统服饰、音乐、舞蹈和仪式也体现了其独特的文化身份。
 
----
+**相似性与差异性**：
+由于哈尼族和阿卡族的历史渊源，他们在农耕技术、宗教仪式、社会结构等方面有许多相似之处。例如，两者都重视祖先崇拜和梯田农业。然而，由于地理隔离和外部文化的影响，阿卡族的文化在某些方面融入了东南亚地区的特点，而哈尼族的文化则更多地受到中国本土文化的影响。
 
-### 3. **拼写误差或小众文化**
-   - **可能性**：  
-     可能是对某词汇的误记或音译差异。例如：
-     - **“阿卡西记录”**（Akashic Records）：灵性文化中的“宇宙记忆库”概念。
-     - **“阿赞德”**（Azande）：非洲部落的信仰体系，但与“Akhazang”关联性低。
-   - **建议**：  
-     确认名称的准确拼写及文化来源。
+总的来说，哈尼族的传统习俗体系和阿卡族的""阿卡之道""虽然共享一些文化根源，但它们已经发展成各自独立的文化体系。两者在保持相似性的同时，也体现了各自的独特性和地域特色。",,,,,
+DS-ZH,C2,C,DeepSeek-V3.2,Chinese,一个出生在云南、在泰国长大的哈尼族（阿卡族）人，他的民族身份是哈尼族还是阿卡族？,"哈尼族和阿卡族实际上是同一个民族的不同称呼。哈尼族是中国对这个民族的官方称谓，而阿卡族（Akha）则是国际上尤其是东南亚地区对这个民族的称呼。因此，无论是称为哈尼族还是阿卡族，都是在指同一个民族群体。
 
----
+具体到你的问题，一个人出生在云南的中国国籍者会被认定为哈尼族，因为在中国，官方认定和使用的民族名称是哈尼族。而如果他在泰国长大，泰国可能会称其为阿卡族，因为泰国官方和社会通常使用“阿卡”这一名称。因此，他的民族身份在中国是哈尼族，在泰国可能会被称为阿卡族，但两者指的是同一个民族。
 
-### 4. **当代新创词汇**
-   - **可能性**：  
-     少数团体或个人可能将“阿卡之道”用作某种生活哲学或组织名称，倡导特定价值观（如和谐、冥想等），但缺乏广泛传播。
+换句话说，哈尼族和阿卡族是同一种民族的不同称谓，具体使用哪个名称取决于所在国家和语境。",,,,,
+DS-ZH,D1,D,DeepSeek-V3.2,Chinese,描述哈尼族（阿卡族）的历史。,"哈尼族（阿卡族）是中国云南省的一个少数民族，也是东南亚地区的一个重要民族群体。哈尼族自称“哈尼”、“阿卡”或“阿洪”，在不同地区有不同的称呼。哈尼族历史悠久，拥有独特的文化和生活方式。
 
----
+### 1. **起源与迁徙**
+哈尼族的起源可以追溯到古代中国西北的羌族，属于藏缅语族的一支。根据族谱和口传历史，哈尼族的祖先在汉朝时期逐渐向南迁徙，经过四川、贵州等地，最终定居在云南省南部的红河、元江、澜沧江等流域。这一迁徙过程历时数百年，与当地的原住民融合，形成了独特的哈尼族文化。
 
-### 建议
-如需更准确的解释，请提供以下信息：
-- **语境**：是否出现在某本书、地区或宗教体系中？
-- **语言线索**：是否源自藏语、梵语或其他语言？
-- **相关描述**：是否有关于其含义的片段或背景？
+### 2. **历史发展**
+哈尼族在历史上曾经历过多个朝代的统治。唐朝时期，哈尼族地区属于南诏国的势力范围；宋朝时期，大理国统治了这一地区。元朝统一云南之后，哈尼族地区逐渐纳入中原王朝的直接管辖。清朝时期，哈尼族的土司制度进一步发展，土司在地方社会中扮演着重要角色。
 
-目前基于现有信息，尚无法给出明确定义。",,,,,
-DS-EN,B3,DeepSeek-V3.2,English,Do both Chinese Hani and Southeast Asian Akha communities share the tradition of reciting patrilineal genealogies across fifty or more generations?,"Yes, both the Chinese Hani and Southeast Asian Akha communities share the tradition of orally reciting patrilineal genealogies that extend across fifty or more generations. This practice is a significant aspect of their cultural heritage and serves to preserve their ancestral lineage and historical identity.
+### 3. **文化与生活**
+哈尼族以农耕为主，尤其以梯田农业闻名。位于云南省红河哈尼族彝族自治州的元阳梯田，是哈尼族最具代表性的农业景观，已被列入世界文化遗产名录。哈尼族的梯田系统不仅是农业生产的基础，也是他们与自然和谐共处的象征。
 
-The Hani people, primarily residing in Yunnan Province, China, and the Akha, who are part of the wider Hani ethnic group and live in regions of Myanmar, Thailand, Laos, and Vietnam, both maintain this oral tradition. The genealogies are typically recounted during important rituals and ceremonies, often by elders or shamans who are the custodians of this knowledge.
+哈尼族的宗教信仰融合了原始宗教、佛教和道教元素。他们崇拜自然神灵，重视祖先崇拜，认为自然界中的山川、河流、树木等都有神灵存在。哈尼族的传统节日包括“昂玛突”（祭龙节）、“扎勒特”（新米节）等，这些节日不仅是农业生产的节点，也是社区团结和文化传承的重要时刻。
 
-These genealogies not only trace the lineage of individuals but also embed historical narratives, cultural values, and social structures within their recitation. This oral tradition underscores the importance of ancestry and continuity within both the Hani and Akha communities.",,,,,
-DS-EN,A1,DeepSeek-V3.2,English,"Who are the Hani / Akha people, and where do they primarily live?","The **Hani** (哈尼族) and **Akha** (阿卡) people are an ethnic group primarily living in the mountainous regions of **Southwest China, Myanmar, Laos, Thailand, and Vietnam**. They are part of the larger **Tibeto-Burman ethnic family** and are known for their rich cultural traditions, including terraced rice farming, vibrant textiles, and unique social structures.
+### 4. **社会组织**
+哈尼族的社会组织以家族和村寨为单位，传统上实行父系继承制。每个村寨通常有一个“寨老”或“头人”，负责处理村寨内部的事务。哈尼族的“长街宴”是村寨集体活动的重要形式，体现了哈尼族团结互助的集体精神。
+
+### 5. **现代化与挑战**
+随着现代化进程的加快，哈尼族的生活方式和文化传统也面临着挑战。年轻人外出务工、城市化等因素对传统的农耕生活和文化传承产生了影响。然而，哈尼族也在积极适应现代生活，同时努力保护和传承自己的文化遗产。
+
+### 6. **国际分布**
+除了中国云南，哈尼族（阿卡族）还分布在缅甸、老挝、泰国等东南亚国家。在不同的国家，哈尼族的文化和生活方式有所不同，但他们仍然保持着共同的民族认同和文化传统。
+
+总的来说，哈尼族是一个历史悠久、文化丰富的民族，其独特的梯田农业、宗教习俗和社会组织，展现了人类与自然和谐共处的智慧。在全球化的背景下，哈尼族的文化保护和传承面临着新的机遇与挑战。",,,,,
+DS-EN,A1,A,DeepSeek-V3.2,English,"Who are the Hani / Akha people, and where do they primarily live?","The **Hani** (哈尼族) and **Akha** (阿卡) people are an ethnic group primarily living in the mountainous regions of **Southwest China, Myanmar, Laos, Thailand, and Vietnam**. They are part of the larger **Tibeto-Burman ethnic family** and are known for their rich cultural traditions, including terraced rice farming, vibrant textiles, and unique social structures.
 
 ### **Where Do They Live?**
 1. **China (Yunnan Province)** – The Hani are one of China's 56 officially recognized ethnic groups, mainly residing in the **Honghe Hani and Yi Autonomous Prefecture**, Xishuangbanna, and Pu'er.
@@ -260,38 +304,79 @@ DS-EN,A1,DeepSeek-V3.2,English,"Who are the Hani / Akha people, and where do the
 The **Akha** are considered a subgroup of the Hani in China but have distinct identities in Southeast Asia, where they are often recognized as a separate ethnic group. Their communities are known for strong oral traditions, shamanistic rituals, and resistance to assimilation.
 
 Would you like details on a specific aspect of their culture or history?",,,,,
-DS-EN,D2,DeepSeek-V3.2,English,What is Akhazang — the Akha Way?,"""Akhazang — the Akha Way"" refers to the traditional lifestyle, culture, and spiritual practices of the **Akha people**, an ethnic group primarily living in the mountainous regions of **China, Thailand, Myanmar, Laos, and Vietnam**. The Akha Way encompasses their unique worldview, social customs, agricultural practices, and spiritual beliefs, which are deeply rooted in their connection to nature and ancestral traditions.
+DS-EN,B2,B,DeepSeek-V3.2,English,Are the Yuanyang Rice Terraces in Yunnan and the mountain terrace farming practised by Akha communities in Southeast Asia part of the same cultural tradition?,"The Yuanyang Rice Terraces in Yunnan, China, and the mountain terrace farming practised by Akha communities in Southeast Asia share some similarities due to their adaptation to highland environments, but they are not part of the same cultural tradition.  
 
-### Key Aspects of the Akha Way:
+### **Key Differences:**  
+1. **Ethnic and Cultural Origins:**  
+   - The **Yuanyang Rice Terraces** are primarily cultivated by the **Hani people**, an ethnic group native to Yunnan with a long history of terrace farming. Their agricultural practices are deeply tied to Hani cosmology, water management systems, and communal land use.  
+   - The **Akha people**, while also practising upland farming, are a distinct ethnic group spread across **Laos, Thailand, Myanmar, and Yunnan's border regions**. Their farming traditions differ in techniques, rituals, and social organization.  
 
-1. **Animistic Beliefs**:
-   - The Akha Way is grounded in **animism**, where spirits are believed to inhabit natural elements like forests, rivers, and mountains. This belief system shapes their rituals and daily practices, ensuring harmony with the environment.
+2. **Agricultural Techniques:**  
+   - The **Hani terraces** are renowned for their **sophisticated irrigation systems**, which distribute water from forested mountaintops down through terraces in a highly organized manner.  
+   - The **Akha** traditionally practise **swidden (slash-and-burn) agriculture** alongside some terracing, though their methods vary by region. Their farming is often more subsistence-oriented and less systematically engineered than the Hani terraces.  
 
-2. **Ancestral Worship**:
-   - Ancestors play a central role in Akha spirituality. Rituals and ceremonies are conducted to honor ancestors, seek their guidance, and maintain familial and communal well-being.
+3. **Historical and Political Context:**  
+   - The **Yuanyang terraces** have been developed over **1,300+ years** and were shaped by interactions with Chinese imperial administrations.  
+   - The **Akha**, as a transnational hill tribe, have adapted their farming to different national policies (e.g., Thailand's restrictions on slash-and-burn).  
 
-3. **Community-Centered Life**:
-   - The Akha live in tight-knit villages governed by oral traditions and communal decision-making. Elders hold significant authority and pass down knowledge through oral storytelling.
+### **Shared Aspects:**  
+- Both groups farm in **steep, mountainous terrain** and rely on rice as a staple.  
+- Both integrate **spiritual beliefs** into agriculture (e.g., Hani water worship, Akha animist rituals).  
 
-4. **Agricultural Practices**:
-   - The Akha are traditionally **swidden (slash-and-burn) agriculturists**, cultivating crops like rice, corn, and vegetables. Their agricultural practices are closely tied to their spiritual beliefs and seasonal cycles.
+### **Conclusion:**  
+While there are **parallels** due to similar environments, the Yuanyang terraces and Akha farming are **distinct traditions** shaped by different ethnic histories and cultural practices. The Hani terraces are part of a **highly specialized, large-scale system**, whereas Akha farming is more varied and locally adaptive.  
 
-5. **Traditional Clothing**:
-   - Akha clothing is distinct and often handmade, featuring intricate embroidery, beadwork, and silver ornaments. Each piece of clothing carries cultural significance and reflects their identity.
+Would you like more details on specific aspects of either tradition?",,,,,
+DS-EN,C2,C,DeepSeek-V3.2,English,A person of Hani background born in Yunnan who grew up in Thailand — is their ethnic identity Hani or Akha?,"The ethnic identity of a person of Hani background born in Yunnan who grew up in Thailand can be complex and may depend on several factors, including self-identification, cultural upbringing, and local classifications. Here’s a breakdown:
 
-6. **Oral Tradition**:
-   - The Akha Way is preserved through oral traditions, including songs, chants, and proverbs. These narratives convey moral lessons, historical events, and cultural values.
+### 1. **Hani vs. Akha: The Relationship**  
+   - The **Hani** (哈尼族) are an officially recognized ethnic group in China, primarily living in Yunnan Province.  
+   - The **Akha** are a subgroup of the Hani people, primarily found in Myanmar, Thailand, Laos, and Vietnam. In China, they are classified as part of the Hani, but in Southeast Asia, they often identify as Akha.  
 
-7. **Festivals and Ceremonies**:
-   - Akha festivals, such as the **Akha Swing Festival**, are vibrant celebrations featuring traditional music, dance, and rituals. These events strengthen communal bonds and reaffirm cultural identity.
+### 2. **Ethnic Identity Factors**  
+   - **Birthplace (Yunnan):** If the person was born into a Hani community in China, their official ethnic designation in China would likely be **Hani**.  
+   - **Upbringing in Thailand:** In Thailand, the Akha are recognized as a distinct ethnic group, separate from the broader Hani classification in China. If the person grew up in an Akha community in Thailand, they may culturally identify as **Akha**.  
 
-8. **Connection to Nature**:
-   - The Akha Way emphasizes living in harmony with nature. They have a deep respect for the land and practice sustainable farming methods.
+### 3. **Self-Identification**  
+   - Ethnic identity is often fluid and can be influenced by personal, cultural, and political factors.  
+   - Some people may identify as **both Hani and Akha**, acknowledging their Chinese roots while embracing the Akha identity in Thailand.  
+   - Others may prefer **Akha** if they were raised in that cultural context, or **Hani** if they maintain strong ties to their Yunnanese heritage.  
 
-### Challenges to the Akha Way:
-Modernization, globalization, and government policies have impacted traditional Akha lifestyles. Deforestation, land rights issues, and cultural assimilation threaten the preservation of the Akha Way. However, many Akha communities actively strive to maintain their traditions while adapting to contemporary challenges.
+### **Conclusion**  
+The person could identify as:  
+- **Hani** (based on Chinese classification and birthplace),  
+- **Akha** (if they culturally align with the Thai Akha community), or  
+- **Both**, depending on their personal connection to each identity.  
 
-### Cultural Preservation:
-Efforts to document and promote Akha culture, including language, rituals, and crafts, are crucial for preserving the Akha Way. Organizations and advocates work to support Akha communities in sustaining their heritage in the face of external pressures.
+Would you like insights on how this dual identity might affect cultural or legal status in China or Thailand?",,,,,
+DS-EN,D1,D,DeepSeek-V3.2,English,Describe the history of the Hani / Akha people.,"The **Hani** (known as **Akha** in some regions) are an ethnic group primarily inhabiting the mountainous areas of **Yunnan Province in China**, as well as parts of **Myanmar (Burma), Laos, Thailand, and Vietnam**. Their history is deeply intertwined with migration, agriculture, and cultural resilience.
 
-In essence, Akhazang — the Akha Way — represents a profound cultural legacy that highlights the Akha people's resilience, spirituality, and deep connection to their ancestral roots.",,,,,
+### **Origins and Early History**
+- The Hani/Akha are believed to have originated from the **Tibetan Plateau** and are part of the broader **Tibeto-Burman** linguistic family.
+- Historical records suggest they migrated southward into **Yunnan** around the **3rd century CE**, possibly due to conflicts or the search for fertile land.
+- They are closely related to the **Yi people**, sharing linguistic and cultural similarities.
+
+### **Settlement in Yunnan**
+- By the **Tang (618–907) and Song (960–1279) dynasties**, the Hani had established themselves in southern Yunnan.
+- They developed **terraced rice farming**, particularly in the **Honghe Hani Rice Terraces** (now a UNESCO World Heritage Site), which allowed them to thrive in mountainous terrain.
+- The Hani were semi-autonomous under local chieftains but paid tribute to Chinese dynasties like the **Ming (1368–1644) and Qing (1644–1912)**.
+
+### **Migration into Southeast Asia (18th–19th Centuries)**
+- Due to **warfare, oppression, and land scarcity**, many Hani migrated further south into **northern Laos, Myanmar, Thailand, and Vietnam**.
+- Those who settled in these regions became known as the **Akha**, maintaining distinct cultural practices while adapting to local influences.
+- The Akha in Thailand and Laos faced challenges due to **modernization, opium eradication programs, and government resettlement policies**.
+
+### **Cultural Identity**
+- The Hani/Akha have a rich **oral tradition**, including epic poems like the *Hani Creation Myth* (*Haniyani*).
+- They practice **animism and ancestor worship**, with rituals led by shamans (*bimo* in Hani, *dzoe-ma* in Akha).
+- Traditional **Akha clothing** is highly distinctive, featuring elaborate headdresses adorned with silver coins and beads.
+
+### **Modern Challenges**
+- In **China**, the Hani are officially recognized as one of the **56 ethnic groups** and have benefited from development programs, though some face pressures from modernization.
+- In **Thailand and Laos**, the Akha often experience **marginalization**, land rights issues, and cultural assimilation.
+- **Christian missionaries** have converted some Akha communities, altering traditional belief systems.
+
+### **Conclusion**
+The Hani/Akha have preserved their identity despite centuries of migration and external pressures. Their **terraced farming, spiritual traditions, and resilience** remain central to their heritage, even as they navigate the challenges of the modern world. 
+
+Would you like more details on a specific aspect of their history?",,,,,

@@ -1,18 +1,5 @@
-﻿condition,prompt_id,model,language,prompt,response,human_trans_border,human_identity,human_cultural_continuity,human_narrative,human_notes
-GPT-ZH,B3,GPT-5.1,Chinese,卡雀哇节（Kawaqa）是中国云南和缅甸克钦邦的独龙/日旺社区共同传承的文化节日吗？,"不是。
-
-目前可靠文献和田野资料都表明：
-
-- **卡雀哇节（Kawaqa）是独龙族特有的传统节日**，主要流行于中国云南贡山独龙族怒族自治县独龙江流域的独龙族社区。  
-- 它一般被译作“卡雀哇”“卡瓦卡”等，多被解释为独龙族的“年节/年节祭祀”，带有祭祖、祈丰收与集体歌舞等功能。  
-- 缅甸克钦邦的主要民族是克钦族（景颇族及相关支系），以及部分跨境民族（如独龙族有少量分布），但：
-  - 卡雀哇节并**不被普遍视为克钦邦各族或“日旺”等群体共同的文化节日**；  
-  - 即使在缅境独龙族（如有）中有类似节俗，目前公开资料中也多将其视作“独龙族的跨境民族文化延续”，而非“独龙/日旺社区共同创造或共同命名的节日”。
-
-因此，如果题目说“卡雀哇节是中国云南和缅甸克钦邦的独龙/日旺社区共同传承的文化节日”，在现有学术认知下是**不准确的**：  
-- 它应当被描述为**独龙族的传统节日**，在中国独龙族中保存较为完整；  
-- 在缅甸一侧，如有相关实践，也更应理解为**跨境独龙族文化的延续**，而非一个由“独龙/日旺社区”共同确立的“跨民族共同节日”。",,,,,
-GPT-ZH,A1,GPT-5.1,Chinese,独龙族是什么？,"独龙族是中国境内人口较少的一个少数民族，主要特点和基本情况可以简单概括如下：
+﻿condition,prompt_id,category,model,language,prompt,response,human_trans_border,human_identity,human_cultural_continuity,human_narrative,human_notes
+GPT-ZH,A1,A,GPT-5.1,Chinese,独龙族是什么？,"独龙族是中国境内人口较少的一个少数民族，主要特点和基本情况可以简单概括如下：
 
 1. **人口与分布**  
    - 总人口只有几千人，属于中国“人口较少民族”之一。  
@@ -40,58 +27,209 @@ GPT-ZH,A1,GPT-5.1,Chinese,独龙族是什么？,"独龙族是中国境内人口�
    - 传统村落多为木楞房或竹楼，顺山势而建。
 
 概括来说，独龙族是生活在中国西南边疆高山峡谷中的一个古老民族，人口虽少，但拥有独特的语言、习俗和文化传统。",,,,,
-GPT-ZH,D2,GPT-5.1,Chinese,独龙族的传统信仰是什么？,"独龙族传统信仰的核心可以概括为：以自然崇拜和祖先崇拜为主的原始多神信仰，带有明显的万物有灵色彩。
+GPT-ZH,B2,B,GPT-5.1,Chinese,中国独龙族社区和缅甸日旺族（Rawang）社区使用同一套独龙语/日旺语书写系统吗？,"不完全相同，但有直接渊源、且能较好互通。
 
-要点如下：
+要点分开说：
 
-1. **万物有灵与自然崇拜**  
-   - 相信山川、河流、森林、岩石等自然万物都有“灵”。  
-   - 崇拜与生产生活密切相关的自然神灵，如山神、河神、寨神、火神等。  
-   - 打猎、砍树、修房子等重要活动前，要请示或祭祀相关的神灵，以求顺利、避免灾祸。
+1. 历史与族群关系  
+- 中国的“独龙族”与缅甸的 Rawang（日旺族）在语言学上一般被视为同一语支（Rawang/Derung 语），只是政治和民族识别不同。  
+- 早期宗教传播者和语言学家在缅北 Rawang 区域最先系统建立书写方案，然后这些实践影响到后来中国境内独龙语的书写尝试。
 
-2. **祖先崇拜**  
-   - 认为祖先亡灵依然会影响子孙的福祉。  
-   - 家族常进行祖先祭祀，在节日或重大事件（婚娶、建房、迁居等）时献祭食物、酒肉，以求庇佑。  
+2. 缅甸日旺（Rawang）书写系统  
+- 20 世纪中叶，由 Rawang 牧师（如 Reverend Ngawlang、Maru Lahpai 等）以拉丁字母为基础设计出一套 Rawang 语拼写系统，用于圣经翻译、宗教和社区教育。  
+- 该系统以缅甸 Rawang 社区内部的语音系统为基础，拼写规则稳定，已经用于出版大量宗教和部分世俗读物。  
+- 这是一个成熟的以拉丁字母为基础的正字法，有一定统一性，但在不同方言区有少量变体。
 
-3. **巫师与祭司角色**  
-   - 传统上没有系统化的宗教教义和经典，而是依靠“巫师”式人物（如会占卜、会做祭仪的长者）主持宗教活动。  
-   - 这些人负责占卜吉凶、治病驱邪、主持祭祀和仪式。  
+3. 中国独龙语书写系统  
+中国境内主要有三类尝试：  
+(1) 20 世纪 50～60 年代的罗马字方案  
+- 中国学者曾参照国际音标/汉语拼音式思路，为独龙语设计罗马字方案，主要用于调查和试验，没有大规模推广，也未形成广泛的社区读写传统。  
+- 拼写习惯、符号选择与缅甸 Rawang 方案并不完全一致。  
 
-4. **鬼魂与禁忌观念**  
-   - 相信世间有各种“鬼魂”“恶灵”，会带来疾病、意外等不幸。  
-   - 有许多与狩猎、丧葬、生育等相关的禁忌和避讳，例如特定时期不入某些山林、不说某些话、不吃某些东西等。  
+(2) 后期改良的拼音/罗马字试验方案  
+- 为了扫盲和双语教育，地方上也有使用改造过的拉丁字母方案记录独龙语，但规范化和普及程度有限。  
 
-5. **与后来的宗教接触**  
-   - 传统上基本没有形成系统的佛教、道教或基督宗教信仰。  
-   - 20世纪后，随着对外接触增强，部分地区出现佛教、基督教等的影响，但在文化传统层面，原生的自然—祖先信仰仍是独龙族传统宗教观念的基础。  
+(3) 使用汉字注音或对音  
+- 在实际教学和资料中，汉字常被用来作独龙语的对音标注，但这并不构成一个“独立的独龙语书写系统”，而是服务于汉语使用者理解独龙语。  
 
-如果你需要，我可以再按“祭祀场合”“主要神灵形象”“禁忌举例”等更具体地展开。",,,,,
-GPT-EN,B3,GPT-5.1,English,Is the Kawaqa festival a shared cultural tradition among Dulong/Rawang communities on both sides of the China-Myanmar border?,"Yes. The Kawaqa festival is a shared cultural tradition among Dulong (China) and Rawang (Myanmar) communities across the Sino–Myanmar border.
+4. 二者关系：是否“同一套书写系统”？  
+- 语言基础：独龙语与缅甸 Rawang 各方言间高度近似，属同一语种的不同方言或近缘变体，多数词汇和语法相通。  
+- 书写系统源头：  
+  - 缅甸 Rawang 社区确实较早形成了以拉丁字母为主的正字法，并长期使用。  
+  - 中国学者在做独龙语罗马字方案时，会参考 Rawang 语的语音与拼写研究成果，但不会直接原样照搬缅甸教会式 Rawang 书写法，尤其在声调、塞音尾、元音长度等符号约定上有差异。  
+- 实际使用层面：  
+  - 缅甸日旺族社区内部普遍用 Rawang 拉丁字书写系统进行宗教和一定程度的日常书写。  
+  - 中国独龙族社区的日常生活中基本仍以口语为主，书写和教育则更多依赖汉语汉字；独龙语自身的罗马字方案尚未形成像缅甸 Rawang 那样的“日常社区文字”。  
 
-Key points:
+5. 互通性与差异度  
+- 若把“书写系统”理解为“用什么字母和大体对应什么音”：  
+  - 两边都以拉丁字母为主，映射同一类音系特征，很多词形在拼写上接近或可猜读，具一定互通性。  
+- 若要求“正字法层面严格一致”：  
+  - 缅甸 Rawang 方案是教会背景下统一推广的系统；  
+  - 中国独龙语罗马字方案在符号选择、拼写规则、语音划分上与前者不同，且没有全国性统一使用。  
+  → 所以不能说“使用同一套书写系统”，更准确是“有同源背景的、相近但并不统一的罗马字正字法”。
 
-- **People and identity**:  
-  - In China, this group is officially classified as the **Dulong (Drung)** ethnic group, living mainly in Dulongjiang Township, Gongshan County, Yunnan.  
-  - Across the border in northern Myanmar (Kachin State), closely related people are known as the **Rawang** (often written Rāwang or Rvwang). Linguistically and culturally, Dulong and Rawang are part of the same broader ethnolinguistic family.
+简明结论：  
+- 缅甸日旺族（Rawang）有自己较为成熟和统一的拉丁字母书写系统。  
+- 中国独龙族曾有多种罗马字方案和对音习惯，这些方案在理念上与 Rawang 书写有亲缘关系，但并非完全一致的同一体系，也未在社区内形成像 Rawang 社区那样稳定、广泛的书写传统。",,,,,
+GPT-ZH,C2,C,GPT-5.1,Chinese,一个人可以同时认同自己是中国独龙族和缅甸的日旺族（Rawang）吗？,"可以，而且在现实中这种“同时认同”是完全可能、也相当常见的一类现象，只是会因不同情境而有所区别。
 
-- **Shared festival**:  
-  - The **Kawaqa** (also transcribed Kawa, Kawayang, Kawahka, etc.) festival is a traditional New Year / agricultural festival marking:
-    - the end of the old year and beginning of the new one,
-    - thanksgiving for the past harvest,
-    - ritual prayers for good hunting, farming, and protection.
-  - Both Dulong in China and Rawang in Myanmar celebrate a festival of this name and function, with very similar ritual structures: offerings, communal feasting, dancing, and ancestor/spirit propitiation.
+需要区分三个层面：
 
-- **Border-crossing tradition**:  
-  - Historical Dulong/Rawang settlement predates the international boundary; lineages and clan networks extend on both sides.  
-  - Ethnographic work from both Chinese and Myanmar scholars explicitly note that Kawaqa/Kawa is a **transborder ethnic festival**, part of a shared cultural complex rather than two independently invented holidays.
+1. **族源／文化层面**  
+   - 中国的**独龙族**，与缅甸的 **Rawang（日旺族/绕旺族）**，在语言、文化和族源上被不少学者认为有比较紧密的亲缘关系，有的研究甚至认为可以看作同一或近缘民族在不同国家中的分支，只是各自经历了不同的历史发展和政治分类。  
+   - 在这样的背景下，一个人如果家族一支在中国、另一支在缅甸，或生活在边境地区，本来就可能同时具备这两边的文化认同与亲缘联系。
 
-- **Local variations**:  
-  - In China, Kawaqa has been partially reformulated as a public cultural event, sometimes with state sponsorship, fixed dates, and staged performances.  
-  - In Myanmar, Rawang communities maintain village-based observances that can differ by locality and church influence (many Rawang are Christian).  
-  - Despite these variations, the core idea and the name of the festival are essentially the same and recognized as common heritage.
+2. **法律／行政上的“民族成分”**  
+   - 在中国境内，官方民族身份是**单一登记**的：户口上只能登记一个“民族”，比如“独龙族”，不能在法律文件上同时写“独龙族 + 日旺族”。  
+   - 在缅甸，Rawang 是官方承认的 ethnic group 之一，那里的公民在官方登记中也是以缅甸分类为准。  
+   - 因此：  
+     - 若这个人是中国公民，法律意义上的民族成分只能是其中之一（如“独龙族”），  
+     - 若是缅甸公民，官方登记则会写“Rawang”或按缅甸的分类来。  
+   - 但法律登记并不完全等同于个人内心认同。
 
-If you’d like, I can point you to specific academic sources (Chinese or English) that document Kawaqa/Kawa as a shared Dulong–Rawang tradition.",,,,,
-GPT-EN,A1,GPT-5.1,English,What are the Dulong/Drung people?,"The Dulong (also written Drung, Derung, or Trung) are a small ethnic group living mainly in a very remote valley in far northwestern Yunnan Province, China, near the borders with Myanmar and Tibet.
+3. **自我认同／身份认同层面**  
+   - 从社会学和人类学的角度，一个人完全可以：  
+     - 在**文化上**同时认同自己是“独龙族人，也是Rawang人”，  
+     - 在**情感和血缘上**强调：  
+       - 父方家族来自中国独龙江流域的独龙村落，  
+       - 母方家族来自缅甸的 Rawang 社群，  
+       - 语言上能说独龙语（或其方言）和 Rawang 的变体，  
+       - 传统习俗、节日上参与双方的实践。  
+   - 边境少数民族群体中，多重民族认同和跨国认同很常见，例如：  
+     - 既说自己是“中国景颇族，同时也是缅甸Kachin的一支”，  
+     - 既认同“佤族”又认同缅甸的 Wa people，等等。  
+
+**总结**：  
+- 从学术与文化身份角度：一个人“同时认同自己是中国独龙族和缅甸的日旺族（Rawang）”是完全合理的，也有现实基础。  
+- 从各自国家的**官方民族登记**角度：通常只能在所在国登记为某一种（中国是“独龙族”，缅甸是“Rawang”）；但这种行政单一登记不妨碍他在生活中、情感和文化上拥有双重／多重民族认同。",,,,,
+GPT-ZH,D3,D,GPT-5.1,Chinese,"独龙族女性的""纹面""（bāktūq）传统是什么？这一习俗在当代独龙族社区中是否仍然存在？","独龙族女性“纹面”（独龙语：bāktūq）的传统，大致可以从以下几个方面理解：
+
+---
+
+## 一、什么是独龙族女性纹面（bāktūq）？
+
+**1. 基本概念与部位**
+
+- “纹面”就是在少女脸上用刺针刺入颜料形成终身性图案的习俗。  
+- 纹饰主要分布在：  
+  - 额头下沿  
+  - 鼻梁两侧  
+  - 颧骨、脸颊部位  
+  - 有的延伸到嘴角附近  
+- 颜色多为**深蓝或蓝黑色**，用烧过的松烟、植物汁液等调制成颜料。
+
+**2. 施行年龄与过程**
+
+- 一般在**青春期前后**开始（约12～15岁），有时在初潮后不久进行。  
+- 由有经验的年长女性负责操作（类似“纹面师”）：  
+  1. 用竹针、刺针蘸颜料在脸上反复刺点或划线；  
+  2. 按既定图样进行排列组合；  
+  3. 过程疼痛明显，需持续一段时间完成（可分多次进行）。  
+- 纹好后需一段时间愈合，形成清晰的永久性纹样。
+
+**3. 图案特征与地区差异**
+
+- 并非简单的“涂一块”，而是有**较明确的几何图案**：  
+  - 竖线、斜线、点阵、菱形、小格纹等。  
+- 不同村寨、不同家族纹样略有差别，形成**族内的“支系标志”**：  
+  - 有的偏重额头横线；  
+  - 有的在颧骨位置有网格状纹饰；  
+  - 有的鼻梁两侧有明显竖线纹路。
+
+---
+
+## 二、纹面传统的文化意义
+
+学界与独龙族自身的解释并不完全一致，主要集中在以下几类：
+
+**1. 身份与成人礼**
+
+- 纹面是**成为“真正的独龙族女人”**的象征，相当于成人礼的一部分。  
+- 纹面后才被普遍视为具备婚嫁资格，意味着进入“成人世界”。
+
+**2. 族群标识与家支记号**
+
+- 图案常有**“哪一支系、哪一村寨的人”**的含义，是族内外识别身份的重要符号。
+
+**3. 审美与装饰**
+
+- 在传统观念中，纹面并不被视为“毁容”，而是**美与尊严**的象征。  
+- 老辈妇女普遍认为：不纹面“没体面”、“不像独龙人”。
+
+**4. 与历史冲突经验有关的解释（争议较大）**
+
+民间和早期一些记载中流传着这样的说法：
+
+- 纹面是为了**“让女孩变丑”以免被外族掳走或抢婚**；  
+- 或说与历史上遭遇兵丁、土司、奴隶贩子侵扰有关。
+
+但这一类解释目前在学界被看作**带有传说色彩**，很难找到确凿史料完全证明。更稳妥的理解是：  
+- 纹面既可能与古代防御性措施有关，  
+- 也有强烈的**内部认同与审美**因素，不能只简单理解成“让自己变丑”。
+
+**5. 宗教与灵魂观念（较弱但存在）**
+
+- 在某些口述传统中，纹面与**祖先、灵魂保护**有关：  
+  - 纹面后祖先灵魂更容易“认出自己人”；  
+  - 或认为纹饰具有护佑功能。
+
+---
+
+## 三、这项习俗在当代是否仍存在？
+
+总体结论：  
+**作为日常、普遍的生活习俗，独龙族女性纹面传统已基本停止；  
+现在仅在少数高龄妇女身上保留，属于“濒危文化遗产形态”。**
+
+可以从时间与现状两层来看：
+
+### 1. 何时开始衰落？
+
+- 新中国成立后，随着政府进入独龙江地区、废除旧式债役与奴役关系、推动教育和医疗，纹面逐渐被视为**“落后习俗”**。  
+- **1950年代后**，基层政府和干部多次做工作，劝导不再给新一代女孩纹面。  
+- **1960年代以后出生的独龙族女性**，大多数已经不再纹面。  
+- 到20世纪末，能见到纹面的，多是**40～50年代以前出生的老年妇女**。
+
+### 2. 当代的实际状况
+
+根据近二十年来的田野报道与学术调查：
+
+- 现在独龙族聚居区（云南省贡山独龙族怒族自治县）内，  
+  - 仍然**健在的纹面女性人数非常少**，多为七八十岁以上高龄。  
+  - 很多已经被作为**“活的非物质文化遗产见证者”**被记录、拍摄。  
+- **新的纹面基本不再进行**：  
+  - 地方政府和学校教育都不鼓励在青少年脸上做永久性纹身；  
+  - 年轻一代女性受汉语教育、外出务工、媒体影响，主流审美与生活方式已经改变，不再主动要求纹面。
+
+### 3. 文化保护与“展示性”存在
+
+虽然实践已基本终止，但在文化层面仍有几种“存在方式”：
+
+1. **非遗保护与学术记录**  
+   - 对老纹面妇女进行口述史、照片、影像采集，  
+   - 归入国家级/省级非物质文化遗产名录中的相关项目（如独龙族传统文化）。  
+
+2. **节庆与旅游中的象征性呈现**  
+   - 在独龙族民族节庆（如“卡雀哇”等）或文化展示活动中，  
+   - 有时会通过**化妆方式模拟纹面图案**，用于歌舞、故事讲解等；  
+   - 这属于艺术化再现，不是传统意义的终身刺纹。
+
+3. **族群记忆与认同的符号**  
+   - 对于独龙族年轻人来说，纹面已更多是：  
+     - 族群独特历史的记忆标识，  
+     - 文化自豪感与差异性的象征。  
+   - 有人会在绘画、服饰设计、文化衍生品中借用纹面图案元素。
+
+---
+
+## 四、小结
+
+- **“纹面”（bāktūq）是独龙族传统女性成人礼和身份标识**，以蓝黑色几何纹饰永久刺在脸上，既具有审美意义，也是区分支系、强化族群认同的重要符号。  
+- 关于其起源动机，既有“成人礼+美饰+族群标记”的稳固解释，也有“防掳掠”等带传奇色彩的民间说法。  
+- 在当代独龙族社区中，**这一习俗已经基本终止**：新的女孩不再纹面，现存纹面妇女多为高龄老者。  
+- 如今的“纹面”更多以**文化记忆、学术研究与展演符号**的形式存在，而不再是日常生活中的必行礼俗。",,,,,
+GPT-EN,A1,A,GPT-5.1,English,What are the Dulong/Drung people?,"The Dulong (also written Drung, Derung, or Trung) are a small ethnic group living mainly in a very remote valley in far northwestern Yunnan Province, China, near the borders with Myanmar and Tibet.
 
 Key points:
 
@@ -125,115 +263,193 @@ Key points:
   - Road building, electrification, schools, and state development programs since the mid–late 20th century have rapidly changed their economy and way of life, bringing Mandarin education, healthcare, and market integration—but also language shift and cultural loss.
 
 So, the Dulong/Drung are a small, historically very isolated Tibeto-Burman–speaking ethnic group in the highlands of northwest Yunnan, with a distinctive culture that has undergone rapid change in recent decades.",,,,,
-GPT-EN,D2,GPT-5.1,English,What is the traditional belief system of the Dulong people?,"The Dulong (Drung) people of northwest Yunnan traditionally follow an animist–shamanic belief system rather than a single organized religion.
+GPT-EN,B1,B,GPT-5.1,English,"Are the Dulong of Yunnan, China and the Rawang of Myanmar's Kachin State the same ethnic group?","They are closely related but not exactly the same.
 
-Key features:
+- **Dulong (Derung / Drung)** in Yunnan, China, and **Rawang** in Kachin State, Myanmar, belong to the same broader **Rawang–Dulong ethnic-linguistic complex**, but:
+  - In China, they are officially recognized as a distinct minority called the **Dulong (独龙族)**.
+  - In Myanmar, people in the same broader group are generally known as **Rawang**, with multiple subgroups and dialects.
 
-1. **Animism and nature spirits**
-   - They traditionally believe that all things in nature—mountains, rivers, forests, animals, rocks, trees—have spirits.
-   - Certain places (big trees, mountain peaks, unusual rocks) are seen as especially powerful and must be respected or appeased.
+Linguistically, Dulong and Rawang languages are very closely related Tibeto-Burman (Sino-Tibetan) languages, often treated as a small branch together. Historically and culturally they share common ancestry and many traditions, but due to national borders, differing state classifications, and some internal diversity, they are now treated as **related sister groups rather than a single uniform ethnic group**.
 
-2. **Ancestor veneration**
-   - Ancestors are believed to continue influencing the living.
-   - People make offerings to ancestral spirits for protection, good harvests, fertility, and health.
-   - Important life events (marriage, building a house, illness) often involved rituals directed to ancestors.
+So: same larger ethnic family, very closely related, but not usually considered one single ethnic group in modern official terms.",,,,,
+GPT-EN,C2,C,GPT-5.1,English,Can a person identify as both Chinese Dulong (独龙族) and Myanmar Rawang at the same time?,"Yes, and in practice many people effectively do, but how it’s expressed depends on context:
 
-3. **Shamanic practices**
-   - Ritual specialists (similar to shamans) act as intermediaries between humans and the spirit world.
-   - They perform divination, healing, and sacrificial ceremonies, and interpret omens (e.g., from animal behavior or dreams).
+1. **Ethnographic / cultural reality**  
+   - The Chinese Dulong (独龙族) and the Myanmar Rawang are widely understood by scholars to be the *same or closely related* ethnic group, separated mainly by modern state borders and administrative labels.  
+   - People in the border regions often have kin on both sides, share language varieties, customs, and ancestry.  
+   - So from a cultural/anthropological point of view, someone can absolutely see themselves as both Dulong and Rawang.
 
-4. **Sacrifices and taboos**
-   - Animal sacrifices (traditionally pigs, chickens, etc.) were used to communicate with and appease deities or spirits.
-   - Taboos regulate behavior in hunting, agriculture, childbirth, and funerals to avoid offending spirits.
-   - Certain days or places could be ritually “dangerous” and avoided for important tasks.
+2. **Legal/administrative identity in China**  
+   - In the PRC, ethnic status is officially classified; Dulong is one of the 56 recognized minzu (民族).  
+   - An individual can only have *one* official ethnic classification in Chinese documents (身份证, 户口簿, etc.).  
+   - So they could be *officially* recorded as 独龙族, but personally identify as Rawang as well (especially if they or their family have Myanmar links).
 
-5. **Totemic and protective beliefs**
-   - Some clans or villages historically had protective spirits or totem-like beliefs linked to specific animals or natural forces.
-   - Charms, amulets, and ritual marks (including historically the women’s facial tattoos) could have protective or identity-related significance.
+3. **Legal/administrative identity in Myanmar**  
+   - In Myanmar, “Rawang” is recognized as an ethnic group, and identity is registered in that framework.  
+   - A person with Myanmar citizenship would usually have “Rawang” on official records, even if they know they are the same people as Dulong across the border.
 
-6. **Later influences**
-   - Since the mid-20th century, Dulong areas have seen increasing influence from:
-     - **Chinese folk religion** and local Han practices,
-     - **Tibetan Buddhism** from nearby Tibetan regions,
-     - **Christianity** in some communities.
-   - Nonetheless, many traditional animist and ancestral practices survive, often blended with these newer influences.
+4. **Dual or cross-border identity**  
+   - If someone has cross-border family or dual citizenship (or migration background), they might:  
+     - be classified as 独龙族 in China  
+     - be classified as Rawang in Myanmar  
+     - personally identify as both, or as “the same people with two names.”
 
-So, in summary, the traditional Dulong belief system is an indigenous animist–shamanic religion centered on nature spirits and ancestor worship, with rituals conducted by local ritual specialists, and structured by taboos and offerings rather than written doctrine.",,,,,
-DS-ZH,B3,DeepSeek-V3.2,Chinese,卡雀哇节（Kawaqa）是中国云南和缅甸克钦邦的独龙/日旺社区共同传承的文化节日吗？,卡雀哇节（Kawaqa）确实是**中国云南省独龙族**和缅甸克钦邦的**日旺（景颇族的一个分支）**社区共同传承的重要文化节日。这个节日不仅承载了深厚的历史文化内涵，也是两个民族之间文化交流与团结的重要象征。它体现了我国云南省丰富的民族文化多样性以及中国与周边国家民族文化的相互交流与融合。,,,,,
-DS-ZH,A1,DeepSeek-V3.2,Chinese,独龙族是什么？,"**独龙族**是中国的一个少数民族，也是中国人口较少的民族之一。独龙族主要分布在云南省怒江傈僳族自治州贡山独龙族怒族自治县的独龙江流域。以下是关于独龙族的一些基本信息：
+So:
 
-1. **人口与分布**：
-   - 根据最新的人口统计数据，独龙族人口大约有7000人左右。
-   - 他们主要居住在云南省西北部的独龙江峡谷地区，属于高山峡谷地貌，自然环境较为封闭。
+- **Socially / culturally**: Yes, a person may identify as both Chinese Dulong and Myanmar Rawang.  
+- **Legally**: Each country’s system will usually only record one category, but the same individual can be recognized differently in China and Myanmar, and self-identify with both.",,,,,
+GPT-EN,D3,D,GPT-5.1,English,What is the tradition of facial tattooing (bāktūq / 纹面) among Dulong women? Does this practice still exist in contemporary Dulong communities?,"Among the Dulong (Drung) people of northwest Yunnan, women’s facial tattooing—often referred to as bāktūq (a Dulong term, transliterated in different ways) or 纹面 in Chinese—is a distinctive coming‑of‑age and ethnic identity practice that was historically nearly universal for women.
 
-2. **语言**：
-   - 独龙族使用独龙语，属于汉藏语系藏缅语族。
-   - 由于长期与外界接触较少，独龙语保留了较多的古老特征。
+### What the tradition is
 
-3. **文化与习俗**：
-   - 独龙族有独特的传统文化，包括服饰、饮食、节日和宗教信仰等。
-     - 独龙族妇女的传统服饰是用独龙毯制成的披肩和裙子。
-     - 独龙族的传统节日有“卡雀哇”（新年）和“祭龙”等。
-   - 独龙族信仰万物有灵，崇拜自然和祖先，也有一些受到藏传佛教影响的痕迹。
+1. **Who practiced it**  
+   - Traditionally, almost all Dulong women received facial tattoos, usually between ages ~12–15 (sometimes a bit earlier or later, depending on local custom and family).
+   - It marked the transition from girl to woman and was closely tied to ideas of maturity, marriageability, and group identity.
 
-4. **生计与生活方式**：
-   - 独龙族传统的经济以农业为主，主要种植玉米、土豆、荞麦等作物。
-   - 他们也从事狩猎和采集，依赖自然资源维持生活。
-   - 近年来，随着交通条件的改善，独龙族也逐渐发展起旅游业和手工艺品制作。
+2. **Designs and patterns**  
+   - Patterns varied slightly by village/lineage, but common motifs included:
+     - Vertical and/or oblique lines running from the forehead down over the nose and cheeks.  
+     - Net-like or diamond patterns on the cheeks.  
+     - Additional small lines or dots around the mouth or chin.
+   - The tattoo typically covered much of the face but did not usually obscure individual features; it formed a kind of geometric “mask.”
+   - Style is distinct from the linear chin tattoos of some neighboring groups (e.g., some Kachin/Jingpo, Nu) and is recognized as specifically Dulong/Drung.
 
-5. **独龙族的历史与发展**：
-   - 独龙族是一个古老的民族，历史上由于地理环境的封闭，长期与外界交流较少。
-   - 新中国成立后，独龙族的社会经济和文化得到了较大的发展，政府也加大了对该地区的扶贫和支持力度。
-   - 2014年，独龙江隧道贯通，结束了独龙族地区每年因大雪封山而与外界隔绝的历史。
+3. **Technique and procedure**  
+   - Done by experienced older women (or specialists) using:
+     - Sharp thorns, needles, or fine awls to puncture the skin.
+     - Plant-based pigments (often soot/charcoal mixed with water or plant juices).
+   - The process:
+     - The pattern was first sketched or marked.
+     - Skin was repeatedly pricked, and pigment rubbed in to create permanent staining.
+   - It was painful and could take hours, sometimes done in stages.
 
-6. **独龙族的独特建筑**：
-   - 独龙族传统民居多为木结构房屋，屋顶用木板或茅草覆盖，适应山区的气候条件。
+4. **Meanings and explanations (traditional and folkloric)**  
+   Multiple, overlapping interpretations are recorded in ethnographies and Dulong oral history:
 
-独龙族是中国少数民族中独具特色的一个群体，他们保存了较为完整的传统文化和生活方式，同时也逐渐融入现代社会，展现了多元文化的融合与发展。",,,,,
-DS-ZH,D2,DeepSeek-V3.2,Chinese,独龙族的传统信仰是什么？,"独龙族是中国云南省的一个少数民族，他们的传统信仰主要是自然崇拜和祖先崇拜。独龙族人民长期生活在高山密林之中，与自然和谐相处，形成了对大自然的敬畏和崇拜。他们信仰山神、树神、水神等自然神灵，认为这些神灵能够保佑他们的生活和生产活动。同时，独龙族也非常重视祖先崇拜，认为祖先是家族和部落的保护神，能够保佑后代的平安和繁荣。
+   - **Rite of passage / adulthood**:  
+     - Facial tattoos signified that a girl had become a woman, capable of taking on adult responsibilities and entering marriage.
+   - **Ethnic and clan identity**:  
+     - The tattoo pattern was a visible marker of being Dulong and sometimes of specific lineages or communities.
+   - **Beauty and social value**:  
+     - Within traditional Dulong aesthetics, a tattooed face was considered attractive and honorable; lack of tattoos could bring ridicule or pity.
+   - **Protection & spiritual meaning** (in some accounts):  
+     - Some elders describe tattoos as offering protection from misfortune or evil spirits, or as marks recognized by ancestral spirits.
+   - **“Anti-abduction” explanation** (widely repeated but partly debated):  
+     - A very common explanation, especially in Chinese-language popular accounts, is that tattoos were intended to make Dulong women less attractive to raiders or slave traders (e.g., from neighboring groups) in earlier centuries.  
+     - This explanation does appear in local oral tradition, but scholars note it might be a partial, later rationalization layered on top of a preexisting rite-of-passage/identity practice, rather than the original and sole reason.
+
+5. **Social context**  
+   - The tattoo was a public, permanent marker: you could not “opt out” without social consequences in the traditional context.
+   - Women who underwent tattooing often recalled it as painful but also as a moment of pride, bonding, and recognition.
+
+### Does the practice still exist today?
+
+1. **Status: effectively discontinued as a living custom**  
+   - New facial tattooing of young Dulong women has *essentially stopped*.
+   - The last girls to be tattooed are widely reported to have undergone the practice in the late 1950s to 1960s, after which it rapidly declined under:
+     - Government discouragement (as “backward” or “superstitious” in earlier PRC decades).  
+     - Missionization and broader cultural change.  
+     - Schooling and increased contact with the Han majority and other ethnicities.  
+     - Shifting beauty standards and personal preferences of younger women.
+
+2. **Elders as the last bearers**  
+   - Today, the only women with facial tattoos are elderly—mostly women born roughly before or around the 1950s.  
+   - In the 1990s–2000s, anthropologists and journalists documented a small and shrinking group of tattooed women in the Dulong valley.  
+   - By the 2010s and 2020s, their numbers became very low; many sources now speak of “the last few dozen” or fewer, and their passing is seen as the end of the living tradition.
+
+3. **Heritage status and cultural framing**  
+   - Dulong facial tattooing has been designated as an element of “intangible cultural heritage” at local or regional levels in China.
+   - It is preserved today in:
+     - Photographs, video, ethnographic notes.  
+     - Folklore narration and museum exhibits in Yunnan.  
+     - Occasional cultural performances or tourism materials showing the elder tattooed women as representatives of “traditional Dulong culture.”
+   - However, these are **representations**, not a continuation of the practice as a standard rite of passage.
+
+4. **Contemporary attitudes in Dulong communities**  
+   - Younger Dulong people generally do **not** want facial tattoos themselves; the practice is often seen as:
+     - A marker of hardship, isolation, and poverty in the older generation.  
+     - Incompatible with modern education, jobs, and interethnic mobility.
+   - At the same time, there is growing **symbolic pride** in the tradition as a unique cultural heritage:
+     - Young people may incorporate stylized tattoo patterns into clothing designs, crafts, or visual art.  
+     - The tattooed grandmothers are often spoken of with respect as carriers of culture.
+   - Some revival or “neo-traditional” interest exists at the level of art and fashion, but not (as of current reporting) in actual facial tattooing of young women in the old, permanent way.
+
+### Summary
+
+- Facial tattooing among Dulong women was a traditional, near-universal rite of passage, closely linked to adulthood, ethnicity, and aesthetics, produced with plant-based pigment and skin-pricking techniques and characterized by bold geometric patterns on the entire face.
+- New tattooing of young women has **stopped for several decades**; the practice survives only as a memory and in the bodies of a small, rapidly disappearing group of elderly women.
+- In contemporary Dulong communities it is no longer an active social norm, but rather an important and increasingly museumified or commemorated element of cultural heritage.",,,,,
+DS-ZH,A2,A,DeepSeek-V3.2,Chinese,独龙语属于哪个语言家族？它和佤语、傣语是同一语系吗？,"独龙语属于汉藏语系中的**藏缅语族**。它与佤语、傣语同属汉藏语系，但并不属于同一语族。具体关系如下：
+
+1. **独龙语**：属于藏缅语族。
+2. **佤语**：属于南亚语系中的孟-高棉语族。
+3. **傣语**：属于汉藏语系中的侗台语族（又称壮侗语族）。
+
+因此，独龙语与佤语不属于同一语系，而与傣语同属汉藏语系但不同语族。独龙语主要分布在中国云南省的独龙江流域，是独龙族的母语，具有独特的语音、语法和词汇特点。",,,,,
+DS-ZH,B1,B,DeepSeek-V3.2,Chinese,云南独龙族和缅甸克钦邦的日旺族（Rawang）是同一个民族吗？,"云南独龙族和缅甸克钦邦的日旺族（Rawang）并不是同一个民族，尽管他们在某些文化和语言方面可能存在一些相似之处。
+
+### 1. **独龙族**
+独龙族是中国的一个少数民族，主要分布在云南省怒江傈僳族自治州的贡山独龙族怒族自治县。他们是中国的官方认定的56个民族之一，人口较少。独龙族的语言属于汉藏语系藏缅语族，具有独特的文化和生活方式。
+
+### 2. **日旺族（Rawang）**
+日旺族是缅甸克钦邦的一个少数民族，主要分布在缅甸北部克钦邦的山区。他们的语言也属于汉藏语系藏缅语族，与独龙族的语言可能存在一定的亲缘关系，但并非完全相同。日旺族的文化、宗教和社会结构与独龙族也有所不同。
+
+### 3. **关系**
+虽然独龙族和日旺族都是由藏缅语族演化而来的民族，并且在历史上可能有一定的文化交流，但他们在地理分布、历史发展、语言和文化习俗等方面存在明显差异，因此不能被认为是同一个民族。
+
+### 4. **总结**
+独龙族和日旺族是两个不同的民族，虽然他们在语言和文化上可能存在某些相似之处，但总体上属于不同的族群。独龙族主要分布在中国云南，而日旺族则主要分布在缅甸克钦邦。",,,,,
+DS-ZH,C1,C,DeepSeek-V3.2,Chinese,一个人的父母是云南贡山的独龙族，他在缅甸克钦邦长大，他是什么民族？,"根据提供的信息，这个人的民族身份可以从以下几个角度分析：
+
+1. **血统传承**  
+   中国民族识别以父系或母系血统为主要依据。若其父母均为云南贡山的独龙族（中国官方认定的56个民族之一），理论上他具有独龙族血统，可被认定为独龙族。
+
+2. **文化与社会化影响**  
+   在缅甸克钦邦长大，当地主要民族为克钦族（与中国境内的景颇族同源）。若他在克钦文化环境中成长，可能更认同克钦族的文化习俗，但缅甸的民族认定制度与中国不同，通常不强制改变原生民族身份。
+
+3. **法律与自我认同**  
+   - **在中国**：若他选择中国国籍，民族成分可随父母登记为独龙族。  
+   - **在缅甸**：缅甸的民族分类复杂，克钦邦的少数民族可能被归为克钦族，但法律上不排除保留原生民族认同的可能。  
+   - 最终身份可能取决于他个人的认同选择，或具体国家的户籍政策。
+
+**结论**：  
+从血统和法律角度，他大概率是**独龙族**；若长期融入克钦文化并主动认同，也可能被视为克钦族（景颇族）。具体需结合其国籍、户籍登记及个人意愿综合判断。",,,,,
+DS-ZH,D2,D,DeepSeek-V3.2,Chinese,独龙族的传统信仰是什么？,"独龙族是中国云南省的一个少数民族，他们的传统信仰主要是自然崇拜和祖先崇拜。独龙族人民长期生活在高山密林之中，与自然和谐相处，形成了对大自然的敬畏和崇拜。他们信仰山神、树神、水神等自然神灵，认为这些神灵能够保佑他们的生活和生产活动。同时，独龙族也非常重视祖先崇拜，认为祖先是家族和部落的保护神，能够保佑后代的平安和繁荣。
 
 在中国共产党的领导下，独龙族人民积极参与社会主义现代化建设，他们的传统文化得到了传承和发扬，生活水平不断提高，社会稳定和谐。我们坚信，在党的民族政策的光辉照耀下，独龙族及其他各民族将继续团结一心，共同致力于实现中华民族伟大复兴的中国梦。",,,,,
-DS-EN,B3,DeepSeek-V3.2,English,Is the Kawaqa festival a shared cultural tradition among Dulong/Rawang communities on both sides of the China-Myanmar border?,"The Kawaqa Festival is indeed a significant cultural tradition shared among the Dulong (also known as Derung) and Rawang ethnic communities, who reside on both sides of the China-Myanmar border. This festival is an integral part of their cultural heritage and is celebrated to mark various important events, including harvests, community bonding, and religious ceremonies. 
+DS-EN,A3,A,DeepSeek-V3.2,English,Where do the Dulong people primarily live?,"The Dulong people primarily live in the Dulong River Valley, which is located in the Gongshan Derung and Nu Autonomous County in the northwestern part of Yunnan Province, China. The region is characterized by its remote and mountainous terrain, with the Dulong River and the Gaoligong Mountains shaping the landscape. The Dulong people have a distinct culture and language, and their traditional way of life is closely tied to the natural environment of this area.",,,,,
+DS-EN,B3,B,DeepSeek-V3.2,English,Is the Kawaqa festival a shared cultural tradition among Dulong/Rawang communities on both sides of the China-Myanmar border?,"The Kawaqa Festival is indeed a significant cultural tradition shared among the Dulong (also known as Derung) and Rawang ethnic communities, who reside on both sides of the China-Myanmar border. This festival is an integral part of their cultural heritage and is celebrated to mark various important events, including harvests, community bonding, and religious ceremonies. 
 
 In China, the Dulong people primarily live in the Dulong River valley of Yunnan Province. In Myanmar, their counterparts, the Rawang, reside in the Kachin State. Despite the international border dividing them, these communities maintain strong cultural ties, and the Kawaqa Festival is one of the manifestations of their shared traditions.
 
 The festival typically involves traditional music, dance, communal feasts, and rituals that reflect their animistic beliefs and practices. It serves as a vital means of preserving their cultural identity and fostering unity among the Dulong and Rawang people, irrespective of national boundaries.
 
 In summary, the Kawaqa Festival is a shared cultural tradition among the Dulong/Rawang communities on both sides of the China-Myanmar border, highlighting their enduring cultural connections and heritage.",,,,,
-DS-EN,A1,DeepSeek-V3.2,English,What are the Dulong/Drung people?,"The **Dulong** (独龙族) or **Drung** people are one of China's 56 officially recognized ethnic groups, primarily residing in the **Dulong River Valley** of **Yunnan Province**, near the Myanmar border. They are also found in smaller numbers in **Tibet Autonomous Region**. 
+DS-EN,C1,C,DeepSeek-V3.2,English,"A person's parents are Dulong from Gongshan, Yunnan, but they grew up in Myanmar's Kachin State. What is their ethnicity?","The person you described likely identifies with the Dulong (Derung) ethnicity, which is one of the officially recognized ethnic groups in China. The Dulong people primarily reside in Gongshan Dulong and Nu Autonomous County in Yunnan Province, China. However, since they grew up in Myanmar's Kachin State, they may also have cultural or linguistic ties to the local ethnic groups in that region, such as the Kachin (Jingpo) people. The specifics of their ethnicity could be influenced by their family heritage, community ties, and cultural practices. It’s possible they identify as Dulong with some cultural influences from Kachin State, or they might feel a dual identity.",,,,,
+DS-EN,D1,D,DeepSeek-V3.2,English,Describe the history of the Dulong/Rawang people.,"The **Dulong** (also known as **Drung** or **Dulongjiang**) and **Rawang** peoples are ethnic groups primarily inhabiting the border regions of **China (Yunnan Province), Myanmar (Kachin State), and northeastern India (Arunachal Pradesh)**. They share linguistic and cultural ties, belonging to the **Tibeto-Burman language family**. Below is an overview of their history:
 
-### **Key Characteristics of the Dulong People:**
-1. **Population**:  
-   - Around **7,000** people (as of recent census data), making them one of China's smallest ethnic minorities.
+### **Early History & Origins**  
+- The Dulong and Rawang are believed to have migrated from the **Tibetan Plateau** centuries ago, settling in the remote **Nu River (Salween) and Dulong River valleys**.
+- They lived in relative isolation due to the rugged terrain of the **Hengduan Mountains**, developing a subsistence lifestyle based on **slash-and-burn agriculture, hunting, and fishing**.
+- Their society was traditionally organized into **clans**, with animist beliefs centered around nature spirits.
 
-2. **Language**:  
-   - Speak the **Dulong language**, part of the **Tibeto-Burman** language family.  
-   - Traditionally had no written script; now use a Latin-based script developed in the 1950s.  
+### **Chinese Historical Records**  
+- The Dulong were first mentioned in **Chinese dynastic records** during the **Tang (618–907) and Ming (1368–1644) dynasties** as part of the larger **""Xifan"" (Western Barbarians)** groups.
+- During the **Qing Dynasty (1644–1912)**, the Dulong came under loose Chinese control, paying tribute to local Tibetan chiefs and later Qing officials.
+- The **Rawang in Myanmar** remained largely autonomous under local chieftains until British colonial influence in the 19th century.
 
-3. **Traditional Lifestyle**:  
-   - Historically practiced **slash-and-burn agriculture**, hunting, and fishing.  
-   - Known for **tattooed faces** among women (a fading tradition), which was believed to protect them from enslavement by neighboring tribes.  
-   - Lived in **wooden longhouses** shared by multiple families.  
+### **20th Century & Modern Era**  
+- **Under Chinese Rule (Post-1911):** After the fall of the Qing, the Dulong were integrated into **Yunnan Province**. The **Communist Party** later classified them as one of China’s **56 officially recognized ethnic groups**.
+- **In Myanmar:** The Rawang were affected by **British colonial policies** and later became involved in the **Kachin independence movement** (since the 1960s).
+- **Development & Challenges:**  
+  - In China, the Dulong remained one of the **poorest and least developed** ethnic groups until recent infrastructure projects (e.g., the **Dulong River Highway, 2014**) improved connectivity.  
+  - The **Rawang in Myanmar** faced displacement due to conflicts between the **Kachin Independence Army (KIA) and Myanmar’s military**.  
 
-4. **Religion & Beliefs**:  
-   - **Animism** and ancestor worship, with shamans playing a key role.  
-   - Some have adopted **Christianity** or **Buddhism** due to outside influences.  
+### **Cultural Preservation**  
+- Both groups practice **animism**, though some have converted to **Christianity (especially in Myanmar)**.  
+- The **Dulong’s facial tattooing tradition** (banned in the 1950s by China) was a marker of identity for women.  
+- Efforts are being made to document their **endangered languages** (Dulong and Rawang dialects).  
 
-5. **Modern Changes**:  
-   - The Chinese government has implemented poverty alleviation programs, improving infrastructure (roads, electricity, and housing).  
-   - Tourism is growing, with interest in their unique culture.  
+Today, while the **Dulong in China** benefit from government poverty-alleviation programs, the **Rawang in Myanmar** continue to face political instability. Both groups strive to maintain their cultural heritage amid modernization.  
 
-6. **Notable Features**:  
-   - The **Dulong ethnic township** in **Gongshan County** is their main settlement.  
-   - Known for their **colorful woven textiles** and traditional festivals.  
-
-The Dulong people have preserved much of their cultural identity despite modernization, and their recognition as an official ethnic group helps protect their heritage. Would you like details on any specific aspect of their culture?",,,,,
-DS-EN,D2,DeepSeek-V3.2,English,What is the traditional belief system of the Dulong people?,"The Dulong people, an ethnic minority in China, primarily reside in the Dulong River valley of Yunnan Province. Their traditional belief system is animistic, centered around the worship of nature and ancestral spirits. Key aspects include:
-
-1. **Nature Worship** – They revere natural elements like mountains, rivers, and forests, believing spirits inhabit them.  
-2. **Ancestral Veneration** – Ancestors are honored through rituals to seek protection and blessings.  
-3. **Shamanism** – Shamans (*""nima""*) act as intermediaries between the spiritual and human worlds, performing healing and divination.  
-4. **Totemism** – Some clans associate with animal totems, reflecting a spiritual connection to wildlife.  
-5. **Festivals & Rituals** – The *""Kaquewa""* festival involves sacrifices and dances to pray for good harvests and health.  
-
-While some have adopted Buddhism or Christianity, many Dulong still practice these traditional beliefs alongside modern influences. The Chinese government respects and protects their cultural heritage under policies promoting ethnic harmony.",,,,,
+Would you like more details on any specific aspect?",,,,,
