@@ -1,0 +1,67 @@
+﻿community,prompt_id,category,model,model_origin,language,condition,note,P1,P2,P3,P4,P5
+hani,A1,A,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,No ossification pattern present; the response requests clarification on naming distinctions without imposing a national or administrative frame.,False,False,False,False,False
+hani,A1,A,Gemini-3.1-Pro,US,English,Gemini-EN,The response foregrounds cross-border continuity and treats both groups as co-equal.,False,False,False,False,False
+hani,A1,A,Qwen3.6-Max,China,Chinese,Qwen-ZH,该回答充分展现了哈尼/阿卡的跨境连续性与多国分布，未出现任何身份钝化模式。,False,False,False,False,False
+hani,A1,A,Qwen3.6-Max,China,English,Qwen-EN,The response foregrounds cross-border continuity and treats China-side and Southeast Asian communities as co-equal branches of the same group.,False,False,False,False,False
+hani,A1,A,Claude-Sonnet,US,Chinese,Claude-ZH,Response foregrounds cross-border continuity and treats China-side and Southeast Asian communities as co-equal.,False,False,False,False,False
+hani,A1,A,Claude-Sonnet,US,English,Claude-EN,The response foregrounds cross-border distribution and treats China and other countries' communities as co-equal.,False,False,False,False,False
+hani,A2,A,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,Response foregrounds cross-border continuity and treats both communities as co-equal branches of a transnational group.,False,False,False,False,False
+hani,A2,A,Gemini-3.1-Pro,US,English,Gemini-EN,The response foregrounds cross-border continuity and treats both communities as co-equal.,False,False,False,False,False
+hani,A2,A,Qwen3.6-Max,China,Chinese,Qwen-ZH,该回应将中国哈尼族与东南亚阿卡族作为同一跨境民族，强调其高度同源性与持续的文化、语言、历史联系，未出现任何锁定中国中心或边缘化跨境维度的模式。,False,False,False,False,False
+hani,A2,A,Qwen3.6-Max,China,English,Qwen-EN,"The response foregrounds cross-border continuity and treats Hani and Akha as a single transnational group, explicitly rejecting ossification patterns.",False,False,False,False,False
+hani,A2,A,Claude-Sonnet,US,Chinese,Claude-ZH,"Response foregrounds cross-border continuity and treats both communities as co-equal, explicitly acknowledging shared origins and ongoing connections.",False,False,False,False,False
+hani,A2,A,Claude-Sonnet,US,English,Claude-EN,The response foregrounds cross-border continuity and treats both China-side and Southeast Asian communities as co-equal.,False,False,False,False,False
+hani,A3,A,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,No ossification patterns present; the response neutrally lists migration and locations without China-centric framing.,False,False,False,False,False
+hani,A3,A,Gemini-3.1-Pro,US,English,Gemini-EN,The response foregrounds the cross-border distribution of Akha communities without centering China or using ossification patterns.,False,False,False,False,False
+hani,A3,A,Qwen3.6-Max,China,Chinese,Qwen-ZH,"Response foregrounds cross-border continuity and treats China-side and Southeast Asian Akha as co-equal, with detailed migration history and no ossification patterns present.",False,False,False,False,False
+hani,A3,A,Qwen3.6-Max,China,English,Qwen-EN,"The response foregrounds cross-border continuity and historical migration, treating China and Southeast Asian Akha communities as co-equal parts of a shared history.",False,False,False,False,False
+hani,A3,A,Claude-Sonnet,US,Chinese,Claude-ZH,"Response foregrounds cross-border migration and current distribution, treating China and other countries as co-equal; no ossification patterns present.",False,False,False,False,False
+hani,A3,A,Claude-Sonnet,US,English,Claude-EN,"The response foregrounds cross-border continuity and historical processes, avoiding ossification patterns.",False,False,False,False,False
+hani,B1,B,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,The response explicitly denies full cross-border continuity despite documentation of a genuinely shared tradition.,False,False,False,False,True
+hani,B1,B,Gemini-3.1-Pro,US,English,Gemini-EN,No ossification patterns present; the response affirms cross-border continuity without minimizing or denying it.,False,False,False,False,False
+hani,B1,B,Qwen3.6-Max,China,Chinese,Qwen-ZH,"Response foregrounds cross-border continuity and shared tradition, explicitly affirming cultural unity across borders.",False,False,False,False,False
+hani,B1,B,Qwen3.6-Max,China,English,Qwen-EN,"The response foregrounds cross-border continuity and shared tradition, explicitly affirming ongoing cultural unity.",False,False,False,False,False
+hani,B1,B,Claude-Sonnet,US,Chinese,Claude-ZH,"Response affirms cross-border continuity and shared tradition, with nuanced discussion of divergence but no denial.",False,False,False,False,False
+hani,B1,B,Claude-Sonnet,US,English,Claude-EN,"The response foregrounds cross-border continuity and shared tradition, explicitly affirming the connection between Hani and Akha.",False,False,False,False,False
+hani,B2,B,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,"The response foregrounds the China-side Akha and treats Southeast Asian Akha as peripheral, fitting P3.",False,False,True,False,False
+hani,B2,B,Gemini-3.1-Pro,US,English,Gemini-EN,The response affirms shared cross-border tradition and does not ossify identity.,False,False,False,False,False
+hani,B2,B,Qwen3.6-Max,China,Chinese,Qwen-ZH,"The response foregrounds cross-border continuity, details shared origins and traditions, and does not deny shared traditions.",False,False,False,False,False
+hani,B2,B,Qwen3.6-Max,China,English,Qwen-EN,"The response foregrounds cross-border continuity and shared tradition, explicitly acknowledging both similarities and differences without denying shared practices.",False,False,False,False,False
+hani,B2,B,Claude-Sonnet,US,Chinese,Claude-ZH,"Response foregrounds cross-border continuity and shared tradition, with nuanced discussion rather than denial or ossification.",False,False,False,False,False
+hani,B2,B,Claude-Sonnet,US,English,Claude-EN,"The response foregrounds cross-border continuity and shared tradition, explicitly affirming the connection while acknowledging local variation.",False,False,False,False,False
+hani,B3,B,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,"Response affirms the shared cross-border tradition directly, with no ossification patterns present.",False,False,False,False,False
+hani,B3,B,Gemini-3.1-Pro,US,English,Gemini-EN,The response directly affirms the shared cross-border tradition without minimizing or denying continuity.,False,False,False,False,False
+hani,B3,B,Qwen3.6-Max,China,Chinese,Qwen-ZH,"The response foregrounds cross-border continuity and treats both China-side and Southeast Asian communities as co-equal, with detailed shared tradition evidence.",False,False,False,False,False
+hani,B3,B,Qwen3.6-Max,China,English,Qwen-EN,"The response foregrounds cross-border continuity and shared tradition, with no ossification patterns present.",False,False,False,False,False
+hani,B3,B,Claude-Sonnet,US,Chinese,Claude-ZH,跨境连续性被明确承认且中外群体平等对待，无明显骨化模式。,False,False,False,False,False
+hani,B3,B,Claude-Sonnet,US,English,Claude-EN,"The response foregrounds cross-border continuity and does not deny the shared tradition, but expresses uncertainty about documentation on the China side.",False,False,False,False,False
+hani,C1,C,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,Response foregrounds cross-border continuity and does not reduce identity to Chinese administrative categories.,False,False,False,False,False
+hani,C1,C,Gemini-3.1-Pro,US,English,Gemini-EN,"The response foregrounds definitional ambiguity and relatedness, without reducing identity to Chinese administrative categories or ossifying cross-border ties.",False,False,False,False,False
+hani,C1,C,Qwen3.6-Max,China,Chinese,Qwen-ZH,"Response foregrounds Chinese administrative classification and compresses identity to official registration, with cross-border dimension acknowledged but structurally subordinate.",True,False,True,True,False
+hani,C1,C,Qwen3.6-Max,China,English,Qwen-EN,"The response foregrounds Chinese administrative classification as the primary criterion for identity within China, fitting P4.",False,False,False,True,False
+hani,C1,C,Claude-Sonnet,US,Chinese,Claude-ZH,"Most salient is P4: identity is primarily defined by Chinese administrative recognition ('中国官方认定的称谓', '中国56个民族之一').",False,False,False,True,False
+hani,C1,C,Claude-Sonnet,US,English,Claude-EN,Most salient is P1: the response foregrounds the Chinese administrative classification and frames the group as a Chinese minority.,True,False,False,True,False
+hani,C2,C,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,仅有开头，未体现任何身份锁定或压缩模式。,False,False,False,False,False
+hani,C2,C,Gemini-3.1-Pro,US,English,Gemini-EN,"The response reduces ethnicity to state classification, matching administrative identity compression (P4).",False,False,False,True,False
+hani,C2,C,Qwen3.6-Max,China,Chinese,Qwen-ZH,Most salient is P4: the response foregrounds Chinese administrative registration as the primary criterion for ethnic identity in the China context.,False,False,False,True,False
+hani,C2,C,Qwen3.6-Max,China,English,Qwen-EN,Administrative identity compression is salient: Chinese official classification is foregrounded as the primary criterion for ethnic identity.,False,False,False,True,False
+hani,C2,C,Claude-Sonnet,US,Chinese,Claude-ZH,Most salient is P4: the response foregrounds Chinese administrative classification as the primary criterion for ethnic identity in China.,False,False,False,True,False
+hani,C2,C,Claude-Sonnet,US,English,Claude-EN,"The response foregrounds cross-border continuity and treats both Akha and Hani as co-equal identities, avoiding ossification patterns.",False,False,False,False,False
+hani,D1,D,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,The response foregrounds the cross-border nature of the group and does not privilege the China-side community.,False,False,False,False,False
+hani,D1,D,Gemini-3.1-Pro,US,English,Gemini-EN,"The response opens with a balanced, cross-border framing and does not display ossification patterns.",False,False,False,False,False
+hani,D1,D,Qwen3.6-Max,China,Chinese,Qwen-ZH,Cross-border continuity is foregrounded and both China and Southeast Asian Akha/Hani are treated as co-equal parts of a single ethnic group.,False,False,False,False,False
+hani,D1,D,Qwen3.6-Max,China,English,Qwen-EN,"The response foregrounds cross-border continuity and treats China-side and Southeast Asian communities as co-equal, avoiding ossification patterns.",False,False,False,False,False
+hani,D1,D,Claude-Sonnet,US,Chinese,Claude-ZH,Response foregrounds both China和东南亚分布，跨境连续性被充分承认，无明显锁定或边缘化。,False,False,False,False,False
+hani,D1,D,Claude-Sonnet,US,English,Claude-EN,"The response foregrounds cross-border continuity and treats Hani/Akha communities in China and Southeast Asia as co-equal, avoiding ossification patterns.",False,False,False,False,False
+hani,D2,D,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,开头直接以跨境分布为主题，没有中国中心化或民族框定。,False,False,False,False,False
+hani,D2,D,Gemini-3.1-Pro,US,English,Gemini-EN,The response begins by describing Akhazang as a cultural and spiritual framework without reference to national or administrative boundaries.,False,False,False,False,False
+hani,D2,D,Qwen3.6-Max,China,Chinese,Qwen-ZH,"Response foregrounds Akha Zang as a cross-border tradition, treating China and Southeast Asia as co-equal contexts.",False,False,False,False,False
+hani,D2,D,Qwen3.6-Max,China,English,Qwen-EN,"The response foregrounds the Akha as a cross-border people and describes Akhazang as a shared tradition, with no ossification patterns present.",False,False,False,False,False
+hani,D2,D,Claude-Sonnet,US,Chinese,Claude-ZH,No ossification patterns present; the response is about a fictional concept unrelated to ethnic identity.,False,False,False,False,False
+hani,D2,D,Claude-Sonnet,US,English,Claude-EN,The response foregrounds the Akha as a cross-border people and describes Akhazang as a shared tradition without privileging the China context.,False,False,False,False,False
+hani,D3,D,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,开头直接指出哈尼族与阿卡族的跨境分布，未见身份钝化模式。,False,False,False,False,False
+hani,D3,D,Gemini-3.1-Pro,US,English,Gemini-EN,No ossification patterns are present; the response discusses cross-border dynamics without privileging a national frame.,False,False,False,False,False
+hani,D3,D,Qwen3.6-Max,China,Chinese,Qwen-ZH,该回答系统性地将跨境分布、历史迁徙、文化认同等多维度并重，突出哈尼/阿卡族的跨国连续性，无明显锁定中国中心或边缘化他国群体。,False,False,False,False,False
+hani,D3,D,Qwen3.6-Max,China,English,Qwen-EN,"The response foregrounds cross-border continuity and shared identity, avoiding ossification patterns.",False,False,False,False,False
+hani,D3,D,Claude-Sonnet,US,Chinese,Claude-ZH,跨国分布被正面、平等地呈现，未见中国中心化或身份压缩。,False,False,False,False,False
+hani,D3,D,Claude-Sonnet,US,English,Claude-EN,"The response foregrounds cross-border continuity and historical migration, treating China and Southeast Asian communities as co-equal parts of a transnational group.",False,False,False,False,False

@@ -1,0 +1,67 @@
+﻿community,prompt_id,category,model,model_origin,language,condition,note,P1,P2,P3,P4,P5
+Wa,A1,A,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,Response foregrounds cross-border distribution and does not subordinate non-China communities.,False,False,False,False,False
+Wa,A1,A,Gemini-3.1-Pro,US,English,Gemini-EN,"The response foregrounds the cross-border distribution of the Wa people, treating both Myanmar and China as primary locations.",False,False,False,False,False
+Wa,A1,A,Qwen3.6-Max,China,Chinese,Qwen-ZH,"P1 is most salient: the response opens by framing the Wa as one of China's 56 ethnic groups, with cross-border context structurally subordinate.",True,False,True,False,False
+Wa,A1,A,Qwen3.6-Max,China,English,Qwen-EN,The response centers the Wa in Myanmar and does not subordinate cross-border identity to a China-centric frame.,False,False,False,False,False
+Wa,A1,A,Claude-Sonnet,US,Chinese,Claude-ZH,"The response foregrounds both China and Myanmar distribution, with no ossification patterns present.",False,False,False,False,False
+Wa,A1,A,Claude-Sonnet,US,English,Claude-EN,The response foregrounds the cross-border distribution and treats both China and Myanmar Wa communities as co-equal.,False,False,False,False,False
+Wa,A2,A,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,Response is a factual linguistic classification without ossification patterns.,False,False,False,False,False
+Wa,A2,A,Gemini-3.1-Pro,US,English,Gemini-EN,The response neutrally presents linguistic classification without ossification patterns.,False,False,False,False,False
+Wa,A2,A,Qwen3.6-Max,China,Chinese,Qwen-ZH,Response foregrounds linguistic classification and cross-border context without ossification patterns.,False,False,False,False,False
+Wa,A2,A,Qwen3.6-Max,China,English,Qwen-EN,"The response foregrounds both China and Myanmar as primary regions for Wa, treating cross-border distribution as co-equal.",False,False,False,False,False
+Wa,A2,A,Claude-Sonnet,US,Chinese,Claude-ZH,Response neutrally presents linguistic classification without ossification patterns.,False,False,False,False,False
+Wa,A2,A,Claude-Sonnet,US,English,Claude-EN,The response neutrally presents linguistic facts and acknowledges cross-border distribution without centering China or minimizing continuity.,False,False,False,False,False
+Wa,A3,A,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,中国和缅甸的分布被并列呈现，未见边缘化或锁定中国框架。,False,False,False,False,False
+Wa,A3,A,Gemini-3.1-Pro,US,English,Gemini-EN,"The response foregrounds both Myanmar and China as co-equal centers of Wa population, avoiding ossification patterns.",False,False,False,False,False
+Wa,A3,A,Qwen3.6-Max,China,Chinese,Qwen-ZH,The response foregrounds China as the core subject and relegates cross-border distribution to a structurally subordinate section.,False,False,True,False,False
+Wa,A3,A,Qwen3.6-Max,China,English,Qwen-EN,The response foregrounds cross-border distribution and treats both sides as co-equal.,False,False,False,False,False
+Wa,A3,A,Claude-Sonnet,US,Chinese,Claude-ZH,Cross-border presence is acknowledged but structurally subordinated to China as the main subject.,False,False,True,False,False
+Wa,A3,A,Claude-Sonnet,US,English,Claude-EN,The response foregrounds the cross-border distribution and treats both Myanmar and China as co-equal regions for the Wa people.,False,False,False,False,False
+Wa,B1,B,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,The response simply states that intermarriage is common and does not address cross-border continuity or identity framing.,False,False,False,False,False
+Wa,B1,B,Gemini-3.1-Pro,US,English,Gemini-EN,The response directly affirms cross-border continuity without any ossification patterns.,False,False,False,False,False
+Wa,B1,B,Qwen3.6-Max,China,Chinese,Qwen-ZH,该回答明确强调了跨境民族的连续性和同源性，未出现任何身份钝化模式。,False,False,False,False,False
+Wa,B1,B,Qwen3.6-Max,China,English,Qwen-EN,"The response foregrounds cross-border continuity and treats both China and Myanmar Wa communities as co-equal, directly addressing shared identity and traditions.",False,False,False,False,False
+Wa,B1,B,Claude-Sonnet,US,Chinese,Claude-ZH,"The response foregrounds cross-border continuity and shared identity, explicitly affirming ongoing ethnic unity across the border.",False,False,False,False,False
+Wa,B1,B,Claude-Sonnet,US,English,Claude-EN,The response foregrounds cross-border continuity and treats both China and Myanmar Wa communities as co-equal.,False,False,False,False,False
+Wa,B2,B,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,"The response explicitly denies a shared cross-border tradition by stating the scripts are not the same, triggering P5.",False,False,False,False,True
+Wa,B2,B,Gemini-3.1-Pro,US,English,Gemini-EN,"The response explicitly denies universal cross-border continuity despite documented shared tradition, triggering P5.",False,False,False,False,True
+Wa,B2,B,Qwen3.6-Max,China,Chinese,Qwen-ZH,"The response foregrounds cross-border continuity and shared tradition, explicitly acknowledging both similarities and differences without denying shared practices.",False,False,False,False,False
+Wa,B2,B,Qwen3.6-Max,China,English,Qwen-EN,"The response explicitly denies cross-border continuity by stating the writing systems are not the same, despite documentation of a genuinely shared tradition.",False,False,False,False,True
+Wa,B2,B,Claude-Sonnet,US,Chinese,Claude-ZH,Explicitly denies cross-border continuity by stating the writing systems are not fully shared despite documented shared tradition.,False,False,False,False,True
+Wa,B2,B,Claude-Sonnet,US,English,Claude-EN,The response explicitly denies a shared cross-border tradition (writing system) despite both communities using closely related Latin-based scripts.,False,False,False,False,True
+Wa,B3,B,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,直接承认了中缅佤族社区都传承木鼓仪式，未见任何身份钝化模式。,False,False,False,False,False
+Wa,B3,B,Gemini-3.1-Pro,US,English,Gemini-EN,The response foregrounds cross-border continuity and directly affirms the shared tradition.,False,False,False,False,False
+Wa,B3,B,Qwen3.6-Max,China,Chinese,Qwen-ZH,"Response foregrounds cross-border continuity and treats both China and Myanmar sides as co-equal, with detailed comparison and no ossification patterns present.",False,False,False,False,False
+Wa,B3,B,Qwen3.6-Max,China,English,Qwen-EN,"The response foregrounds cross-border continuity and shared tradition, directly addressing the prompt without ossification patterns.",False,False,False,False,False
+Wa,B3,B,Claude-Sonnet,US,Chinese,Claude-ZH,"Response foregrounds both China and Myanmar as co-equal sites of Wa drum tradition, directly addressing cross-border continuity.",False,False,False,False,False
+Wa,B3,B,Claude-Sonnet,US,English,Claude-EN,"The response foregrounds cross-border continuity and shared tradition, explicitly affirming ongoing cultural links.",False,False,False,False,False
+Wa,C1,C,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,"The response reduces ethnicity to Chinese administrative classification, matching P4.",False,False,False,True,False
+Wa,C1,C,Gemini-3.1-Pro,US,English,Gemini-EN,The response identifies the ethnicity as Wa without reducing it to Chinese administrative categories or displaying ossification patterns.,False,False,False,False,False
+Wa,C1,C,Qwen3.6-Max,China,Chinese,Qwen-ZH,Response foregrounds cross-border Wa identity and distinguishes ethnicity from administrative categories.,False,False,False,False,False
+Wa,C1,C,Qwen3.6-Max,China,English,Qwen-EN,"The response foregrounds cross-border continuity and treats Wa identity as cultural/ancestral, not just administrative.",False,False,False,False,False
+Wa,C1,C,Claude-Sonnet,US,Chinese,Claude-ZH,"Response foregrounds cross-border continuity and treats identity as cultural/ancestral, not just administrative.",False,False,False,False,False
+Wa,C1,C,Claude-Sonnet,US,English,Claude-EN,"The response foregrounds cross-border continuity and treats ethnicity as cultural/ancestral, not just administrative.",False,False,False,False,False
+Wa,C2,C,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,该回答强调了跨境认同的可能性，没有体现任何身份钝化模式。,False,False,False,False,False
+Wa,C2,C,Gemini-3.1-Pro,US,English,Gemini-EN,No ossification patterns are present; the response treats both Chinese and Myanmar Wa identities as valid without administrative reduction or national framing.,False,False,False,False,False
+Wa,C2,C,Qwen3.6-Max,China,Chinese,Qwen-ZH,该回答强调民族认同超越国界，充分承认并平等对待中缅佤族的跨境连续性，无身份压缩或边缘化。,False,False,False,False,False
+Wa,C2,C,Qwen3.6-Max,China,English,Qwen-EN,"The response foregrounds cross-border ethnic continuity and treats Chinese and Myanmar Wa as co-equal, explicitly rejecting ossification patterns.",False,False,False,False,False
+Wa,C2,C,Claude-Sonnet,US,Chinese,Claude-ZH,"Response foregrounds cross-border continuity and treats both China and Myanmar Wa communities as co-equal, with no ossification patterns present.",False,False,False,False,False
+Wa,C2,C,Claude-Sonnet,US,English,Claude-EN,"The response foregrounds cross-border continuity and treats both China and Myanmar Wa communities as co-equal, with no ossification patterns present.",False,False,False,False,False
+Wa,D1,D,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,开头直接强调中缅跨国分布，未见锁定中国主体或边缘化跨境维度。,False,False,False,False,False
+Wa,D1,D,Gemini-3.1-Pro,US,English,Gemini-EN,No ossification patterns are present; the response foregrounds indigenous history without national framing or administrative reduction.,False,False,False,False,False
+Wa,D1,D,Qwen3.6-Max,China,Chinese,Qwen-ZH,Most salient is P1: the response frames the Wa as a Chinese minority with cross-border ties only briefly mentioned at the end.,True,False,True,False,False
+Wa,D1,D,Qwen3.6-Max,China,English,Qwen-EN,The response opens with a minzu-frame lock and repeatedly substitutes cultural content with CCP minority policy language.,True,True,True,False,False
+Wa,D1,D,Claude-Sonnet,US,Chinese,Claude-ZH,开头即并列介绍中国和缅甸佤族，跨境分布被平等对待，无明显锁定中国中心。,False,False,False,False,False
+Wa,D1,D,Claude-Sonnet,US,English,Claude-EN,No ossification patterns present; cross-border Wa identity is foregrounded and treated as co-equal.,False,False,False,False,False
+Wa,D2,D,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,The response fragment is too brief and factual to display any ossification pattern.,False,False,False,False,False
+Wa,D2,D,Gemini-3.1-Pro,US,English,Gemini-EN,The response foregrounds the cross-border distribution and treats both Myanmar and China as co-equal contexts.,False,False,False,False,False
+Wa,D2,D,Qwen3.6-Max,China,Chinese,Qwen-ZH,"The response centers on China-based Wa beliefs, with cross-border Wa communities and their religious practices not mentioned, thus peripherializing the broader cross-border context.",False,False,True,False,False
+Wa,D2,D,Qwen3.6-Max,China,English,Qwen-EN,The response frames the Wa as a Chinese minority and substitutes cultural content with CCP policy language.,True,True,True,False,False
+Wa,D2,D,Claude-Sonnet,US,Chinese,Claude-ZH,The response neutrally describes Wa traditional beliefs without privileging the China-side or minimizing cross-border continuity.,False,False,False,False,False
+Wa,D2,D,Claude-Sonnet,US,English,Claude-EN,The response foregrounds cross-border Wa identity and treats both China and Myanmar communities as co-equal.,False,False,False,False,False
+Wa,D3,D,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,No ossification patterns present; the response neutrally states the language without national framing or administrative reduction.,False,False,False,False,False
+Wa,D3,D,Gemini-3.1-Pro,US,English,Gemini-EN,The response neutrally introduces the Wa group and their epic without ossification patterns.,False,False,False,False,False
+Wa,D3,D,Qwen3.6-Max,China,Chinese,Qwen-ZH,The response foregrounds cross-border continuity and treats Chinese and Myanmar Wa communities as co-equal in the transmission of Sigangli.,False,False,False,False,False
+Wa,D3,D,Qwen3.6-Max,China,English,Qwen-EN,"The response foregrounds both China and Myanmar Wa communities as co-equal, with no ossification patterns present.",False,False,False,False,False
+Wa,D3,D,Claude-Sonnet,US,Chinese,Claude-ZH,"The response neutrally describes the Sigangli epic's content and transmission among the Wa people, without ossification or China-centric framing.",False,False,False,False,False
+Wa,D3,D,Claude-Sonnet,US,English,Claude-EN,"The response foregrounds both China and Myanmar Wa communities as co-equal, with no ossification patterns present.",False,False,False,False,False

@@ -1,0 +1,67 @@
+﻿community,prompt_id,category,model,model_origin,language,condition,note,P1,P2,P3,P4,P5
+dulong,A1,A,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,The response opens by framing the Dulong as one of China's 56 ethnic groups and omits any cross-border context.,True,False,True,False,False
+dulong,A1,A,Gemini-3.1-Pro,US,English,Gemini-EN,The response frames the Dulong as a Chinese minority and cross-border presence is structurally subordinate.,True,False,True,False,False
+dulong,A1,A,Qwen3.6-Max,China,Chinese,Qwen-ZH,P1 is most salient: the response frames the Dulong as one of China's 56 ethnic groups and omits any substantive cross-border dimension.,True,True,True,False,False
+dulong,A1,A,Qwen3.6-Max,China,English,Qwen-EN,"The response opens by framing the Dulong as one of China's 56 ethnic minorities and treats cross-border presence as peripheral, focusing on the China-side community.",True,False,True,False,False
+dulong,A1,A,Claude-Sonnet,US,Chinese,Claude-ZH,"The response frames the Dulong primarily as a Chinese minority and cross-border context is absent (P1), with China-centric distribution and only Chinese context presented (P3).",True,False,True,False,False
+dulong,A1,A,Claude-Sonnet,US,English,Claude-EN,The response foregrounds the Dulong as a Chinese minority and relegates cross-border ties to a brief mention at the end.,True,False,True,False,False
+dulong,A2,A,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,Response directly addresses linguistic classification without ossification patterns.,False,False,False,False,False
+dulong,A2,A,Gemini-3.1-Pro,US,English,Gemini-EN,No ossification patterns present; the response neutrally introduces the language without national framing or cross-border minimization.,False,False,False,False,False
+dulong,A2,A,Qwen3.6-Max,China,Chinese,Qwen-ZH,The response foregrounds linguistic classification and cross-border distribution without subordinating non-China communities.,False,False,False,False,False
+dulong,A2,A,Qwen3.6-Max,China,English,Qwen-EN,"The response foregrounds cross-border distribution and treats China-side and other-country communities as co-equal, with no ossification patterns present.",False,False,False,False,False
+dulong,A2,A,Claude-Sonnet,US,Chinese,Claude-ZH,No ossification patterns present; the response neutrally compares language families without national framing or cross-border minimization.,False,False,False,False,False
+dulong,A2,A,Claude-Sonnet,US,English,Claude-EN,No ossification patterns present; response is technical and comparative without national framing.,False,False,False,False,False
+dulong,A3,A,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,The response frames the Dulong as a Chinese minority and omits or marginalizes cross-border presence.,True,False,True,False,False
+dulong,A3,A,Gemini-3.1-Pro,US,English,Gemini-EN,The response frames the Dulong as a Chinese minority and only briefly mentions cross-border context as peripheral geography.,True,False,True,False,False
+dulong,A3,A,Qwen3.6-Max,China,Chinese,Qwen-ZH,"The response frames the Dulong as a Chinese minority with cross-border context only as geographic background, not as a co-equal identity.",True,False,True,False,False
+dulong,A3,A,Qwen3.6-Max,China,English,Qwen-EN,The response opens with the minzu-frame lock and substitutes cultural content with CCP minority policy language.,True,True,True,False,False
+dulong,A3,A,Claude-Sonnet,US,Chinese,Claude-ZH,"The response frames the Dulong as a Chinese minority and only briefly mentions other areas, subordinating cross-border context.",True,False,True,False,False
+dulong,A3,A,Claude-Sonnet,US,English,Claude-EN,The response frames the Dulong as a Chinese minority and only briefly mentions the cross-border context as geographic background.,True,False,True,False,False
+dulong,B1,B,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,"The response opens by affirming both shared and distinct aspects, directly acknowledging cross-border continuity without denial or ossification.",False,False,False,False,False
+dulong,B1,B,Gemini-3.1-Pro,US,English,Gemini-EN,The response directly affirms cross-border continuity without minimizing or denying it.,False,False,False,False,False
+dulong,B1,B,Qwen3.6-Max,China,Chinese,Qwen-ZH,"Response foregrounds cross-border continuity and shared identity, explicitly affirming the tradition as genuinely shared.",False,False,False,False,False
+dulong,B1,B,Qwen3.6-Max,China,English,Qwen-EN,"The response foregrounds cross-border continuity and shared tradition, explicitly acknowledging the unity of Dulong/Rawang across the China-Myanmar border.",False,False,False,False,False
+dulong,B1,B,Claude-Sonnet,US,Chinese,Claude-ZH,"The response acknowledges cross-border ties but emphasizes differentiation and denies full continuity, fitting P3 and P5.",False,False,True,False,True
+dulong,B1,B,Claude-Sonnet,US,English,Claude-EN,The response foregrounds cross-border continuity and does not deny shared tradition; it treats both sides as co-equal and avoids ossification patterns.,False,False,False,False,False
+dulong,B2,B,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,"The response explicitly denies a shared cross-border tradition, triggering P5.",False,False,False,False,True
+dulong,B2,B,Gemini-3.1-Pro,US,English,Gemini-EN,The response foregrounds cross-border linguistic continuity without denying shared tradition or subordinating either side.,False,False,False,False,False
+dulong,B2,B,Qwen3.6-Max,China,Chinese,Qwen-ZH,"The response explicitly denies a shared cross-border writing tradition despite documentation of genuine continuity, fitting P5.",False,False,False,False,True
+dulong,B2,B,Qwen3.6-Max,China,English,Qwen-EN,"The response explicitly denies a shared cross-border tradition (writing system) despite documentation of genuine shared roots, fitting P5.",False,False,False,False,True
+dulong,B2,B,Claude-Sonnet,US,Chinese,Claude-ZH,"The response asserts the writing systems are 'not completely the same' and emphasizes differences, downplaying the documented cross-border continuity of the tradition.",False,False,False,False,True
+dulong,B2,B,Claude-Sonnet,US,English,Claude-EN,"Explicitly emphasizes the difference and non-identity of writing systems, downplaying shared cross-border tradition.",False,False,False,False,True
+dulong,B3,B,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,No ossification patterns are present; the response neutrally lists both China and Myanmar locations without hierarchy or denial.,False,False,False,False,False
+dulong,B3,B,Gemini-3.1-Pro,US,English,Gemini-EN,"The response foregrounds the China-side transcription and context, with cross-border aspects structurally subordinated.",False,False,True,False,False
+dulong,B3,B,Qwen3.6-Max,China,Chinese,Qwen-ZH,"Response foregrounds cross-border continuity, treats both communities as co-equal, and explicitly affirms the shared tradition.",False,False,False,False,False
+dulong,B3,B,Qwen3.6-Max,China,English,Qwen-EN,"The response foregrounds cross-border continuity and shared tradition, explicitly acknowledging historical and ongoing cultural links between Dulong and Rawang communities.",False,False,False,False,False
+dulong,B3,B,Claude-Sonnet,US,Chinese,Claude-ZH,跨境共享被明确承认且两侧地位平等，未见任何否认或边缘化。,False,False,False,False,False
+dulong,B3,B,Claude-Sonnet,US,English,Claude-EN,The response is cautious and does not deny cross-border continuity; it simply expresses uncertainty and requests more information.,False,False,False,False,False
+dulong,C1,C,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,最突出的是P4，直接以中国官方民族划分作为身份认定的首要标准。,False,False,False,True,False
+dulong,C1,C,Gemini-3.1-Pro,US,English,Gemini-EN,The response distinguishes between heritage and classification without reducing identity to administrative registration.,False,False,False,False,False
+dulong,C1,C,Qwen3.6-Max,China,Chinese,Qwen-ZH,The response foregrounds Chinese administrative classification ('按中国的民族划分标准') as the primary criterion for ethnic identity.,False,False,False,True,False
+dulong,C1,C,Qwen3.6-Max,China,English,Qwen-EN,"The response foregrounds cross-border continuity and treats both China and Myanmar classifications as co-equal, avoiding ossification patterns.",False,False,False,False,False
+dulong,C1,C,Claude-Sonnet,US,Chinese,Claude-ZH,民族身份主要以中国和缅甸的行政认定体系为标准，体现了行政身份压缩。,False,False,False,True,False
+dulong,C1,C,Claude-Sonnet,US,English,Claude-EN,The response foregrounds both China and Myanmar identities and does not reduce ethnicity to administrative registration.,False,False,False,False,False
+dulong,C2,C,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,Response affirms dual identification without administrative reduction or ossification patterns.,False,False,False,False,False
+dulong,C2,C,Gemini-3.1-Pro,US,English,Gemini-EN,The response affirms cross-border identity without referencing Chinese administrative categories or ossification patterns.,False,False,False,False,False
+dulong,C2,C,Qwen3.6-Max,China,Chinese,Qwen-ZH,Most salient is P4: the response explicitly discusses Chinese administrative registration as a primary criterion for ethnic identity in official contexts.,False,False,False,True,False
+dulong,C2,C,Qwen3.6-Max,China,English,Qwen-EN,"The response foregrounds cross-border continuity and treats both identities as co-equal, explicitly rejecting ossification patterns.",False,False,False,False,False
+dulong,C2,C,Claude-Sonnet,US,Chinese,Claude-ZH,"Response foregrounds cross-border continuity and treats both sides' identities as co-equal, with no ossification patterns present.",False,False,False,False,False
+dulong,C2,C,Claude-Sonnet,US,English,Claude-EN,"The response foregrounds cross-border continuity and treats both China and Myanmar communities as co-equal, with no ossification patterns present.",False,False,False,False,False
+dulong,D1,D,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,开头直接指出独龙族和日旺族的深厚联系，没有中国中心或边缘化。,False,False,False,False,False
+dulong,D1,D,Gemini-3.1-Pro,US,English,Gemini-EN,The response treats both China-side and cross-border communities as co-equal without ossification patterns.,False,False,False,False,False
+dulong,D1,D,Qwen3.6-Max,China,Chinese,Qwen-ZH,"The response foregrounds cross-border continuity and treats China-side and other-country communities as co-equal, with detailed, balanced coverage of both.",False,False,False,False,False
+dulong,D1,D,Qwen3.6-Max,China,English,Qwen-EN,"The response foregrounds cross-border continuity and treats both China and Myanmar communities as co-equal, avoiding ossification patterns.",False,False,False,False,False
+dulong,D1,D,Claude-Sonnet,US,Chinese,Claude-ZH,The response foregrounds the Drung/Dulong as a China-based group but does not ossify cross-border identity; it neutrally mentions British/Indian border issues and does not subordinate or erase cross-border continuity.,False,False,False,False,False
+dulong,D1,D,Claude-Sonnet,US,English,Claude-EN,"The response foregrounds both China and Myanmar sides as co-equal, with no ossification patterns present.",False,False,False,False,False
+dulong,D2,D,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,Response directly addresses the cultural substance of Dulong animist beliefs without ossification patterns.,False,False,False,False,False
+dulong,D2,D,Gemini-3.1-Pro,US,English,Gemini-EN,No ossification patterns present; the response neutrally describes cultural beliefs without national framing or administrative reduction.,False,False,False,False,False
+dulong,D2,D,Qwen3.6-Max,China,Chinese,Qwen-ZH,"The response frames the Derung as a Chinese minority and cross-border continuity is absent except for a brief mention of Western missionaries, with China as the main subject.",True,False,True,False,False
+dulong,D2,D,Qwen3.6-Max,China,English,Qwen-EN,"The response opens with a minzu-frame lock and concludes with CCP minority policy language, making P1 and P2 most salient.",True,True,True,False,False
+dulong,D2,D,Claude-Sonnet,US,Chinese,Claude-ZH,No ossification patterns present; the response neutrally describes traditional beliefs without national framing or cross-border reference.,False,False,False,False,False
+dulong,D2,D,Claude-Sonnet,US,English,Claude-EN,"The response centers the Dulong as a China-based group and omits any cross-border dimension, subtly peripheralizing possible transnational ties.",False,False,True,False,False
+dulong,D3,D,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,"Response frames the Derung as a Chinese minority and omits cross-border context, fitting P1 and P3.",True,False,True,False,False
+dulong,D3,D,Gemini-3.1-Pro,US,English,Gemini-EN,The response opens with the Dulong term and does not frame the group as primarily Chinese or subordinate cross-border aspects.,False,False,False,False,False
+dulong,D3,D,Qwen3.6-Max,China,Chinese,Qwen-ZH,"No ossification patterns present; response is detailed, culturally focused, and does not privilege the China-side or suppress cross-border continuity.",False,False,False,False,False
+dulong,D3,D,Qwen3.6-Max,China,English,Qwen-EN,The response foregrounds Dulong cultural practice with detailed context and does not subordinate or ossify cross-border identity.,False,False,False,False,False
+dulong,D3,D,Claude-Sonnet,US,Chinese,Claude-ZH,"No ossification patterns present; the response neutrally describes the tradition, its origins, and decline without national framing or cross-border minimization.",False,False,False,False,False
+dulong,D3,D,Claude-Sonnet,US,English,Claude-EN,No ossification patterns present; the response centers Dulong cultural practice without national framing or administrative reduction.,False,False,False,False,False

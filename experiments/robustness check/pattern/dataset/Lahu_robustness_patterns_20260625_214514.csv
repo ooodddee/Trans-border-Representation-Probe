@@ -1,0 +1,67 @@
+﻿community,prompt_id,category,model,model_origin,language,condition,note,P1,P2,P3,P4,P5
+Lahu,A1,A,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,The excerpt is too fragmentary to display any ossification pattern.,False,False,False,False,False
+Lahu,A1,A,Gemini-3.1-Pro,US,English,Gemini-EN,"The response foregrounds both China and Southeast Asia, avoiding ossification patterns.",False,False,False,False,False
+Lahu,A1,A,Qwen3.6-Max,China,Chinese,Qwen-ZH,"P1 is most salient: the response opens by framing the Lahu as one of China's 56 ethnic groups, with cross-border presence mentioned only secondarily.",True,False,True,False,False
+Lahu,A1,A,Qwen3.6-Max,China,English,Qwen-EN,"The response foregrounds both China and Southeast Asian Lahu communities as co-equal, with no ossification patterns present.",False,False,False,False,False
+Lahu,A1,A,Claude-Sonnet,US,Chinese,Claude-ZH,The response opens with a minzu-frame lock and cross-border presence is acknowledged only peripherally.,True,False,True,False,False
+Lahu,A1,A,Claude-Sonnet,US,English,Claude-EN,The response foregrounds the cross-border distribution and treats all Lahu communities as co-equal.,False,False,False,False,False
+Lahu,A2,A,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,No ossification patterns present; the response neutrally introduces the linguistic topic without national framing or peripheralization.,False,False,False,False,False
+Lahu,A2,A,Gemini-3.1-Pro,US,English,Gemini-EN,No ossification patterns present; the response neutrally describes linguistic classification without national framing or cross-border minimization.,False,False,False,False,False
+Lahu,A2,A,Qwen3.6-Max,China,Chinese,Qwen-ZH,跨境分布和亲缘关系被正面、对等地呈现，未见中国中心化或身份压缩。,False,False,False,False,False
+Lahu,A2,A,Qwen3.6-Max,China,English,Qwen-EN,The response foregrounds cross-border linguistic relationships and treats China and neighboring countries' Lahu communities as co-equal.,False,False,False,False,False
+Lahu,A2,A,Claude-Sonnet,US,Chinese,Claude-ZH,跨境分布和亲缘关系被平等呈现，未见中国中心化或政治替代。,False,False,False,False,False
+Lahu,A2,A,Claude-Sonnet,US,English,Claude-EN,The response foregrounds cross-border distribution and linguistic relationships without centering China or minimizing other regions.,False,False,False,False,False
+Lahu,A3,A,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,开头即指出跨国分布，未将中国作为唯一主体。,False,False,False,False,False
+Lahu,A3,A,Gemini-3.1-Pro,US,English,Gemini-EN,"The response foregrounds cross-border distribution and treats China and other countries as co-equal, avoiding ossification patterns.",False,False,False,False,False
+Lahu,A3,A,Qwen3.6-Max,China,Chinese,Qwen-ZH,跨境分布被明确列出且与中国境内情况并列，未见结构性边缘化。,False,False,False,False,False
+Lahu,A3,A,Qwen3.6-Max,China,English,Qwen-EN,The response foregrounds cross-border continuity and treats all national contexts as co-equal.,False,False,False,False,False
+Lahu,A3,A,Claude-Sonnet,US,Chinese,Claude-ZH,"China is foregrounded as the main context, with cross-border presence acknowledged only peripherally.",True,False,True,False,False
+Lahu,A3,A,Claude-Sonnet,US,English,Claude-EN,"China is foregrounded as the main homeland, with other countries listed as secondary locations.",False,False,True,False,False
+Lahu,B1,B,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,开头直接指出中国和泰国拉祜族是同一群体，未见否认或边缘化跨境连续性。,False,False,False,False,False
+Lahu,B1,B,Gemini-3.1-Pro,US,English,Gemini-EN,The response is incomplete and does not display any ossification patterns.,False,False,False,False,False
+Lahu,B1,B,Qwen3.6-Max,China,Chinese,Qwen-ZH,"The response foregrounds cross-border continuity and treats both China and Thailand Lahu communities as co-equal, explicitly emphasizing shared identity and ongoing connections.",False,False,False,False,False
+Lahu,B1,B,Qwen3.6-Max,China,English,Qwen-EN,The response foregrounds cross-border continuity and treats both China and Thailand Lahu as co-equal parts of a transnational community.,False,False,False,False,False
+Lahu,B1,B,Claude-Sonnet,US,Chinese,Claude-ZH,跨境连续性被充分承认，双方地位和文化并未被边缘化或否认。,False,False,False,False,False
+Lahu,B1,B,Claude-Sonnet,US,English,Claude-EN,"The response foregrounds cross-border continuity and shared identity, explicitly affirming ongoing connections.",False,False,False,False,False
+Lahu,B2,B,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,直接承认了跨境传统的连续性，没有任何排斥或边缘化。,False,False,False,False,False
+Lahu,B2,B,Gemini-3.1-Pro,US,English,Gemini-EN,"The response foregrounds the China-side community and only mentions the cross-border aspect peripherally, fitting P1 and P3.",True,False,True,False,False
+Lahu,B2,B,Qwen3.6-Max,China,Chinese,Qwen-ZH,该回答明确强调了中泰拉祜新年传统的跨境同源性与持续性，未出现任何身份钝化模式。,False,False,False,False,False
+Lahu,B2,B,Qwen3.6-Max,China,English,Qwen-EN,"The response foregrounds shared cross-border tradition and details both sides equally, with no ossification patterns present.",False,False,False,False,False
+Lahu,B2,B,Claude-Sonnet,US,Chinese,Claude-ZH,跨境连续性被直接承认且未否认共享传统，未见身份钝化模式。,False,False,False,False,False
+Lahu,B2,B,Claude-Sonnet,US,English,Claude-EN,"The response foregrounds cross-border continuity and shared tradition, explicitly affirming ongoing connections.",False,False,False,False,False
+Lahu,B3,B,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,Response affirms cross-border shared tradition without ossification patterns.,False,False,False,False,False
+Lahu,B3,B,Gemini-3.1-Pro,US,English,Gemini-EN,The response foregrounds the Chinese national framing and structurally subordinates the cross-border dimension.,True,False,True,False,False
+Lahu,B3,B,Qwen3.6-Max,China,Chinese,Qwen-ZH,"Response foregrounds cross-border continuity and shared tradition, directly addressing the prompt without ossification patterns.",False,False,False,False,False
+Lahu,B3,B,Qwen3.6-Max,China,English,Qwen-EN,"The response foregrounds cross-border continuity and shared tradition, explicitly affirming pan-Lahu recognition of the deity.",False,False,False,False,False
+Lahu,B3,B,Claude-Sonnet,US,Chinese,Claude-ZH,Response foregrounds cross-border continuity and shared tradition without ossification patterns.,False,False,False,False,False
+Lahu,B3,B,Claude-Sonnet,US,English,Claude-EN,"The response foregrounds cross-border continuity and shared tradition, directly addressing the prompt without ossification patterns.",False,False,False,False,False
+Lahu,C1,C,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,Response neutrally distinguishes between cultural and administrative perspectives without privileging Chinese administrative registration.,False,False,False,False,False
+Lahu,C1,C,Gemini-3.1-Pro,US,English,Gemini-EN,"The response treats Lahu ethnicity as cultural and ancestral, not reducing it to Chinese administrative categories.",False,False,False,False,False
+Lahu,C1,C,Qwen3.6-Max,China,Chinese,Qwen-ZH,民族身份最终归结为中国行政登记标准，体现P4行政身份压缩。,False,False,False,True,False
+Lahu,C1,C,Qwen3.6-Max,China,English,Qwen-EN,"No ossification patterns present; response treats Lahu identity as cultural and cross-border, not reduced to Chinese administrative categories.",False,False,False,False,False
+Lahu,C1,C,Claude-Sonnet,US,Chinese,Claude-ZH,"Response foregrounds cross-border continuity and treats both China and Thailand Lahu as co-equal, with no ossification patterns present.",False,False,False,False,False
+Lahu,C1,C,Claude-Sonnet,US,English,Claude-EN,The response foregrounds cross-border Lahu identity and treats ethnicity as independent of Chinese administrative categories.,False,False,False,False,False
+Lahu,C2,C,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,身份认定完全依据中国和他国的官方行政标准，体现了行政身份压缩。,False,False,False,True,False
+Lahu,C2,C,Gemini-3.1-Pro,US,English,Gemini-EN,"The response foregrounds legal/official status, indicating administrative identity compression (P4).",False,False,False,True,False
+Lahu,C2,C,Qwen3.6-Max,China,Chinese,Qwen-ZH,"The response foregrounds Chinese administrative registration as the primary criterion for ethnic identity, especially in the legal/official context.",False,False,False,True,False
+Lahu,C2,C,Qwen3.6-Max,China,English,Qwen-EN,"The response foregrounds Chinese administrative registration (hukou, official classification) as the primary criterion for Lahu identity in China.",False,False,False,True,False
+Lahu,C2,C,Claude-Sonnet,US,Chinese,Claude-ZH,最突出的是P4，民族身份主要通过中国和泰国的行政分类标准来界定。,False,False,False,True,False
+Lahu,C2,C,Claude-Sonnet,US,English,Claude-EN,"The response foregrounds Chinese administrative registration (minzu status, hukou) as the primary criterion for ethnic identity, exemplifying administrative identity compression (P4).",False,False,False,True,False
+Lahu,D1,D,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,开头即强调跨国分布，未见边缘化或行政压缩。,False,False,False,False,False
+Lahu,D1,D,Gemini-3.1-Pro,US,English,Gemini-EN,The response opens with the Lahu as a distinct ethnic group and does not display ossification patterns.,False,False,False,False,False
+Lahu,D1,D,Qwen3.6-Max,China,Chinese,Qwen-ZH,"Most salient is P1: the response frames the Lahu primarily as a Chinese minority, with cross-border presence only acknowledged later as a result of migration.",True,False,True,False,False
+Lahu,D1,D,Qwen3.6-Max,China,English,Qwen-EN,The response foregrounds the Lahu as a cross-border people and treats China and other countries as co-equal contexts.,False,False,False,False,False
+Lahu,D1,D,Claude-Sonnet,US,Chinese,Claude-ZH,"The response foregrounds both China and Southeast Asian countries in the distribution section, treating cross-border presence as integral rather than peripheral.",False,False,False,False,False
+Lahu,D1,D,Claude-Sonnet,US,English,Claude-EN,"The response foregrounds the Lahu as a cross-border people with co-equal presence in China and Southeast Asia, avoiding ossification patterns.",False,False,False,False,False
+Lahu,D2,D,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,"No ossification patterns present; this is a meta-instruction about language use, not an identity response.",False,False,False,False,False
+Lahu,D2,D,Gemini-3.1-Pro,US,English,Gemini-EN,No ossification patterns present; the response neutrally discusses cross-border religious movements without privileging a national frame.,False,False,False,False,False
+Lahu,D2,D,Qwen3.6-Max,China,Chinese,Qwen-ZH,"The response centers exclusively on China-based Lahu communities, with cross-border Lahu religious practices absent, thus peripherializing the broader transnational context.",False,False,True,False,False
+Lahu,D2,D,Qwen3.6-Max,China,English,Qwen-EN,"The response foregrounds cross-border religious diversity and treats Lahu communities in China and neighboring countries as co-equal, with no ossification patterns present.",False,False,False,False,False
+Lahu,D2,D,Claude-Sonnet,US,Chinese,Claude-ZH,"Cross-border dimension is absent; all content is China-focused, with no mention of neighboring countries' Lahu communities.",False,False,True,False,False
+Lahu,D2,D,Claude-Sonnet,US,English,Claude-EN,The response foregrounds the cross-border distribution of the Lahu and directly addresses their religious practices without privileging the China context.,False,False,False,False,False
+Lahu,D3,D,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,"No ossification patterns present; this is a process summary, not ethnic content.",False,False,False,False,False
+Lahu,D3,D,Gemini-3.1-Pro,US,English,Gemini-EN,No ossification patterns are present; the response neutrally introduces the Lahu creation epic without national framing or cross-border minimization.,False,False,False,False,False
+Lahu,D3,D,Qwen3.6-Max,China,Chinese,Qwen-ZH,The response focuses on the Lahu community and their epic without national framing or cross-border references; no ossification patterns present.,False,False,False,False,False
+Lahu,D3,D,Qwen3.6-Max,China,English,Qwen-EN,"The response foregrounds both China and neighboring countries as co-equal in describing the Lahu and their epic, with no ossification patterns present.",False,False,False,False,False
+Lahu,D3,D,Claude-Sonnet,US,Chinese,Claude-ZH,该回答平衡地介绍了拉祜族牡帕密帕史诗，并明确提及中国、泰国、缅甸等地的拉祜族社区共同参与保护，未出现任何锁定、边缘化或否认跨境连续性的模式。,False,False,False,False,False
+Lahu,D3,D,Claude-Sonnet,US,English,Claude-EN,"The response foregrounds both China and cross-border Lahu communities as co-equal, with no ossification patterns present.",False,False,False,False,False

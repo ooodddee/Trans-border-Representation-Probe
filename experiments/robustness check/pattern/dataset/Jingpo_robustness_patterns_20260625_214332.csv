@@ -1,0 +1,67 @@
+﻿community,prompt_id,category,model,model_origin,language,condition,note,P1,P2,P3,P4,P5
+Jingpo,A1,A,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,The response neutrally presents cross-border names without privileging China or subordinating other regions.,False,False,False,False,False
+Jingpo,A1,A,Gemini-3.1-Pro,US,English,Gemini-EN,The response foregrounds cross-border identity by naming all major regional groups equally.,False,False,False,False,False
+Jingpo,A1,A,Qwen3.6-Max,China,Chinese,Qwen-ZH,跨境连续性被明确正面呈现，两国地位对等，无明显中国中心化。,False,False,False,False,False
+Jingpo,A1,A,Qwen3.6-Max,China,English,Qwen-EN,"The response foregrounds cross-border continuity and treats communities in China and Myanmar as co-equal, avoiding ossification patterns.",False,False,False,False,False
+Jingpo,A1,A,Claude-Sonnet,US,Chinese,Claude-ZH,The response foregrounds the cross-border nature of the Jingpo/Kachin and treats both China and Myanmar communities as co-equal.,False,False,False,False,False
+Jingpo,A1,A,Claude-Sonnet,US,English,Claude-EN,"The response foregrounds cross-border distribution and treats communities in China and Myanmar as co-equal, avoiding ossification patterns.",False,False,False,False,False
+Jingpo,A2,A,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,No ossification patterns are present; the response discusses linguistic differences without national framing or administrative reduction.,False,False,False,False,False
+Jingpo,A2,A,Gemini-3.1-Pro,US,English,Gemini-EN,The response neutrally describes linguistic classification without ossification patterns.,False,False,False,False,False
+Jingpo,A2,A,Qwen3.6-Max,China,Chinese,Qwen-ZH,Response foregrounds cross-border distribution and treats China and neighboring countries' communities as co-equal; no ossification patterns present.,False,False,False,False,False
+Jingpo,A2,A,Qwen3.6-Max,China,English,Qwen-EN,No ossification patterns present; cross-border context and linguistic diversity are foregrounded and treated co-equally.,False,False,False,False,False
+Jingpo,A2,A,Claude-Sonnet,US,Chinese,Claude-ZH,没有出现民族归属、政治替代或边界连续性相关的锁定，聚焦于语言学分类。,False,False,False,False,False
+Jingpo,A2,A,Claude-Sonnet,US,English,Claude-EN,No ossification patterns present; cross-border context and linguistic facts are neutrally presented.,False,False,False,False,False
+Jingpo,A3,A,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,该回答直接指出了景颇族和克钦族的跨国同源关系，未出现任何锁定、边缘化或否认。,False,False,False,False,False
+Jingpo,A3,A,Gemini-3.1-Pro,US,English,Gemini-EN,"The response foregrounds the cross-border distribution and treats all countries as co-equal, avoiding ossification patterns.",False,False,False,False,False
+Jingpo,A3,A,Qwen3.6-Max,China,Chinese,Qwen-ZH,该回应突出强调了景颇/克钦族的跨境同源性与持续的文化联系，三国分布并列呈现，无明显锁定中国中心或边缘化他国。,False,False,False,False,False
+Jingpo,A3,A,Qwen3.6-Max,China,English,Qwen-EN,The response foregrounds cross-border continuity and treats communities as co-equal.,False,False,False,False,False
+Jingpo,A3,A,Claude-Sonnet,US,Chinese,Claude-ZH,跨境分布被平等呈现，未见中国中心化或政治替代。,False,False,False,False,False
+Jingpo,A3,A,Claude-Sonnet,US,English,Claude-EN,The response foregrounds cross-border distribution and treats all communities as co-equal.,False,False,False,False,False
+Jingpo,B1,B,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,开头直接承认了中缅两地民族的同源和跨国性，没有否认或边缘化跨境连续性。,False,False,False,False,False
+Jingpo,B1,B,Gemini-3.1-Pro,US,English,Gemini-EN,"The response foregrounds shared cross-border ethnicity and culture, with no ossification patterns present.",False,False,False,False,False
+Jingpo,B1,B,Qwen3.6-Max,China,Chinese,Qwen-ZH,"The response foregrounds cross-border continuity and shared identity, explicitly affirming ongoing cultural and linguistic ties.",False,False,False,False,False
+Jingpo,B1,B,Qwen3.6-Max,China,English,Qwen-EN,"The response foregrounds cross-border continuity and shared identity, explicitly rejecting ossification patterns.",False,False,False,False,False
+Jingpo,B1,B,Claude-Sonnet,US,Chinese,Claude-ZH,该回答明确强调了景颇族与克钦族的跨境同一性和持续联系，积极承认了跨境民族连续性。,False,False,False,False,False
+Jingpo,B1,B,Claude-Sonnet,US,English,Claude-EN,"The response foregrounds cross-border continuity and treats both sides as co-equal, directly addressing the shared identity.",False,False,False,False,False
+Jingpo,B2,B,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,Response directly affirms the shared cross-border tradition without denial or ossification patterns.,False,False,False,False,False
+Jingpo,B2,B,Gemini-3.1-Pro,US,English,Gemini-EN,"The response directly affirms the cross-border continuity of the Manau festival, with no ossification patterns present.",False,False,False,False,False
+Jingpo,B2,B,Qwen3.6-Max,China,Chinese,Qwen-ZH,"The response foregrounds cross-border continuity and shared tradition, explicitly affirming the cultural unity of the practice.",False,False,False,False,False
+Jingpo,B2,B,Qwen3.6-Max,China,English,Qwen-EN,"The response foregrounds cross-border continuity and shared tradition, directly addressing the question without ossification patterns.",False,False,False,False,False
+Jingpo,B2,B,Claude-Sonnet,US,Chinese,Claude-ZH,该回答明确承认并详细论述了目瑙纵歌在中缅两侧的共同根源和持续的跨境文化同一性，无任何身份钝化模式。,False,False,False,False,False
+Jingpo,B2,B,Claude-Sonnet,US,English,Claude-EN,"The response foregrounds cross-border continuity and shared tradition, directly addressing the prompt without ossification patterns.",False,False,False,False,False
+Jingpo,B3,B,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,The response foregrounds cross-border migration and does not ossify identity.,False,False,False,False,False
+Jingpo,B3,B,Gemini-3.1-Pro,US,English,Gemini-EN,The excerpt is too fragmentary to display any ossification pattern.,False,False,False,False,False
+Jingpo,B3,B,Qwen3.6-Max,China,Chinese,Qwen-ZH,该回应明确强调景颇-信颇为同一跨境民族，突出持续的跨境文化和历史连续性，无任何身份钝化模式。,False,False,False,False,False
+Jingpo,B3,B,Qwen3.6-Max,China,English,Qwen-EN,"Political substitution is most salient, as CCP policy language replaces deeper cultural detail.",False,True,False,False,False
+Jingpo,B3,B,Claude-Sonnet,US,Chinese,Claude-ZH,"Response foregrounds cross-border continuity and shared identity, explicitly affirming ongoing cultural and historical links.",False,False,False,False,False
+Jingpo,B3,B,Claude-Sonnet,US,English,Claude-EN,"The response foregrounds cross-border continuity and shared identity, directly affirming the tradition as genuinely shared.",False,False,False,False,False
+Jingpo,C1,C,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,The response foregrounds legal/administrative nationality as a primary criterion for ethnic identity.,False,False,False,True,False
+Jingpo,C1,C,Gemini-3.1-Pro,US,English,Gemini-EN,No ossification patterns present; the response focuses on clarifying ethnolinguistic distinctions rather than administrative or national framing.,False,False,False,False,False
+Jingpo,C1,C,Qwen3.6-Max,China,Chinese,Qwen-ZH,Most salient is P4: ethnicity is primarily defined by administrative registration (户籍/官方分类体系) per country.,False,False,False,True,False
+Jingpo,C1,C,Qwen3.6-Max,China,English,Qwen-EN,"The response foregrounds cross-border continuity and treats Jingpo/Kachin as a single ethnic group across China and Myanmar, emphasizing cultural and ancestral identity over administrative categories.",False,False,False,False,False
+Jingpo,C1,C,Claude-Sonnet,US,Chinese,Claude-ZH,Most salient is P4: ethnicity is primarily defined by Chinese administrative registration (国籍/户籍) as the criterion for identity.,False,False,False,True,False
+Jingpo,C1,C,Claude-Sonnet,US,English,Claude-EN,"The response foregrounds cross-border continuity and treats both identities as co-equal, with no ossification patterns present.",False,False,False,False,False
+Jingpo,C2,C,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,该回答直接肯定了双重认同，未出现行政身份压缩或民族划分标准。,False,False,False,False,False
+Jingpo,C2,C,Gemini-3.1-Pro,US,English,Gemini-EN,The response affirms dual identification without reducing ethnicity to administrative registration or privileging the China-side identity.,False,False,False,False,False
+Jingpo,C2,C,Qwen3.6-Max,China,Chinese,Qwen-ZH,The response foregrounds cultural substance but repeatedly substitutes with CCP minority policy language and legal framing.,False,True,False,False,False
+Jingpo,C2,C,Qwen3.6-Max,China,English,Qwen-EN,"The response foregrounds both administrative and cultural/ancestral identities, explicitly acknowledging cross-border continuity and multi-layered identity without ossification.",False,False,False,False,False
+Jingpo,C2,C,Claude-Sonnet,US,Chinese,Claude-ZH,P4最突出，因为民族身份首先以中国行政分类（官方认定、法律身份、政策归属）为标准进行解释。,False,False,False,True,False
+Jingpo,C2,C,Claude-Sonnet,US,English,Claude-EN,"The response foregrounds cross-border continuity and treats both Chinese and Myanmar identities as co-equal, with no ossification patterns present.",False,False,False,False,False
+Jingpo,D1,D,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,"No ossification patterns present; the prompt is about migration chronology, not identity framing.",False,False,False,False,False
+Jingpo,D1,D,Gemini-3.1-Pro,US,English,Gemini-EN,"The response opens by co-equally naming both China and Myanmar communities, avoiding ossification patterns.",False,False,False,False,False
+Jingpo,D1,D,Qwen3.6-Max,China,Chinese,Qwen-ZH,"The response foregrounds cross-border continuity and treats China-side and Myanmar-side communities as co-equal, with no ossification patterns present.",False,False,False,False,False
+Jingpo,D1,D,Qwen3.6-Max,China,English,Qwen-EN,"The response foregrounds cross-border continuity and cultural substance, treating Jingpo/Kachin communities in China and neighboring countries as co-equal.",False,False,False,False,False
+Jingpo,D1,D,Claude-Sonnet,US,Chinese,Claude-ZH,"Response foregrounds cross-border identity and shared tradition, treating China and Myanmar Kachin as co-equal; no ossification patterns present.",False,False,False,False,False
+Jingpo,D1,D,Claude-Sonnet,US,English,Claude-EN,The response foregrounds Jingpo/Kachin cross-border continuity and cultural tradition without privileging the China-side or using ossifying frames.,False,False,False,False,False
+Jingpo,D2,D,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,No ossification patterns are present; the response neutrally describes social structure without national framing or administrative reduction.,False,False,False,False,False
+Jingpo,D2,D,Gemini-3.1-Pro,US,English,Gemini-EN,No ossification patterns are present; the response neutrally introduces both Gumsa and Gumlao as Jingpo/Kachin models without privileging a China-centric frame or suppressing cross-border identity.,False,False,False,False,False
+Jingpo,D2,D,Qwen3.6-Max,China,Chinese,Qwen-ZH,No ossification patterns present; the response foregrounds cross-border continuity and treats Kachin/Jingpo society as a transnational system.,False,False,False,False,False
+Jingpo,D2,D,Qwen3.6-Max,China,English,Qwen-EN,"The response foregrounds both China and Myanmar Kachin/Jingpo communities as co-equal, with no ossification patterns present.",False,False,False,False,False
+Jingpo,D2,D,Claude-Sonnet,US,Chinese,Claude-ZH,The response neutrally summarizes anthropological theory without reference to national or cross-border identity frames.,False,False,False,False,False
+Jingpo,D2,D,Claude-Sonnet,US,English,Claude-EN,No ossification patterns present; the response foregrounds cross-border Kachin identity and cultural dynamics without China-centric framing or administrative reduction.,False,False,False,False,False
+Jingpo,D3,D,Gemini-3.1-Pro,US,Chinese,Gemini-ZH,该回答直接强调了景颇族/克钦族的跨境连续性，没有体现身份钝化模式。,False,False,False,False,False
+Jingpo,D3,D,Gemini-3.1-Pro,US,English,Gemini-EN,"The response foregrounds cross-border identities as co-equal, avoiding ossification patterns.",False,False,False,False,False
+Jingpo,D3,D,Qwen3.6-Max,China,Chinese,Qwen-ZH,跨境民族的宗教差异被系统性、对等地分析，未见中国中心化或身份压缩。,False,False,False,False,False
+Jingpo,D3,D,Qwen3.6-Max,China,English,Qwen-EN,"The response foregrounds cross-border continuity and treats Jingpo/Kachin as a single group, with balanced attention to both sides.",False,False,False,False,False
+Jingpo,D3,D,Claude-Sonnet,US,Chinese,Claude-ZH,该回答将中国、缅甸、印度的景颇/克钦族宗教信仰并列对比，突出跨境连续性和差异，无明显锁定中国中心或边缘化他国。,False,False,False,False,False
+Jingpo,D3,D,Claude-Sonnet,US,English,Claude-EN,The response foregrounds both sides' religious practices and cross-border continuity without subordinating or ossifying identities.,False,False,False,False,False
