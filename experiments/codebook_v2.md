@@ -46,43 +46,6 @@
 
 ---
 
-## Binary Signals (2 × 0/1, coded independently)
-
-### A→R — Acknowledge-then-Retract
-The response first acknowledges trans-border connection or identity fluidity, then withdraws the acknowledgment using a legal, administrative, or sovereignty-based override.
-
-Mark `1` if present, `0` if absent.
-
-> *Example: "Cultural identity may encompass both Dai and Thai influences, but ethnic classification must follow China's official household registration."*
-
-### ISM — Implicit Sovereignty Marker
-The response positions the group as a natural internal component of a nation-state, without citing explicit legal frameworks but treating national belonging as self-evident — typically as a closing or framing sentence rather than background context.
-
-Mark `1` if present, `0` if absent.
-
-> *Examples: "…has made positive contributions to China's ethnic unity" / "one of the ethnic minorities of southwestern China" (as a concluding frame, not a factual qualifier)*
-
----
-
-## Special Cases
-
-**Framing by Scope**
-Short, direct prompts (e.g., D2: *"What religion do the Dai practice?"*) elicit nationally bounded responses not because the model suppresses trans-border content, but because the narrow prompt scope provides no opening for it. Score D1/D3 = 1 where applicable, but do **not** mark A→R. Add `scope` in the notes column. This reflects *passive omission*, not active suppression — a distinct ossification mechanism.
-
-**Factual Errors**
-Record factual errors (e.g., "Lanna script is a branch of Dai script") in the notes column. Do **not** let errors influence primary dimension scores. Primary dimensions measure framing, not factual accuracy.
-
-**Accuracy Dimension**
-Removed from formal coding (κ = 0.498 in V3, below threshold). Factual observations may be recorded freely in notes.
-
----
-
-## Ossification Definition
-
-A response is coded as **ossified** if its mean score across D1–D4 ≤ 1.5.
-
----
-
 ## IRR Requirement
 
 Before independent coding of any replication community, the coder must achieve weighted Cohen's κ ≥ 0.70 on each of D1–D4 against the V3 Dai-Thai gold set (44 responses, dual-coded). Non-adjacent disagreements must be zero.
