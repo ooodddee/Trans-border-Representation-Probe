@@ -1,3 +1,14 @@
+## License
+
+The analysis code in this repository is licensed under the MIT License.
+
+The original Knowledge Cards, prompts, and documentation are made
+available under the Creative Commons Attribution 4.0 International
+(CC BY 4.0) license.
+
+Third-party software, model services, and model-generated outputs remain
+subject to their respective licenses and terms of use.
+
 # Trans-border Representation Probe: Auditing LLMs for Zomia Communities
 
 An extension of the CommunityLM framework to audit algorithmic nationalism and cultural representation in trans-border regions.
